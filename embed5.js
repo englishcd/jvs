@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   const currentLocation = window.location.search;
   const sURL = currentLocation.replace("?m=1&zy=", "");
-  const cHst = atob("Y29ycy1wcm94eS5jb29rcy5meWk=", "Y29ycy55YWFtcC5ydQ==");
   var flvPlayer = null;
   var tsPlayer = null;
   var hlsPlayer = null;
@@ -54,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   tsPlayer = mpegts.createPlayer({
     type: "mpegts",
-    url: "https://" + cHst + "/" + sURL,
+    url: sURL,
     isLive: true,
     enableStashBuffer: false
   });
@@ -102,7 +101,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     flvPlayer = mpegts.createPlayer({
       type: "flv",
-      url: "https://" + cHst + "/" + sURL,
+      url: sURL,
       isLive: true,
       enableStashBuffer: false
     });
