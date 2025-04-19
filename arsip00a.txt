@@ -15,46 +15,6 @@
 
 [w]19-04-2025[z]	^-
 
-07:00 LigaPro Serie A	^-
-Barcelona SC (ECU) vs CD El Nacional	`*https://www.fctv77.live/football/ligapro-serie-a-match-4118363/barcelona-scecu-vs-cd-el-nacional-04-2025.html
-
-07:00 Bolivian Primera Division	^-
-Real Tomayapo vs Universitario De Vinto	`*https://www.fctv77.live/football/bolivian-primera-division-match-4170490/real-tomayapo-vs-universitario-de-vinto-04-2025.html
-
-07:30 Argentine Division 1	^-
-Club Atlético Unión vs Newells Old Boys	`*https://www.fctv77.live/football/argentine-division-1-match-4107671/club-atltico-unin-vs-club-atltico-newells-old-boys-04-2025.html
-Atletico Tucuman vs Independiente	`*https://www.fctv77.live/football/argentine-division-1-match-4107682/atletico-tucuman-vs-ca-independiente-04-2025.html
-
-08:00 Mexico Liga MX	^-
-Puebla vs Necaxa	`*https://www.fctv77.live/football/mexico-liga-mx-match-4101275/puebla-vs-necaxa-04-2025.html
-
-08:00 Mexico Liga MX Femenil	^-
-Tijuana (w) vs Atlas (w)	`*https://www.fctv77.live/football/mexico-liga-mx-femenil-match-4103913/tijuana-w-vs-atlas-w-04-2025.html
-
-08:00 Peruvian Liga 1	^-
-Alianza Lima vs Los Chankas	`*https://www.fctv77.live/football/peruvian-liga-1-match-4140263/alianza-lima-vs-los-chankas-04-2025.html
-
-08:30 US Women's National Soccer League	^-
-Utah Royals (w) vs Chicago Red Stars (w)	`*https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131881/utah-royals-w-vs-chicago-red-stars-w-04-2025.html
-
-09:00 US Women's National Soccer League	^-
-Seattle Reign vs Portland Thorns (w)	`*https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131787/seattle-reign-w-vs-portland-thorns-fc-w-04-2025.html
-
-09:10 Mexico Liga MX Femenil	^-
-Monterrey (w) vs Leon (w)	`*https://www.fctv77.live/football/mexico-liga-mx-femenil-match-4103911/monterrey-w-vs-leon-women-04-2025.html
-
-09:30 US Women's National Soccer League	^-
-Angel City FC (w) vs Gotham FC (w)	`*https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131783/angel-city-fc-w-vs-gotham-fc-w-04-2025.html
-
-09:30 New Zealand Central Premier League	^-
-Miramar Rangers vs Wellington Phoenix R	`*https://www.fctv77.live/football/new-zealand-central-premier-league-match-4170015/miramar-rangers-vs-wellington-phoenix-reserve-04-2025.html
-
-10:00 New Zealand Central Premier League	^-
-Petone FC vs North Wellington AFC	`*https://www.fctv77.live/football/new-zealand-central-premier-league-match-4170016/petone-fc-vs-north-wellington-afc-04-2025.html
-
-10:45 New Zealand Central Premier League	^-
-Wellington Olympic vs Western Suburbs	`*https://www.fctv77.live/football/new-zealand-central-premier-league-match-4170017/wellington-olympic-vs-western-suburbs-04-2025.html
-
 11:00 Japanese Nadeshiko League 1	^-
 Yokohama Seagulls (w) vs Orca Kamogawa	`*https://www.fctv77.live/football/japanese-nadeshiko-league-1-match-4152800/yokohama-fc-seagulls-w-vs-orca-kamogawa-fc-04-2025.html
 
@@ -144,7 +104,7 @@ FC Anyang vs Suwon FC	`*https://www.fctv77.live/football/korean-k-league-1-match
 Gimcheon Sangmu FC vs Daejeon Citizen	`*https://www.fctv77.live/football/korean-k-league-1-match-4109569/gimcheon-sangmu-football-club-vs-daejeon-citizen-04-2025.html
 
 14:30 Korean K League 2	^-
-Suwon Samsung Bluewings vs Hwaseong FC	`*https://www.fctv77.live/football/korean-k-league-2-match-4137097/suwon-samsung-bluewings-vs-hwaseong-fc-04-2025.html
+Suwon Samsung Bluewings vs Hwaseong	`*https://www.fctv77.live/football/korean-k-league-2-match-4137097/suwon-samsung-bluewings-vs-hwaseong-fc-04-2025.html
 Seongnam FC vs Bucheon FC 1995	`*https://www.fctv77.live/football/korean-k-league-2-match-4137116/seongnam-fc-vs-bucheon-fc-1995-04-2025.html
 
 14:30 Chinese FA Cup	^-
@@ -216,8 +176,8 @@ Penafiel vs Feirense	`*https://www.fctv77.live/football/liga-portugal-2-match-40
 17:00 Ukrainian Youth Team Championship	^-
 Veres Rivne vs Chernomorets Odessa U21	`*https://www.fctv77.live/football/ukrainian-youth-team-championship-match-4009559/veres-rivne-u21-vs-chernomorets-odessa-u21-04-2025.html
 
-17:00 Spanish Primera División de la Liga de Fútbol Femenino	^-
-Granada CF(w) vs Valencia FCF (w)	`*https://www.fctv77.live/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4073415/granada-cfw-vs-valencia-fcf-w-04-2025.html
+17:00 Spanish Primera Div la Liga Femenino	^-
+Granada CF (w) vs Valencia FCF (w)	`*https://www.fctv77.live/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4073415/granada-cfw-vs-valencia-fcf-w-04-2025.html
 
 17:00 Korean K League 1	^-
 FC Seoul vs Gwangju	`*https://www.fctv77.live/football/korean-k-league-1-match-4114598/football-club-seoul-vs-gwangju-football-club-04-2025.html
@@ -476,6 +436,36 @@ Al-Jazira (UAE) vs Al Ahli (UAE)	`*https://www.fctv77.live/football/united-arab-
 
 23:45 Netherlands Eerste Divisie	^-
 FC Oss vs Dordrecht	`*https://www.fctv77.live/football/netherlands-eerste-divisie-match-3987308/fc-oss-vs-dordrecht-04-2025.html
+
+11:00 ` Japan: Japanese J3 League	^-
+Fukushima United FC vs Kochi United	`*https://www.fctv77.live/football/japanese-j3-league-match-4111583/fukushima-united-fc-vs-kochi-united-04-2025.html
+
+11:00 ` Japan: Japanese J2 League	^-
+Roasso Kumamoto vs Vegalta Sendai	`*https://www.fctv77.live/football/japanese-j2-league-match-4111635/roasso-kumamoto-vs-vegalta-sendai-04-2025.html
+
+12:00 ` Australia: Australia A-League	^-
+Sydney FC vs Newcastle Jets	`*https://www.fctv77.live/football/australia-a-league-match-4022481/sydney-fc-vs-newcastle-jets-04-2025.html
+
+12:00 ` Japan: Japanese J1 League	^-
+Yokohama FC vs Gamba Osaka	`*https://www.fctv77.live/football/japanese-j1-league-match-4105522/yokohama-fc-vs-gamba-osaka-04-2025.html
+Shimizu S-Pulse vs Avispa Fukuoka	`*https://www.fctv77.live/football/japanese-j1-league-match-4105524/shimizu-s-pulse-vs-avispa-fukuoka-04-2025.html
+Nagoya Grampus vs Hiroshima Sanfrecce	`*https://www.fctv77.live/football/japanese-j1-league-match-4105529/nagoya-grampus-vs-sanfrecce-hiroshima-04-2025.html
+Vissel Kobe vs Machida Zelvia	`*https://www.fctv77.live/football/japanese-j1-league-match-4105542/vissel-kobe-vs-machida-zelvia-04-2025.html
+Fagiano Okayama vs Kashima Antlers	`*https://www.fctv77.live/football/japanese-j1-league-match-4105566/fagiano-okayama-vs-kashima-antlers-04-2025.html
+
+12:00 ` Japan: Japanese J3 League	^-
+FC Gifu vs Kamatamare Sanuki	`*https://www.fctv77.live/football/japanese-j3-league-match-4111579/fc-gifu-vs-kamatamare-sanuki-04-2025.html
+Matsumoto Yamaga FC vs Tochigi City	`*https://www.fctv77.live/football/japanese-j3-league-match-4111580/matsumoto-yamaga-fc-vs-tochigi-city-04-2025.html
+Gainare Tottori vs Kagoshima United	`*https://www.fctv77.live/football/japanese-j3-league-match-4111597/gainare-tottori-vs-kagoshima-united-04-2025.html
+
+12:00 ` Japan: Japanese J2 League	^-
+Imabari FC vs Omiya Ardija	`*https://www.fctv77.live/football/japanese-j2-league-match-4111631/imabari-fc-vs-rb-omiya-ardija-04-2025.html
+Blaublitz Akita vs Jubilo Iwata	`*https://www.fctv77.live/football/japanese-j2-league-match-4111634/blaublitz-akita-vs-jubilo-iwata-04-2025.html
+JEF Utd Ichihara Chiba vs Oita Trinita	`*https://www.fctv77.live/football/japanese-j2-league-match-4111649/jef-united-ichihara-chiba-vs-oita-trinita-04-2025.html
+Tokushima Vortis vs Mito Hollyhock	`*https://www.fctv77.live/football/japanese-j2-league-match-4111666/tokushima-vortis-vs-mito-hollyhock-04-2025.html
+
+12:00 ` South Korea: Korean K League 2	^-
+Ansan Greeners FC vs Busan I Park	`*https://www.fctv77.live/football/korean-k-league-2-match-4137092/ansan-greeners-fc-vs-busan-i-park-04-2025.html
 
 [w]20-04-2025[z]	^-
 
