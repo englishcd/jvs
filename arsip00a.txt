@@ -437,36 +437,6 @@ Al-Jazira (UAE) vs Al Ahli (UAE)	`*https://www.fctv77.live/football/united-arab-
 23:45 Netherlands Eerste Divisie	^-
 FC Oss vs Dordrecht	`*https://www.fctv77.live/football/netherlands-eerste-divisie-match-3987308/fc-oss-vs-dordrecht-04-2025.html
 
-11:00 ` Japan: Japanese J3 League	^-
-Fukushima United FC vs Kochi United	`*https://www.fctv77.live/football/japanese-j3-league-match-4111583/fukushima-united-fc-vs-kochi-united-04-2025.html
-
-11:00 ` Japan: Japanese J2 League	^-
-Roasso Kumamoto vs Vegalta Sendai	`*https://www.fctv77.live/football/japanese-j2-league-match-4111635/roasso-kumamoto-vs-vegalta-sendai-04-2025.html
-
-12:00 ` Australia: Australia A-League	^-
-Sydney FC vs Newcastle Jets	`*https://www.fctv77.live/football/australia-a-league-match-4022481/sydney-fc-vs-newcastle-jets-04-2025.html
-
-12:00 ` Japan: Japanese J1 League	^-
-Yokohama FC vs Gamba Osaka	`*https://www.fctv77.live/football/japanese-j1-league-match-4105522/yokohama-fc-vs-gamba-osaka-04-2025.html
-Shimizu S-Pulse vs Avispa Fukuoka	`*https://www.fctv77.live/football/japanese-j1-league-match-4105524/shimizu-s-pulse-vs-avispa-fukuoka-04-2025.html
-Nagoya Grampus vs Hiroshima Sanfrecce	`*https://www.fctv77.live/football/japanese-j1-league-match-4105529/nagoya-grampus-vs-sanfrecce-hiroshima-04-2025.html
-Vissel Kobe vs Machida Zelvia	`*https://www.fctv77.live/football/japanese-j1-league-match-4105542/vissel-kobe-vs-machida-zelvia-04-2025.html
-Fagiano Okayama vs Kashima Antlers	`*https://www.fctv77.live/football/japanese-j1-league-match-4105566/fagiano-okayama-vs-kashima-antlers-04-2025.html
-
-12:00 ` Japan: Japanese J3 League	^-
-FC Gifu vs Kamatamare Sanuki	`*https://www.fctv77.live/football/japanese-j3-league-match-4111579/fc-gifu-vs-kamatamare-sanuki-04-2025.html
-Matsumoto Yamaga FC vs Tochigi City	`*https://www.fctv77.live/football/japanese-j3-league-match-4111580/matsumoto-yamaga-fc-vs-tochigi-city-04-2025.html
-Gainare Tottori vs Kagoshima United	`*https://www.fctv77.live/football/japanese-j3-league-match-4111597/gainare-tottori-vs-kagoshima-united-04-2025.html
-
-12:00 ` Japan: Japanese J2 League	^-
-Imabari FC vs Omiya Ardija	`*https://www.fctv77.live/football/japanese-j2-league-match-4111631/imabari-fc-vs-rb-omiya-ardija-04-2025.html
-Blaublitz Akita vs Jubilo Iwata	`*https://www.fctv77.live/football/japanese-j2-league-match-4111634/blaublitz-akita-vs-jubilo-iwata-04-2025.html
-JEF Utd Ichihara Chiba vs Oita Trinita	`*https://www.fctv77.live/football/japanese-j2-league-match-4111649/jef-united-ichihara-chiba-vs-oita-trinita-04-2025.html
-Tokushima Vortis vs Mito Hollyhock	`*https://www.fctv77.live/football/japanese-j2-league-match-4111666/tokushima-vortis-vs-mito-hollyhock-04-2025.html
-
-12:00 ` South Korea: Korean K League 2	^-
-Ansan Greeners FC vs Busan I Park	`*https://www.fctv77.live/football/korean-k-league-2-match-4137092/ansan-greeners-fc-vs-busan-i-park-04-2025.html
-
 [w]20-04-2025[z]	^-
 
 00:00 French Ligue 1	^-
@@ -586,6 +556,36 @@ Las Vegas Lights vs FC Tulsa	`*https://www.fctv77.live/football/usl-championship
 
 09:30 USL League One	^-
 AV Alta vs Spokane Velocity	`*https://www.fctv77.live/football/usl-league-one-match-4150216/av-alta-vs-spokane-velocity-04-2025.html
+
+11:00 Japanese J3 League	^-
+Fukushima United FC vs Kochi United	`*https://www.fctv77.live/football/japanese-j3-league-match-4111583/fukushima-united-fc-vs-kochi-united-04-2025.html
+
+11:00 Japanese J2 League	^-
+Roasso Kumamoto vs Vegalta Sendai	`*https://www.fctv77.live/football/japanese-j2-league-match-4111635/roasso-kumamoto-vs-vegalta-sendai-04-2025.html
+
+12:00 Australia A-League	^-
+Sydney FC vs Newcastle Jets	`*https://www.fctv77.live/football/australia-a-league-match-4022481/sydney-fc-vs-newcastle-jets-04-2025.html
+
+12:00 Japanese J1 League	^-
+Yokohama FC vs Gamba Osaka	`*https://www.fctv77.live/football/japanese-j1-league-match-4105522/yokohama-fc-vs-gamba-osaka-04-2025.html
+Shimizu S-Pulse vs Avispa Fukuoka	`*https://www.fctv77.live/football/japanese-j1-league-match-4105524/shimizu-s-pulse-vs-avispa-fukuoka-04-2025.html
+Nagoya Grampus vs Hiroshima Sanfrecce	`*https://www.fctv77.live/football/japanese-j1-league-match-4105529/nagoya-grampus-vs-sanfrecce-hiroshima-04-2025.html
+Vissel Kobe vs Machida Zelvia	`*https://www.fctv77.live/football/japanese-j1-league-match-4105542/vissel-kobe-vs-machida-zelvia-04-2025.html
+Fagiano Okayama vs Kashima Antlers	`*https://www.fctv77.live/football/japanese-j1-league-match-4105566/fagiano-okayama-vs-kashima-antlers-04-2025.html
+
+12:00 Japanese J3 League	^-
+FC Gifu vs Kamatamare Sanuki	`*https://www.fctv77.live/football/japanese-j3-league-match-4111579/fc-gifu-vs-kamatamare-sanuki-04-2025.html
+Matsumoto Yamaga FC vs Tochigi City	`*https://www.fctv77.live/football/japanese-j3-league-match-4111580/matsumoto-yamaga-fc-vs-tochigi-city-04-2025.html
+Gainare Tottori vs Kagoshima United	`*https://www.fctv77.live/football/japanese-j3-league-match-4111597/gainare-tottori-vs-kagoshima-united-04-2025.html
+
+12:00 Japanese J2 League	^-
+Imabari FC vs Omiya Ardija	`*https://www.fctv77.live/football/japanese-j2-league-match-4111631/imabari-fc-vs-rb-omiya-ardija-04-2025.html
+Blaublitz Akita vs Jubilo Iwata	`*https://www.fctv77.live/football/japanese-j2-league-match-4111634/blaublitz-akita-vs-jubilo-iwata-04-2025.html
+JEF Utd Ichihara Chiba vs Oita Trinita	`*https://www.fctv77.live/football/japanese-j2-league-match-4111649/jef-united-ichihara-chiba-vs-oita-trinita-04-2025.html
+Tokushima Vortis vs Mito Hollyhock	`*https://www.fctv77.live/football/japanese-j2-league-match-4111666/tokushima-vortis-vs-mito-hollyhock-04-2025.html
+
+12:00 Korean K League 2	^-
+Ansan Greeners FC vs Busan I Park	`*https://www.fctv77.live/football/korean-k-league-2-match-4137092/ansan-greeners-fc-vs-busan-i-park-04-2025.html
 
 []👆 [y]Need Human Verification?[z] 👉 ** Click Here!	[]^+https://www.fctv77.live/football/usl-league-one-match-4150216/av-alta-vs-spokane-velocity-04-2025.html
 []** Follow the redirected page until Verification!	^-
