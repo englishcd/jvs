@@ -15,48 +15,6 @@
 
 [w]20-04-2025[z]	^-
 
-20:00 🇫🇷 [y]French Ligue 1[z]	^-
-Lille vs AJ Auxerre	`*https://www.fctv77.live/football/french-ligue-1-match-3989211/losc-lille-vs-aj-auxerre-04-2025.html
-
-20:00 🇮🇹 [y]Italian Serie A[z]	^-
-Empoli vs Venezia	`*https://www.fctv77.live/football/italian-serie-a-match-3994226/empoli-vs-venezia-04-2025.html
-
-20:00 🇬🇧 [y]English Premier League[z]	^-
-Ipswich Town vs Arsenal	`*https://www.fctv77.live/football/english-premier-league-match-3995872/ipswich-town-vs-arsenal-04-2025.html
-Fulham vs Chelsea	`*https://www.fctv77.live/football/english-premier-league-match-3995882/fulham-vs-chelsea-04-2025.html
-Manchester United vs Wolves	`*https://www.fctv77.live/football/english-premier-league-match-3995906/manchester-united-vs-wolverhampton-wanderers-04-2025.html
-
-20:00 🇹🇷 Turkish Super League	^-
-Caykur Rizespor vs Eyupspor	`*https://www.fctv77.live/football/turkish-super-league-match-3996659/caykur-rizespor-vs-eyupspor-04-2025.html
-
-20:00 🇬🇧 English FA Women's Super League 2	^-
-Portsmouth (w) vs Bristol Academy (w)	`*https://www.fctv77.live/football/english-fa-womens-super-league-2-match-4033019/portsmouth-w-vs-bristol-cityw-04-2025.html
-Birmingham vs Durham Wildcats LFC (w)	`*https://www.fctv77.live/football/english-fa-womens-super-league-2-match-4033030/birmingham-w-vs-durham-wildcats-lfc-w-04-2025.html
-
-20:00 🇬🇧 English FA Women's Super League	^-
-Tottenham Hotspur (w) vs Aston Villa (w)	`*https://www.fctv77.live/football/english-fa-womens-super-league-match-4040663/tottenham-hotspur-w-vs-aston-villa-w-04-2025.html
-
-20:00 🇿🇦 South Africa Premier Soccer League	^-
-Magesi vs TS Galaxy	`*https://www.fctv77.live/football/south-africa-premier-soccer-league-match-4055913/magesi-vs-ts-galaxy-04-2025.html
-
-20:00 🇸🇪 Sweden Superettan	^-
-Trelleborgs FF vs IK Brage	`*https://www.fctv77.live/football/sweden-superettan-match-4116478/trelleborgs-ff-vs-ik-brage-04-2025.html
-GIF Sundsvall vs Landskrona BoIS	`*https://www.fctv77.live/football/sweden-superettan-match-4116605/gif-sundsvall-vs-landskrona-bois-04-2025.html
-
-20:00 🇹🇷 Turkish First League	^-
-Erokspor vs Kocaelispor	`*https://www.fctv77.live/football/turkish-first-league-match-4134629/erokspor-vs-kocaelispor-04-2025.html
-
-20:00 🇩🇰 Danish 1st Division	^-
-Vendsyssel vs B93 Copenhagen	`*https://www.fctv77.live/football/danish-1st-division-match-4161363/vendsyssel-vs-boldklubben-af-1893-04-2025.html
-
-20:00 🇲🇾 Malaysian Super League	^-
-Sabah vs Perak	`*https://www.fctv77.live/football/malaysian-super-league-match-4169626/sabah-fc-vs-perak-fc-04-2025.html
-Terengganu vs Kedah	`*https://www.fctv77.live/football/malaysian-super-league-match-4169627/terengganu-fc-vs-kedah-da-fc-04-2025.html
-Kuala Lumpur vs Kelantan United	`*https://www.fctv77.live/football/malaysian-super-league-match-4169760/kuala-lumpur-city-fc-vs-kelantan-darul-naim-04-2025.html
-
-20:00 CAF Confederation Cup	^-
-Simba Sports Club vs Stellenbosch FC	`*https://www.fctv77.live/football/caf-confederation-cup-match-4170264/simba-sports-club-vs-stellenbosch-fc-04-2025.html
-
 20:30 🇷🇺 Russian Premier League	^-
 Zenit St. Petersburg vs Khimki	`*https://www.fctv77.live/football/russian-premier-league-match-3984979/zenit-st-petersburg-vs-khimki-04-2025.html
 
