@@ -161,7 +161,7 @@ Stroitel Kamensk vs Uralets Nizhny	`*https://www.fctv77.live/football/rus-d3b-ma
 Krylia Sovetov II vs Khimik Dzerzhinsk	`*https://www.fctv77.live/football/rus-d3b-match-4170322/krylia-sovetov-ii-vs-khimik-dzerzhinsk-04-2025.html
 Akron Togliatti B vs Dinamo Barnaul	`*https://www.fctv77.live/football/rus-d3b-match-4170323/akron-togliatti-b-vs-dinamo-barnaul-04-2025.html
 
-17:15 🇳🇱 Netherlands Eredivisie	^-
+17:15 🇳🇱 [y]Netherlands Eredivisie[z]	^-
 FC Utrecht vs AFC Ajax	`*https://www.fctv77.live/football/netherlands-eredivisie-match-3983433/fc-utrecht-vs-afc-ajax-04-2025.html
 
 17:30 🇹🇷 Turkish Super League	^-
@@ -219,7 +219,7 @@ Anderlecht vs Royal Antwerp	`*https://www.fctv77.live/football/belgian-pro-leagu
 Tianjin Tigers vs Zhejiang Greentown	`*https://www.fctv77.live/football/chinese-football-super-league-match-4123325/tianjin-jinmen-tiger-fc-vs-zhejiang-professional-fc-04-2025.html
 Shanghai Port vs Chengdu Better City FC	`*https://www.fctv77.live/football/chinese-football-super-league-match-4123328/shanghai-port-fc-vs-chengdu-rongcheng-fc-04-2025.html
 
-19:00 🇪🇸 Spanish La Liga	^-
+19:00 🇪🇸 [y]Spanish La Liga[z]	^-
 Real Valladolid vs Osasuna	`*https://www.fctv77.live/football/spanish-la-liga-match-3994916/real-valladolid-cf-vs-ca-osasuna-04-2025.html
 
 19:00 🇪🇸 Spanish Segunda Division	^-
@@ -253,20 +253,20 @@ FC Inhulets Petrove vs LNZ Lebedyn	`*https://www.fctv77.live/football/ukrainian-
 19:30 🇳🇴 Norwegian Eliteserien	^-
 Tromso IL vs Kristiansund BK	`*https://www.fctv77.live/football/norwegian-eliteserien-match-4112782/tromso-il-vs-kristiansund-bk-04-2025.html
 
-19:30 🇦🇹 Austrian Bundesliga	^-
+19:30 🇦🇹 Austrian [y]Bundesliga[z]	^-
 Sturm Graz vs FC Blau Weiss Linz	`*https://www.fctv77.live/football/austrian-bundesliga-match-4156858/sturm-graz-vs-fc-blau-weiss-linz-04-2025.html
 Wolfsberger AC vs Rapid Wien	`*https://www.fctv77.live/football/austrian-bundesliga-match-4156874/wolfsberger-ac-vs-rapid-wien-04-2025.html
 
 19:30 🇩🇰 Danish 1st Division	^-
 Hillerod Fodbold vs Roskilde	`*https://www.fctv77.live/football/danish-1st-division-match-4161365/hillerod-fodbold-vs-roskilde-04-2025.html
 
-20:00 🇫🇷 French Ligue 1	^-
+20:00 🇫🇷 [y]French Ligue 1[z]	^-
 Lille vs AJ Auxerre	`*https://www.fctv77.live/football/french-ligue-1-match-3989211/losc-lille-vs-aj-auxerre-04-2025.html
 
-20:00 🇮🇹 Italian Serie A	^-
+20:00 🇮🇹 [y]Italian Serie A[z]	^-
 Empoli vs Venezia	`*https://www.fctv77.live/football/italian-serie-a-match-3994226/empoli-vs-venezia-04-2025.html
 
-20:00 🇬🇧 English Premier League	^-
+20:00 🇬🇧 [y]English Premier League[z]	^-
 Ipswich Town vs Arsenal	`*https://www.fctv77.live/football/english-premier-league-match-3995872/ipswich-town-vs-arsenal-04-2025.html
 Fulham vs Chelsea	`*https://www.fctv77.live/football/english-premier-league-match-3995882/fulham-vs-chelsea-04-2025.html
 Manchester United vs Wolves	`*https://www.fctv77.live/football/english-premier-league-match-3995906/manchester-united-vs-wolverhampton-wanderers-04-2025.html
@@ -305,7 +305,7 @@ Simba Sports Club vs Stellenbosch FC	`*https://www.fctv77.live/football/caf-conf
 20:30 🇷🇺 Russian Premier League	^-
 Zenit St. Petersburg vs Khimki	`*https://www.fctv77.live/football/russian-premier-league-match-3984979/zenit-st-petersburg-vs-khimki-04-2025.html
 
-20:30 🇩🇪 Bundesliga	^-
+20:30 🇩🇪 [y]Bundesliga[z]	^-
 FC Augsburg vs Eintracht Frankfurt	`*https://www.fctv77.live/football/bundesliga-match-3990615/fc-augsburg-vs-eintracht-frankfurt-04-2025.html
 
 20:30 🇪🇸 Spanish Primera División RFEF	^-
@@ -324,7 +324,7 @@ CSM Politehnica Iasi vs FC Botosani	`*https://www.fctv77.live/football/romanian-
 21:00 🇧🇪 Belgian Pro League	^-
 Racing Genk vs Saint Gilloise	`*https://www.fctv77.live/football/belgian-pro-league-match-4157251/racing-genk-vs-union-saint-gilloise-04-2025.html
 
-21:15 🇪🇸 Spanish La Liga	^-
+21:15 🇪🇸 [y]Spanish La Liga[z]	^-
 Villarreal vs Real Sociedad	`*https://www.fctv77.live/football/spanish-la-liga-match-3994925/villarreal-cf-vs-real-sociedad-04-2025.html
 
 21:15 🇪🇸 Spanish Segunda Division	^-
@@ -352,18 +352,18 @@ Marino luanco vs Bergantinos CF	`*https://www.fctv77.live/football/spanish-segun
 22:00 🇩🇰 Danish Superliga	^-
 Aalborg vs Sonderjyske	`*https://www.fctv77.live/football/danish-superliga-match-4159215/aalborg-vs-sonderjyske-04-2025.html
 
-22:15 🇫🇷 French Ligue 1	^-
+22:15 🇫🇷 [y]French Ligue 1[z]	^-
 Nice vs Angers	`*https://www.fctv77.live/football/french-ligue-1-match-3989273/ogc-nice-vs-angers-sco-04-2025.html
 Reims vs Toulouse	`*https://www.fctv77.live/football/french-ligue-1-match-3989282/stade-de-reims-vs-toulouse-fc-04-2025.html
 Stade Brestois vs Lens	`*https://www.fctv77.live/football/french-ligue-1-match-3989309/stade-brestois-29-vs-rc-lens-04-2025.html
 
-22:30 🇩🇪 Bundesliga	^-
+22:30 🇩🇪 [y]Bundesliga[z]	^-
 Borussia Dortmund vs Br Monchengladbach	`*https://www.fctv77.live/football/bundesliga-match-3990604/borussia-dortmund-vs-borussia-monchengladbach-04-2025.html
 
-22:30 🇬🇧 English Premier League	^-
+22:30 🇬🇧 [y]English Premier League[z]	^-
 Leicester City vs Liverpool	`*https://www.fctv77.live/football/english-premier-league-match-3995877/leicester-city-vs-liverpool-04-2025.html
 
-23:00 🇮🇹 Italian Serie A	^-
+23:00 🇮🇹 [y]Italian Serie A[z]	^-
 Bologna vs Inter Milan	`*https://www.fctv77.live/football/italian-serie-a-match-3994088/bologna-vs-inter-milan-04-2025.html
 
 23:00 🇹🇷 Turkish Super League	^-
@@ -383,7 +383,7 @@ Genclerbirligi vs Bandirmaspor	`*https://www.fctv77.live/football/turkish-first-
 23:30 🇷🇺 Russian Premier League	^-
 CSKA Moscow vs Krylya Sovetov	`*https://www.fctv77.live/football/russian-premier-league-match-3985076/cska-moscow-vs-krylya-sovetov-04-2025.html
 
-23:30 🇪🇸 Spanish La Liga	^-
+23:30 🇪🇸 [y]Spanish La Liga[z]	^-
 Sevilla vs Deportivo Alavés	`*https://www.fctv77.live/football/spanish-la-liga-match-3994977/sevilla-fc-vs-deportivo-alavs-04-2025.html
 
 23:30 🇪🇸 Spanish Segunda Division	^-
@@ -399,7 +399,7 @@ Celta Vigo B vs SD Tarazona	`*https://www.fctv77.live/football/spanish-primera-d
 Cultural Leonesa vs Gimnastic Tarragona	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024072/cultural-leonesa-vs-gimnastic-de-tarragona-04-2025.html
 AD Alcorcon vs Real Murcia	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024443/ad-alcorcon-vs-real-murcia-04-2025.html
 
-00:30 🇩🇪 Bundesliga	^-
+00:30 🇩🇪 [y]Bundesliga[z]	^-
 FC St. Pauli vs Bayer Leverkusen	`*https://www.fctv77.live/football/bundesliga-match-3990605/fc-st-pauli-vs-bayer-04-leverkusen-04-2025.html
 
 00:30 🇪🇸 Spanish Primera División RFEF	^-
@@ -411,13 +411,13 @@ Real Union vs FC Barcelona Atlètic	`*https://www.fctv77.live/football/spanish-p
 01:30 🇦🇷 Argentine Division 1	^-
 Deportivo Riestra vs San Lorenzo	`*https://www.fctv77.live/football/argentine-division-1-match-4107685/deportivo-riestra-vs-san-lorenzo-04-2025.html
 
-01:45 🇫🇷 French Ligue 1	^-
+01:45 🇫🇷 [y]French Ligue 1[z]	^-
 Saint Etienne vs Lyon	`*https://www.fctv77.live/football/french-ligue-1-match-3989262/as-saint-tienne-vs-lyon-04-2025.html
 
-01:45 🇮🇹 Italian Serie A	^-
+01:45 🇮🇹 [y]Italian Serie A[z]	^-
 AC Milan vs Atalanta	`*https://www.fctv77.live/football/italian-serie-a-match-3994109/ac-milan-vs-atalanta-04-2025.html
 
-02:00 🇪🇸 Spanish La Liga	^-
+02:00 🇪🇸 [y]Spanish La Liga[z]	^-
 Real Madrid vs Athletic Bilbao	`*https://www.fctv77.live/football/spanish-la-liga-match-3995057/real-madrid-vs-athletic-club-04-2025.html
 
 02:00 🇪🇸 Spanish Segunda Division	^-
