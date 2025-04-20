@@ -101,7 +101,7 @@ Gyeongnam FC vs Gimpo FC	`*https://www.fctv77.live/football/korean-k-league-2-ma
 
 14:30 🇨🇳 Chinese FA Cup	^-
 Nantong Haimen C vs Guangxi Pingguo H	`*https://www.fctv77.live/football/chinese-fa-cup-match-4154980/haimen-codion-vs-guangxi-pingguo-fc-04-2025.html
-Chongqing Chunlei vs Guangdong Guangzhou	`*https://www.fctv77.live/football/chinese-fa-cup-match-4155717/chongqing-chunlei-fc-vs-guangdong-guangzhou-power-04-2025.html
+Chongqing Chun vs Guangdong Guangzhou	`*https://www.fctv77.live/football/chinese-fa-cup-match-4155717/chongqing-chunlei-fc-vs-guangdong-guangzhou-power-04-2025.html
 
 15:00 🇯🇵 Japanese J3 League	^-
 FC Ryukyu vs Tegevajaro Miyazaki	`*https://www.fctv77.live/football/japanese-j3-league-match-4111621/fc-ryukyu-okinawa-vs-tegevajaro-miyazaki-04-2025.html
@@ -358,7 +358,7 @@ Reims vs Toulouse	`*https://www.fctv77.live/football/french-ligue-1-match-398928
 Stade Brestois vs Lens	`*https://www.fctv77.live/football/french-ligue-1-match-3989309/stade-brestois-29-vs-rc-lens-04-2025.html
 
 22:30 🇩🇪 [y]Bundesliga[z]	^-
-Borussia Dortmund vs Br Monchengladbach	`*https://www.fctv77.live/football/bundesliga-match-3990604/borussia-dortmund-vs-borussia-monchengladbach-04-2025.html
+Br Dortmund vs Br Monchengladbach	`*https://www.fctv77.live/football/bundesliga-match-3990604/borussia-dortmund-vs-borussia-monchengladbach-04-2025.html
 
 22:30 🇬🇧 [y]English Premier League[z]	^-
 Leicester City vs Liverpool	`*https://www.fctv77.live/football/english-premier-league-match-3995877/leicester-city-vs-liverpool-04-2025.html
