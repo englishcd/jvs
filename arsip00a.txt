@@ -521,16 +521,6 @@ Sport 2 SK	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!112233
 CT Sport SK	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 True EPL Sports 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
 True EPL Sports 3	https://delicate-hall-d108.wirdytv.workers.dev/02_epl2_720p/chunklist.m3u8
-Arena Sport 1	`0https://streaming.sportsnews.id/p/arena1cro.html
-Arena Sport 2	`0https://streaming.sportsnews.id/p/arena2cro.html
-Arena Sport 3	`0https://streaming.sportsnews.id/p/arena3cro.html
-Arena Sport 4	`0https://streaming.sportsnews.id/p/arena4cro.html
-Arena Sport 5	`0https://streaming.sportsnews.id/p/arena5cro.html
-Arena Sport 6	`0https://streaming.sportsnews.id/p/arena6cro.html
-Arena Sport 7	`0https://streaming.sportsnews.id/p/arena7cro.html
-Arena Sport 8	`0https://streaming.sportsnews.id/p/arena8cro.html
-Arena Sport 9	`0https://streaming.sportsnews.id/p/arena9cro.html
-Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 EuroSport 1	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 EuroSport 2	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Tigo Sports 🇵🇪	https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
@@ -635,18 +625,9 @@ Match! TV 🇷🇺	https://video.beeline.tv/live/d/channel317.isml/manifest-stb.
 ^=Sports Live Stream	https://www.youtube.com/watch?v=LxPMF3OJ-OU
 
 	^-
-[w]Live Sport OnTime Events[z]	^-
-
-Sony Sports 1	09!09a00!0!329566?zyw
-Sony Sports 2	09!09a00!0!3187262?zyw
-Sony Sports 5	09!09a00!0!3378746?zyw
-Sony Sports 3	09!09a00!0!329564?zyw
-Sony Sports 4	09!09a00!0!3400375287?zyw
-
-	^-
 [g]YouTube Favorite Streaming[z]	^-
 
-Makkah Live	https://www.youtube.com/watch?v=M8ZDqL4Xvu0
+Makkah Live	https://www.youtube.com/watch?v=eJNWHKld5E8
 Madinah Live	https://www.youtube.com/watch?v=yWw0DWJQVtU&pp=0gcJCX4JAYcqIYzv
 The World Live. EarthTV	https://www.youtube.com/watch?v=HfgIFGbdGJ0
 Angry Birds 1	https://www.youtube.com/watch?v=vnqWVuU0sns
@@ -658,22 +639,20 @@ Bernard Bear 2	/l.7/?listType=playlist&list=PLKLzBLbyOE9sqBe3id3RQIW-wD8Ixuqcu
 Bernard Bear 3	/l.7/?listType=playlist&list=PLKLzBLbyOE9v87wMlANiaaI824wceKP94
 Bernard Bear 4	/l.7/?listType=playlist&list=PLKLzBLbyOE9vjDW6h5BGfXaJ_NFdngOAY
 Bernard Bear 5	/l.7/?listType=playlist&list=PLKLzBLbyOE9vUq8SxVXsX2W0diykafivr
-Boomerang: Tom & Jerry 1	https://www.youtube.com/watch?v=rEKifG2XUZg&pp=0gcJCUUJAYcqIYzv
+Boomerang: Tom & Jerry 1	https://www.youtube.com/watch?v=rEKifG2XUZg
 Boomerang: Tom & Jerry 2	https://www.youtube.com/watch?v=2UOwO_N17ms
-Boomerang: Tom & Jerry 3	https://www.youtube.com/watch?v=IJbbpAhjboI
+Boomerang: Tom & Jerry 3	https://www.youtube.com/watch?v=_XeGYNTiuSM
 Cartoon Network 1	https://www.youtube.com/watch?v=Zav9QFtN9Ss
 Cartoon Network 2	https://www.youtube.com/watch?v=uUCTOHriQCg
-Cartoonito 1	https://www.youtube.com/watch?v=j0VN223i4MQ
-Cartoonito 2	https://www.youtube.com/watch?v=p5l3ZS1jVUE
+Cartoonito	https://www.youtube.com/watch?v=p5l3ZS1jVUE
 Masha and The Bear	https://www.youtube.com/watch?v=k5UuTzRUxuU
 Nicktoons	https://www.youtube.com/watch?v=5-6_PVhnZ0g
 SpongeBob 🇮🇩	https://www.youtube.com/watch?v=PSGW7Rxk6O0
 Shaun the Sheep	https://www.youtube.com/watch?v=EZsmbpdjHRc
 Timmy & Friends	https://www.youtube.com/watch?v=MSXaxnnDOvY
 Muse Indonesia	https://www.youtube.com/watch?v=1dbh9_mnw7E
-Mr. Bean Classic	https://www.youtube.com/watch?v=bmNEb4VmQGs
-Mr. Bean Cartoon 1	https://www.youtube.com/watch?v=t0elnRflau8
-Mr. Bean Cartoon 2	https://www.youtube.com/watch?v=CzWq54WESp8
+Mr. Bean Classic	https://www.youtube.com/watch?v=NOCisq9ASyM
+Mr. Bean Cartoon	https://www.youtube.com/watch?v=CzWq54WESp8
 RailCowGirl	https://www.youtube.com/watch?v=czoEAKX9aaM
 Japan 4K	https://www.youtube.com/watch?v=cH7VBI4QQzA
 iQIYI Indonesia 1	https://www.youtube.com/watch?v=05aVrCzBlLE
@@ -696,7 +675,7 @@ Just for Laughs Gags 4	https://www.youtube.com/watch?v=prRRorvO1Hk
 Just for Laughs Gags 5	https://www.youtube.com/watch?v=AxsCAFRj7c4
 Kompas 🇮🇩	https://www.youtube.com/watch?v=DOOrIxw5xOw
 tvOne 🇮🇩	https://www.youtube.com/watch?v=yNKvkPJl-tg
-Musica Studios	https://www.youtube.com/watch?v=1R9Q3uE6Pzg
+Musica Studios	https://www.youtube.com/watch?v=vKJ2dNmwYiI
 Alip_Ba_Ta	/l.7/?listType=playlist&list=PLVboWDxQI2PEdSKtQzYYxm7AqOBiCPBF0
 All Sidemen Charity Matches	/l.7/?listType=playlist&list=PLjQjmbVy2qeXMCBiJMR9vCknZDO4ToozC
 
@@ -1380,26 +1359,6 @@ ESPN 🇳🇱 4	09!09bxtv.ooo:8080/jk8010801099/jk8010801099/352403?zyw
 	^-
 [w]Live Sport OnTime Channels[z]	^-
 
-TNT Sport UK 1	09!09a00!0!2236/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2UZI8z-h4gL1ZdY-YmuTG5C1ELcnk2DvHVY1kLw1nWqv?zyy
-TNT Sport UK 2	09!09a00!0!2334/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2d2In9FfflTFAfIDD1Jf-4yXmkMBdHkH8EsAxUk13ohV?zyy
-TNT Sport UK 3	09!09a00!0!2233/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2Y5GTAwFFoeTj3KCE0GPDV3vWfnxgBWTjeUFYUGD4PWB?zyy
-Sky Sports Main Event	09!09a00!0!2335/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2d2In9FfflTFAfIDD1Jf-4yXmkMBdHkH8EsAxUk13ohV?zyy
-TNT Sport UK 5 Event	09!09a00!0!22081/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2TLWvmNLxxZpuHydZaFRqvfXzQLMuDg5b3h20q5sGae0?zyy
-
-beIN Sports TR 1	09!09a00!0!21424/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2fcPBd7Ej4zjsJEYhdArtacU4vkZ7Qo0QT90EpZuob_5?zyy
-beIN Sports TR 2	09!09a00!0!21425/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2ehIyJsn-4e0ROzDe09Q7I_jL9iL00PKmMAcVr8HACcs?zyy
-beIN Sports TR 3	09!09a00!0!21426/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2XTtwXnHe70Wce_ocvqB4JVSpI1uqhCLTBAB1ymsVnEr?zyy
-beIN Sports TR 4	09!09a00!0!21448/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2QZjbBLWx6qlRuh9J6YBegiRKryw3_OYSv169LbFNM4j?zyy
-beIN Sports MAX TR 1	09!09a00!0!21449/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2Y3sJrOwJYflL0Wl1KtlTa1Evrbyx4rTyOP6-PlQRdYm?zyy
-beIN Sports MAX TR 2	09!09a00!0!21450/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2c8AQC9FV0UqVRpLjcqJxJsknn79lJ28t-yfDmIBVqxO?zyy
-beIN Sports AR 1	09!09a00!0!2227/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2dblCCLH7OHVcTZqZThDpFm3P2sLjNSAZKaKaZmpZ2g7?zyy
-beIN Sports AR 2	09!09a00!0!2228/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2buVUwVylT6g_zDFH1zqo3UK0RSm09XqZTbvc0F_FVAr?zyy
-beIN Sports AR 3	09!09a00!0!2229/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2YtHxiK3aFxQvjxhFDbJYmARsfSR-KA8DagiF5EJROJT?zyy
-beIN Sports AR 4	09!09a00!0!2230/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2UoaoDmpaMUlYgjOlWcTRlubKOOev5PhWmFwu_HaZ6KM?zyy
-beIN Sports AR 5	09!09a00!0!2231/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2dRi5vyxeF1bZe1o34sjw2Kp8pUw3P1pmL96vEcXUxLV?zyy
-beIN Sports AR 6	09!09a00!0!2232/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2WQ5dQ_Spy45aB1vEdw9r2iWsXq3XyPadGjDr4zPawyI?zyy
-beIN Sports AR 7	09!09a00!0!21062/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2f-JH727eixDJpUc7qDhgxt0aScba63kz1PRy9r3XTYD?zyy
-
 Alkass 1 One	https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass1mhu/master.m3u8
 Alkass 2 Two	https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass2hef/master.m3u8
 Alkass 3 Three	https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass3vak/master.m3u8
@@ -1414,6 +1373,17 @@ Arryadia TV3 🇲🇦	https://arriadia1.bassamnetflix2.workers.dev/live/eds/arri
 Assadissa TV6 🇲🇦	https://arriadia1.bassamnetflix2.workers.dev/live/eds/assadissa/hls_snrt/index.m3u8
 Tamazight TV8 🇲🇦	https://arriadia1.bassamnetflix2.workers.dev/live/eds/tamazight_tv8_snrt/hls_snrt/index.m3u8
 Alrabiaa	https://vip.bassamnetflix2.workers.dev/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.m3u8
+
+Arena Sport 1	`0https://streaming.sportsnews.id/p/arena1cro.html
+Arena Sport 2	`0https://streaming.sportsnews.id/p/arena2cro.html
+Arena Sport 3	`0https://streaming.sportsnews.id/p/arena3cro.html
+Arena Sport 4	`0https://streaming.sportsnews.id/p/arena4cro.html
+Arena Sport 5	`0https://streaming.sportsnews.id/p/arena5cro.html
+Arena Sport 6	`0https://streaming.sportsnews.id/p/arena6cro.html
+Arena Sport 7	`0https://streaming.sportsnews.id/p/arena7cro.html
+Arena Sport 8	`0https://streaming.sportsnews.id/p/arena8cro.html
+Arena Sport 9	`0https://streaming.sportsnews.id/p/arena9cro.html
+Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 
 	^-
 ^=[l]Today's Matches[z]	`0https://govoet-live.blogspot.com/
@@ -1430,6 +1400,3 @@ Alrabiaa	https://vip.bassamnetflix2.workers.dev/65045e4aba85cfe0025e4a60/live_c6
 ^=ch2 smtv	`0https://live2samuraitv.blogspot.com/p/ch2.html
 ^=channel13	`0https://xlz.plcdn.xyz/ajax/chanel/type/5/link/channel13
 ^=asportshd	`0https://stream.crichd.sc/update/asportshd.php
-^=!Sony Sports 3	09!09a00!0!3378745?zyy
-^=!Sony Sports 3	09!09a00!0!3400157878?zyy
-^=!Sony Sports 3	09!09a00!0!3400201953?zyy
