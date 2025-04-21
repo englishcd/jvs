@@ -893,5 +893,5 @@ Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07
 ^=ch2 smtv	`0https://live2samuraitv.blogspot.com/p/ch2.html
 ^=channel13	`0https://xlz.plcdn.xyz/ajax/chanel/type/5/link/channel13
 ^=asportshd	`0https://stream.crichd.sc/update/asportshd.php
-^=Celestial Movies	http://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
-^=Celestial Moviest	http://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8?zyt
+^=Celestial Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
+^=Celestial Moviest	https://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8?zyt
