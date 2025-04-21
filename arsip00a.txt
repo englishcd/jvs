@@ -575,20 +575,20 @@ ID Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 ID tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 ANTV	`0https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWn7B5RNPyFgfmBZEZWzBIU0euPvyhNjZzzZ32TdKYw0iN+szaquGwW/g3oNsxpwBRw2ag9SQ+wDniU4C5uCk6ZDujeewfkjcDn+94Vl8QVyhNiMXHTY1JGVnOP7dkldc1/xxNQCVy1CR68tpfvcbEChQdH2ecv8izmjEDDRkmlC7NO78hum5x5JuWsMrlMI5WmRihZKQiBr1NoPjlUHIziHn3ECsAlkA3dp6nbQz/nePOhk4mBIpsetJjZc2opjyuVuVfQD+5yOV3Zg1PRuFfupDoWECbntCG3uJosv9YKBtAdR9mBazJWYIYU9NvTQ4cSt2J24D
 
-Celestial Classic Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
-Celestial Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
-KIX	https://khano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
-MovieSphere	https://khano.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
-My Cinema	https://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31D.m3u8
-My Cinema Asia	https://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
-My Family Channel	https://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31f.m3u8
+Celestial Classic Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
+Celestial Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
+KIX	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
+MovieSphere	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
+My Cinema	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31D.m3u8
+My Cinema Asia	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
+My Family Channel	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31f.m3u8
 Rock Entertainment	https://cdn.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
-Thrill	https://khano.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a.m3u8
-tvN Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
-Aniplus	https://khano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
-Cartoonito	https://khano.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
-Cartoon Network	https://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
-MyKidz	https://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
+Thrill	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a.m3u8
+tvN Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
+Aniplus	01!01fkhano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
+Cartoonito	01!01fkhano.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
+Cartoon Network	01!01fkhano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
+MyKidz	01!01fkhano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
 MIC	https://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 Kompas TV https://s7.mbahnunungonline.net/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 Nusantara TV	https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -893,5 +893,3 @@ Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07
 ^=ch2 smtv	`0https://live2samuraitv.blogspot.com/p/ch2.html
 ^=channel13	`0https://xlz.plcdn.xyz/ajax/chanel/type/5/link/channel13
 ^=asportshd	`0https://stream.crichd.sc/update/asportshd.php
-^=Celestial Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
-^=Celestial Moviest	https://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8?zyt
