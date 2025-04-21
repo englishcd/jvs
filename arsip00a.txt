@@ -7,30 +7,6 @@
 
 [w]21-04-2025[z]	^-
 
-07:00 🇨🇱 Chilean Primera Division	^-
-Nublense vs Coquimbo Unido	`*https://www.fctv77.live/football/chilean-primera-division-match-4124321/nublense-vs-coquimbo-unido-04-2025.html
-
-08:00 🇲🇽 Mexico Liga MX	^-
-Atletico San Luis vs Pachuca	`*https://www.fctv77.live/football/mexico-liga-mx-match-4101271/atletico-san-luis-vs-pachuca-04-2025.html
-
-08:00 🇬🇹 Guatemala Liga Nacional	^-
-Marquense vs Xelaju MC	`*https://www.fctv77.live/football/guatemala-liga-nacional-match-4113206/marquense-vs-xelaju-mc-04-2025.html
-
-08:05 🇲🇽 Mexico Liga MX	^-
-Club Leon vs Monterrey	`*https://www.fctv77.live/football/mexico-liga-mx-match-4101278/club-leon-vs-monterrey-04-2025.html
-
-08:30 🇭🇳 Honduras Primera Division	^-
-CD Victoria vs Real Espana	`*https://www.fctv77.live/football/honduras-primera-division-match-4125832/cd-victoria-vs-real-espana-04-2025.html
-
-10:00 🇲🇽 Mexico Liga MX	^-
-FC Juarez vs Queretaro FC	`*https://www.fctv77.live/football/mexico-liga-mx-match-4101277/fc-juarez-vs-queretaro-fc-04-2025.html
-
-10:00 🇳🇿 New Zealand Northern Premier League	^-
-Manurewa AFC vs Auckland FC Reserves	`*https://www.fctv77.live/football/new-zealand-northern-premier-league-match-4172779/manurewa-afc-vs-auckland-fc-reserves-04-2025.html
-West Coast Rangers vs Fencibles United	`*https://www.fctv77.live/football/new-zealand-northern-premier-league-match-4172781/west-coast-rangers-vs-fencibles-united-04-2025.html
-Auckland City vs Bay Olympic	`*https://www.fctv77.live/football/new-zealand-northern-premier-league-match-4172782/auckland-city-vs-bay-olympic-04-2025.html
-Tauranga City United vs Auckland United	`*https://www.fctv77.live/football/new-zealand-northern-premier-league-match-4172784/tauranga-city-united-vs-auckland-united-04-2025.html
-
 12:00 🇳🇿 New Zealand Northern Premier League	^-
 Western Springs AFC vs Birkenhead United	`*https://www.fctv77.live/football/new-zealand-northern-premier-league-match-4172783/western-springs-afc-vs-birkenhead-united-04-2025.html
 
@@ -321,10 +297,10 @@ Arnett Gardens vs Vere United	`*https://www.fctv77.live/football/jamaica-premier
 [g]Multi Live Events[z]	^-
 
 [l]Huhu.To[z]	`0https://huhu.to/
-[l]multicanais[z] 🇵🇹 Multi Channels	`0https://multicanais.deal/
-[l]Today's Matches #1[z]	`0https://govoet-live.blogspot.com/
-[l]Today's Matches #2[z]	`0https://jadwalbola18-ss.blogspot.com/
+[l]Today's Matches[z]	`0https://jadwalbola18-ss.blogspot.com/
+[l]Today's Matches #2[z] `0https://govoet-live.blogspot.com/
 [l]rbtv77[z] 🇮🇩 Live Events	`0https://rbtv77.im/
+[l]multicanais[z] 🇵🇹 Multi Channels	`0https://multicanais.deal/
 
 	^-
 [w]Live Sports Channels[z]	^-
