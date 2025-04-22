@@ -7,47 +7,6 @@
 
 [w]23-04-2025[z]	^-
 
-00:30 🇸🇦 Saudi Arabia Division 1	^-
-Al-Arabi (KSA) vs Neom SC	`*https://www.fctv77.live/football/saudi-arabia-division-1-match-4117107/al-arabiksa-vs-neom-sc-04-2025.html
-
-00:30 🇹🇷 Turkish Cup	^-
-Konyaspor vs Galatasaray	`*https://www.fctv77.live/football/turkish-cup-match-4168494/konyaspor-vs-galatasaray-04-2025.html
-
-01:00 🇭🇺 Hungary Cup	^-
-Paksi FC vs Zalaegerszegi TE	`*https://www.fctv77.live/football/hungary--cup-match-4167145/paksi-fc-vs-zalaegerszegi-te-04-2025.html
-
-01:00 Premier League International Cup	^-
-Fulham U21 vs Lyonnais II	`*https://www.fctv77.live/football/premier-league-international-cup-match-4169630/fulham-u21-vs-lyonnais-ii-04-2025.html
-
-01:30 🇦🇹 Austrian Bundesliga	^-
-SK Austria Klagenfurt vs LASK Linz	`*https://www.fctv77.live/football/austrian-bundesliga-match-4156745/sk-austria-klagenfurt-vs-lask-linz-04-2025.html
-
-01:30 🇧🇪 Belgian Pro League	^-
-Mechelen vs Westerlo	`*https://www.fctv77.live/football/belgian-pro-league-match-4159358/kv-mechelen-vs-kvc-westerlo-04-2025.html
-Standard Liege vs Oud Heverlee	`*https://www.fctv77.live/football/belgian-pro-league-match-4159381/standard-liege-vs--oud-heverlee-leuven-04-2025.html
-FCV Dender EH vs Charleroi	`*https://www.fctv77.live/football/belgian-pro-league-match-4159393/fcv-dender-eh-vs--rc-sporting-charleroi-04-2025.html
-
-01:45 🇫🇷 [y]French Ligue 1[z]	^-
-Nantes vs Paris Saint Germain (PSG)	`*https://www.fctv77.live/football/french-ligue-1-match-3989337/fc-nantes-vs-paris-saint-germain-04-2025.html
-
-01:45 🇮🇪 Ireland Premier Division	^-
-Derry City vs Sligo Rovers	`*https://www.fctv77.live/football/ireland-premier-division-match-4112415/derry-city-vs-sligo-rovers-04-2025.html
-
-02:00 🇬🇧 [y]English Premier League[z]	^-
-Manchester City vs Aston Villa	`*https://www.fctv77.live/football/english-premier-league-match-3995908/manchester-city-vs-aston-villa-04-2025.html
-
-02:30 🇪🇸 [y]Spanish La Liga[z]	^-
-FC Barcelona vs Mallorca	`*https://www.fctv77.live/football/spanish-la-liga-match-3994931/fc-barcelona-vs-rcd-mallorca-04-2025.html
-
-02:45 🇵🇹 Portuguese Cup	^-
-Rio Ave vs Sporting CP	`*https://www.fctv77.live/football/portuguese-cup-match-4153434/rio-ave-vs-sporting-cp-04-2025.html
-
-03:10 🇦🇷 Argentine Division 2	^-
-Defensores de Belgrano vs Temperley	`*https://www.fctv77.live/football/argentine-division-2-match-4115088/defensores-de-belgrano-vs-temperley-04-2025.html
-
-03:30 🇪🇨 Ecuadorian Campeonato Serie B	^-
-22 de Julio vs CD Independiente Juniors	`*https://www.fctv77.live/football/ecuadorian-campeonato-serie-b-match-4153763/22-de-julio-vs-cd-independiente-juniors-04-2025.html
-
 05:00 🇦🇷 Argentine Division 1	^-
 Argentinos Juniors vs Barracas Central	`*https://www.fctv77.live/football/argentine-division-1-match-4107678/argentinos-juniors-vs-barracas-central-04-2025.html
 Club Atletico Tigre vs Belgrano	`*https://www.fctv77.live/football/argentine-division-1-match-4107681/club-atletico-tigre-vs-belgrano-04-2025.html
@@ -927,5 +886,6 @@ Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07
 ^=ch91 gvtv	`0https://govoet-envivo.blogspot.com/91
 ^=ch2 smtv	`0https://live2samuraitv.blogspot.com/p/ch2.html
 ^=channel13	`0https://xlz.plcdn.xyz/ajax/chanel/type/5/link/channel13
+^=SportDigital hp	http://mu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
+^=SportDigital rh	http://mu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy?zyt
 ^=asportshd	`0https://stream.crichd.sc/update/asportshd.php
-^=c2-c2	^^shttps://raw.githubusercontent.com/englishcd/jvs/refs/heads/main/c2.txt
