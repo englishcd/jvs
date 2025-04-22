@@ -161,7 +161,7 @@ Nantes vs Paris Saint Germain (PSG)	`*https://www.fctv77.live/football/french-li
 01:45 🇮🇪 Ireland Premier Division	^-
 Derry City vs Sligo Rovers	`*https://www.fctv77.live/football/ireland-premier-division-match-4112415/derry-city-vs-sligo-rovers-04-2025.html
 
-02:00 🇬🇧 English Premier League	^-
+02:00 🇬🇧 [y]English Premier League[z]	^-
 Manchester City vs Aston Villa	`*https://www.fctv77.live/football/english-premier-league-match-3995908/manchester-city-vs-aston-villa-04-2025.html
 
 02:30 🇪🇸 [y]Spanish La Liga[z]	^-
