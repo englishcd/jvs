@@ -1026,4 +1026,4 @@ Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07
 ^=channel13	`0https://xlz.plcdn.xyz/ajax/chanel/type/5/link/channel13
 ^=asportshd	`0https://stream.crichd.sc/update/asportshd.php
 ^=get	^+http://mu3241218.oknirvana.club:8880/get.php?username=6mc180025&password=82171611&type=m3u_plus
-^=arsip	^-https://raw.githubusercontent.com/englishcd/jvs/refs/heads/main/arsip00a.txt
+^=arsip	^+https://raw.githubusercontent.com/englishcd/jvs/refs/heads/main/arsip00a.txt
