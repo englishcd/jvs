@@ -928,3 +928,4 @@ Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07
 ^=ch2 smtv	`0https://live2samuraitv.blogspot.com/p/ch2.html
 ^=channel13	`0https://xlz.plcdn.xyz/ajax/chanel/type/5/link/channel13
 ^=asportshd	`0https://stream.crichd.sc/update/asportshd.php
+^=c2-c2	^^shttps://raw.githubusercontent.com/englishcd/jvs/refs/heads/main/c2.txt
