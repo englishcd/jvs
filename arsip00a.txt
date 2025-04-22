@@ -886,7 +886,5 @@ Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07
 ^=ch91 gvtv	`0https://govoet-envivo.blogspot.com/91
 ^=ch2 smtv	`0https://live2samuraitv.blogspot.com/p/ch2.html
 ^=channel13	`0https://xlz.plcdn.xyz/ajax/chanel/type/5/link/channel13
-^=SportDigital mrh	http://mu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
-^=SportDigital mxp	http://mu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyw
-^=SportDigital m4h	http://mu3241218.oknirvana.club:8880/6mc180025/82171611/29060?.m3u8
+^=SportDigital Fussball	http://mu3241218.oknirvana.club:8880/live/6mc180025/82171611/29060.m3u8?zyx
 ^=asportshd	`0https://stream.crichd.sc/update/asportshd.php
