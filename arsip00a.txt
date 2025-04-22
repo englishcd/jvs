@@ -7,18 +7,6 @@
 
 [w]22-04-2025[z]	^-
 
-07:30 🇧🇷 Brazilian Serie B	^-
-Remo Belem (PA) vs Coritiba PR	`*https://www.fctv77.live/football/brazilian-serie-b-match-4151490/remo-belem-pa-vs-coritiba-pr-04-2025.html
-
-07:45 🇯🇲 Jamaica Premier League	^-
-Arnett Gardens vs Vere United	`*https://www.fctv77.live/football/jamaica-premier-league-match-4134031/arnett-gardens-vs-vere-united-04-2025.html
-
-08:10 🇨🇴 Categoría Primera A	^-
-Deportivo Pasto vs Aguilas Doradas	`*https://www.fctv77.live/football/categoria-primera-a-match-4115996/deportivo-pasto-vs-aguilas-doradas-04-2025.html
-
-09:00 🇨🇷 Costa Rica Primera Division	^-
-Alajuelense vs Deportivo Saprissa	`*https://www.fctv77.live/football/costa-rica-primera-division-match-4099184/alajuelense-vs-deportivo-saprissa-04-2025.html
-
 14:00 🇨🇳 Chinese Football League 1	^-
 Yanbian Hailanjiang vs Dalian K'un City	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145229/yanbian-longding-vs-dalian-kun-city-04-2025.html
 
@@ -194,6 +182,25 @@ Ferrol Carril Oeste vs Atletico Atlanta	`*https://www.fctv77.live/football/argen
 
 07:15 🇦🇷 Argentine Division 1	^-
 Independiente Rivadavia vs Aldosivi Mar	`*https://www.fctv77.live/football/argentine-division-1-match-4107680/independiente-rivadavia-vs-aldosivi-mar-del-plata-04-2025.html
+
+07:30 CONMEBOL Copa Sudamericana	^-
+Gualberto Villarroel vs D Once Caldas	`*https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4157390/gualberto-villarroel-deportivo-san-jos-vs-deportiva-once-caldas-04-2025.html
+
+07:30 CONMEBOL Copa Libertadores	^-
+Colo Colo vs Racing Club	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4163790/colo-colo-vs-racing-club-de-avellaneda-04-2025.html
+Internacional RS vs Nacional Montevideo	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4163792/internacional-rs-vs-nacional-montevideo-04-2025.html
+
+07:30 CONMEBOL Copa Sudamericana	^-
+Vasco da Gama vs Lanus	`*https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4163806/clube-de-regatas-vasco-da-gama-vs-club-atltico-lans-04-2025.html
+
+09:00 CONMEBOL Copa Libertadores	^-
+Barcelona ECU vs Universitario Deportes	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4163783/barcelona-scecu-vs-universitario-de-deportes-04-2025.html
+
+09:00 CONMEBOL Copa Sudamericana	^-
+FBC Melgar vs Academia Puerto Cabello	`*https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4163805/fbc-melgar-vs-academia-puerto-cabello-04-2025.html
+
+09:30 🇺🇸 US Women's National League	^-
+Portland Thorns (w) vs Gotham (w)	`*https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131809/portland-thorns-fc-w-vs-gotham-fc-w-04-2025.html
 
 []👆 [y]Need Human Verification?[z] 👉 ** Click Here!	[]^+https://www.fctv77.live/football/argentine-division-1-match-4107680/independiente-rivadavia-vs-aldosivi-mar-del-plata-04-2025.html
 []** Follow the redirected page until Verification!	^-
@@ -744,6 +751,7 @@ Dhoho TV- Kediri	https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:ip
 Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
 RCTV Cirebon	https://v10.siar.us/rctv/live/playlist.m3u8
 dTVi	https://e.siar.us/live/dtvi.m3u8
+DeiKids TV	https://e.siar.us/live/deikidstv.m3u8
 
 	^-
 [w]AU 🇦🇺 & NZ 🇳🇿 Channels[z]	^-
