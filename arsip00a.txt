@@ -7,15 +7,6 @@
 
 [w]23-04-2025[z]	^-
 
-23:10 🇸🇦 Saudi Professional League	^-
-Al Kholood vs Al-Akhdoud	`*https://www.fctv77.live/football/saudi-professional-league-match-4013829/al-kholood-vs-al-okhdood-04-2025.html
-
-23:10 🇸🇦 Saudi Arabia Division 1	^-
-Al Bukayriyah vs Al Safa (KSA)	`*https://www.fctv77.live/football/saudi-arabia-division-1-match-4117106/al-bukayriyah-vs-al-safa-04-2025.html
-
-23:15 🇩🇪 German Regionalliga	^-
-TSV Aubstadt vs Bayern Munchen (Youth)	`*https://www.fctv77.live/football/german-regionalliga-match-4006743/tsv-aubstadt-vs-bayern-munchen-youth-04-2025.html
-
 23:30 🇮🇹 [y]Italian Serie A[z]	^-
 Parma vs Juventus	`*https://www.fctv77.live/football/italian-serie-a-match-3994041/parma-vs-juventus-04-2025.html
 Cagliari vs Fiorentina	`*https://www.fctv77.live/football/italian-serie-a-match-3994043/cagliari-vs-fiorentina-04-2025.html
@@ -282,6 +273,16 @@ NBC Sports	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channe
 NBC TV	i3`06fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 NFL Channel	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd!!002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 SportDigital Fussball	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
+Arena Sport 1	`0https://streaming.sportsnews.id/p/arena1cro.html
+Arena Sport 2	`0https://streaming.sportsnews.id/p/arena2cro.html
+Arena Sport 3	`0https://streaming.sportsnews.id/p/arena3cro.html
+Arena Sport 4	`0https://streaming.sportsnews.id/p/arena4cro.html
+Arena Sport 5	`0https://streaming.sportsnews.id/p/arena5cro.html
+Arena Sport 6	`0https://streaming.sportsnews.id/p/arena6cro.html
+Arena Sport 7	`0https://streaming.sportsnews.id/p/arena7cro.html
+Arena Sport 8	`0https://streaming.sportsnews.id/p/arena8cro.html
+Arena Sport 9	`0https://streaming.sportsnews.id/p/arena9cro.html
+Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 
 	^-
 Sport Channels from [l]Ⓘc2 SportsTV[z]	^-
@@ -971,17 +972,6 @@ Playlist [y]Main Menu[z]	^^szz
 
 	^-
 [w]Live Sport OnTime Channels[z]	^-
-
-Arena Sport 1	`0https://streaming.sportsnews.id/p/arena1cro.html
-Arena Sport 2	`0https://streaming.sportsnews.id/p/arena2cro.html
-Arena Sport 3	`0https://streaming.sportsnews.id/p/arena3cro.html
-Arena Sport 4	`0https://streaming.sportsnews.id/p/arena4cro.html
-Arena Sport 5	`0https://streaming.sportsnews.id/p/arena5cro.html
-Arena Sport 6	`0https://streaming.sportsnews.id/p/arena6cro.html
-Arena Sport 7	`0https://streaming.sportsnews.id/p/arena7cro.html
-Arena Sport 8	`0https://streaming.sportsnews.id/p/arena8cro.html
-Arena Sport 9	`0https://streaming.sportsnews.id/p/arena9cro.html
-Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 
 Sportsnet East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd!!f0407787b4d83e5db9dbcd760aec17ce:0f7c2736f496c2d2eccc9ebbe27799b9
 Sportsnet Ontario	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-02-prd-r-v2/dash-ch-02-prd-r-hd/index.mpd!!620814bb9cc23732994f4cdd85716b6f:b9e3a3412749e7f9fbb87b1a6b4bbcdd
