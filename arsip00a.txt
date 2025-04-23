@@ -7,47 +7,11 @@
 
 [w]23-04-2025[z]	^-
 
-09:00 CONMEBOL Copa Libertadores	^-
-Barcelona ECU vs Universitario Deportes	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4163783/barcelona-scecu-vs-universitario-de-deportes-04-2025.html
-
-09:00 CONMEBOL Copa Sudamericana	^-
-FBC Melgar vs Academia Puerto Cabello	`*https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4163805/fbc-melgar-vs-academia-puerto-cabello-04-2025.html
-
-07:10 🇦🇷 Argentine Division 2	^-
-Ferrol Carril Oeste vs Atletico Atlanta	`*https://www.fctv77.live/football/argentine-division-2-match-4115046/ferrol-carril-oeste-vs-atletico-atlanta-04-2025.html
-
-09:30 🇺🇸 US Women's National League	^-
-Portland Thorns FC (w) vs Gotham FC (w)	`*https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131809/portland-thorns-fc-w-vs-gotham-fc-w-04-2025.html
-
-14:30 🇨🇳 Chinese Football League 1	^-
-Dongguan Guanlian vs Heilongjiang Lava	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145165/foshan-nanshi-vs-dingnan-united-04-2025.html
-
-15:30 🇺🇿 Uzbekistan Cup	^-
-Buxoro FK vs Lokomotiv Tashkent	`*https://www.fctv77.live/football/uzbekistan-cup-match-4171391/buxoro-fk-vs-lokomotiv-tashkent-04-2025.html
-
-16:00 🇺🇿 Uzbekistan Cup	^-
-Navoiy FA vs Pakhtakor	`*https://www.fctv77.live/football/uzbekistan-cup-match-4171399/navoiy-fa-vs-pakhtakor-04-2025.html
-
-17:00 🇯🇵 Japanese J3 League	^-
-Fukushima United FC vs Azul Claro Numazu	`*https://www.fctv77.live/football/japanese-j3-league-match-4118199/fukushima-united-fc-vs-azul-claro-numazu-04-2025.html
-
-17:00 🇷🇺 RUS D3A	^-
-Torpedo Miass vs Volgar-Gazprom Astrachan	`*https://www.fctv77.live/football/rus-d3a-match-4171474/torpedo-miass-vs-volgar-gazprom-astrachan-04-2025.html
-
-17:30 🇰🇷 Korean K League 1	^-
-FC Anyang vs Ulsan Hyundai FC	`*https://www.fctv77.live/football/korean-k-league-1-match-4132216/fc-anyang-vs-ulsan-hd-fc-04-2025.html
-
-18:00 🇹🇭 Thai FA Cup	^-
-Ratchaburi FC vs Phrae United FC	`*https://www.fctv77.live/football/thai-fa-cup-match-4170122/ratchaburi-mitr-phol-fc-vs-phrae-united-fc-04-2025.html
-
-18:00 🇺🇿 Uzbekistan Cup	^-
-Namangan FA vs Kuruvchi Bunyodkor	`*https://www.fctv77.live/football/uzbekistan-cup-match-4171392/namangan-fa-vs-kuruvchi-bunyodkor-04-2025.html
-
-18:00 🇹🇭 Thai FA Cup	^-
-Sukhothai vs Muang Thong United	`*https://www.fctv77.live/football/thai-fa-cup-match-4171991/sukhothai-vs-muang-thong-united-04-2025.html
-
 18:00 🇮🇳 Indian Super Cup	^-
 Bengaluru vs Inter Kashi	`*https://www.fctv77.live/football/indian-super-cup-match-4173654/bengaluru-vs-inter-kashi-04-2025.html
+
+18:30 🇺🇿 Uzbekistan Cup	^-
+Namangan FA vs Kuruvchi Bunyodkor	`*https://www.fctv77.live/football/uzbekistan-cup-match-4171392/namangan-fa-vs-kuruvchi-bunyodkor-04-2025.html
 
 18:30 🇨🇳 Chinese Football League 1	^-
 Guangxi Pingguo vs Guangdong Guangzhou	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145158/guangxi-pingguo-fc-vs-guangdong-guangzhou-power-04-2025.html
@@ -1098,6 +1062,11 @@ Sportsnet 360	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-p
 Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
 
 	^-
+^=SportDigital Fussball A	09!09amu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
+^=SportDigital Fussball B	09!09bmu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
+^=SportDigital Fussball C	09!09cmu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
+^=SportDigital Fussball D	09!09dmu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
+^=SportDigital Fussball E	09!09emu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
 ^=[l]Today's Matches[z]	`0https://govoet-live.blogspot.com/
 ^=Live OnTime Events~🏴󠁧󠁢󠁥󠁮󠁧󠁿~	`4https://zayaxaw.blogspot.com/?0234
 ^=yaxawav	`0https://yaxawav.blogspot.com/?0234
