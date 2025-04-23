@@ -7,74 +7,6 @@
 
 [w]23-04-2025[z]	^-
 
-18:00 🇮🇳 Indian Super Cup	^-
-Bengaluru vs Inter Kashi	`*https://www.fctv77.live/football/indian-super-cup-match-4173654/bengaluru-vs-inter-kashi-04-2025.html
-
-18:30 🇺🇿 Uzbekistan Cup	^-
-Namangan FA vs Kuruvchi Bunyodkor	`*https://www.fctv77.live/football/uzbekistan-cup-match-4171392/namangan-fa-vs-kuruvchi-bunyodkor-04-2025.html
-
-18:30 🇨🇳 Chinese Football League 1	^-
-Guangxi Pingguo vs Guangdong Guangzhou	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145158/guangxi-pingguo-fc-vs-guangdong-guangzhou-power-04-2025.html
-Shijiazhuang KungFu vs Suzhou Dongwu	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145166/shijiazhuang-gongfu-vs-suzhou-dongwu-04-2025.html
-
-19:00 🇦🇲 Armenian Premier League	^-
-FC West Armenia vs FC Pyunik	`*https://www.fctv77.live/football/armenian-premier-league-match-4011498/fc-west-armenia-vs-fc-pyunik-04-2025.html
-
-19:00 🇹🇭 Thai FA Cup	^-
-Nakhon Ratchasima vs BG Pathum United	`*https://www.fctv77.live/football/thai-fa-cup-match-4170365/nakhon-ratchasima-mazda-fc-vs-bg-pathum-united-04-2025.html
-
-19:00 🇷🇺 RUS D3A	^-
-Rodina Moskva II vs Kuban Krasnodar	`*https://www.fctv77.live/football/rus-d3a-match-4171477/rodina-moskva-ii-vs-kuban-krasnodar-04-2025.html
-
-19:15 🇺🇿 Uzbekistan Cup	^-
-OTMK Olmaliq vs Nasaf Qarshi	`*https://www.fctv77.live/football/uzbekistan-cup-match-4171398/fc-okmk-olmaliq-vs-nasaf-qarshi-04-2025.html
-
-20:00 🇭🇷 Croatian Football League	^-
-HNK Gorica vs Dinamo Zagreb	`*https://www.fctv77.live/football/croatian-football-league-match-3988067/hnk-gorica-vs-dinamo-zagreb-04-2025.html
-
-20:00 🇧🇦 Bosnia Herzegovina Premier League	^-
-NK Siroki Brijeg vs GOSK Gabela	`*https://www.fctv77.live/football/bosnia-and-herzegovina-premier-league-match-4161149/nk-siroki-brijeg-vs-gosk-gabela-04-2025.html
-FK Sloga Doboj vs HSK Zrinjski Mostar	`*https://www.fctv77.live/football/bosnia-and-herzegovina-premier-league-match-4161156/fk-sloga-doboj-vs-hsk-zrinjski-mostar-04-2025.html
-FK Zeljeznicar vs Borac Banja Luka	`*https://www.fctv77.live/football/bosnia-and-herzegovina-premier-league-match-4161162/fk-zeljeznicar-vs-borac-banja-luka-04-2025.html
-
-20:00 🇦🇿 Azerbaijan Cup	^-
-Qarabag vs Araz Nakhchivan	`*https://www.fctv77.live/football/azerbaijan-cup-match-4163678/qarabag-vs-araz-nakhchivan-04-2025.html
-
-20:00 🇷🇺 RUS D3A	^-
-FK Chelyabinsk vs Veles	`*https://www.fctv77.live/football/rus-d3a-match-4171473/fk-chelyabinsk-vs-veles-04-2025.html
-
-20:15 🇸🇦 Saudi Arabia Division 1	^-
-Abha vs Al-Jndal	`*https://www.fctv77.live/football/saudi-arabia-division-1-match-4117113/abha-vs-al-jandal-04-2025.html
-
-20:55 🇦🇪 UAE Adnoc Pro-League	^-
-Al Bataeh vs Al-Wasl	`*https://www.fctv77.live/football/united-arab-emirates-adnoc-pro-league-match-4166398/al-bataeh-vs-al-wasl-sc-04-2025.html
-Al-Jazira (UAE) vs Ittihad Kalba	`*https://www.fctv77.live/football/united-arab-emirates-adnoc-pro-league-match-4166441/al-jazirauae-vs-ittihad-kalba-fc-04-2025.html
-
-21:00 🇷🇸 Serbian Super liga	^-
-Novi Pazar vs Vojvodina Novi Sad	`*https://www.fctv77.live/football/serbian-super-liga-match-4169553/novi-pazar-vs-vojvodina-novi-sad-04-2025.html
-
-21:00 🇷🇺 RUS D3A	^-
-Volga Ulyanovsk vs FK Leningradets	`*https://www.fctv77.live/football/rus-d3a-match-4171476/volga-ulyanovsk-vs-fc-leningradets-04-2025.html
-
-21:30 🇮🇳 Indian Super Cup	^-
-Mumbai City vs Chennai Titans	`*https://www.fctv77.live/football/indian-super-cup-match-4173655/mumbai-city-fc--vs-chennaiyin-fc-04-2025.html
-
-22:00 🇫🇮 Finnish Veikkausliiga	^-
-KuPs vs IFK Mariehamn	`*https://www.fctv77.live/football/finnish-veikkausliiga-match-4113398/kups-vs-ifk-mariehamn-04-2025.html
-
-22:00 🇪🇪 Estonian Premium Liiga	^-
-Parnu JK Vaprus vs Trans Narva	`*https://www.fctv77.live/football/estonian-premium-liiga-match-4125740/parnu-jk-vaprus-vs-trans-narva-04-2025.html
-
-22:00 🇱🇻 Latvian Higher League	^-
-Jelgava vs Tukums-2000	`*https://www.fctv77.live/football/latvian-higher-league-match-4138540/jelgava-vs-tukums-2000-04-2025.html
-
-22:00 🇬🇷 Greek Super League	^-
-Lamia vs Volos NFC	`*https://www.fctv77.live/football/greek-super-league-match-4160813/lamia-vs-volos-nps-04-2025.html
-Panserraikos vs Panaitolikos Agrinio	`*https://www.fctv77.live/football/greek-super-league-match-4160816/panserraikos-vs-panaitolikos-agrinio-04-2025.html
-
-22:00 🇷🇸 Serbian Super liga	^-
-Mladost Lucani vs Backa Topola	`*https://www.fctv77.live/football/serbian-super-liga-match-4169552/mladost-lucani-vs-backa-topola-04-2025.html
-
 22:30 🇫🇮 Finnish Ykkosliiga	^-
 Ekenas IF Fotboll vs KaPa	`*https://www.fctv77.live/football/finnish-ykkosliiga-match-4134302/ekenas-if-fotboll-vs-kpyln-pallo-04-2025.html
 
@@ -248,19 +180,19 @@ Tigres UANL vs CDSyC Cruz Azul	`*https://www.fctv77.live/football/cncf-chl-match
 
 [l]Huhu.To[z]	`0https://huhu.to/
 [l]rbtv77[z] 🇮🇩 Live Events	`0https://rbtv77.im/
-[l]Today's Matches[z]	`0https://govoet-live.blogspot.com/
+[l]Today's Matches[z] `0https://govoet-live.blogspot.com/
 [l]multicanais[z] 🇵🇹 Multi Channels	`0https://multicanais.deal/
 
 	^-
 [w]Live Sports Channels[z]	^-
 
-SportDigital Fussball	09!09amu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
 Fancode Live	https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd!!159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
 Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Ziggo Sport 2 Football	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 Ziggo Sport 3 F1	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 Ziggo Sport 5 Football	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,!!3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
 Ziggo Sport 6 Golf	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,!!1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
+SportDigital Fussball	09!09amu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
 
 Sky Live Event 1	https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 Sky Live Event 2	https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
