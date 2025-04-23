@@ -7,54 +7,6 @@
 
 [w]23-04-2025[z]	^-
 
-22:30 🇫🇮 Finnish Ykkosliiga	^-
-Ekenas IF Fotboll vs KaPa	`*https://www.fctv77.live/football/finnish-ykkosliiga-match-4134302/ekenas-if-fotboll-vs-kpyln-pallo-04-2025.html
-
-22:50 🇸🇦 Saudi Arabia Division 1	^-
-Jubail vs Al-Hazm	`*https://www.fctv77.live/football/saudi-arabia-division-1-match-4117111/jubail-vs-al-hazm-04-2025.html
-
-22:55 🇸🇦 Saudi Professional League	^-
-Al-Riyadh vs Al-Fateh	`*https://www.fctv77.live/football/saudi-professional-league-match-4013860/al-riyadh-vs-al-fateh-sc-04-2025.html
-
-23:00 🇵🇱 Poland Liga 1	^-
-Odra Opole vs Stal Rzeszow	`*https://www.fctv77.live/football/poland-liga-1-match-3980701/odra-opole-vs-stal-rzeszow-04-2025.html
-
-23:00 🇮🇹 Italian Serie C	^-
-Asd Pineto Calcio vs ACD Virtus Entella	`*https://www.fctv77.live/football/italian-serie-c-match-4028104/asd-pineto-calcio-vs-acd-virtus-entella-04-2025.html
-Ternana vs US Pianese	`*https://www.fctv77.live/football/italian-serie-c-match-4028105/ternana-vs-us-pianese-04-2025.html
-Legnago Salus vs Pescara	`*https://www.fctv77.live/football/italian-serie-c-match-4028106/legnago-salus-vs-pescara-04-2025.html
-Pontedera vs Rimini	`*https://www.fctv77.live/football/italian-serie-c-match-4028114/pontedera-vs-rimini-04-2025.html
-Vis Pesaro vs Spal	`*https://www.fctv77.live/football/italian-serie-c-match-4028123/vis-pesaro-vs-spal-04-2025.html
-Arezzo vs Lucchese	`*https://www.fctv77.live/football/italian-serie-c-match-4028126/arezzo-vs-lucchese-04-2025.html
-Sassari Torres vs Carpi	`*https://www.fctv77.live/football/italian-serie-c-match-4028351/sassari-torres-vs-carpi-04-2025.html
-Sestri Levante vs Ascoli	`*https://www.fctv77.live/football/italian-serie-c-match-4029248/sestri-levante-vs-ascoli-04-2025.html
-Gubbio vs Milan Futuro	`*https://www.fctv77.live/football/italian-serie-c-match-4029249/gubbio-vs-milan-futuro-04-2025.html
-Nuovo Campobasso vs Perugia	`*https://www.fctv77.live/football/italian-serie-c-match-4029250/nuovo-campobasso-vs-perugia-04-2025.html
-
-23:00 🇫🇮 Finnish Veikkausliiga	^-
-SJK Seinajoen vs AC Oulu	`*https://www.fctv77.live/football/finnish-veikkausliiga-match-4113401/sjk-seinajoen-vs-ac-oulu-04-2025.html
-
-23:00 🇪🇪 Estonian Premium Liiga	^-
-Paide Linnameeskond vs Levadia Tallinn	`*https://www.fctv77.live/football/estonian-premium-liiga-match-4125735/paide-linnameeskond-vs-levadia-tallinn-04-2025.html
-
-23:00 🇧🇦 Bosnia Herzegovina Premier League	^-
-NK Siroki Brijeg vs GOSK Gabela	`*https://www.fctv77.live/football/bosnia-and-herzegovina-premier-league-match-4161149/nk-siroki-brijeg-vs-gosk-gabela-04-2025.html
-
-23:00 🇧🇬 Bulgarian Cup	^-
-Ludogorets Razgrad vs Botev Vratsa	`*https://www.fctv77.live/football/bulgarian-cup-match-4162448/ludogorets-razgrad-vs-botev-vratsa-04-2025.html
-
-23:00 🇸🇮 Slovenia Cup	^-
-FC Koper vs NK Bravo	`*https://www.fctv77.live/football/slovenia-cup-match-4168297/fc-koper-vs-nk-bravo-04-2025.html
-
-23:00 🇷🇸 Serbian Super liga	^-
-Partizan Belgrade vs OFK Beograd	`*https://www.fctv77.live/football/serbian-super-liga-match-4169204/partizan-belgrade-vs-ofk-beograd-04-2025.html
-
-23:00 🇷🇺 RUS D3A	^-
-Spartak Kostroma vs Mashuk-KMV	`*https://www.fctv77.live/football/rus-d3a-match-4171475/spartak-kostroma-vs-mashuk-kmv-04-2025.html
-
-23:00 🇶🇦 Qatar Crown Prince Cup	^-
-Al Duhail vs Al-Garrafa	`*https://www.fctv77.live/football/qatar-crown-prince-cup-match-4174597/al-duhail-vs-al-gharafa-04-2025.html
-
 23:10 🇸🇦 Saudi Professional League	^-
 Al Kholood vs Al-Akhdoud	`*https://www.fctv77.live/football/saudi-professional-league-match-4013829/al-kholood-vs-al-okhdood-04-2025.html
 
@@ -172,6 +124,51 @@ Mushuc Runa vs Club Atlético Unión	`*https://www.fctv77.live/football/conmebol
 09:00 CNCF CHL	^-
 Tigres UANL vs CDSyC Cruz Azul	`*https://www.fctv77.live/football/cncf-chl-match-4167099/tigres-uanl-vs-cruz-azul-04-2025.html
 
+10:00 🇲🇽 Mexico Liga MX Femenil	^-
+Juarez FC (w) vs Club America (w)	`*https://www.fctv77.live/football/mexico-liga-mx-femenil-match-4174681/juarez-fc-w-vs-club-america-w-04-2025.html
+
+10:05 🇲🇽 Mexico Ascenso MX	^-
+Tampico Madero vs Celaya FC	`*https://www.fctv77.live/football/mexico-ascenso-mx-match-4174625/tampico-madero-vs-celaya-fc-04-2025.html
+
+16:30 🇦🇺 Queensland State League 1	^-
+Logan Lightning vs Magic United TFA	`*https://www.fctv77.live/football/australia-queensland-state-league-1-match-4123810/logan-lightning-vs-magic-united-tfa-04-2025.html
+
+17:00 🇺🇦 Youth Team Championship	^-
+Zorya U21 vs FC Livyi Bereh U21	`*https://www.fctv77.live/football/ukrainian-youth-team-championship-match-4021670/zorya-u21-vs-fc-livyi-bereh-u21-04-2025.html
+
+17:00 🇦🇺 National Premier Leagues	^-
+Adelaide Raiders SC vs Adelaide Comets FC	`*https://www.fctv77.live/football/south-australia-national-premier-leagues-match-4117636/adelaide-raiders-sc-vs-adelaide-comets-fc-04-2025.html
+
+17:00 🇰🇷 Korean WK League	^-
+Gyeongju FC (w) vs Boeun Sangmu (w)	`*https://www.fctv77.live/football/korean-wk-league-match-4166961/gyeongju-fc-w-vs-boeun-sangmu-w-04-2025.html
+Seoul Amazones (w) vs Changnyeong (w)	`*https://www.fctv77.live/football/korean-wk-league-match-4166965/seoul-amazones-w-vs-changnyeong-w-04-2025.html
+KSPO FC vs Sejong Gumi Sportstoto (w)	`*https://www.fctv77.live/football/korean-wk-league-match-4167002/kspo-fc-w-vs-sejong-gumi-sportstoto-w-04-2025.html
+
+17:00 🇪🇹 ETH WL	^-
+Addis Ababa Ketema vs Kirkos FC (w)	`*https://www.fctv77.live/football/eth-wl-match-4175268/addis-ababa-ketema-w-vs-kirkos-fc-women-04-2025.html
+
+18:00 🇮🇳 Indian Super Cup	^-
+Northeast United vs Mohammedan SC	`*https://www.fctv77.live/football/indian-super-cup-match-4173713/northeast-united-vs-mohammedan-sc-04-2025.html
+
+19:00 🇮🇩 Indonesian Liga 1	^-
+Arema FC vs Madura United	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029557/arema-fc-vs-madura-united-04-2025.html
+
+20:00 🇦🇿 Azerbaijan First Division	^-
+Qaradag Lokbatan vs Difai Agsu FK	`*https://www.fctv77.live/football/azerbaijan-first-division-match-4173446/qaradag-lokbatan-vs-difai-agsu-fk-04-2025.html
+Mingachevir vs Baku Sportinq FK	`*https://www.fctv77.live/football/azerbaijan-first-division-match-4173447/mingachevir-vs-baku-sportinq-fk-04-2025.html
+
+23:30 🇸🇦 Saudi Professional League	^-
+Al-Orubah vs Al-Feiha	`*https://www.fctv77.live/football/saudi-professional-league-match-4013834/al-orubah-vs-al-fayha-04-2025.html
+
+23:45 🇳🇱 [y]Netherlands Eredivisie[z]	^-
+AZ Alkmaar vs NAC Breda	`*https://www.fctv77.live/football/netherlands-eredivisie-match-3983442/az-alkmaar-vs-nac-breda-04-2025.html
+
+[w]25-04-2025[z]	^-
+
+00:00 🇪🇸 [y]Spanish La Liga[z]	^-
+Osasuna vs Sevilla	`*https://www.fctv77.live/football/spanish-la-liga-match-3995046/ca-osasuna-vs-sevilla-fc-04-2025.html
+Leganes vs Girona	`*https://www.fctv77.live/football/spanish-la-liga-match-3995053/cd-leganes-vs-girona-fc-04-2025.html
+
 []👆 [y]Need Human Verification?[z] 👉 ** Click Here!	[]^+https://www.fctv77.live/football/cncf-chl-match-4167099/tigres-uanl-vs-cruz-azul-04-2025.html
 []** Follow the redirected page until Verification!	^-
 
@@ -237,6 +234,7 @@ Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Liv
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 Arena Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 BandSports 🇧🇷	https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.mpd!!74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
+beIN Sports 2	https://cdn1.yallaboom.online/live/bein2/chunks.m3u8?nimblesessionid=11287853
 beIN Sports 3	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 ČT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 DAZN Combat	https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
