@@ -20,7 +20,7 @@ Ferrol Carril Oeste vs Atletico Atlanta	`*https://www.fctv77.live/football/argen
 Portland Thorns FC (w) vs Gotham FC (w)	`*https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131809/portland-thorns-fc-w-vs-gotham-fc-w-04-2025.html
 
 14:30 🇨🇳 Chinese Football League 1	^-
-Dongguan Guanlian vs Heilongjiang Lava Spring	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145165/foshan-nanshi-vs-dingnan-united-04-2025.html
+Dongguan Guanlian vs Heilongjiang Lava	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145165/foshan-nanshi-vs-dingnan-united-04-2025.html
 
 15:30 🇺🇿 Uzbekistan Cup	^-
 Buxoro FK vs Lokomotiv Tashkent	`*https://www.fctv77.live/football/uzbekistan-cup-match-4171391/buxoro-fk-vs-lokomotiv-tashkent-04-2025.html
@@ -50,7 +50,7 @@ Sukhothai vs Muang Thong United	`*https://www.fctv77.live/football/thai-fa-cup-m
 Bengaluru vs Inter Kashi	`*https://www.fctv77.live/football/indian-super-cup-match-4173654/bengaluru-vs-inter-kashi-04-2025.html
 
 18:30 🇨🇳 Chinese Football League 1	^-
-Guangxi Pingguo Haliao vs Guangdong Guangzhou Power	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145158/guangxi-pingguo-fc-vs-guangdong-guangzhou-power-04-2025.html
+Guangxi Pingguo vs Guangdong Guangzhou	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145158/guangxi-pingguo-fc-vs-guangdong-guangzhou-power-04-2025.html
 Shijiazhuang KungFu vs Suzhou Dongwu	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145166/shijiazhuang-gongfu-vs-suzhou-dongwu-04-2025.html
 
 19:00 🇦🇲 Armenian Premier League	^-
@@ -242,7 +242,7 @@ Venados FC vs Mineros de Zacatecas	`*https://www.fctv77.live/football/mexico-asc
 Monarcas Morelia vs CF Atlante	`*https://www.fctv77.live/football/mexico-ascenso-mx-match-4174624/monarcas-morelia-vs-cf-atlante-04-2025.html
 
 04:00 🇸🇻 El Salvador Primera Division	^-
-Fuerte San Francisco vs Alianza San Salvador	`*https://www.fctv77.live/football/el-salvador-primera-division-match-4116172/fuerte-san-francisco-vs-alianza-san-salvador-04-2025.html
+Fuerte Francisco vs Alianza Salvador	`*https://www.fctv77.live/football/el-salvador-primera-division-match-4116172/fuerte-san-francisco-vs-alianza-san-salvador-04-2025.html
 
 05:00 CONMEBOL Copa Libertadores	^-
 San Antonio Bulo Bulo vs Velez Sarsfield	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4159803/san-antonio-bulo-bulo-vs-velez-sarsfield-04-2025.html
@@ -253,7 +253,7 @@ CA Huracan vs America de Cali	`*https://www.fctv77.live/football/conmebol-copa-s
 Union Espanola vs Fluminense RJ	`*https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4163804/union-espanola-vs-fluminense-rj-04-2025.html
 
 07:30 🇺🇸 USL Championship	^-
-San Antonio vs Colorado Springs Switchbacks FC	`*https://www.fctv77.live/football/usl-championship-match-4126982/san-antonio-vs-colorado-springs-switchbacks-fc-04-2025.html
+San Antonio vs Colorado Springs	`*https://www.fctv77.live/football/usl-championship-match-4126982/san-antonio-vs-colorado-springs-switchbacks-fc-04-2025.html
 
 07:30 CONMEBOL Copa Libertadores	^-
 Estudiantes La Plata vs Botafogo RJ	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4163782/estudiantes-la-plata-vs-botafogo-rj-04-2025.html
