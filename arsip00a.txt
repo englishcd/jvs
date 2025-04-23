@@ -187,7 +187,6 @@ Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Liv
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 Arena Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 BandSports 🇧🇷	https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.mpd!!74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
-beIN Sports 2	https://cdn1.yallaboom.online/live/bein2/chunks.m3u8?nimblesessionid=11287853
 beIN Sports 3	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 ČT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 DAZN Combat	https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
@@ -949,6 +948,7 @@ Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07
 ^=SportDigital Fussball C	09!09cmu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
 ^=SportDigital Fussball D	09!09dmu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
 ^=SportDigital Fussball E	09!09emu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
+^=henrycolato ^+http://tv.masterplaytv.club:8080/get.php?username=henrycolato8&password=05a7d4ffb932&type=m3u_plus
 ^=[l]Today's Matches[z]	`0https://govoet-live.blogspot.com/
 ^=Live OnTime Events~🏴󠁧󠁢󠁥󠁮󠁧󠁿~	`4https://zayaxaw.blogspot.com/?0234
 ^=yaxawav	`0https://yaxawav.blogspot.com/?0234
