@@ -10,22 +10,6 @@
 
 [w]25-04-2025[z]	^-
 
-00:00 🇪🇸 [y]Spanish La Liga[z]	^-
-Osasuna vs Sevilla	`*https://www.fctv77.live/football/spanish-la-liga-match-3995046/ca-osasuna-vs-sevilla-fc-04-2025.html
-Leganes vs Girona	`*https://www.fctv77.live/football/spanish-la-liga-match-3995053/cd-leganes-vs-girona-fc-04-2025.html
-
-00:00 🇸🇪 Sweden Allsvenskan	^-
-IFK Norrkoping FK vs IFK Goteborg	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116523/ifk-norrkoping-fk-vs-ifk-goteborg-04-2025.html
-Djurgardens vs Osters IF	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116527/djurgardens-vs-osters-if-04-2025.html
-GAIS vs Brommapojkarna	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116539/gais-vs-brommapojkarna-04-2025.html
-IFK Varnamo vs AIK Solna	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116544/ifk-varnamo-vs-aik-04-2025.html
-
-00:30 🇹🇷 Turkish Cup	^-
-Trabzonspor vs Goztepe	`*https://www.fctv77.live/football/turkish-cup-match-4167444/trabzonspor-vs-goztepe-04-2025.html
-
-00:30 🇷🇴 Romanian Cup	^-
-CFR Cluj vs Farul Constanta	`*https://www.fctv77.live/football/romanian-cup-match-4167448/cfr-cluj-vs-farul-constanta-04-2025.html
-
 01:00 🇳🇱 Netherlands Eerste Divisie	^-
 Roda JC vs ADO Den Haag	`*https://www.fctv77.live/football/netherlands-eerste-divisie-match-3987191/roda-jc-vs-ado-den-haag-04-2025.html
 
