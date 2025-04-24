@@ -7,17 +7,6 @@
 
 [w]24-04-2025[z]	^-
 
-04:00 🇸🇻 El Salvador Primera Division	^-
-Fuerte Francisco vs Alianza Salvador	`*https://www.fctv77.live/football/el-salvador-primera-division-match-4116172/fuerte-san-francisco-vs-alianza-san-salvador-04-2025.html
-
-05:00 CONMEBOL Copa Libertadores	^-
-San Antonio Bulo Bulo vs Velez Sarsfield	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4159803/san-antonio-bulo-bulo-vs-velez-sarsfield-04-2025.html
-Olimpia Asuncion vs CA Penarol	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4163794/olimpia-asuncion-vs-ca-penarol-04-2025.html
-
-05:00 CONMEBOL Copa Sudamericana	^-
-CA Huracan vs America de Cali	`*https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4163799/ca-huracan-vs-america-de-cali-04-2025.html
-Union Espanola vs Fluminense RJ	`*https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4163804/union-espanola-vs-fluminense-rj-04-2025.html
-
 07:30 🇺🇸 USL Championship	^-
 San Antonio vs Colorado Springs	`*https://www.fctv77.live/football/usl-championship-match-4126982/san-antonio-vs-colorado-springs-switchbacks-fc-04-2025.html
 
@@ -130,7 +119,7 @@ Corinthians Paulista vs Racing Club	`*https://www.fctv77.live/football/conmebol-
 
 [l]Huhu.To[z]	`0https://huhu.to/
 [l]rbtv77[z] 🇮🇩 Live Events	`0https://rbtv77.im/
-[l]Today's Matches[z] `0https://govoet-live.blogspot.com/
+[l]Today's Matches[z]	`0https://govoet-live.blogspot.com/
 [l]multicanais[z] 🇵🇹 Multi Channels	`0https://multicanais.deal/
 
 	^-
@@ -948,7 +937,6 @@ Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07
 ^=SportDigital Fussball C	09!09cmu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
 ^=SportDigital Fussball D	09!09dmu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
 ^=SportDigital Fussball E	09!09emu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
-^=henrycolato ^+http://tv.masterplaytv.club:8080/get.php?username=henrycolato8&password=05a7d4ffb932&type=m3u_plus
 ^=[l]Today's Matches[z]	`0https://govoet-live.blogspot.com/
 ^=Live OnTime Events~🏴󠁧󠁢󠁥󠁮󠁧󠁿~	`4https://zayaxaw.blogspot.com/?0234
 ^=yaxawav	`0https://yaxawav.blogspot.com/?0234
