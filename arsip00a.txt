@@ -1,41 +1,13 @@
 [l]{s} Ⓗa0 Live Sports Events[z]	^-
 
+👉[y]New Live Sports & TV Channels[z]👈	^^s10
+
 [g]Live Football Events[z]	^-
 
 []👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4163798/corinthians-paulista-sp-vs-racing-club-montevideo-04-2025.html
 []** Follow the redirected page until Verification!	^-
 
 [w]24-04-2025[z]	^-
-
-07:30 🇺🇸 USL Championship	^-
-San Antonio vs Colorado Springs	`*https://www.fctv77.live/football/usl-championship-match-4126982/san-antonio-vs-colorado-springs-switchbacks-fc-04-2025.html
-
-07:30 CONMEBOL Copa Libertadores	^-
-Estudiantes La Plata vs Botafogo RJ	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4163782/estudiantes-la-plata-vs-botafogo-rj-04-2025.html
-Independiente Jose Teran vs River Plate	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4163784/independiente-del-valle-vs-river-plate-04-2025.html
-Libertad vs Sao Paulo	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4163788/club-libertad-asuncin-vs-sao-paulo-04-2025.html
-
-07:30 CONMEBOL Copa Sudamericana	^-
-Vitoria BA vs Cerro Largo	`*https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4163797/vitoria-ba-vs-cerro-largo-04-2025.html
-Caracas FC vs Atletico Mineiro	`*https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4163807/caracas-fc-vs-atletico-mineiro-04-2025.html
-
-08:00 🇺🇸 USL Championship	^-
-New Mexico United vs Monterey Bay FC	`*https://www.fctv77.live/football/usl-championship-match-4127048/new-mexico-united-vs-monterey-bay-fc-04-2025.html
-
-09:00 CONMEBOL Copa Libertadores	^-
-Atletico Bucaramanga vs Fortaleza	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4163789/atletico-bucaramanga-vs-fortaleza-04-2025.html
-
-09:00 CONMEBOL Copa Sudamericana	^-
-Mushuc Runa vs Club Atlético Unión	`*https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4163802/mushuc-runa-vs-club-atltico-unin-04-2025.html
-
-09:00 CNCF CHL	^-
-Tigres UANL vs CDSyC Cruz Azul	`*https://www.fctv77.live/football/cncf-chl-match-4167099/tigres-uanl-vs-cruz-azul-04-2025.html
-
-10:00 🇲🇽 Mexico Liga MX Femenil	^-
-Juarez FC (w) vs Club America (w)	`*https://www.fctv77.live/football/mexico-liga-mx-femenil-match-4174681/juarez-fc-w-vs-club-america-w-04-2025.html
-
-10:05 🇲🇽 Mexico Ascenso MX	^-
-Tampico Madero vs Celaya FC	`*https://www.fctv77.live/football/mexico-ascenso-mx-match-4174625/tampico-madero-vs-celaya-fc-04-2025.html
 
 16:30 🇦🇺 Queensland State League 1	^-
 Logan Lightning vs Magic United TFA	`*https://www.fctv77.live/football/australia-queensland-state-league-1-match-4123810/logan-lightning-vs-magic-united-tfa-04-2025.html
@@ -932,6 +904,7 @@ Sportsnet 360	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-p
 Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
 
 	^-
+^=New Live Sports & TV Channels	^^s10
 ^=SportDigital Fussball A	09!09amu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
 ^=SportDigital Fussball B	09!09bmu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
 ^=SportDigital Fussball C	09!09cmu3241218.oknirvana.club:8880/6mc180025/82171611/29060?zyy
