@@ -1,0 +1,2464 @@
+Live TV Channels	^-
+
+CINE - A&E (L)(1080)	00!0!0/9614?zyy
+CINE - A&E (M)(1080)	00!0!0/9615?zyy
+CINE - A&E (Z)(1080)	00!0!0/9616?zyy
+CINE - A3 Cine INT (TV)(SD)	00!0!0/9617?zyy
+CINE - A3 Series (M)(1080)	00!0!0/9618?zyy
+CINE - AMC (L)(720)	00!0!0/9619?zyy
+CINE - AMC (TV)(720)	00!0!0/9620?zyy
+CINE - AMC (Z)(1080)	00!0!0/9621?zyy
+CINE - AXN (L)(1080)	00!0!0/9622?zyy
+CINE - AXN (M)(720)	00!0!0/9623?zyy
+CINE - AXN (TV)(720)	00!0!0/9624?zyy
+CINE - AXN (Z)(1080)	00!0!0/9625?zyy
+CINE - HBO (M)(1080)	00!0!0/9666?zyy
+CINE - HBO (TV)(1080)	00!0!0/9668?zyy
+CINE - HBO (M)(720)	00!0!0/9667?zyy
+CINE - HBO (TV)(SD)	00!0!0/9669?zyy
+CINE - HBO (Z)	00!0!0/9670?zyy
+CINE - HBO 2 (T)(1080)	00!0!0/9673?zyy
+CINE - HBO 2 (Z)(1080)	00!0!0/9675?zyy
+CINE - HBO 2 (L)(720)	00!0!0/9671?zyy
+CINE - HBO 2 (TV)(720)	00!0!0/9674?zyy
+CINE - HBO Family (L)(1080)	00!0!0/9676?zyy
+CINE - HBO Family (T)(1080)	00!0!0/9678?zyy
+CINE - HBO Family (TV)(1080)	00!0!0/9679?zyy
+CINE - HBO Family (Z)(1080)	00!0!0/9681?zyy
+CINE - HBO Family (TV)(720)	00!0!0/9680?zyy
+CINE - HBO Family. (TV)(SD)	00!0!0/9677?zyy
+CINE - HBO Mundi (L)(720)	00!0!0/9682?zyy
+CINE - HBO Mundi (TV)(720)	00!0!0/9683?zyy
+CINE - HBO Mundi (Z)(720)	00!0!0/9684?zyy
+CINE - HBO Plus (M)(1080)	00!0!0/9685?zyy
+CINE - HBO Plus (M)(SD) [Dual Audio]	00!0!0/9686?zyy
+CINE - HBO Plus (TV)(SD)	00!0!0/9687?zyy
+CINE - HBO Plus (Z)(1080)	00!0!0/9688?zyy
+CINE - HBO POP (M)(1080)	00!0!0/9689?zyy
+CINE - HBO POP (Z)(720)	00!0!0/9691?zyy
+CINE - HBO POP. (TV)(SD)	00!0!0/9690?zyy
+CINE - HBO Signature (M)(720)	00!0!0/9692?zyy
+CINE - HBO Signature (TV)(720)	00!0!0/9693?zyy
+CINE - HBO Signature (Z)(720)	00!0!0/9694?zyy
+CINE - HBO Signature Dual Audio (L)(720)	00!0!0/9695?zyy
+CINE - HBO SUR (Z)	00!0!0/9696?zyy
+CINE - HBO Xtream (TV)(720)	00!0!0/9697?zyy
+CINE - HBO Xtreme (M)(1080)	00!0!0/9698?zyy
+CINE - HBO Xtreme (TV)(SD)	00!0!0/9700?zyy
+CINE - HBO Xtreme (Z)(720)	00!0!0/9701?zyy
+CINE - HBO Xtreme. (M)(720)	00!0!0/9699?zyy
+CINE - HBO. 2 (TV)(1080)	00!0!0/9672?zyy
+CINE - Cine Latino (L)(720)	00!0!0/9626?zyy
+CINE - Cine Latino (Z)	00!0!0/9627?zyy
+CINE - Cinecanal (L)(720)	00!0!0/9628?zyy
+CINE - CineCanal (TV)(1080)	00!0!0/9629?zyy
+CINE - CineCanal (TV)(720)	00!0!0/9630?zyy
+CINE - Cinecanal (Z)(1080)	00!0!0/9631?zyy
+CINE - Cinema Dinamita (Z)(720)	00!0!0/9632?zyy
+CINE - Cinemax (M)(1080)	00!0!0/9633?zyy
+CINE - Cinemax (TV)(720)	00!0!0/9634?zyy
+CINE - Cinemax (Z)(1080)	00!0!0/9635?zyy
+CINE - Comedy Central (L)(1080)	00!0!0/9636?zyy
+CINE - Comedy Central (M)(SD)	00!0!0/9637?zyy
+CINE - Paramount (Z)(720)	00!0!0/9705?zyy
+CINE - Paramount Channel. (TV)(720)	00!0!0/9708?zyy
+CINE - Paramount Network (M)(1080)	00!0!0/9707?zyy
+CINE - TNT (L)(720)	00!0!0/9742?zyy
+CINE - TNT (M)(1080)	00!0!0/9743?zyy
+CINE - TNT (M)(720)	00!0!0/9744?zyy
+CINE - TNT (TV)(1080)	00!0!0/9745?zyy
+CINE - TNT (Z)(720)	00!0!0/9746?zyy
+CINE - TNT Novelas (M)(1080)	00!0!0/9747?zyy
+CINE - TNT nOVELAS (M)(SD)	00!0!0/9737?zyy
+CINE - TNT Series (L)(720)	00!0!0/9748?zyy
+CINE - TNT Series (M)(1080)	00!0!0/9749?zyy
+CINE - TNT Series (TV)(1080)	00!0!0/9750?zyy
+CINE - TNT Series (Z)(720).	00!0!0/9751?zyy
+CINE - Universal Channel (L)(720)	00!0!0/9753?zyy
+CINE - Universal Channel (M)(1080)	00!0!0/9754?zyy
+CINE - Universal Channel (M)(SD)	00!0!0/9755?zyy
+CINE - Universal Cinema (L)(720)	00!0!0/9756?zyy
+CINE - Universal Cinema (M)(1080) [Dual Audio]	00!0!0/9757?zyy
+CINE - Universal Cinema (Z)(1080)	00!0!0/9758?zyy
+CINE - Universal Comedy (TV)(720)	00!0!0/9759?zyy
+CINE - Universal Comedy (Z)(720)	00!0!0/9760?zyy
+CINE - Universal Crime (L)(720)	00!0!0/9761?zyy
+CINE - Universal Crime (M)(720)	00!0!0/9762?zyy
+CINE - Universal Crime (TV)(720)	00!0!0/9763?zyy
+CINE - Universal Crime (Z)(720)	00!0!0/9764?zyy
+CINE - Universal Premier (L)(720)	00!0!0/9765?zyy
+CINE - Universal Premier (M)(1080) [Dual Audio]	00!0!0/9766?zyy
+CINE - Universal Premier (T)(720)	00!0!0/9767?zyy
+CINE - Universal Premiere Norte (Z)(720)	00!0!0/9768?zyy
+CINE - Universal Premiere Sur (Z)(720)	00!0!0/9769?zyy
+CINE - Universal Reality (L)(720)	00!0!0/9770?zyy
+CINE - Universal Reality (M)(1080)	00!0!0/9771?zyy
+CINE - Universal Reality (TV)(720)	00!0!0/9772?zyy
+CINE - Universal Reality (Z)(720)	00!0!0/9773?zyy
+CINE - Warner Channel (L)(1080)	00!0!0/9774?zyy
+CINE - Warner Channel (TV)(720)	00!0!0/9776?zyy
+CINE - Warner Channel (Z)(1080)	00!0!0/9777?zyy
+CINE - Warner Channel Dual Audio (M)(1080)	00!0!0/9775?zyy
+CINE - Wobi TV (TV)(1080)	00!0!0/9778?zyy
+CINE - HBO Xtreme - Dual (L)(720)	00!0!0/9779?zyy
+CINE - De Pelicula (M)(1080)	00!0!0/9638?zyy
+CINE - De Pelicula Plus (M)(1080)	00!0!0/9639?zyy
+CINE - De Pelicula Plus (Z)	00!0!0/9640?zyy
+CINE - De Peliculas Clasico (Z)(1080)	00!0!0/9641?zyy
+CINE - De Película (TV)(1080)	00!0!0/9642?zyy
+CINE - DHE (Z)(1080)	00!0!0/9643?zyy
+CINE - Distrito Comedia (L)(1080)	00!0!0/9644?zyy
+CINE - Distrito Comedia (M)(SD)	00!0!0/9645?zyy
+CINE - E! (M)(1080)	00!0!0/9646?zyy
+CINE - El Gourmet (M)(1080)	00!0!0/9647?zyy
+CINE - Europa Europa (M)(1080)	00!0!0/9648?zyy
+CINE - Film & Arts (Z)(1080)	00!0!0/9649?zyy
+CINE - Film And Arts (M)(SD)	00!0!0/9650?zyy
+CINE - Food Network (M)(1080)	00!0!0/9651?zyy
+CINE - FX (L)(720)	00!0!0/9652?zyy
+CINE - FX (M)(1080)	00!0!0/9653?zyy
+CINE - FX (Z)(1080)	00!0!0/9654?zyy
+CINE - FX MEX (TV)(720)	00!0!0/9655?zyy
+CINE - Golden (M)(720)	00!0!0/9656?zyy
+CINE - Golden (Z)(1080)	00!0!0/9657?zyy
+CINE - Golden Edge (M)(720)	00!0!0/9658?zyy
+CINE - Golden Edge (Z)(1080)	00!0!0/9659?zyy
+CINE - Golden Plus (L)(720)	00!0!0/9660?zyy
+CINE - Golden Plus (M)(1080) [Dual Audio]	00!0!0/9661?zyy
+CINE - Golden Plus (Z)(1080)	00!0!0/9662?zyy
+CINE - Golden Premier (Z)(720)	00!0!0/9663?zyy
+CINE - Golden Premiere (M)(1080) [Dual Audio]	00!0!0/9664?zyy
+CINE - Golden Premiere 2 (TV)(720)	00!0!0/9665?zyy
+CINE - I.Sat (M)(SD)	00!0!0/9702?zyy
+CINE - Lifetime (M)(1080)	00!0!0/9703?zyy
+CINE - Panico MEX (T)(720)	00!0!0/9704?zyy
+CINE - Showtime Extreme (Z)	00!0!0/9709?zyy
+CINE - Showtime West Dual (M)(1080)	00!0!0/9710?zyy
+CINE - Sony Channel (L)(1080)	00!0!0/9711?zyy
+CINE - Sony Channel (M)(1080)	00!0!0/9712?zyy
+CINE - Sony Cine (M)(1080)	00!0!0/9713?zyy
+CINE - Sony Comedias (S)(720)	00!0!0/9714?zyy
+CINE - Sony Movies (TV)(720)	00!0!0/9715?zyy
+CINE - Sony Novelas (TV)(720)	00!0!0/9716?zyy
+CINE - Space (TV)(1080)	00!0!0/9717?zyy
+CINE - Space (TV)(720)	00!0!0/9718?zyy
+CINE - Space (Z)(1080)	00!0!0/9719?zyy
+CINE - Star Channel (Z)(720)	00!0!0/9720?zyy
+CINE - STAR Channel CO (M)(1080) [Dual Audio]	00!0!0/9721?zyy
+CINE - STAR Channel CO. (M)(720)	00!0!0/9722?zyy
+CINE - STAR Channel MX (L)(1080)	00!0!0/9723?zyy
+CINE - Star Channel Norte (Z)(720)	00!0!0/9724?zyy
+CINE - Star Channel Sur (Z)(720)	00!0!0/9725?zyy
+CINE - Star TVE (M)(1080)	00!0!0/9726?zyy
+CINE - Starz (M)(1080)	00!0!0/9727?zyy
+CINE - Starz Comedy (M)(1080)	00!0!0/9728?zyy
+CINE - STARZ Encore (TV)(1080)	00!0!0/9729?zyy
+CINE - Starz Encore Suspense (Z)	00!0!0/9730?zyy
+CINE - Starz Family (M)(1080)	00!0!0/9731?zyy
+CINE - Studio Universal (M)(1080)	00!0!0/9732?zyy
+CINE - Studio Universal (TV)(720)	00!0!0/9733?zyy
+CINE - Syfy (M)(720)	00!0!0/9735?zyy
+CINE - SYFY (Z)(1080)	00!0!0/9736?zyy
+CINE - TBS (Z)	00!0!0/9738?zyy
+CINE - TBS Very Funny (TV)(720)	00!0!0/9739?zyy
+CINE - TCM (M)(SD)	00!0!0/9740?zyy
+CINE - TCM (Z)(1080)	00!0!0/9741?zyy
+PPV 3 - (e)(720)	00!0!0/113282?zyy
+PPV 4 - (e)(1080)	00!0!0/113283?zyy
+24/ The Walking Dead Daryl Dixon	00!0!0/94829?zyy
+24/7 - La casa de los Famosos All Stars 1	00!0!0/107978?zyy
+24/7 - La casa de los Famosos All Stars 2	00!0!0/107979?zyy
+24/7 2 Broke Girls (e)	00!0!0/94845?zyy
+24/7 2 Perros Tontos (e)	00!0!0/102880?zyy
+24/7 24H	00!0!0/95593?zyy
+24/7 40-20	00!0!0/94844?zyy
+24/7 9-1-1 (e)	00!0!0/94915?zyy
+24/7 A Corazon Abierto (e)(720)	00!0!0/95579?zyy
+24/7 Aida (e)	00!0!0/95595?zyy
+24/7 ALF (e)	00!0!0/96690?zyy
+24/7 Alias el Mexicano (e)()	00!0!0/94789?zyy
+24/7 Amantes Del Desierto (e)()	00!0!0/95580?zyy
+24/7 American Dad (e)	00!0!0/94874?zyy
+24/7 Aqui no hay quien viva (e)	00!0!0/95596?zyy
+24/7 Ataque a los titanes (e)	00!0!0/94884?zyy
+24/7 Atrapada en el medio (e)	00!0!0/95640?zyy
+24/7 Baby Looney Tunes (2002)	00!0!0/102584?zyy
+24/7 Batman (1966)	00!0!0/101815?zyy
+24/7 Batman del futuro (1999)	00!0!0/101816?zyy
+24/7 Batman El Enmascarado (2024)	00!0!0/101817?zyy
+24/7 Batman: La Serie Animada (1992)	00!0!0/101818?zyy
+24/7 Ben 10 (e)	00!0!0/102881?zyy
+24/7 Ben 10 - Alience Force (e)	00!0!0/102882?zyy
+24/7 Ben 10 Ultimate Alien (e)	00!0!0/102883?zyy
+24/7 Bermudez (e)	00!0!0/95581?zyy
+24/7 Better Call Saul (e)	00!0!0/94916?zyy
+24/7 Betty la Fea (e)(1080)	00!0!0/94575?zyy
+24/7 Betty la Fea (e)(SD)	00!0!0/92230?zyy
+24/7 BeyBlade (e)	00!0!0/94886?zyy
+24/7 Big Time Rush (e)	00!0!0/94988?zyy
+24/7 Black Sails	00!0!0/94812?zyy
+24/7 Blindspot (e)	00!0!0/94917?zyy
+24/7 Bloque de Busqueda	00!0!0/95582?zyy
+24/7 Boardwalk Empire (e)	00!0!0/94918?zyy
+24/7 Bob Esponja (e)	00!0!0/95041?zyy
+24/7 Bobo y Tonto (e)	00!0!0/102884?zyy
+24/7 Bonanza (e)	00!0!0/96692?zyy
+24/7 Bones (e)	00!0!0/94919?zyy
+24/7 Boruto: Naruto Next Generations (e)	00!0!0/94887?zyy
+24/7 Breaking Bad (e)	00!0!0/94920?zyy
+24/7 Brooklyn Nine-Nine (e)	00!0!0/94848?zyy
+24/7 Buena Suerte Charlie (e)	00!0!0/95638?zyy
+24/7 Buffy, cazavampiros	00!0!0/96693?zyy
+24/7 Cafe con Aroma de Mujer	00!0!0/94793?zyy
+24/7 Casa de los Famosos | Baños	00!0!0/107774?zyy
+24/7 Casa de los Famosos | Beauty	00!0!0/107773?zyy
+24/7 Casa de los Famosos | Comedor	00!0!0/107770?zyy
+24/7 Casa de los Famosos | Habitación Agua	00!0!0/107771?zyy
+24/7 Casa de los Famosos | Habitación Fuego	00!0!0/107772?zyy
+24/7 Casa de los Famosos | Loft	00!0!0/107769?zyy
+24/7 CatDog (e)	00!0!0/94989?zyy
+24/7 Chan Clan (1972)	00!0!0/105627?zyy
+24/7 Chan Clan (e)(SD)	00!0!0/110039?zyy
+24/7 Chespirito (e)	00!0!0/94990?zyy
+24/7 Chicago Fire (e)	00!0!0/94921?zyy
+24/7 Chicago Med (e)	00!0!0/94922?zyy
+24/7 Chicago P.D (e)	00!0!0/94987?zyy
+24/7 Cinema - Accion 2023	00!0!0/95607?zyy
+24/7 Cinema - Animacion (e)	00!0!0/95610?zyy
+24/7 Cinema - Anime (e)	00!0!0/95611?zyy
+24/7 Cinema - Aventura (e)	00!0!0/95612?zyy
+24/7 Cinema - Belico (e)	00!0!0/95614?zyy
+24/7 Cinema - Cantinflas (e)	00!0!0/95617?zyy
+24/7 Cinema - CienciaFiccion (e)	00!0!0/101174?zyy
+24/7 Cinema - Clasico (e)	00!0!0/95619?zyy
+24/7 Cinema - Comedia (e)	00!0!0/95620?zyy
+24/7 Cinema - Crimen (e)	00!0!0/95621?zyy
+24/7 Cinema - Cristianas (e)	00!0!0/95633?zyy
+24/7 Cinema - Disney Animacion (e)	00!0!0/95622?zyy
+24/7 Cinema - Disney Animacion 3D (e)	00!0!0/95623?zyy
+24/7 Cinema - Disney Live Action (e)	00!0!0/95624?zyy
+24/7 Cinema - Documentales (e)	00!0!0/95625?zyy
+24/7 Cinema - Dramas (e)	00!0!0/95626?zyy
+24/7 Cinema - Familiar (e)	00!0!0/95630?zyy
+24/7 Cinema - Fantasia (e)	00!0!0/95631?zyy
+24/7 Cinema - Gamer	00!0!0/95613?zyy
+24/7 Cinema - Horror (e)	00!0!0/94974?zyy
+24/7 Cinema - Infantiles (e)	00!0!0/95632?zyy
+24/7 Cinema - Jackie chan (e)	00!0!0/94960?zyy
+24/7 Cinema - Latino (e)	00!0!0/95616?zyy
+24/7 Cinema - Mexico Lindo (e)	00!0!0/94976?zyy
+24/7 Cinema - Musical (e)	00!0!0/94977?zyy
+24/7 Cinema - Parodias (e)	00!0!0/94978?zyy
+24/7 Cinema - Pedro Infante (e)	00!0!0/95618?zyy
+24/7 Cinema - Peliculas 2022 (e)	00!0!0/95627?zyy
+24/7 Cinema - Peliculas 2023 (e)	00!0!0/95628?zyy
+24/7 Cinema - Peliculas 2024 (e)	00!0!0/95629?zyy
+24/7 Cinema - Romantico (e)	00!0!0/101175?zyy
+24/7 Cinema - Sagas (e)	00!0!0/94985?zyy
+24/7 Cinema - Terror (e)	00!0!0/95636?zyy
+24/7 Cinema - Thriller (e)	00!0!0/94983?zyy
+24/7 Cinema - Universo DC Animacion (e)	00!0!0/94946?zyy
+24/7 Cinema - Universo DC: Live Action (e)	00!0!0/94947?zyy
+24/7 Cinema 4K (e)(4K)	00!0!0/95608?zyy
+24/7 Cinema Accion (e)	00!0!0/95609?zyy
+24/7 Clan del Oso Yogui (e)(HQ)	00!0!0/110035?zyy
+24/7 Club de Cuervos (e)	00!0!0/94849?zyy
+24/7 Clue Club (1976)	00!0!0/105628?zyy
+24/7 Cobra Kai	00!0!0/94813?zyy
+24/7 Comedy Central Stand-Up (e)	00!0!0/95597?zyy
+24/7 Como conocí a tu madre	00!0!0/94857?zyy
+24/7 Con el culo al aire (e)	00!0!0/94851?zyy
+24/7 Conejo Ricochet y Coyote Droop a Long (1964)	00!0!0/105629?zyy
+24/7 Coraje el Perro Cobarde (e)	00!0!0/102885?zyy
+24/7 Criminal Minds (e)	00!0!0/95604?zyy
+24/7 CSI Las Vegas (e)	00!0!0/94926?zyy
+24/7 CSI Miami (e)	00!0!0/94924?zyy
+24/7 CSI New York (e)	00!0!0/94925?zyy
+24/7 Death Note (e)	00!0!0/94889?zyy
+24/7 Dejemonos de Vargas	00!0!0/95583?zyy
+24/7 Demon Slayer: Kimetsu no Yaiba (e)	00!0!0/94890?zyy
+24/7 Detective Conan (e)	00!0!0/94892?zyy
+24/7 Dexter (e)	00!0!0/94927?zyy
+24/7 Digimon (e)	00!0!0/94891?zyy
+24/7 Dinamita el Perro Maravilla (1976)	00!0!0/105630?zyy
+24/7 Don Gato Y Su Pandilla (e)(1080)	00!0!0/110032?zyy
+24/7 Doraemon (e)	00!0!0/94893?zyy
+24/7 Dragon Ball (e)	00!0!0/94894?zyy
+24/7 Dragon Ball GT (e)	00!0!0/94899?zyy
+24/7 Dragon Ball Super (e)	00!0!0/94901?zyy
+24/7 Dragon Ball Z - Frezzer (e)	00!0!0/94896?zyy
+24/7 Dragon Ball Z - Saga Cell (e)	00!0!0/94897?zyy
+24/7 Dragon Ball Z - Saga Majin Buu (e)	00!0!0/94898?zyy
+24/7 Dragon Ball Z - Saga Saiyajin (e)	00!0!0/94895?zyy
+24/7 Dragon Ball Z Kai (e)	00!0!0/94900?zyy
+24/7 Drake y Josh (e)	00!0!0/94991?zyy
+24/7 Drama Total (e)	00!0!0/102887?zyy
+24/7 Droopy Master Detective (e)(SD)	00!0!0/110040?zyy
+24/7 Ecomoda	00!0!0/95585?zyy
+24/7 Ed Edd y Eddy (e)	00!0!0/102888?zyy
+24/7 El Auto Fantástico (e)	00!0!0/96694?zyy
+24/7 El Campamento de Lazlo (e)	00!0!0/102889?zyy
+24/7 El Candidato (e)	00!0!0/94814?zyy
+24/7 El Chapulin Colorado (e)	00!0!0/95639?zyy
+24/7 El Chavo del Ocho HD (e)	00!0!0/94993?zyy
+24/7 El Chavo del Ocho HQ (e)	00!0!0/94852?zyy
+24/7 El Escuadron Diabolico (1969)	00!0!0/105631?zyy
+24/7 El Escuadrón del tiempo (e)	00!0!0/102890?zyy
+24/7 El Espectacular Hombre-Araña (2008)(e)	00!0!0/101894?zyy
+24/7 El fantasma revoltoso (1971)	00!0!0/105632?zyy
+24/7 El Fantasma Revoltoso (e)(SD)	00!0!0/110041?zyy
+24/7 El Hombre-Araña: Sin Limites (1999)(e)	00!0!0/101899?zyy
+24/7 El Juego de las Llaves (e)	00!0!0/94853?zyy
+24/7 El Laboratorio de Dexter (e)	00!0!0/102886?zyy
+24/7 El Lagartijo de Ned (e)	00!0!0/102891?zyy
+24/7 El Leon Melquiades (1961)	00!0!0/105633?zyy
+24/7 El Man es German (e)(720)	00!0!0/95586?zyy
+24/7 El Mentalista (e)	00!0!0/94937?zyy
+24/7 El mundo oculto de Sabrina (e)	00!0!0/94823?zyy
+24/7 El nuevo show del Oso Yogi (1988)	00!0!0/105635?zyy
+24/7 El señor de los anillos: Los anillos de poder (e)	00!0!0/95594?zyy
+24/7 El Show de Huckleberry Hound	00!0!0/110042?zyy
+24/7 El Show de los 70's (e)	00!0!0/96776?zyy
+24/7 El Show de los Looney Tunes (e)	00!0!0/95042?zyy
+24/7 El Show de Pebbles y Bamm-Bamm (1971)	00!0!0/105636?zyy
+24/7 El show de Scooby-Doo y Scrappy-Doo (e)	00!0!0/95040?zyy
+24/7 El show de Tom y Jerry 1980 (e)(1080)	00!0!0/101814?zyy
+24/7 El Show del Oso Yogi (e)(1080)	00!0!0/110034?zyy
+24/7 El Show del Oso Yogui (1961)	00!0!0/105634?zyy
+24/7 El Super Agente 86 (e)	00!0!0/96695?zyy
+24/7 El valle de los dinosaurios (e)(SD)	00!0!0/110043?zyy
+24/7 Elite (e)	00!0!0/95605?zyy
+24/7 Erase una vez	00!0!0/94836?zyy
+24/7 Falling Skies	00!0!0/94815?zyy
+24/7 Fantasma del Espacio de Costa a Costa (e)	00!0!0/102908?zyy
+24/7 Fear the Walking Dead (e)	00!0!0/94825?zyy
+24/7 Fenomenoide (e)	00!0!0/102892?zyy
+24/7 Frankenstein Jr (1966)	00!0!0/105650?zyy
+24/7 Friends (e)	00!0!0/94854?zyy
+24/7 Full House (e)	00!0!0/94855?zyy
+24/7 Futurama (e)	00!0!0/94877?zyy
+24/7 Galaxy Goof-Ups (e)(720)	00!0!0/110044?zyy
+24/7 Game of Thrones (e)	00!0!0/94830?zyy
+24/7 Game of Thrones (e)(4K)	00!0!0/94940?zyy
+24/7 Gasparin y los angeles	00!0!0/110045?zyy
+24/7 Generator Rex (e)	00!0!0/102893?zyy
+24/7 Glee (e)	00!0!0/95598?zyy
+24/7 Halo (e)	00!0!0/94831?zyy
+24/7 Hannah Montana (e)	00!0!0/95641?zyy
+24/7 Harry Potter Opc2 (e)	00!0!0/94206?zyy
+24/7 Hawaii 5.0 (e)	00!0!0/94929?zyy
+24/7 HBO Plus (M)(1080)	00!0!0/85884?zyy
+24/7 HBO Signature (M)(1080)	00!0!0/85885?zyy
+24/7 Hechizada (e)	00!0!0/96691?zyy
+24/7 Hermanitas Calles (e)	00!0!0/95587?zyy
+24/7 Heroes (e)	00!0!0/94832?zyy
+24/7 Homeland (e)	00!0!0/94930?zyy
+24/7 iCarly (e)	00!0!0/95643?zyy
+24/7 Infantil - Avatar: La leyenda de Aang (e)	00!0!0/95009?zyy
+24/7 Infantil - Ben 10: Ultimate Alien (e)	00!0!0/95648?zyy
+24/7 Infantil - Capitán Calzoncillos (e)	00!0!0/95023?zyy
+24/7 Infantil - El Chavo Animado (e)	00!0!0/95012?zyy
+24/7 Infantil - El Pajaro Loco y sus Amigos (e)	00!0!0/95013?zyy
+24/7 Infantil - El Show Del Pajaro Loco	00!0!0/95014?zyy
+24/7 Infantil - Gravity Falls (E)	00!0!0/95015?zyy
+24/7 Infantil - Jimmy Neutron (e)	00!0!0/95016?zyy
+24/7 Infantil - Kick Buttowski (e)	00!0!0/95017?zyy
+24/7 Infantil - KND Los Chicos Del Barrio (e)	00!0!0/95018?zyy
+24/7 Infantil - Las Aventuras de Billy y Mandy (e)	00!0!0/95022?zyy
+24/7 Infantil - Looney Tunes Platinium (e)	00!0!0/102583?zyy
+24/7 Infantil - Los Padrinos Magicos	00!0!0/95653?zyy
+24/7 Infantil - Los pingüinos de Madagascar	00!0!0/95028?zyy
+24/7 Infantil - Los Pitufos (e)	00!0!0/95029?zyy
+24/7 Infantil - Masha y el Oso (e)	00!0!0/95030?zyy
+24/7 Infantil - Oye Arnold	00!0!0/95031?zyy
+24/7 Infantil - Paw Patrol (e)	00!0!0/95019?zyy
+24/7 Infantil - Peppa Pig (e)	00!0!0/95032?zyy
+24/7 Infantil - Phineas y Ferb (e)	00!0!0/95033?zyy
+24/7 Infantil - Rugrats (e)	00!0!0/95034?zyy
+24/7 Infantil - Rugrats Crecidos (e)	00!0!0/95010?zyy
+24/7 Infantil - Winnie the Pooh (e)	00!0!0/95024?zyy
+24/7 Johnny Bravo (e)	00!0!0/102894?zyy
+24/7 Jones El Robot (e)	00!0!0/102895?zyy
+24/7 Jonny Quest (1996)	00!0!0/105637?zyy
+24/7 Juegos Prohibidos (e)	00!0!0/94799?zyy
+24/7 Jujutsu Kaisen (e)	00!0!0/94902?zyy
+24/7 Kenan and Kel (e)	00!0!0/94999?zyy
+24/7 Krypto El Superperro (e)	00!0!0/102896?zyy
+24/7 La Carrera Espacial de Yogi (e)(720)	00!0!0/110046?zyy
+24/7 La Casa de los Famosos (Colombia)	00!0!0/107768?zyy
+24/7 La Casa de Papel	00!0!0/95606?zyy
+24/7 La Casa del Dragon (e)	00!0!0/94834?zyy
+24/7 La Familia Addams (1972)	00!0!0/105638?zyy
+24/7 La familia Ingalls (e)	00!0!0/96699?zyy
+24/7 La familia Monster (e)	00!0!0/96780?zyy
+24/7 La familia P. Luche (e)	00!0!0/94859?zyy
+24/7 La Ley y el Orden (e)	00!0!0/94932?zyy
+24/7 La Mascara: La serie animada (e)	00!0!0/102910?zyy
+24/7 La Materia Oscura (e)	00!0!0/94833?zyy
+24/7 La Pequena Lulu	00!0!0/102897?zyy
+24/7 La que se avecina (e)	00!0!0/94858?zyy
+24/7 La Reina del Flow (e)(1080)	00!0!0/95578?zyy
+24/7 La Saga Negocio de Familia (e)	00!0!0/94800?zyy
+24/7 La Seleccion (e)	00!0!0/95588?zyy
+24/7 La Tremenda Corte (e)	00!0!0/96698?zyy
+24/7 La Vaca Y El Pollito (e)	00!0!0/102898?zyy
+24/7 Lady La Vendedora de Rosas	00!0!0/95589?zyy
+24/7 Las Aventuras de Batman y Robin el Chico Maravilla (1977)	00!0!0/101819?zyy
+24/7 Las aventuras de Silvestre y Piolin (e)	00!0!0/102899?zyy
+24/7 Las aventuras de Timon y Pumba (e)	00!0!0/102588?zyy
+24/7 Las chicas superpoderosas (e)	00!0!0/102911?zyy
+24/7 Las macabras aventuras de Billy y Mandy (e)	00!0!0/102900?zyy
+24/7 Las Nuevas Aventuras De Los Picapiedras (e)(1080)	00!0!0/110038?zyy
+24/7 Las nuevas Aventuras de Scooby-Doo (e)	00!0!0/95035?zyy
+24/7 Las olimpiadas de la risa (1977)	00!0!0/105639?zyy
+24/7 Lindo pulgoso (1965)	00!0!0/105640?zyy
+24/7 Lobo Ralph y Perro Sam (e)	00!0!0/102586?zyy
+24/7 Loki (e)(4K)	00!0!0/94941?zyy
+24/7 Loopy De Loop (1959)	00!0!0/105641?zyy
+24/7 Los 100 (e)	00!0!0/94841?zyy
+24/7 Los 4 Fantasticos (e)(SD)	00!0!0/110047?zyy
+24/7 Los años maravillosos (e)	00!0!0/96782?zyy
+24/7 Los Caballeros del Zodiaco (e)	00!0!0/94912?zyy
+24/7 Los Chicos del Barrio	00!0!0/102901?zyy
+24/7 Los Dukes de Hazzard (e)	00!0!0/96779?zyy
+24/7 Los expedientes secretos X (e)	00!0!0/94843?zyy
+24/7 los guardianes galacticos (e)(SD)	00!0!0/110048?zyy
+24/7 Los Hechiceros de Waverly Place (e)	00!0!0/95001?zyy
+24/7 Los jovenes titanes (e)	00!0!0/102902?zyy
+24/7 Los locos Addams	00!0!0/96777?zyy
+24/7 Los Magníficos (e)	00!0!0/96778?zyy
+24/7 Los Pequenos Picapiedras (e)(SD)	00!0!0/110050?zyy
+24/7 Los Picapiedras (e)(1080)	00!0!0/110033?zyy
+24/7 Los piratas de las aguas negras (1991)	00!0!0/105642?zyy
+24/7 Los Pitufos (e)(SD)	00!0!0/110049?zyy
+24/7 Los Sabados Secretos (e)	00!0!0/102903?zyy
+24/7 Los Simpson - 11al20 (e)	00!0!0/94882?zyy
+24/7 Los Simpson - 1al10 (e)	00!0!0/94881?zyy
+24/7 Los Simpson - 21al35 (e)	00!0!0/94883?zyy
+24/7 Los Supersonicos (1962)	00!0!0/105643?zyy
+24/7 Los Thunderman (e)	00!0!0/95002?zyy
+24/7 Los Tres Chiflados (e)	00!0!0/96781?zyy
+24/7 Lost (e)	00!0!0/94816?zyy
+24/7 MacGyver (e)	00!0!0/96774?zyy
+24/7 Malcolm in the Middle (e)	00!0!0/94860?zyy
+24/7 Manual de supervivencia escolar de Ned (e)	00!0!0/95003?zyy
+24/7 Marvels Spiderman (e)	00!0!0/101895?zyy
+24/7 Marvels Ultimate Spider-Man (2012)(e)	00!0!0/101900?zyy
+24/7 Matrimonio con hijos	00!0!0/94861?zyy
+24/7 Mi Bella Genio (e)	00!0!0/96696?zyy
+24/7 Motoraton y Autogato (1969)	00!0!0/105644?zyy
+24/7 Motormouse And Autocat (e)(SD)	00!0!0/110051?zyy
+24/7 Mucha Lucha (e)	00!0!0/102904?zyy
+24/7 Naruto (e)	00!0!0/94903?zyy
+24/7 Naruto Shippude 11al20 (e)	00!0!0/94905?zyy
+24/7 Naruto Shippude 1al10 (e)	00!0!0/94904?zyy
+24/7 NCIS (e)	00!0!0/94933?zyy
+24/7 NCIS Los Angeles (e)	00!0!0/94934?zyy
+24/7 One Piece 11al21 (e)	00!0!0/94907?zyy
+24/7 One Piece 1al10 (e)	00!0!0/94906?zyy
+24/7 Padre de Familia - 1al8 (e)	00!0!0/94875?zyy
+24/7 Padre de Familia - 9al17 (e)	00!0!0/94876?zyy
+24/7 Pandillas Guerra y Paz (e)	00!0!0/94803?zyy
+24/7 Pecados Capitales (e)	00!0!0/94804?zyy
+24/7 Pedro El Escamoso (e)	00!0!0/94805?zyy
+24/7 Peliculas Cartoon Network (e)	00!0!0/102905?zyy
+24/7 Pepe Le Pew (e)	00!0!0/102585?zyy
+24/7 Pepe Potamo (1964)	00!0!0/105645?zyy
+24/7 Perdidos en el Espacio	00!0!0/94835?zyy
+24/7 Pokemon 10al18 (e)	00!0!0/94909?zyy
+24/7 Pokemon 1al9 (e)	00!0!0/94908?zyy
+24/7 Policía de acero Jiban (e)	00!0!0/96697?zyy
+24/7 Prison Break (e)	00!0!0/94935?zyy
+24/7 Pulgarcito investigador privado (1973)	00!0!0/105646?zyy
+24/7 Pulpo Manotas (1965)	00!0!0/105647?zyy
+24/7 Ranma ½ (e)	00!0!0/95601?zyy
+24/7 Rebelde (e)	00!0!0/95590?zyy
+24/7 Richy Ricon (e)(SD)	00!0!0/110052?zyy
+24/7 Rick and Morty (e)	00!0!0/94878?zyy
+24/7 Rosario Tijeras - Colombia (e)	00!0!0/94806?zyy
+24/7 Rosario Tijeras - Mexico (e)	00!0!0/95591?zyy
+24/7 Rubi (e)	00!0!0/95592?zyy
+24/7 S.W.A.T. (e)	00!0!0/94936?zyy
+24/7 Salvados por la campana (e)	00!0!0/96775?zyy
+24/7 Sam y Cat (e)	00!0!0/95005?zyy
+24/7 Samurai Jack (e)	00!0!0/102906?zyy
+24/7 Scooby-Doo Misterios S. A.	00!0!0/95039?zyy
+24/7 Scooby-Doo y adivina quién?	00!0!0/95037?zyy
+24/7 Scrubs (e)	00!0!0/95599?zyy
+24/7 SEAL Team (e)	00!0!0/94817?zyy
+24/7 See (e)	00!0!0/94837?zyy
+24/7 Sex and the City	00!0!0/94864?zyy
+24/7 Shameless (e)	00!0!0/94865?zyy
+24/7 shogun 1980 (e)	00!0!0/94818?zyy
+24/7 Showtime Beyond (M)(1080)	00!0!0/86000?zyy
+24/7 Sin Senos No Hay Paraiso (e)	00!0!0/94807?zyy
+24/7 South Park - 13al24 (e)	00!0!0/94880?zyy
+24/7 South Park - 1al12 (e)	00!0!0/94879?zyy
+24/7 Soy La Comadreja (e)	00!0!0/102907?zyy
+24/7 Spartacus (e)	00!0!0/94819?zyy
+24/7 Speedy Gonzales (e)	00!0!0/102587?zyy
+24/7 Spider Man Coleccion Peliculas (e)	00!0!0/101896?zyy
+24/7 Spider-Man (1981)(e)	00!0!0/101898?zyy
+24/7 Spider-Man (1994)(e)	00!0!0/101897?zyy
+24/7 Squid Game (e)	00!0!0/94820?zyy
+24/7 Star Trek: Discovery	00!0!0/94838?zyy
+24/7 Starz Comedy (M)(1080)	00!0!0/86007?zyy
+24/7 Starz East (M)(1080)	00!0!0/86008?zyy
+24/7 Starz Edge (M)(1080)	00!0!0/86009?zyy
+24/7 Station 19 (e)	00!0!0/94821?zyy
+24/7 Stranger Things (e)	00!0!0/94839?zyy
+24/7 Supercampeones (e)	00!0!0/94888?zyy
+24/7 Supernatural (e)	00!0!0/94840?zyy
+24/7 Superstore (e)	00!0!0/94866?zyy
+24/7 The Batman (2004)	00!0!0/101820?zyy
+24/7 The Big Bang Theory (e)	00!0!0/94867?zyy
+24/7 The Fresh Prince of Bel Air (e)	00!0!0/94868?zyy
+24/7 The Mandalorian (e)	00!0!0/94842?zyy
+24/7 The Mandalorian (e)(4K)	00!0!0/94942?zyy
+24/7 The Office (e)	00!0!0/94869?zyy
+24/7 The Rookie (e)	00!0!0/94938?zyy
+24/7 The Walking Dead	00!0!0/94826?zyy
+24/7 The Walking Dead Dead City (e)	00!0!0/94828?zyy
+24/7 The Walking Dead World Beyond (e)	00!0!0/94827?zyy
+24/7 Thundarr el barbaro (1980)	00!0!0/105648?zyy
+24/7 Tiro Loco (e)(SD)	00!0!0/110053?zyy
+24/7 Titan Sim-Bionico (e)	00!0!0/102909?zyy
+24/7 Tom Y Jerry (e)(1080)	00!0!0/101184?zyy
+24/7 Travesuras De Los Picapiedras (1980)	00!0!0/105649?zyy
+24/7 Two and a Half Men	00!0!0/94870?zyy
+24/7 Un cachorro llamado Scooby Doo (e)	00!0!0/95036?zyy
+24/7 Un Show mas (e)	00!0!0/102912?zyy
+24/7 Una familia de diez (e)	00!0!0/94871?zyy
+24/7 Una Familia Moderna (e)	00!0!0/94862?zyy
+24/7 Universo Marvel (e)	00!0!0/94943?zyy
+24/7 Universo Marvel 2 (e)	00!0!0/94944?zyy
+24/7 Universo Star Wars (e)	00!0!0/94948?zyy
+24/7 Vecinos (e)	00!0!0/94872?zyy
+24/7 Victorious (e)	00!0!0/95647?zyy
+24/7 Vikings (e)	00!0!0/94822?zyy
+24/7 Walker Comisario de Texas (e)	00!0!0/96783?zyy
+24/7 White Collar (e)	00!0!0/94939?zyy
+24/7 Xena: La princesa guerrera (e)	00!0!0/101183?zyy
+24/7 Yo Yogi (e)(HQ)	00!0!0/110036?zyy
+24/7 Yogui y la busqueda del tesoro (e)(HQ)	00!0!0/110037?zyy
+24/7 Young Sheldon (e)	00!0!0/95600?zyy
+24/7 Yu-Gi-Oh (e)	00!0!0/95603?zyy
+24/7 Zack y Cody: Gemelos a bordo (e)	00!0!0/94997?zyy
+24/7 Zoey 101	00!0!0/95008?zyy
+24/7 ¡Scooby-Doo, dónde estás!	00!0!0/95038?zyy
+3ABN Dare To Dream Network | US	00!0!0/87932?zyy
+3ABN English | US	00!0!0/87933?zyy
+3ABN International | US	00!0!0/87934?zyy
+3ABN Kids | US	00!0!0/87935?zyy
+3ABN Latino | US	00!0!0/87936?zyy
+3ABN Praise Him Music Network | US	00!0!0/87937?zyy
+3ABN Proclaim! Network | US	00!0!0/87938?zyy
+A&R Canal Adventista | CO (720p)	00!0!0/87939?zyy
+Alcance TV | MX	00!0!0/87989?zyy
+Apostol TV (576p)	00!0!0/87941?zyy
+BTN TV (1080p)	00!0!0/87943?zyy
+Canal 13 Jujuy TV (720p)	00!0!0/87944?zyy
+Canal 30 TV Bethel (720p)	00!0!0/87946?zyy
+Canal ISB | CL	00!0!0/87991?zyy
+Canal Santa María (360p)	00!0!0/87949?zyy
+Casa Sobre La Roca TV | CL	00!0!0/87992?zyy
+Catholic TV	00!0!0/87951?zyy
+CBN Español (1080p)	00!0!0/87952?zyy
+CBN Family (1080p)	00!0!0/87953?zyy
+CBN News National (1080p)	00!0!0/87954?zyy
+CCTN 47 (1080p)	00!0!0/87955?zyy
+CFN Catholic Faith Network (720p)	00!0!0/87957?zyy
+Cielo TV (1080p)	00!0!0/87959?zyy
+CINEMA PPV-Cinema 01 (M)(1080)	00!0!0/8586?zyy
+CINEMA PPV-Cinema 02 (M)(1080)	00!0!0/8587?zyy
+CINEMA PPV-Cinema 03 (M)(1080)	00!0!0/8588?zyy
+CINEMA PPV-Cinema 04 (M)(1080)	00!0!0/8589?zyy
+CINEMA PPV-Cinema 05 (M)(1080)	00!0!0/8590?zyy
+CINEMA PPV-Cinema 06 (M)(1080)	00!0!0/8591?zyy
+CINEMA PPV-Cinema 07 (M)(1080)	00!0!0/8592?zyy
+CINEMA PPV-Cinema 08 (M)(1080)	00!0!0/8593?zyy
+CINEMA PPV-Cinema 09 (M)(1080)	00!0!0/8594?zyy
+CINEMA PPV-Cinema 10 (M)(1080)	00!0!0/8595?zyy
+CINEMA PPV-Cinema 11 (M)(1080)	00!0!0/8596?zyy
+CINEMA PPV-Cinema 12 (M)(1080)	00!0!0/8597?zyy
+CINEMA PPV-Cinema 13 (M)(1080)	00!0!0/8598?zyy
+CINEMA PPV-Cinema 14 (M)(1080)	00!0!0/8599?zyy
+CINEMA PPV-Cinema 15 (M)(1080)	00!0!0/8600?zyy
+CINEMA PPV-Cinema 16 (M)(1080)	00!0!0/8601?zyy
+CINEMA PPV-Cinema 17 (M)(1080)	00!0!0/8602?zyy
+CINEMA PPV-Cinema 18 (M)(1080)	00!0!0/8603?zyy
+CINEMA PPV-Cinema 19 (M)(1080)	00!0!0/8604?zyy
+CINEMA PPV-Cinema 20 (M)(1080)	00!0!0/8605?zyy
+CINEMA PPV-Cinema 21 (M)(1080)	00!0!0/8606?zyy
+CINEMA PPV-Cinema 22 (M)(1080)	00!0!0/8607?zyy
+CINEMA PPV-Cinema 23 (M)(1080)	00!0!0/8608?zyy
+CINEMA PPV-Cinema 24 (M)(1080)	00!0!0/8609?zyy
+CINEMA PPV-Cinema 25 (M)(1080)	00!0!0/8610?zyy
+CINEMA PPV-Cinema 26 (M)(1080)	00!0!0/8611?zyy
+CINEMA PPV-Cinema 27 (M)(1080)	00!0!0/8612?zyy
+CINEMA PPV-Cinema 28 (M)(1080)	00!0!0/8613?zyy
+CINEMA PPV-Cinema 29 (M)(1080)	00!0!0/8614?zyy
+CINEMA PPV-Cinema 30 (M)(1080)	00!0!0/8615?zyy
+CINEMA PPV-Cinema 31 (M)(1080)	00!0!0/8616?zyy
+CINEMA PPV-Cinema 32 (M)(1080)	00!0!0/8617?zyy
+CINEMA PPV-Cinema 33 (M)(1080)	00!0!0/8618?zyy
+CINEMA PPV-Cinema 34 (M)(1080)	00!0!0/8619?zyy
+CINEMA PPV-Cinema 35 (M)(1080)	00!0!0/8620?zyy
+CINEMA PPV-Cinema 36 (M)(1080)	00!0!0/8621?zyy
+CINEMA PPV-Cinema 37 (M)(1080)	00!0!0/8622?zyy
+Credo TV (720p)	00!0!0/87960?zyy
+Cristiana TV | ES	00!0!0/87994?zyy
+Cristo Visión Canal 31 (720p)	00!0!0/87961?zyy
+DEPORTES - Espn 1 COL (PM)(1080)	00!0!0/9516?zyy
+DEPORTES - Espn 1 COL (e)(720)	00!0!0/9517?zyy
+DEPORTES - Espn 1 CHI (PM)(1080)	00!0!0/99538?zyy
+DEPORTES - Espn 1 CHI (PM)(720)	00!0!0/99539?zyy
+DEPORTES - Espn 1 ARG (T)(720)	00!0!0/9520?zyy
+DEPORTES - Espn 1 ARG (TV)(1080)	00!0!0/9521?zyy
+DEPORTES - Espn 1 ARG (Z)(720)	00!0!0/9522?zyy
+DEPORTES - Espn 1 MEX (L)(720)	00!0!0/9523?zyy
+DEPORTES - Espn 1 MEX (TV)(720)	00!0!0/9524?zyy
+DEPORTES - Espn 1 MEX (T)(1080)	00!0!0/9525?zyy
+DEPORTES - Espn 2 ARG (e)(720)	00!0!0/9526?zyy
+DEPORTES - Espn 2 ARG (PM)(1080)	00!0!0/9527?zyy
+DEPORTES - Espn 2 ARG (Z)(720)	00!0!0/9528?zyy
+DEPORTES - Espn 2 COL (TV)(1080)	00!0!0/9529?zyy
+DEPORTES - Espn 2 MEX (L)(720)	00!0!0/9530?zyy
+DEPORTES - Espn 2 MEX (TV)(1080)	00!0!0/9531?zyy
+DEPORTES - Espn 3 ARG (L)(720)	00!0!0/9533?zyy
+DEPORTES - Espn 3 ARG (Z)(720)	00!0!0/9534?zyy
+DEPORTES - Espn 3 COL (M)(1080)	00!0!0/9532?zyy
+DEPORTES - Espn 3 MEX (M)(1080)	00!0!0/9535?zyy
+DEPORTES - Espn 3 MEX (M)(720)	00!0!0/9536?zyy
+DEPORTES - Espn 4 (T)(720)	00!0!0/9538?zyy
+DEPORTES - Espn 4 MEX (M)(1080)	00!0!0/9537?zyy
+DEPORTES - Espn 5 (M)(1080)	00!0!0/9539?zyy
+DEPORTES - Espn 5 (TV)(720)	00!0!0/9540?zyy
+DEPORTES - Espn 6 (Z)(720)	00!0!0/9541?zyy
+DEPORTES - ESPN 7 (e)(1080)	00!0!0/9573?zyy
+DEPORTES - ESPN 7 (e)(720)	00!0!0/9574?zyy
+DEPORTES - Espn 7 (PM)(720)	00!0!0/9543?zyy
+DEPORTES - Espn Deportes (MEX) (Z)(720)	00!0!0/9544?zyy
+DEPORTES - Espn Deportes MEX (M)(SD)	00!0!0/9548?zyy
+DEPORTES - Espn Extra ARG (L)(1080)	00!0!0/9545?zyy
+DEPORTES - Espn Extra MEX (L)(720)	00!0!0/9547?zyy
+DEPORTES - ESPN Premium CL (PM)(1080)	00!0!0/115015?zyy
+DEPORTES - ESPN Premium CL (PM)(720)	00!0!0/115016?zyy
+DEPORTES - ESPN Premium ARG (L)(SD)	00!0!0/9549?zyy
+DEPORTES - Espn Premium ARG (M)(1080)	00!0!0/9546?zyy
+DEPORTES - ESPN Premium ARG (TV)(1080)	00!0!0/9550?zyy
+DEPORTES - beIN Sport USA (M)(720)	00!0!0/9551?zyy
+DEPORTES - beIN Sports Xtra Ñ (TV)(720)	00!0!0/9552?zyy
+DEPORTES - beIN Sports Ñ (T)(1080)	00!0!0/9553?zyy
+DEPORTES - beIN Sports Ñ (TV)(1080)	00!0!0/9554?zyy
+DEPORTES - Fox Deportes (TV)(720)	00!0!0/9571?zyy
+DEPORTES - FOX DEPORTES (Z)(720)	00!0!0/9572?zyy
+DEPORTES - Fox Sports 1 ARG (L)(720)	00!0!0/9575?zyy
+DEPORTES - Fox Sports 1 ARG (M)(720)	00!0!0/9576?zyy
+DEPORTES - Fox Sports 1 COL (TV)(1080)	00!0!0/9577?zyy
+DEPORTES - Fox Sports 1 LAT (Z)(1080)	00!0!0/9578?zyy
+DEPORTES - Fox Sports 1 MEX (M)(1080)	00!0!0/9579?zyy
+DEPORTES - Fox Sports 2 LAT (Z)(720)	00!0!0/9580?zyy
+DEPORTES - Fox Sports 2 ARG (L)(SD)	00!0!0/9581?zyy
+DEPORTES - Fox Sports 2 ARG (T)(1080)	00!0!0/9582?zyy
+DEPORTES - Fox Sports 2 COL (TV)(1080)	00!0!0/9583?zyy
+DEPORTES - Fox Sports 2 MEX (L)(1080)	00!0!0/9584?zyy
+DEPORTES - Fox Sports 2 MEX (M)(1080)	00!0!0/9585?zyy
+DEPORTES - Fox Sports 2 MX (Z)(720)	00!0!0/9586?zyy
+DEPORTES - Fox Sports 3 (Z)(1080)	00!0!0/9587?zyy
+DEPORTES - Fox Sports 3 ARG (T)(1080)	00!0!0/9588?zyy
+DEPORTES - Fox Sports 3 ARG (TV)(1080)	00!0!0/9589?zyy
+DEPORTES - Fox Sports 3 COL (TV)(720)	00!0!0/9590?zyy
+DEPORTES - Fox Sports 3 MEX (M)(SD)	00!0!0/9591?zyy
+DEPORTES - Fox Sports 3 MX (Z)(1080)	00!0!0/9592?zyy
+DEPORTES - Fox Sports Premium MX (L)(720)	00!0!0/9593?zyy
+DEPORTES - TUDN - MEX (M)(720)	00!0!0/9603?zyy
+DEPORTES - TUDN - MEX (Z)(720)	00!0!0/9604?zyy
+DEPORTES - TUDN - USA (TV)(720)	00!0!0/9605?zyy
+DEPORTES - TUDN - USA (Z)(720)	00!0!0/9606?zyy
+DEPORTES - Directv Sports + (L)(720)	00!0!0/9557?zyy
+DEPORTES - Directv Sports + (TV)(720)	00!0!0/9558?zyy
+DEPORTES - Directv Sports + (TV)(720)	00!0!0/9559?zyy
+DEPORTES - Directv Sports 1 (ARG) (TV)(1080)	00!0!0/9560?zyy
+DEPORTES - Directv Sports 1 CHI (e)(1080)	00!0!0/9561?zyy
+DEPORTES - Directv Sports 1 ECU (e)(1080)	00!0!0/9562?zyy
+DEPORTES - Directv Sports 1 ECU (e)(720)	00!0!0/9563?zyy
+DEPORTES - Directv Sports 2 (e)(1080)	00!0!0/9564?zyy
+DEPORTES - Directv Sports 2 (e)(720)	00!0!0/9565?zyy
+DEPORTES - Directv Sports 2 (Z)(720)	00!0!0/9567?zyy
+DEPORTES - Directv Sports 2 ARG (L)(720)	00!0!0/9566?zyy
+DEPORTES - Directv Sports Fight (TV)(720)	00!0!0/9568?zyy
+DEPORTES - Directv Sports Motors (TV)(720)	00!0!0/9569?zyy
+DEPORTES - Claro Sports (Z)(720)	00!0!0/9555?zyy
+DEPORTES - Claro Sports 2 (Z)(720)	00!0!0/9556?zyy
+DEPORTES - Fight BOX (TV)(1080)	00!0!0/9570?zyy
+DEPORTES - Gol TV ES (M)(720)	00!0!0/9594?zyy
+DEPORTES - Gol TV Internacional (TV)(720)	00!0!0/9595?zyy
+DEPORTES - Golf Latin America (M)(SD)	00!0!0/9596?zyy
+DEPORTES - Golf Latin MEX (M)(1080)	00!0!0/9597?zyy
+DEPORTES - NBA U (M)(720)	00!0!0/9598?zyy
+DEPORTES - Sky sports (TV)(720)	00!0!0/9599?zyy
+DEPORTES - SKY Sports Bundesliga (Z)	00!0!0/9600?zyy
+DEPORTES - SKY Sports La liga (TV)(720)	00!0!0/9601?zyy
+DEPORTES - Tennis Channel (L)(720)	00!0!0/9602?zyy
+DEPORTES - TVC Deportes (L)(1080)	00!0!0/9607?zyy
+DEPORTES - TyC Sports INT (T)(720)	00!0!0/9608?zyy
+DEPORTES - TyC Sports INT (TV)(720)	00!0!0/9609?zyy
+DEPORTES - UFC (L)(720)	00!0!0/9610?zyy
+DEPORTES - UFC Fight PASS (T)(720)	00!0!0/9611?zyy
+DEPORTES - WWE (T)(720)	00!0!0/9612?zyy
+DEPORTES - WWE (M)(720)	00!0!0/9613?zyy
+Dios Te Ve (720p)	00!0!0/87962?zyy
+Dios Te Ve Kids (720p)	00!0!0/87963?zyy
+DOC-Animal Planet (L)(1080)	00!0!0/9811?zyy
+DOC-Animal Planet (M)(1080)	00!0!0/9812?zyy
+DOC-Animal Planet (TV)(720)	00!0!0/9813?zyy
+DOC-Animal Planet (Z)(720)	00!0!0/9780?zyy
+DOC-Comedy Central (Z)(1080).	00!0!0/9781?zyy
+DOC-Discovery Channel (L)(1080)	00!0!0/9814?zyy
+DOC-Discovery Channel (M)(1080)	00!0!0/9815?zyy
+DOC-Discovery Channel (TV)(1080)	00!0!0/9816?zyy
+DOC-Discovery Channel (Z)(720)	00!0!0/9782?zyy
+DOC-Discovery Familia (TV)(720)	00!0!0/9817?zyy
+DOC-Discovery FAMILIA (Z)(1080)	00!0!0/9783?zyy
+DOC-Discovery Familia (Z)(720)	00!0!0/9818?zyy
+DOC-Discovery H&H (Z)(720)	00!0!0/9784?zyy
+DOC-Discovery HGTV (TV)(1080)	00!0!0/9819?zyy
+DOC-Discovery Home & Health (M)(1080)	00!0!0/9821?zyy
+DOC-Discovery Home & Health (TV)(720)	00!0!0/9820?zyy
+DOC-Discovery ID (Z)	00!0!0/9785?zyy
+DOC-Discovery Science (L)(1080)	00!0!0/9822?zyy
+DOC-Discovery Science (TV)(720)	00!0!0/9823?zyy
+DOC-Discovery Science (Z)(1080)	00!0!0/9786?zyy
+DOC-Discovery Theater (L)(1080)	00!0!0/9787?zyy
+DOC-Discovery Theater (M)(1080)	00!0!0/9824?zyy
+DOC-Discovery Theater (Z)(1080)	00!0!0/9788?zyy
+DOC-Discovery TLC (L)(1080)	00!0!0/9825?zyy
+DOC-Discovery TLC (M)(1080)	00!0!0/9826?zyy
+DOC-Discovery TLC (M)(SD)	00!0!0/9827?zyy
+DOC-Discovery TURBO (L)(1080)	00!0!0/9829?zyy
+DOC-Discovery Turbo (M)(1080)	00!0!0/9830?zyy
+DOC-Discovery Turbo (Z)(720)	00!0!0/9789?zyy
+DOC-Discovery World (L)(1080)	00!0!0/9831?zyy
+DOC-Discovery World (M)(1080)	00!0!0/9832?zyy
+DOC-Discovery World (M)(720)	00!0!0/9833?zyy
+DOC-Discovery World (M)(SD)	00!0!0/9834?zyy
+DOC-Discovery World (Z)(1080)	00!0!0/9790?zyy
+DOC-DW En Español (Z)(1080)	00!0!0/9791?zyy
+DOC-Food Network (Z)(720)	00!0!0/9792?zyy
+DOC-Garage TV (Z)(720)	00!0!0/9793?zyy
+DOC-Glitz (Z)(1080)	00!0!0/9794?zyy
+DOC-Gourmet (Z)(1080)	00!0!0/9795?zyy
+DOC-H2 (M)(1080)	00!0!0/9836?zyy
+DOC-H2 (TV)(720)	00!0!0/9837?zyy
+DOC-HGTV (Z)(1080)	00!0!0/9796?zyy
+DOC-History (L)(1080) (1080p)	00!0!0/9838?zyy
+DOC-History (Z)(1080)	00!0!0/9797?zyy
+DOC-History 2 (L)(1080)	00!0!0/9839?zyy
+DOC-History 2 (Z)(1080)	00!0!0/9798?zyy
+DOC-History Channel (M)(1080)	00!0!0/9840?zyy
+DOC-History Channel (TV)(1080)	00!0!0/9841?zyy
+DOC-Hola TV (Z)(720)	00!0!0/9799?zyy
+DOC-Investigation Discovery (L)(1080)	00!0!0/9842?zyy
+DOC-Investigation Discovery (M)(1080)	00!0!0/9843?zyy
+DOC-Investigation Discovery (M)(SD)	00!0!0/9844?zyy
+DOC-Lifetime (Z)(720)	00!0!0/9800?zyy
+DOC-Lifetime 2 (Z)	00!0!0/9801?zyy
+DOC-Love Nature (TV)(1080)	00!0!0/9845?zyy
+DOC-Love Nature (Z)(1080)	00!0!0/9802?zyy
+DOC-Mas Chic (Z)(720)	00!0!0/9803?zyy
+DOC-Nasa TV (Z)(1080)	00!0!0/9804?zyy
+DOC-NatGeo (M)(1080)	00!0!0/9847?zyy
+DOC-NatGeo (TV)(720)	00!0!0/9846?zyy
+DOC-Natgeo (Z)(1080)	00!0!0/9805?zyy
+DOC-Natgeo (Z)(720)	00!0!0/9806?zyy
+DOC-NatGeo Mundo (TV)(720)	00!0!0/9848?zyy
+DOC-Natgeo Wild (Z)(1080)	00!0!0/9807?zyy
+DOC-NatGeo Wild Ñ (TV)(720)	00!0!0/9849?zyy
+DOC-Smithsonian Channel (L)(720)	00!0!0/9850?zyy
+DOC-Smithsonian Channel (Z)	00!0!0/9808?zyy
+DOC-Tastemade (Z)(720)	00!0!0/9809?zyy
+DOC-TLC (Z)(1080)	00!0!0/9810?zyy
+DOC-TRU TV (L)(1080)	00!0!0/9852?zyy
+Doña Bella	00!0!0/95584?zyy
+ECU-Liga Pro 1 (e)(1080)	00!0!0/115248?zyy
+ECU-Liga Pro 2 (e)(720)	00!0!0/115247?zyy
+ECU-Liga Pro 3 (e)(SD)	00!0!0/115249?zyy
+ECU- Canal del Futbol (e)(1080)	00!0!0/107639?zyy
+ECU- Canal del Futbol (e)(720)	00!0!0/107640?zyy
+ECU- El Canal del Futbol (M)(1080)	00!0!0/109833?zyy
+ECU- El Canal del Futbol 2 (e)(1080)	00!0!0/109836?zyy
+El Camino TV (480p)	00!0!0/87965?zyy
+ES | DAZN 1	00!0!0/94464?zyy
+ES | DAZN 2 HD (L)	00!0!0/94465?zyy
+ES | DAZN F1 (L)	00!0!0/94466?zyy
+ES | Dazn La Liga HD	00!0!0/94467?zyy
+ES: Dazn La Liga 1 (TV)(1080)	00!0!0/103708?zyy
+ES: Dazn La Liga 1 (TV)(720)	00!0!0/103707?zyy
+EWTN Canada (720p)	00!0!0/87966?zyy
+EWTN Estados Unidos (Spanish) (720p)	00!0!0/87967?zyy
+EWTN | US	00!0!0/87997?zyy
+Extrema TV | CR	00!0!0/87998?zyy
+Faro de Santidad TV (720p)	00!0!0/87968?zyy
+Faro de Santidad TV | PR	00!0!0/87999?zyy
+Fortaleza Radio | CL	00!0!0/88000?zyy
+Gospel Cartoon (360p)	00!0!0/87970?zyy
+Gospel Movies Television | BR	00!0!0/88002?zyy
+Gracia TV | CL	00!0!0/88003?zyy
+Gran Hermano Argentina 24H	00!0!0/102111?zyy
+Iglesia Del Camino (480p)	00!0!0/87971?zyy
+INF-Baby First (M)(SD)	00!0!0/9854?zyy
+INF-Baby TV (Z)(1080)	00!0!0/9855?zyy
+INF-Boomerang (Z)	00!0!0/9857?zyy
+INF-Cartoon Network (M)(1080)	00!0!0/9858?zyy
+INF-Cartoon Network (M)(SD)	00!0!0/9859?zyy
+INF-Cartoon Network (Z)(720)	00!0!0/9861?zyy
+INF-Cartoonito (M)(1080)	00!0!0/9856?zyy
+INF-Discovery Kids (M)(1080)	00!0!0/9862?zyy
+INF-Discovery Kids (M)(SD)	00!0!0/9863?zyy
+INF-Discovery Kids (TV)(720)	00!0!0/9864?zyy
+INF-Discovery Kids (Z)(1080)	00!0!0/9865?zyy
+INF-Disney Channel (M)(1080)	00!0!0/9866?zyy
+INF-Disney Channel (Z)	00!0!0/9867?zyy
+INF-Disney JR (L)(1080)	00!0!0/9868?zyy
+INF-Disney Jr (M)(1080)	00!0!0/9869?zyy
+INF-Disney JR (Z)(720)	00!0!0/9870?zyy
+INF-Nick (M)(720)	00!0!0/9871?zyy
+INF-Nick (Z)(720)	00!0!0/9872?zyy
+INF-Nick 2 (Z)(720)	00!0!0/9874?zyy
+INF-Nick Jr (M)(1080)	00!0!0/9875?zyy
+INF-Nick Jr (M)(720)	00!0!0/9876?zyy
+INF-Nick JR (Z)(720)	00!0!0/9877?zyy
+INF-Nick Music (L)(720)	00!0!0/9878?zyy
+INF-Nickelodeon (M)(720)	00!0!0/9879?zyy
+INF-Nickelodeon (Z)	00!0!0/9880?zyy
+INF-Nicktoon (Z)	00!0!0/9881?zyy
+INF-Nicktoons (M)(720)	00!0!0/9882?zyy
+INF-TeenNick (M)(1080)	00!0!0/9873?zyy
+INF-Tooncast (M)(720)	00!0!0/9883?zyy
+INF-Tooncast (Z)(720)	00!0!0/9884?zyy
+Jehova TV | HN	00!0!0/88004?zyy
+JN19 | PE	00!0!0/87987?zyy
+Juventud Renovada en el Espiritu Santo (720p)	00!0!0/87972?zyy
+Lighting Lives Blessing Nations TV Latino (LLBN) (480p)	00!0!0/87973?zyy
+Luz Naciente TV | CR	00!0!0/88005?zyy
+Mission TV (1080p)	00!0!0/87974?zyy
+MUS-Bandamax (M)(SD)	00!0!0/8307?zyy
+MUS-Bandamax (TV)(720)	00!0!0/8308?zyy
+MUS-HTV (M)(720)	00!0!0/8309?zyy
+MUS-MTV (M)(1080)	00!0!0/8310?zyy
+MUS-MTV (M)(SD)	00!0!0/8311?zyy
+MUS-MTV Live (M)(1080)	00!0!0/8312?zyy
+MUS-MTV Live (M)(SD)	00!0!0/8313?zyy
+MUS-Ritmoson (M)(SD)	00!0!0/8314?zyy
+MUS-Telehit (M)(1080)	00!0!0/8315?zyy
+MUS-Telehit (M)(SD)	00!0!0/8316?zyy
+MUS-Telehit Plus(M)(1080)	00!0!0/8317?zyy
+MUS-Teleritmo (L)(SD)	00!0!0/8318?zyy
+MUS-VH1 (M)(1080)	00!0!0/8319?zyy
+MUS-VH1 (TV)(720)	00!0!0/8320?zyy
+MUS-VH1 Classic (M)(SD)	00!0!0/8321?zyy
+MUS-VH1 Mega Hits (M)(SD)	00!0!0/8322?zyy
+MUS-VH1 Plus (M)(SD)	00!0!0/8323?zyy
+NCTV | CL	00!0!0/88007?zyy
+NOT-BBC World News (M)(720)	00!0!0/10250?zyy
+NOT-CNN en Español (M)(1080)	00!0!0/10251?zyy
+NOT-CNN en Español (M)(720)	00!0!0/10252?zyy
+NOT-CNN USA (TV)(720)	00!0!0/10253?zyy
+NOT-DW (M)(720)	00!0!0/10254?zyy
+NOT-NTN 24 (TV)(720)	00!0!0/10255?zyy
+NOT-NTN24 (T)(SD)	00!0!0/10256?zyy
+NOT-TeleSur (M)(SD)	00!0!0/10257?zyy
+NOT-Wobi (TV)(SD)	00!0!0/10258?zyy
+NOV-Galavision Miami (T)(720)	00!0!0/8333?zyy
+NOV-Galavision NY (T)(720)	00!0!0/67002?zyy
+NOV-Galavision NY (TV)(720)	00!0!0/8334?zyy
+NOV-Mega Tv Miami (T)(720)	00!0!0/67003?zyy
+NOV-Pasiones (M)(1080)	00!0!0/8335?zyy
+NOV-Pasiones (T)(720)	00!0!0/67004?zyy
+NOV-Telemundo (M)(1080)	00!0!0/8336?zyy
+NOV-Telemundo (T)(720)	00!0!0/62093?zyy
+NOV-Telemundo - Atlanta (TV)(1080)	00!0!0/8338?zyy
+NOV-Telemundo - Boston (M)(1080)	00!0!0/8339?zyy
+NOV-Telemundo - Boston (T)(720)	00!0!0/62100?zyy
+NOV-Telemundo - Boston (TV)(1080)	00!0!0/8340?zyy
+NOV-Telemundo - Chicago (M)(1080)	00!0!0/8342?zyy
+NOV-Telemundo - Chicago (TV)(1080)	00!0!0/8343?zyy
+NOV-Telemundo - Chicago (Z)(1080)	00!0!0/8344?zyy
+NOV-Telemundo - Dallas (L)(720)	00!0!0/8345?zyy
+NOV-Telemundo - Dallas (T)(720)	00!0!0/8346?zyy
+NOV-Telemundo - Dallas 39 (TV)(1080)	00!0!0/8347?zyy
+NOV-Telemundo - Denver (TV)(1080)	00!0!0/8348?zyy
+NOV-Telemundo - Fresno (M)(1080)	00!0!0/8349?zyy
+NOV-Telemundo - Houston (T)(720)	00!0!0/8350?zyy
+NOV-Telemundo - Internacional (L)(HQ)	00!0!0/8351?zyy
+NOV-Telemundo - Las Vegas (TV)(1080)	00!0!0/8352?zyy
+NOV-Telemundo - Los Angeles (L)(1080)	00!0!0/8353?zyy
+NOV-Telemundo - Los Angeles (L)(1080)	00!0!0/8354?zyy
+NOV-Telemundo - Los Angeles (Z)(1080)	00!0!0/8355?zyy
+NOV-Telemundo - Miami (T)(1080)	00!0!0/8358?zyy
+NOV-Telemundo - Miami (T)(720)	00!0!0/8356?zyy
+NOV-Telemundo - Miami (TV)(1080)	00!0!0/8357?zyy
+NOV-Telemundo - National East (M)(1080)	00!0!0/8359?zyy
+NOV-Telemundo - National West (M)(1080)	00!0!0/8360?zyy
+NOV-Telemundo - New Orleans (L)(1080)	00!0!0/8361?zyy
+NOV-Telemundo - New York (M)(1080)	00!0!0/8362?zyy
+NOV-Telemundo - New York (T)(720)	00!0!0/8363?zyy
+NOV-Telemundo - New York (TV)(1080)	00!0!0/8364?zyy
+NOV-Telemundo - Orlando Florida (M)(1080)	00!0!0/8365?zyy
+NOV-Telemundo - Philadelphia (M)(1080)	00!0!0/8366?zyy
+NOV-Telemundo - Phoenix (TV)(1080)	00!0!0/8367?zyy
+NOV-Telemundo - Phoenix Arizona (L)(1080)	00!0!0/8368?zyy
+NOV-Telemundo - San Diego (L)(1080)	00!0!0/8371?zyy
+NOV-Telemundo - San Francisco (L)(1080)	00!0!0/8372?zyy
+NOV-Telemundo - San francisco (TV)(1080)	00!0!0/8373?zyy
+NOV-Telemundo - Tampa (TV)(1080)	00!0!0/8374?zyy
+NOV-Telemundo - Texas (M)(1080)	00!0!0/8375?zyy
+NOV-Telemundo - Washington (L)(720)	00!0!0/8376?zyy
+NOV-Telemundo - Washington (T)(1080)	00!0!0/8379?zyy
+NOV-Telemundo - Washington (T)(720)	00!0!0/8377?zyy
+NOV-Telemundo - Washington (TV)(1080)	00!0!0/8378?zyy
+NOV-Telemundo 31 - Orlando WTMO (T)(720)	00!0!0/62094?zyy
+NOV-Telemundo 33 - Phoenix KTAZ (T)(720)	00!0!0/62095?zyy
+NOV-Telemundo 39 - Las Vegas (T)(720)	00!0!0/62096?zyy
+NOV-Telemundo 44 - Chicago (T)(720)	00!0!0/62097?zyy
+NOV-Telemundo 48 - San Fransico KSTS (T)(720)	00!0!0/62098?zyy
+NOV-Telemundo Internacional (T)(720)	00!0!0/62101?zyy
+NOV-Univision (WXTV-New York NY) (M)(720)	00!0!0/8392?zyy
+NOV-Univision - Chicago (M)(720)	00!0!0/8393?zyy
+NOV-Univision - TeleNovelas (T)(720)	00!0!0/67012?zyy
+NOV-Univision 14 - San Francisco (T)(720)	00!0!0/67010?zyy
+NOV-Univision 23 - Miami (T)(720)	00!0!0/67011?zyy
+NOV-Univision Chicago (TV)(720)	00!0!0/8394?zyy
+NOV-Univision Houston (TV)(720)	00!0!0/8395?zyy
+NOV-Univision Los Angeles (M)(720)	00!0!0/8396?zyy
+NOV-Univision Los Angeles (TV)(720)	00!0!0/8397?zyy
+NOV-Telemundo Los Angeles (Z)(1080)	00!0!0/8337?zyy
+NOV-Univision Miami (M)(720)	00!0!0/8398?zyy
+NOV-Univision Miami (TV)(720)	00!0!0/8399?zyy
+NOV-Univision Network (TV)	00!0!0/8400?zyy
+NOV-Univision New York (TV)(720)	00!0!0/8401?zyy
+NOV-Univision New York (Z)(720)	00!0!0/8402?zyy
+NOV-Univision Phoenix (TV)(720)	00!0!0/8403?zyy
+NOV-Univision TLNovelas (TV)(1080)	00!0!0/8405?zyy
+NOV-TLN tlnovelas (M)(SD)	00!0!0/8380?zyy
+NOV-TLN tlnovelas (T)(720)	00!0!0/67005?zyy
+NOV-TLNovelas (TV)(720)	00!0!0/8406?zyy
+NOV-Unicable (L)(1080)	00!0!0/8381?zyy
+NOV-Unicable (L)(720)	00!0!0/8382?zyy
+NOV-Unicable (T)(720)	00!0!0/67006?zyy
+NOV-Unimas (M)(1080)	00!0!0/8383?zyy
+NOV-Unimas (T)(720)	00!0!0/67007?zyy
+NOV-UNIMáS (KFTR-Los Angeles CA) (M)(720)	00!0!0/8384?zyy
+NOV-UNIMáS (KTFO-Austin TX) (M)(720)	00!0!0/8385?zyy
+NOV-UNIMáS (M)(720)	00!0!0/8386?zyy
+NOV-UNIMáS (WFPA-Philadelphia PA) (M)(720)	00!0!0/8387?zyy
+NOV-UNIMáS (WFUT-New York NY) (M)(720)	00!0!0/8388?zyy
+NOV-UNIMáS (WXFT-Chicago) (M)(720)	00!0!0/8389?zyy
+NOV-UNIMáS New York (TV)(720)	00!0!0/8390?zyy
+NOV-Universo (T)(720)	00!0!0/67008?zyy
+NOV-Universo (TV)(720)	00!0!0/8391?zyy
+NOV-Univision (T)(720)	00!0!0/67009?zyy
+Nueva Vida TV (720p)	00!0!0/87975?zyy
+Nuevo Tiempo | BR	00!0!0/88008?zyy
+Oasis TV | CO	00!0!0/88009?zyy
+Paraíso TV (720p)	00!0!0/87976?zyy
+Radio Vida Curico | CL	00!0!0/88010?zyy
+Restaurando Vidas TV | CL	00!0!0/88011?zyy
+SAL-Tigo Sports (TV)(SD)	00!0!0/106784?zyy
+Salvacion TV | PR	00!0!0/88012?zyy
+ES: Dazn 1 BAR FHD	00!0!0/103713?zyy
+ES: Dazn 2 BAR (TV)	00!0!0/103714?zyy
+ES: Dazn 2 (TV)(1080)	00!0!0/103710?zyy
+ES: Dazn 3 (TV)(1080)	00!0!0/103711?zyy
+ES: Dazn 4 (TV)	00!0!0/103712?zyy
+ES: Dazn La Liga 2 (TV)(1080)	00!0!0/103709?zyy
+ES: LaLiga BAR 2 (TV)	00!0!0/103700?zyy
+ES: LaLiga BAR 3 (TV)	00!0!0/103701?zyy
+ES: LaLiga BAR (TV)	00!0!0/103699?zyy
+ES: Liga Hypermotion 2 (TV)	00!0!0/103705?zyy
+ES: Liga Hypermotion 3 (TV)	00!0!0/103706?zyy
+ES: Liga Hypermotion (TV)	00!0!0/103704?zyy
+ES: M. LaLiga (TV)(Fibra Multi-Comentaristas)	00!0!0/103696?zyy
+ES: M. LaLiga (TV)(1080)	00!0!0/103698?zyy
+ES: M. LaLiga (TV) (4K)	00!0!0/103697?zyy
+SP: ES: M. Liga de Campeones 2 FHD (Solo Eventos)	00!0!0/95771?zyy
+SP: ES: M. Liga de Campeones 3 FHD (Solo Eventos)	00!0!0/95774?zyy
+SP: ES: M. Liga de Campeones 4 FHD (Solo Eventos)	00!0!0/95776?zyy
+SP: ES: M. Liga de Campeones 5 SD (Solo Eventos)	00!0!0/95777?zyy
+SP: ES: M. Liga de Campeones 6 (Solo Eventos)	00!0!0/95778?zyy
+SP: ES: M. Liga de Campeones 7 (Solo Eventos)	00!0!0/95779?zyy
+SP: ES: M. Liga de Campeones 8 (Solo Eventos)	00!0!0/95780?zyy
+SP: ES: M. Liga de Campeones FHD (Fibra Multi-Comentaristas)	00!0!0/95766?zyy
+SP: ES: M. Liga de Campeones FHD (HEVC)	00!0!0/95768?zyy
+SP: ES: M. Liga de Campeones FHD (Orange)	00!0!0/95767?zyy
+Sublime Gracia TV | AR	00!0!0/88013?zyy
+SUMtv Latino (1080p)	00!0!0/87979?zyy
+TNE | CL	00!0!0/88014?zyy
+TV Aparecida | BR	00!0!0/88015?zyy
+TV CRET | SV	00!0!0/88016?zyy
+TV Gracia | CO	00!0!0/88017?zyy
+TV León de Judá (720p)	00!0!0/87980?zyy
+TV Maná Argentina (576p)	00!0!0/87981?zyy
+TV Maná Brasil (1080p)	00!0!0/87982?zyy
+TV Maná English (1080p)	00!0!0/87983?zyy
+TV Maná Español (1080p)	00!0!0/87984?zyy
+TV Rede Gospel | BR	00!0!0/88018?zyy
+TV Universal (480p)	00!0!0/87985?zyy
+TV Universal | BR	00!0!0/88019?zyy
+URU PPV 2 - (e)(720)	00!0!0/94287?zyy
+URU-PPV 1 - e)(1080)	00!0!0/94286?zyy
+Vida Television | US	00!0!0/88020?zyy
+UK | S-Ky Sports Bundesliga	00!0!0/110681?zyy
+24/7 Sobreviviendo a Escobar, alias JJ	00!0!0/112428?zyy
+24/7 El Capo	00!0!0/112429?zyy
+24/7 El Cartel de los Sapos	00!0!0/112430?zyy
+24/7 El Chapo	00!0!0/112431?zyy
+24/7 El Chema	00!0!0/112432?zyy
+24/7 El Senor de los Cielos	00!0!0/112433?zyy
+24/7 La Patrona	00!0!0/112434?zyy
+24/7 La Reina del Sur	00!0!0/112435?zyy
+24/7 Las Munecas de la Mafia	00!0!0/112436?zyy
+24/7 Los Herederos del Monte	00!0!0/112437?zyy
+24/7 Narcos	00!0!0/112438?zyy
+24/7 Pablo Escobar	00!0!0/112439?zyy
+24/7 El Origen del Cartel de los Sapos	00!0!0/112440?zyy
+24/7 Principe del rap	00!0!0/112894?zyy
+24/7 Vecinos Colombia (e)(SD)	00!0!0/112895?zyy
+24/7 Hasta que la Plata nos Separe (e)(720)	00!0!0/114144?zyy
+24/7 X-Men (e)(SD)	00!0!0/114145?zyy
+24/7 ThunderCats (e)(SD)	00!0!0/114146?zyy
+24/7 LiveMan (e)(SD)	00!0!0/115518?zyy
+BOL-Liga Boliviana 1 (TV)(720)	00!0!0/115979?zyy
+BOL-Liga Boliviana 2 (TV)(720)	00!0!0/115980?zyy
+NBA 01 | Apr-23-2025 6:30PM | Miami Heat at Cleveland Cavaliers (L)	00!0!0/116965?zyy
+NBA 02 | Apr-23-2025 6:00PM | Orlando Magic at Boston Celtics (L)	00!0!0/116966?zyy
+NBA 03 | Apr-23-2025 8:30PM | Golden State Warriors at Houston Rockets (L)	00!0!0/116967?zyy
+MLB Network (Z)	00!0!0/117052?zyy
+MLB Network (Z)	00!0!0/117053?zyy
+■■■ LA LIGA - ESPAÑA ■■■	00!0!0/117062?zyy
+■■■ SERIE A - ITALIA ■■■	00!0!0/117067?zyy
+EC | 03 • LIGA PR0 (Z)	00!0!0/117072?zyy
+EC | 04 • LIGA PR0 (Z)	00!0!0/117073?zyy
+13 Entretención (W)(720)	00!0!0/10116?zyy
+13 Festival (W)(1080)	00!0!0/10117?zyy
+13 Humor (W)(1080)	00!0!0/10118?zyy
+13 Kids (W)(1080)	00!0!0/10119?zyy
+13 Prime (W)(720)	00!0!0/10120?zyy
+13 Realities (W)(1080)	00!0!0/10121?zyy
+13 Teleseries (W)(720)	00!0!0/10122?zyy
+13C (W)(1080)	00!0!0/10123?zyy
+24 Horas (W)(720) [Not 24/7]	00!0!0/10124?zyy
+ADN Radio (W)(1080)	00!0!0/10127?zyy
+América Estéreo Guayaquil (W)(SD)	00!0!0/85647?zyy
+América Estéreo Ibarra (W)(720)	00!0!0/85648?zyy
+América Estéreo Quito (W)(720)	00!0!0/85649?zyy
+América Estéreo Tulcán (W)(SD)	00!0!0/85650?zyy
+Antena Uno RadioVideo (W)(SD)	00!0!0/85651?zyy
+Antofagasta TV (ATV) (W)(1080)	00!0!0/10217?zyy
+ARG-TNT Sports (L)(720)	00!0!0/7950?zyy
+ARG-TNT Sports (T)(720)	00!0!0/84861?zyy
+ARG-TNT Sports (TV)(720)	00!0!0/7951?zyy
+ARG-TyC Sports Local (L)(SD)	00!0!0/7956?zyy
+ARG-TYC Sports Local (TV)(720)	00!0!0/7957?zyy
+ARG-America (M)(1080)	00!0!0/84851?zyy
+ARG-America (TV)(720)	00!0!0/7928?zyy
+ARG-El Nueve (M)(720)	00!0!0/7936?zyy
+ARG-El Nueve (T)(720)	00!0!0/84855?zyy
+ARG-El Nueve (TV)(720)	00!0!0/7937?zyy
+ARG-El Trece (M)	00!0!0/7938?zyy
+ARG-El Trece (T)(720)	00!0!0/7939?zyy
+ARG-Telefe (L)(1080)	00!0!0/7944?zyy
+ARG-Telefe (M)(SD)	00!0!0/7945?zyy
+ARG-Telefe (T)(720)	00!0!0/84858?zyy
+ARG-Telefe (TV)(1080)	00!0!0/7946?zyy
+ARG-TV Publica (T)(720)	00!0!0/84863?zyy
+ARG-TV Publica (TV)(720)	00!0!0/7953?zyy
+ARG-C5N (M)(720)	00!0!0/84852?zyy
+ARG-Canal 21 (M)(720)	00!0!0/84853?zyy
+ARG-Canal 26 (L)(1080)	00!0!0/7932?zyy
+ARG-Canal 26 (M)(720)	00!0!0/84850?zyy
+ARG-Ciudad Magazine (M)	00!0!0/7934?zyy
+ARG-Cronica (L)	00!0!0/7935?zyy
+ARG-La Nacion+ (M)(720)	00!0!0/111327?zyy
+ARG-LN (L)(720)	00!0!0/7942?zyy
+ARG-LN (T)(720)	00!0!0/84857?zyy
+ARG-TN (M)(1080)	00!0!0/7949?zyy
+ARG-TN (T)(720)	00!0!0/84860?zyy
+ARG-TV Publica (M)	00!0!0/7952?zyy
+ARG-TV5 (M)	00!0!0/7955?zyy
+ARG-TV5 (T)(720)	00!0!0/84864?zyy
+Arica TV (W)(SD) [Not 24/7]	00!0!0/10218?zyy
+Asomavisión (W)(SD)	00!0!0/85652?zyy
+Austral TV (W)(720)	00!0!0/85653?zyy
+Avivamiento TV (W)(1080) [Not 24/7]	00!0!0/85577?zyy
+Aysen TV (W)(720)	00!0!0/10220?zyy
+BOL-ATB (TV)(1080)	00!0!0/98508?zyy
+BOL-Bolivia Deportes (TV)(720)	00!0!0/98495?zyy
+BOL-Bolivia TV (TV)(720)	00!0!0/98507?zyy
+BOL-Bolivision (TV)(1080)	00!0!0/98504?zyy
+BOL-El Opa Metiche 24H (TV)(720)	00!0!0/98511?zyy
+BOL-Gigavision (TV)(720)	00!0!0/98503?zyy
+BOL-Red UNO "La Paz" (TV)(720)	00!0!0/98502?zyy
+BOL-RTP (TV)(1080)	00!0!0/98509?zyy
+BOL-Tigo Sports 1 (TV)(720) (Solo Eventos)	00!0!0/98493?zyy
+BOL-Tigo Sports 2 (TV)(720) (Solo Eventos)	00!0!0/98494?zyy
+BRA-ESPN (M)(720)	00!0!0/10567?zyy
+BRA-ESPN 2 (M)(720)	00!0!0/10564?zyy
+BRA-ESPN Brasil (M)(720)	00!0!0/10565?zyy
+BRA-ESPN Extra (M)(720)	00!0!0/10566?zyy
+BRA-Fox Premium 1 (M)(720)	00!0!0/10568?zyy
+BRA-Fox Premium 2 (M)(720)	00!0!0/10569?zyy
+BRA-Fox Sports (M)(720)	00!0!0/10571?zyy
+BRA-Fox Sports 2 (M)(720)	00!0!0/10570?zyy
+BRA-Premiere 4 (M)(720)	00!0!0/10572?zyy
+BRA-Premiere 5 (M)(720)	00!0!0/10573?zyy
+BRA-Premiere 6 (M)(720)	00!0!0/10574?zyy
+BRA-Premiere 8 (M)(720)	00!0!0/10575?zyy
+BRA-Premiere CLUBE (M)(720)	00!0!0/10632?zyy
+BRA-Prime Box Brasil (M)(720)	00!0!0/10633?zyy
+BRA-Sportv (M)(720)	00!0!0/10641?zyy
+BRA-Sportv 2 (M)(720)	00!0!0/10639?zyy
+BRA-Sportv 3 (M)(720)	00!0!0/10640?zyy
+BRA-A&E (M)(720)	00!0!0/10576?zyy
+BRA-Animal Planet (M)(720)	00!0!0/10577?zyy
+BRA-AXN (M)(720)	00!0!0/10578?zyy
+BRA-Band News (M)(720)	00!0!0/10580?zyy
+BRA-Band Sport (M)(720)	00!0!0/10579?zyy
+BRA-Band Sports (M)(720)	00!0!0/10581?zyy
+BRA-BIS (M)(720)	00!0!0/10582?zyy
+BRA-Canal Brasil (M)(720)	00!0!0/10584?zyy
+BRA-Cartoon Network (M)(720)	00!0!0/10585?zyy
+BRA-Cartoonito (M)(720)	00!0!0/10583?zyy
+BRA-Cinemax (M)(720)	00!0!0/10586?zyy
+BRA-Cinemax (M)(720)	00!0!0/10621?zyy
+BRA-Combate (M)(720)	00!0!0/10587?zyy
+BRA-Comedy Central (M)(720)	00!0!0/10588?zyy
+BRA-Discovery CH. (M)(720)	00!0!0/10589?zyy
+BRA-Discovery Civilization (M)(720)	00!0!0/10590?zyy
+BRA-Discovery H&H (M)(720)	00!0!0/10591?zyy
+BRA-Discovery ID (M)(720)	00!0!0/10592?zyy
+BRA-Discovery KIDS (M)(720)	00!0!0/10593?zyy
+BRA-Discovery SCIENCE (M)(720)	00!0!0/10594?zyy
+BRA-Discovery THEATHER (M)(720)	00!0!0/10595?zyy
+BRA-Discovery TURBO (M)(720)	00!0!0/10596?zyy
+BRA-Discovery WORLD (M)(720)	00!0!0/10597?zyy
+BRA-Disney Channel (M)(720)	00!0!0/10598?zyy
+BRA-Disney Junior (M)(720)	00!0!0/10599?zyy
+BRA-E! (M)(720)	00!0!0/10600?zyy
+BRA-FISH TV (M)(720)	00!0!0/10601?zyy
+BRA-Futura (M)(720)	00!0!0/10604?zyy
+BRA-FX (M)(720)	00!0!0/10605?zyy
+BRA-Globo Brasilia (M)(720)	00!0!0/10609?zyy
+BRA-Globo News (M)(720)	00!0!0/10606?zyy
+BRA-Globo Rio (M)(720)	00!0!0/10607?zyy
+BRA-Globo SP (M)(720)	00!0!0/10608?zyy
+BRA-Gloob (M)(720)	00!0!0/10610?zyy
+BRA-GNT (M)(720)	00!0!0/10611?zyy
+BRA-HBO (M)(720)	00!0!0/10614?zyy
+BRA-HBO 2 (M)(720)	00!0!0/10612?zyy
+BRA-HBO Family (M)(720)	00!0!0/10613?zyy
+BRA-HBO Signature (M)(720)	00!0!0/10615?zyy
+BRA-History (M)(720)	00!0!0/10617?zyy
+BRA-History 2 (M)(720)	00!0!0/10616?zyy
+BRA-Lifetime (M)(720)	00!0!0/10618?zyy
+BRA-Mais Globosat (M)(720)	00!0!0/10619?zyy
+BRA-MAX (M)(720)	00!0!0/10620?zyy
+BRA-Megapix (M)(720)	00!0!0/10623?zyy
+BRA-Multishow (M)(720)	00!0!0/10624?zyy
+BRA-Nat Geo Kids (M)(720)	00!0!0/10625?zyy
+BRA-Nat Geo Wild (M)(720)	00!0!0/10626?zyy
+BRA-National Geographic (M)(720)	00!0!0/10627?zyy
+BRA-Nick JR (M)(720)	00!0!0/10628?zyy
+BRA-Nickelodeon (M)(720)	00!0!0/10629?zyy
+BRA-OFF (M)(720)	00!0!0/10630?zyy
+BRA-Paramount (M)(720)	00!0!0/10631?zyy
+BRA-Record (M)(720)	00!0!0/10634?zyy
+BRA-Record NEWS (M)(720)	00!0!0/10635?zyy
+BRA-Rede Vida (M)(720)	00!0!0/10636?zyy
+BRA-Sony (M)(720)	00!0!0/10637?zyy
+BRA-Space (M)(720)	00!0!0/10638?zyy
+BRA-Star Channel (M)(720)	00!0!0/10602?zyy
+BRA-Star Life (M)(720)	00!0!0/10603?zyy
+BRA-Studio Universal (M)(720)	00!0!0/10642?zyy
+BRA-SYFY (M)(720)	00!0!0/10643?zyy
+BRA-TBS (M)(720)	00!0!0/10644?zyy
+BRA-TeleCine (M)(720)	00!0!0/10622?zyy
+BRA-Telecine Action (M)(720)	00!0!0/10645?zyy
+BRA-Telecine Cult (M)(720)	00!0!0/10646?zyy
+BRA-Telecine Fun (M)(720)	00!0!0/10647?zyy
+BRA-Telecine Pipoca (M)(720)	00!0!0/10648?zyy
+BRA-Telecine Premium (M)(720)	00!0!0/10649?zyy
+BRA-Telecine Touch (M)(720)	00!0!0/10650?zyy
+BRA-TLC (M)(720)	00!0!0/10651?zyy
+BRA-TNT (M)(720)	00!0!0/10652?zyy
+BRA-TNT Series (M)(720)	00!0!0/10653?zyy
+BRA-Tooncast (M)(720)	00!0!0/10654?zyy
+BRA-TV Brasil (M)(720)	00!0!0/10655?zyy
+BRA-TV Cultura (M)(720)	00!0!0/10657?zyy
+BRA-TV Câmara (M)(720)	00!0!0/10656?zyy
+BRA-TV Gazeta (M)(720)	00!0!0/10658?zyy
+BRA-TV GAZETA (M)(720)	00!0!0/10663?zyy
+BRA-Universal Channel (M)(720)	00!0!0/10659?zyy
+BRA-VIVA (M)(720)	00!0!0/10660?zyy
+BRA-WARNER (M)(720)	00!0!0/10661?zyy
+BRA-WOOHOO (M)(720)	00!0!0/10662?zyy
+Cable Sur TV (W)(720)	00!0!0/85579?zyy
+Cablenoticias (W)(1080)	00!0!0/85580?zyy
+Cali TV (W)(720) [Not 24/7]	00!0!0/85581?zyy
+Campus TV (Talca) (W)(720) [Not 24/7]	00!0!0/10131?zyy
+Canal 11 Aysén (W)(720)	00!0!0/10132?zyy
+Canal 2 (San Antonio) (W)(720) [Not 24/7]	00!0!0/10133?zyy
+Canal 2 Alpavisión (W)(720) [Not 24/7]	00!0!0/85583?zyy
+Canal 74 San Antonio	00!0!0/10134?zyy
+Canal 8 Los Sauces TV (W)(720)	00!0!0/10135?zyy
+Canal 8 TV+ (W)(720)	00!0!0/85585?zyy
+Canal Chilote	00!0!0/10136?zyy
+Canal ISB (Iglesia San Bernardo) (W)(720)	00!0!0/10137?zyy
+Canal Local (W)(1080)	00!0!0/10139?zyy
+Canal Más Televisión (W)(720)	00!0!0/85591?zyy
+Canal SCN (W)(720)	00!0!0/10140?zyy
+Canal Telefamilia (W)(SD) [Not 24/7]	00!0!0/85593?zyy
+Canal Visión Dorada (W)(720) [Not 24/7]	00!0!0/85594?zyy
+Capricho TV (W)(720)	00!0!0/85688?zyy
+Caracola TV (Peñalolén) (W)(720) [Not 24/7]	00!0!0/10142?zyy
+Caribbean Advantage TV (W)(1080)	00!0!0/10143?zyy
+Casa Sobre La Roca TV	00!0!0/10145?zyy
+CHI PPV 1 - (e)(1080)	00!0!0/9885?zyy
+CHI PPV 2 - (e)	00!0!0/9922?zyy
+CHI-TNT Sports Premium (e)(1080)	00!0!0/9923?zyy
+CHI-TNT Sports Premium (e)(720)	00!0!0/9924?zyy
+CHI- TNT Sports CL (e)(1080)	00!0!0/9886?zyy
+CHI-TNT Sports Premium (e)(SD)	00!0!0/87173?zyy
+CHI-TNT Sports Premium (M)(1080)	00!0!0/112994?zyy
+CHI-TNT Sports (M)(SD)	00!0!0/112991?zyy
+CHI-TNT Sports 2 (PM)(1080)	00!0!0/9926?zyy
+CHI-TNT Sports 2 (PM)(720)	00!0!0/9927?zyy
+CHI-TNT Sports 2 (M)(1080)	00!0!0/112997?zyy
+CHI-TNT Sports 2 (L)(1080)	00!0!0/9925?zyy
+CHI-TNT Sports 2(e)(SD)	00!0!0/87176?zyy
+CHI-TNT Sports 3 (M)(1080)	00!0!0/112996?zyy
+CHI-TNT Sports 3 (M)(SD)	00!0!0/112993?zyy
+CHI-TNT Sports 3 (TV)(1080)	00!0!0/9929?zyy
+CHI-Fox Sports 2 (M)(1080)	00!0!0/9913?zyy
+CHI-CDO (T)(720)	00!0!0/84884?zyy
+CHI-CDO 2 (TV)(SD)	00!0!0/9896?zyy
+CHI-CDO BASICO (M)(SD)	00!0!0/112992?zyy
+CHI-CDO Premium (M)(SD)	00!0!0/112998?zyy
+CHI-CDO Premium 1 (e)(720)	00!0!0/9897?zyy
+CHI-ESPN Premium CL (PM)(1080)	00!0!0/9908?zyy
+CHI-ESPN Premium CL (PM)(720)	00!0!0/9909?zyy
+CHI-Espn Premium (e)(SD)	00!0!0/87175?zyy
+CHI-Espn 1 (L)(720)	00!0!0/9905?zyy
+CHI-Espn 2 (M)(720)	00!0!0/9906?zyy
+CHI-Espn 2 (TV)(1080)	00!0!0/9907?zyy
+CHI-ESPN CL(e)(SD)	00!0!0/87174?zyy
+CHI-TNT Sports Premium (M)(1080)	00!0!0/112995?zyy
+CHI-24 Horas (M)(720)	00!0!0/9887?zyy
+CHI-24 Horas (T)(720)	00!0!0/84887?zyy
+CHI-24 Horas (TV)(720)	00!0!0/9888?zyy
+CHI-Canal 13 (L)(720)	00!0!0/9889?zyy
+CHI-Canal 13 (M)(720)	00!0!0/9890?zyy
+CHI-Canal 13 (T)(720)	00!0!0/84885?zyy
+CHI-Canal 13 (TV)(720)	00!0!0/9892?zyy
+CHI-Canal 13 Opc 2 (M)(1080)	00!0!0/9893?zyy
+CHI-Canal 13c (L)(720)	00!0!0/9894?zyy
+CHI-Canal 13c (M)(720)	00!0!0/9895?zyy
+CHI-Canal 13C (T)(720)	00!0!0/84886?zyy
+CHI-Chilevision (e)(1080)	00!0!0/9899?zyy
+CHI-Chilevision (L)(720)	00!0!0/9898?zyy
+CHI-Chilevision (PM)(1080)	00!0!0/87170?zyy
+CHI-Chilevision (PM)(720)	00!0!0/87171?zyy
+CHI-Chilevision (PM)(SD)	00!0!0/87172?zyy
+CHI-Chilevision (TV)(720)	00!0!0/9900?zyy
+CHI-Chilevisión (720)(M)	00!0!0/9901?zyy
+CHI-CNN (T)(720)	00!0!0/84888?zyy
+CHI-CNN CL (M)(SD)	00!0!0/9902?zyy
+CHI-CNN CL (TV)(720)	00!0!0/9903?zyy
+CHI-Directv 2 (L)(1080)	00!0!0/9904?zyy
+CHI-ETC (PM)(1080)	00!0!0/9911?zyy
+CHI-ETC (PM)(720)	00!0!0/9912?zyy
+CHI-La Red (TV)(720)	00!0!0/9915?zyy
+CHI-La Red TV (PM)(1080)	00!0!0/9916?zyy
+CHI-LA Red TV (PM)(720)	00!0!0/9917?zyy
+CHI-Mega (e)(1080)	00!0!0/9918?zyy
+CHI-Mega (L)(720)	00!0!0/9919?zyy
+CHI-Mega 2 (e)(1080)	00!0!0/9921?zyy
+CHI-TV+ (L)(720)	00!0!0/9930?zyy
+CHI-TV+ (T)(720)	00!0!0/84889?zyy
+CHI-TVN (L)(1080)	00!0!0/9931?zyy
+CHI-TVN (L)(720)	00!0!0/9932?zyy
+CHI-TVN (T)(720)	00!0!0/84890?zyy
+CHI-TVN (TV)(720)	00!0!0/9934?zyy
+Chile Channel (W)(720)	00!0!0/10148?zyy
+Ciracu TV (W)(720) [Not 24/7]	00!0!0/85654?zyy
+Claro sport 2 Panama PA (T)(720)	00!0!0/75178?zyy
+Claro Sports	00!0!0/10151?zyy
+Claro Sports Chile	00!0!0/10152?zyy
+CNC Medellín (W)(720)	00!0!0/85598?zyy
+CNC Santander de Quilichao (W)(SD)	00!0!0/85599?zyy
+COL PPV 1 - (1080)	00!0!0/8476?zyy
+COL-WinSports + (L)(720)	00!0!0/8510?zyy
+COL-WinSports + (M)(1080)	00!0!0/8511?zyy
+COL-WinSports + (TV)(1080)	00!0!0/8512?zyy
+COL-Winsport + (T)(720)	00!0!0/84897?zyy
+COL-WinSports (L)(720)	00!0!0/8505?zyy
+COL-WinSports (L)(SD)	00!0!0/8506?zyy
+COL-WinSports (M)(1080)	00!0!0/8507?zyy
+COL-WinSports (M)(SD)	00!0!0/8508?zyy
+COL-Winsports (T)(720)	00!0!0/84896?zyy
+COL-Caracol (M)(SD)	00!0!0/8481?zyy
+COL-Caracol (TV)(1080)	00!0!0/8483?zyy
+COL-Caracol (Z)(720)	00!0!0/8484?zyy
+COL-Caracol Internacional (M)(1080)	00!0!0/8485?zyy
+COL-Caracol Internacional (TV)(720)	00!0!0/8486?zyy
+COL-RCN (L)(1080)	00!0!0/84350?zyy
+COL-RCN (M)(1080)	00!0!0/8491?zyy
+COL-RCN (T)(720)	00!0!0/84900?zyy
+COL-RCN (Z)(1080)	00!0!0/8492?zyy
+COL-RCN Internacional (T)(720)	00!0!0/84901?zyy
+COL-RCN Novelas (T)(720)	00!0!0/84902?zyy
+COL-RCN Nuestra Tele (M)	00!0!0/8496?zyy
+COL-RCN Nuestra Tele (T)(720)	00!0!0/84903?zyy
+COL-Cable Noticias (TV)(1080)	00!0!0/8477?zyy
+COL-Cable Noticias (Z)(720)	00!0!0/84908?zyy
+COL-Canal Uno (T)(720)	00!0!0/84899?zyy
+COL-Canal Uno (TV)(720)	00!0!0/8478?zyy
+COL-Caracol (L)(720)	00!0!0/8480?zyy
+COL-City Tv (Z)(720)	00!0!0/84904?zyy
+COL-Claro Sports (M)	00!0!0/8488?zyy
+COL-Claro Sports Colombia (HD)	00!0!0/84898?zyy
+COL-Directv Sports (TV)(720)	00!0!0/8489?zyy
+COL-NTN24 (Z)(720)	00!0!0/84905?zyy
+COL-Pasiones (Z)(720)	00!0!0/84909?zyy
+COL-Señal Colombia (TV)(SD)	00!0!0/8497?zyy
+COL-Señal Colombia (Z)(720)	00!0!0/84910?zyy
+COL-Suram (W)(720)	00!0!0/45801?zyy
+COL-TeleAntioquia (TV)(720)	00!0!0/8498?zyy
+COL-TeleAntioquia (Z)(720)	00!0!0/84906?zyy
+COL-TeleCafe (M)	00!0!0/8499?zyy
+COL-TeleCafe (Z)(720)	00!0!0/84911?zyy
+COL-Telemedellin (TV)(720)	00!0!0/8501?zyy
+COL-Telemedellin (Z)(720)	00!0!0/84907?zyy
+COL-Telepacifico (TV)(1080)	00!0!0/8502?zyy
+COL-Telepacifico (Z)(720)	00!0!0/84912?zyy
+COL-TV Agro (M)(720)	00!0!0/8503?zyy
+COL-TV Agro (Z)(720)	00!0!0/84913?zyy
+Contivision (W)(720)	00!0!0/10154?zyy
+CR-Canal 13 (TV)(720)	00!0!0/8110?zyy
+CR-Canal 14 Tv Sur (T)(720)	00!0!0/8111?zyy
+CR-Extrema TV (TV)(720)	00!0!0/8112?zyy
+CR-FUTV (L)(1080)	00!0!0/8113?zyy
+CR-FUTV (M)(SD)	00!0!0/8114?zyy
+CR-FUTV (TV)(720)	00!0!0/8115?zyy
+CR-Repretel 11 (M)	00!0!0/8116?zyy
+CR-Repretel 11 (T)(720)	00!0!0/8117?zyy
+CR-Repretel 4 (M)	00!0!0/8118?zyy
+CR-Repretel 4 (T)(720)	00!0!0/8119?zyy
+CR-Repretel 6 (M)	00!0!0/8120?zyy
+CR-Repretel 6 (T)(720)	00!0!0/8121?zyy
+CR-TD +2 (TV)(720)	00!0!0/8122?zyy
+CR-TD+ (M)(1080)	00!0!0/8123?zyy
+CR-TD+ (T)(720)	00!0!0/8124?zyy
+CR-TD+2 (M)(720)	00!0!0/8125?zyy
+CR-Tele Uno (L)(720)	00!0!0/8126?zyy
+CR-Telesur (Z)(720)	00!0!0/8127?zyy
+CR-Teletica (T)(720)	00!0!0/8128?zyy
+CR-Teletica 7 (L)(1080)	00!0!0/8129?zyy
+CR-Tigo Sports (T)(720)	00!0!0/8130?zyy
+CR-Tigo Sports 1 (1080)(M)	00!0!0/8131?zyy
+CU-America TV (TV)	00!0!0/10082?zyy
+CU-CubaMax (TV)	00!0!0/10083?zyy
+CU-Cubavision (TV)	00!0!0/10079?zyy
+CU-Cubavision Internacional (TV)	00!0!0/10078?zyy
+CU-Tele Marti (TV)	00!0!0/10080?zyy
+CU-Tele Rebelde (Z)	00!0!0/10081?zyy
+Curiquingue TV (W)(720)	00!0!0/85655?zyy
+Dance FM (W)(720)	00!0!0/10156?zyy
+Dreamforce Btl	00!0!0/10163?zyy
+Durán TV (W)(SD) [Not 24/7]	00!0!0/85656?zyy
+DW Español (W)(1080)	00!0!0/85602?zyy
+Décima TV (Ancud) (W)(720)	00!0!0/10165?zyy
+ECU-Copa Ecuador (e)(1080)	00!0!0/84793?zyy
+ECU-Copa Ecuador (e)(720)	00!0!0/84794?zyy
+ECU-Directv Sports (e)(1080)	00!0!0/88483?zyy
+ECU-Directv Sports (e)(720)	00!0!0/8625?zyy
+ECU-Teleamazonas Quito (e)(1080)	00!0!0/8648?zyy
+ECU-Teleamazonas Quito (e)(1080) Opc 2	00!0!0/8649?zyy
+ECU-Teleamazonas Quito (e)(720)	00!0!0/8650?zyy
+ECU-TeleAmazonas Costa (e)(1080)	00!0!0/8645?zyy
+ECU-TeleAmazonas Costa (e)(720)	00!0!0/8646?zyy
+ECU-TeleAmazonas Costa (e)(SD)	00!0!0/8647?zyy
+ECU-Teleamazona Costa (TV)(720)	00!0!0/8644?zyy
+ECU-Ecuavisa Quito (e)(1080)	00!0!0/8629?zyy
+ECU-Ecuavisa Quito (e)(720)	00!0!0/8630?zyy
+ECU-Ecuavisa Costa (e)(1080)	00!0!0/8626?zyy
+ECU-Ecuavisa Costa (e)(SD)	00!0!0/8627?zyy
+ECU-Ecuavisa Costa(e)(720)	00!0!0/8628?zyy
+ECU-TC Television Quito (e)(1080)	00!0!0/8642?zyy
+ECU-TC Television Quito (e)(720)	00!0!0/8643?zyy
+ECU-TC Television Costa (e)(1080)	00!0!0/8640?zyy
+ECU-TC Television Costa (e)(720)	00!0!0/8641?zyy
+ECU-TC Television Sierra (TV)(1080)	00!0!0/8639?zyy
+ECU-RTS Costa (M)(SD)	00!0!0/8636?zyy
+ECU-TVC (e)(1080)	00!0!0/8632?zyy
+ECU-TVC (e)(720)	00!0!0/8633?zyy
+ECU-RTS Costa(e)(720)	00!0!0/8637?zyy
+ECU-RTS Costa (e)(1080)	00!0!0/8635?zyy
+ECU-Oromar (T)(720)	00!0!0/8634?zyy
+ECU-RTU (M)(SD)	00!0!0/8638?zyy
+ECU-TVC UIO (TV)(720)	00!0!0/8651?zyy
+Ecua Stereo Radio TV (W)(720)	00!0!0/85657?zyy
+Ecuador TV (W)(720)	00!0!0/85689?zyy
+EcuaMundo Radio TV (W)(720)	00!0!0/85658?zyy
+Ecuavisa (W)(720) [Not 24/7]	00!0!0/85659?zyy
+EducaTV (W)(720) [Not 24/7]	00!0!0/85660?zyy
+Eduvision (W)(1080)	00!0!0/85603?zyy
+EGM Channel (W)(SD)	00!0!0/10167?zyy
+Ekiz TV (W)(1080)	00!0!0/10168?zyy
+El Sol Radio y Televisión (404p) [Not 24/7]	00!0!0/85661?zyy
+El Tipógrafo (W)(1080)	00!0!0/10170?zyy
+Enfoque Digital TV (W)(1080)	00!0!0/10171?zyy
+Enlace (W)(720)	00!0!0/10172?zyy
+EWTN el Canal Católico (W)(720) [Not 24/7]	00!0!0/85605?zyy
+FM Mundo (W)(720)	00!0!0/85690?zyy
+Frecuencia Musical TV [Not 24/7]	00!0!0/10173?zyy
+Garage TV Latin America	00!0!0/10174?zyy
+Girovisual (W)(720)	00!0!0/10175?zyy
+GUA-Canal 11 (M)(SD)	00!0!0/8255?zyy
+GUA-Canal 11 (TV)(720)	00!0!0/8256?zyy
+GUA-Canal 3 (M)(SD)	00!0!0/8257?zyy
+GUA-Canal 3 (TV)(720)	00!0!0/8258?zyy
+GUA-Canal 7 (M)(SD)	00!0!0/8260?zyy
+GUA-Canal 7 (TV)(720)	00!0!0/8259?zyy
+GUA-Canal Antigua (M)(SD)	00!0!0/8261?zyy
+GUA-Claro Sports GT (TV)(720)	00!0!0/8262?zyy
+GUA-Guatevision (L)(720)	00!0!0/8263?zyy
+GUA-Guatevision (M)(720)	00!0!0/8264?zyy
+GUA-Tigo Sport + (TV)(720)	00!0!0/8267?zyy
+GUA-Tigo Sports GT (Z)(1080)	00!0!0/8268?zyy
+GUA-TN23 (TV)(SD)	00!0!0/8269?zyy
+Hechos Ecuador (W)(SD) [Not 24/7]	00!0!0/85662?zyy
+Hiperconectados TV	00!0!0/10177?zyy
+Holvoet TV (Copiapó) (W)(720) [Not 24/7]	00!0!0/10178?zyy
+HON-Azteca (M)(720)	00!0!0/10266?zyy
+HON-CANAL 11 (M)(SD)	00!0!0/10262?zyy
+HON-Canal 5 (M)(SD)	00!0!0/10260?zyy
+HON-HCH (M)(1080)	00!0!0/10269?zyy
+HON-HCH (M)(SD)	00!0!0/10261?zyy
+HON-Suyapa (M)(SD)	00!0!0/10263?zyy
+HON-Telecadena (M)(720)	00!0!0/10268?zyy
+HON-TELECEIBA (M)(720)	00!0!0/10271?zyy
+HON-Telesistema (M)(1080)	00!0!0/10267?zyy
+HON-Telesistema (M)(720)	00!0!0/10264?zyy
+HON-TVC Deportes (L)(720)	00!0!0/10259?zyy
+HON-VTV (M)(SD)	00!0!0/10265?zyy
+Huasco Televisión (360p)	00!0!0/10179?zyy
+IeanJesus Ecuador (W)(720)	00!0!0/85663?zyy
+Infinita TV (W)(720)	00!0!0/85664?zyy
+Inti TV (W)(720)	00!0!0/85665?zyy
+Iquique TV (W)(720)	00!0!0/10180?zyy
+Juntos TV (W)(720)	00!0!0/10181?zyy
+Kanal D Drama (W)(1080)	00!0!0/85610?zyy
+La Chilena TV	00!0!0/10182?zyy
+La Nueva Radio TV 97.7 (W)(720)	00!0!0/85666?zyy
+La Pipol Tv Sangolquí (W)(SD) [Not 24/7]	00!0!0/85667?zyy
+La Red (W)(720) [Not 24/7]	00!0!0/10184?zyy
+LatacungaTV (W)(720)	00!0!0/85668?zyy
+Madero TV (W)(720)	00!0!0/10186?zyy
+Majestad Television (W)(720)	00!0!0/85691?zyy
+Manavisión (W)(SD)	00!0!0/85669?zyy
+Mas TV 23 PA (T)(720)	00!0!0/75174?zyy
+Meganoticias (W)(720) [Not 24/7]	00!0!0/10221?zyy
+Metropoli Medios TV (W)(720)	00!0!0/85692?zyy
+MEX-ADN 40 (M)(720)	00!0!0/87604?zyy
+MEX-Aym Sports (M)(720)	00!0!0/87584?zyy
+MEX-AZ Cinema (M)(720)	00!0!0/87585?zyy
+MEX-AZ Clic (L)(720)	00!0!0/87566?zyy
+MEX-AZ Clic (M)(720)	00!0!0/87586?zyy
+MEX-AZ Clic (M)(SD)	00!0!0/87565?zyy
+MEX-AZ Corazon (L)(720)	00!0!0/87568?zyy
+MEX-AZ Corazón (M)(720)	00!0!0/87587?zyy
+MEX-AZ Corazón (M)(SD)	00!0!0/87567?zyy
+MEX-AZ Mundo (L)(720)	00!0!0/87589?zyy
+MEX-AZ Mundo (M)(720)	00!0!0/87588?zyy
+MEX-Azteca 7 (L)(720)	00!0!0/87572?zyy
+MEX-Azteca 7 (L)(SD)	00!0!0/87571?zyy
+MEX-Azteca 7 (M)(720)	00!0!0/87569?zyy
+MEX-Azteca 7 (M)(SD)	00!0!0/87570?zyy
+MEX-Azteca Deportes (L)(720)	00!0!0/87574?zyy
+MEX-Azteca Deportes (L)(SD)	00!0!0/87573?zyy
+MEX-Azteca UNO (L)(720)	00!0!0/87576?zyy
+MEX-Azteca Uno (M)(720)	00!0!0/87593?zyy
+MEX-Azteca UNO - 2 Horas (L)(SD)	00!0!0/87575?zyy
+MEX-BitMe (M)(720)	00!0!0/87592?zyy
+MEX-Bloomberg (M)(SD)	00!0!0/87577?zyy
+MEX-Canal 5 (L)(720)	00!0!0/87598?zyy
+MEX-Canal 5 (L)(SD)	00!0!0/87597?zyy
+MEX-Canal de las Estrellas - 2 (M)(720)	00!0!0/87594?zyy
+MEX-Imagen TV (L)(720)	00!0!0/87616?zyy
+MEX-Imagen TV (M)(SD)	00!0!0/87615?zyy
+MEX-Ingenio TV (L)(720)	00!0!0/87617?zyy
+MEX-Las Estrellas (L)(720)	00!0!0/87579?zyy
+MEX-Las Estrellas (M)(SD)	00!0!0/87578?zyy
+MEX-Las Estrellas - 2 Horas (L)(720)	00!0!0/87583?zyy
+MEX-Las Estrellas - 2 Horas (L)(SD)	00!0!0/87582?zyy
+MEX-Once TV (M)(720)	00!0!0/87603?zyy
+MEX-Televisa Monterrey (L)(SD)	00!0!0/87605?zyy
+MEX-Televisa Puebla (L)(SD)	00!0!0/87606?zyy
+MEX-Tlnovelas (M)(720)	00!0!0/87591?zyy
+MEX-TUDN (M)(720)	00!0!0/87590?zyy
+MEX-TVC (L)(SD)	00!0!0/87608?zyy
+MEX-TVC Deportes (L)(720)	00!0!0/87610?zyy
+MEX-TVC Deportes (L)(SD)	00!0!0/87609?zyy
+MEX-USA Latino (L)(720)	00!0!0/87614?zyy
+MEX-Viva Mexico (M)(720)	00!0!0/87600?zyy
+MEX_Azteca uno (M)(720)	00!0!0/87602?zyy
+MEX_Canal 4 Televisa Mty (M)(720)	00!0!0/87601?zyy
+MEX_Canal 5 (M)(720)	00!0!0/87596?zyy
+MEX_Foro TV (M)(720)	00!0!0/87595?zyy
+MEX_Las Estrellas - 1hr (M)(720)	00!0!0/87580?zyy
+MEX_Las Estrellas - 2hr (M)(720)	00!0!0/87581?zyy
+MEX_MilenioTV (M)(720)	00!0!0/87599?zyy
+Molina TV (W)(1080)	00!0!0/10192?zyy
+MovieFe (W)(720) [Not 24/7]	00!0!0/85615?zyy
+NCTV (W)(1080)	00!0!0/10193?zyy
+Next TV 21 PA (T)(720)	00!0!0/75175?zyy
+NIC-Canal 102 (Z)(1080)	00!0!0/85728?zyy
+NIC-Canal 112 (Z)(SD)	00!0!0/85729?zyy
+NIC-Canal 122 (Z)(SD)	00!0!0/85730?zyy
+NIC-Canal 13 (M)(SD)	00!0!0/85731?zyy
+NIC-Canal 14 (M)(SD)	00!0!0/85733?zyy
+NIC-Canal 142 (Z)(720)	00!0!0/85734?zyy
+NIC-Canal 2 (M)(SD)	00!0!0/85735?zyy
+NIC-Canal 2 (Z)(720)	00!0!0/85736?zyy
+NIC-Canal 4 (Z)(720)	00!0!0/85740?zyy
+NIC-Canal 452 (Z)(720)	00!0!0/85741?zyy
+NIC-Canal 6 (M)(SD)	00!0!0/85742?zyy
+NIC-Canal 8 (M)(SD)	00!0!0/85743?zyy
+NIC-Canal 82 (Z)(SD)	00!0!0/85744?zyy
+NIC-Canal 92 (Z)(1080)	00!0!0/85727?zyy
+NIC-Canal Galaxia TV2 (Z)(720)	00!0!0/85745?zyy
+NIC-Nica Vision Canal 122 (Z)(720)	00!0!0/85749?zyy
+NIC-TV 45 (W)(720)	00!0!0/85751?zyy
+Novelisima	00!0!0/10194?zyy
+Novelisima (W)(1080)	00!0!0/85618?zyy
+NTV (W)(720)	00!0!0/10195?zyy
+Nueva Región TV (W)(720)	00!0!0/10196?zyy
+Nuevo Tiempo (W)(720) [Not 24/7]	00!0!0/85620?zyy
+Oasis TV (W)(720) [Not 24/7]	00!0!0/85621?zyy
+Ondambiental TV (W)(SD)	00!0!0/85622?zyy
+Oromar TV (W)(720)	00!0!0/85693?zyy
+PAN-Cable Onda Sports (M)(1080)	00!0!0/8407?zyy
+PAN-Cable Onda Sports (T)(1080)	00!0!0/8408?zyy
+PAN-Cable Onda Sports (TV)(720)	00!0!0/8409?zyy
+PAN-Cable Onda Sports FC (M)(1080)	00!0!0/8410?zyy
+PAN-Cable Onda Sports FC (T)(1080)	00!0!0/8411?zyy
+PAN-Claro sport Panama (L)(720)	00!0!0/8412?zyy
+PAN-H.Vison (M)	00!0!0/8413?zyy
+PAN-Mas TV 23 (M)	00!0!0/8414?zyy
+PAN-Next TV 21 (M)	00!0!0/8415?zyy
+PAN-RPC 4 (M)(1080)	00!0!0/8416?zyy
+PAN-RPC 4(M)(720)	00!0!0/8417?zyy
+PAN-RPC TV (T)(720)	00!0!0/8418?zyy
+PAN-Ser TV (T)(720)	00!0!0/8419?zyy
+PAN-Ser TV Canal 11 (M)	00!0!0/8420?zyy
+PAN-Sertv canal 11 (M)(SD)	00!0!0/8421?zyy
+PAN-Telemetro (TV)(720)	00!0!0/8422?zyy
+PAN-Telemetro 13 (M)(1080)	00!0!0/8423?zyy
+PAN-Tigo Sports Panama (M)(720)	00!0!0/8425?zyy
+PAN-Tigo Sports Panama (M)(720)	00!0!0/8426?zyy
+PAN-TV MAX 9 (M)(1080)	00!0!0/8427?zyy
+PAN-tv Max 9 (M)(720)	00!0!0/8428?zyy
+PAN-TVN (TV)(720)	00!0!0/8429?zyy
+PAN-TVN Canal 2 (M)(1080)	00!0!0/8430?zyy
+PAN-TVN Canal 2 (T)(1080)	00!0!0/8431?zyy
+Pantalla Clásica EC (W)(SD)	00!0!0/85671?zyy
+PAR-C9N (T)(720)	00!0!0/84565?zyy
+PAR-Farra Play (T)(720)	00!0!0/84566?zyy
+PAR-La Tele (T)(720)	00!0!0/84567?zyy
+PAR-NEXTV (T)(720)	00!0!0/84568?zyy
+PAR-Noticias (T)(720)	00!0!0/84569?zyy
+PAR-Paravision (T)(720)	00!0!0/84570?zyy
+PAR-Paravision (T)(720)	00!0!0/84572?zyy
+PAR-RCC (T)(720)	00!0!0/84571?zyy
+PAR-RPC PY (HD)(T2)	00!0!0/84573?zyy
+PAR-Telefuturo (T)(720)	00!0!0/84574?zyy
+PAR-Tigo Sport Plus (T)(720)	00!0!0/84564?zyy
+PAR-Unicanal (T)(720)	00!0!0/84575?zyy
+PER-GOL Peru (L)(1080)	00!0!0/8446?zyy
+PER-Gol Peru (T)(1080)	00!0!0/8447?zyy
+PER-Gol Peru (TV)(1080)	00!0!0/8448?zyy
+PER-Gol Peru (Z)(1080)	00!0!0/8449?zyy
+PER-Liga 1 (L)(720)	00!0!0/8455?zyy
+PER-Liga 1 (L)(720)	00!0!0/8456?zyy
+PER-Liga 1 MAX (L)(720)	00!0!0/8457?zyy
+PER-Liga 1 MAX (T)(720)	00!0!0/8458?zyy
+PER-Liga 1 MAX (TV)(720)	00!0!0/8459?zyy
+PER-Liga 1 MAX (Z)(720)	00!0!0/8460?zyy
+PER-America (L)(1080)	00!0!0/8433?zyy
+PER-America tv (M)(1080)	00!0!0/8434?zyy
+PER-America TV (T)(720)	00!0!0/74885?zyy
+PER-America TV (Z)(1080)	00!0!0/8435?zyy
+PER-ATV (L)(720)	00!0!0/8436?zyy
+PER-ATV (M)(720)	00!0!0/8437?zyy
+PER-ATV (T)(SD)	00!0!0/8438?zyy
+PER-ATV (Z)(720)	00!0!0/8439?zyy
+PER-ATV+ (L)(720)	00!0!0/8440?zyy
+PER-ATV+ (Z)(720)	00!0!0/8441?zyy
+PER-Canal N (Z)(1080)	00!0!0/8443?zyy
+PER-Exitosa (Z)(720)	00!0!0/8445?zyy
+PER-Latina (L)(720)	00!0!0/8450?zyy
+PER-Latina (M)(HQ)	00!0!0/8451?zyy
+PER-Latina (T)(720)	00!0!0/8452?zyy
+PER-Latina (Z)(1080)	00!0!0/8453?zyy
+PER-Latina TV (M)(SD)	00!0!0/8454?zyy
+PER-Movistar Deportes (L)(720)	00!0!0/8461?zyy
+PER-Movistar Deportes (T)(1080)	00!0!0/8462?zyy
+PER-Movistar Plus (T)(720)	00!0!0/8463?zyy
+PER-Movistar Plus TV (M)(720)	00!0!0/8464?zyy
+PER-Panamericana (T)(720)	00!0!0/74884?zyy
+PER-Panamericana (TV)(720)	00!0!0/8465?zyy
+PER-Panamericana (Z)(720)	00!0!0/8466?zyy
+PER-Peru Magico (M)(720)	00!0!0/8467?zyy
+PER-RPP (SD)(M)	00!0!0/8469?zyy
+PER-TV Peru (M)	00!0!0/8471?zyy
+PER-TV Peru (T)(720)	00!0!0/74877?zyy
+PER-Willas (TV)(1080)	00!0!0/8472?zyy
+PER-Willasx (Z)(720)	00!0!0/8473?zyy
+PER-Willax (L)(720)	00!0!0/8474?zyy
+PER-Willax (T)(720)	00!0!0/8475?zyy
+PR-Buena TV (W)(1080)	00!0!0/89983?zyy
+PR-DeFiance Media (W)(1080)	00!0!0/89984?zyy
+PR-La-X (W)(720)	00!0!0/89987?zyy
+PR-Master Video (W)(1080)	00!0!0/89988?zyy
+PR-Mega TV (L)(720)	00!0!0/14325?zyy
+PR-Mega TV (TV)(720)	00!0!0/14326?zyy
+PR-NotiUno TV (W)(720)	00!0!0/89990?zyy
+PR-Punto 2 (TV)(720)	00!0!0/14327?zyy
+PR-Telemicro (M)(1080)	00!0!0/14328?zyy
+PR-Telemundo (T)(1080)	00!0!0/14329?zyy
+PR-Telemundo Puerto Rico (L)(720)	00!0!0/14330?zyy
+PR-Telemundo Puerto Rico (TV)(720)	00!0!0/14331?zyy
+PR-Telenorte (W)(720)	00!0!0/89994?zyy
+PR-TeleOnce (TV)(720)	00!0!0/14340?zyy
+PR-Univision (TV)(720)	00!0!0/14332?zyy
+PR-Univision Puerto Rico (T)(720)	00!0!0/14333?zyy
+PR-Wapa (T)(720)	00!0!0/14335?zyy
+PR-Wapa (TV)(720)	00!0!0/14336?zyy
+PR-Wapa 2(M)(720)	00!0!0/14334?zyy
+PR-Wapa America (M)(720)	00!0!0/14337?zyy
+PR-Wapa America (TV)(720)	00!0!0/14338?zyy
+PR-Wapa Deportes (T)(720)	00!0!0/14339?zyy
+PR-WIPR-DT1 (W)(1080)	00!0!0/90001?zyy
+PR-WKAQ-DT1 (W)(1080)	00!0!0/90002?zyy
+PR-WKAQ-DT2 (W)(720)	00!0!0/90003?zyy
+PR-WXWZ-LD1 (W)(1080)	00!0!0/90006?zyy
+Pucón TV (W)(1080) [Not 24/7]	00!0!0/10201?zyy
+Puranoticia TV (W)(720)	00!0!0/10202?zyy
+Puruwa TV (W)(720)	00!0!0/85672?zyy
+Radio Alegria 98.5 FM (W)(720)	00!0!0/85673?zyy
+Radio Bonita 106.7 (W)(720)	00!0!0/85674?zyy
+Radio Cuenca Estéreo (W)(720)	00!0!0/85675?zyy
+Radio Fantástica 98.9 FM (W)(720)	00!0!0/85676?zyy
+Radio Monumental TV (W)(720) [Not 24/7]	00!0!0/85677?zyy
+Radio Ritmo (W)(1080) [Not 24/7]	00!0!0/10204?zyy
+Radio Rocafuerte TV (W)(720)	00!0!0/85678?zyy
+RCN Mas	00!0!0/85624?zyy
+RDO Televisión (W)(SD)	00!0!0/10206?zyy
+Restaurando Vidas Internacional (W)(720)	00!0!0/10207?zyy
+Reyali (W)(720)	00!0!0/85627?zyy
+RPD-002 Radio TV (W)(HD)	00!0!0/10272?zyy
+RPD-5 Telemicro HD (M)	00!0!0/9291?zyy
+RPD-AION TV (W)(HD)	00!0!0/10273?zyy
+RPD-Ame 47	00!0!0/10274?zyy
+RPD-Antena Latina (M)(720)	00!0!0/9292?zyy
+RPD-Bellavision (W)(HD)	00!0!0/10275?zyy
+RPD-Boreal (W)(HD)	00!0!0/10276?zyy
+RPD-Canal 25 (W)(HD)	00!0!0/10277?zyy
+RPD-Canal 56 (W)(HD)	00!0!0/10278?zyy
+RPD-Caribbean Traveling Network (W)(HD)	00!0!0/10279?zyy
+RPD-Carivision (W)(HD)	00!0!0/10280?zyy
+RPD-CDN (M)(720)	00!0!0/9293?zyy
+RPD-CDN (W)(HD)	00!0!0/10281?zyy
+RPD-CDN 2 (M)	00!0!0/9294?zyy
+RPD-CDN 37 (M)	00!0!0/9295?zyy
+RPD-CDN Sport MAX (M)(720)	00!0!0/9296?zyy
+RPD-Claro Television Dominicana (W)(HD)	00!0!0/10282?zyy
+RPD-Color Vision (M)(1080)	00!0!0/9299?zyy
+RPD-Digital 15 (M)(SD)	00!0!0/9300?zyy
+RPD-Digital 15 (W)(HD)	00!0!0/10283?zyy
+RPD-Haina Vision (W)(HD)	00!0!0/10284?zyy
+RPD-Makao TV (W)(HD)	00!0!0/10285?zyy
+RPD-MegaVision TV (W)(HD)	00!0!0/10286?zyy
+RPD-Microvision 10 (W)(HD)	00!0!0/10287?zyy
+RPD-Naranja TV (W)(HD)	00!0!0/10288?zyy
+RPD-Peravia Vision (W)(HD)	00!0!0/10289?zyy
+RPD-Red Social Codi TV (W)(HD)	00!0!0/10290?zyy
+RPD-RNN (W)(HD)	00!0!0/10291?zyy
+RPD-Romana TV (W)(HD) Canal 42	00!0!0/10292?zyy
+RPD-Rumba 98.5 FM (W)(HD)	00!0!0/10293?zyy
+RPD-Su Mundo TV (W)(HD)	00!0!0/10294?zyy
+RPD-Tele Oriental (W)(HD)	00!0!0/10300?zyy
+RPD-TeleBendicion (W)(HD)	00!0!0/10295?zyy
+RPD-Telecanal 12 (W)(HD)	00!0!0/10296?zyy
+RPD-Telecentro (M)	00!0!0/9301?zyy
+RPD-Telefuturo (M)(720)	00!0!0/9302?zyy
+RPD-Telefuturo (W)(HD)	00!0!0/10297?zyy
+RPD-Teleimpacto (W)(HD)	00!0!0/10298?zyy
+RPD-Telemicro (M)	00!0!0/9303?zyy
+RPD-Telemicro (W)(HD)	00!0!0/10299?zyy
+RPD-Telesantodomingo (W)(HD)	00!0!0/10301?zyy
+RPD-Telesistema HD (M)(720)	00!0!0/9304?zyy
+RPD-Telesur Canal 10 (W)(HD)	00!0!0/10302?zyy
+RPD-Teleunion (W)(HD)	00!0!0/10303?zyy
+RPD-Teleuniverso (M)(SD)	00!0!0/9305?zyy
+RPD-Television Dominicana (M)(1080)	00!0!0/9306?zyy
+RPD-TNI Canal51 (W)(HD)	00!0!0/10304?zyy
+RPD-TV O (W)(HD)	00!0!0/10305?zyy
+RPD-Vallevision (W)(HD)	00!0!0/10306?zyy
+RPD-Vega Teve (W)(HD)	00!0!0/10307?zyy
+RPD-Vegavision Canal 18 (W)(HD)	00!0!0/10308?zyy
+RPD-Yunavision (W)(HD)	00!0!0/10309?zyy
+RPD-Zol106 (W)(HD)	00!0!0/10310?zyy
+RPD-ZTV (W)(HD)	00!0!0/10311?zyy
+RTU (W)(720) [Not 24/7]	00!0!0/85679?zyy
+RTV Riobamba (W)(720) [Not 24/7]	00!0!0/85680?zyy
+SAL- TVES Canal 10 (720)	00!0!0/9307?zyy
+SAL-Canal 12 (TV)(720)	00!0!0/9309?zyy
+SAL-Canal 19 (M)	00!0!0/9310?zyy
+SAL-Canal 2 (M)	00!0!0/9311?zyy
+SAL-Canal 21 (M)	00!0!0/9312?zyy
+SAL-Canal 4 (M)(720)	00!0!0/9313?zyy
+SAL-Canal 4 (M)(SD)	00!0!0/9314?zyy
+SAL-Canal 4 (TV)(720)	00!0!0/9315?zyy
+SAL-Canal 6 (M)	00!0!0/9316?zyy
+SAL-Canal 6 (TV)(720)	00!0!0/9317?zyy
+SAL-Megavision Canal 19 (T)(720)	00!0!0/9318?zyy
+SAL-VTV Canal 35 (M)	00!0!0/9319?zyy
+Santa María Televisión (W)(720) [Not 24/7]	00!0!0/10212?zyy
+Santel TV (W)(720)	00!0!0/85628?zyy
+Scandalo TV (W)(720)	00!0!0/85681?zyy
+Sextavisión (W)(720)	00!0!0/10213?zyy
+Señal Positiva TV (W)(720)	00!0!0/85682?zyy
+Sono Onda TV (W)(720)	00!0!0/85694?zyy
+Suram TV (W)(1080)	00!0!0/85630?zyy
+T-Vinet (W)(SD)	00!0!0/10223?zyy
+Tele 2 Web (Retiro) (W)(720) [Not 24/7]	00!0!0/10224?zyy
+Telemetro 13 PA (T)(720)	00!0!0/75176?zyy
+Teletrak (W)(720)	00!0!0/10225?zyy
+Tevex (W)(720) [Not 24/7]	00!0!0/85636?zyy
+Thema Televisión (La Serena) (W)(720) [Not 24/7]	00!0!0/10226?zyy
+TLT (W)	00!0!0/95288?zyy
+TMN TV (W)(720)	00!0!0/10227?zyy
+Tropical Music TV (W)(720)	00!0!0/85638?zyy
+Tu Universo TV (W)(720)	00!0!0/85640?zyy
+TV Color Canal 36 (W)(720)	00!0!0/85683?zyy
+TV Legislativa (W)(720)	00!0!0/85684?zyy
+TV Max 9 PA (T)(720)	00!0!0/75177?zyy
+TV Peñol (W)(720)	00!0!0/85642?zyy
+TV Quellón (W)(1080) [Not 24/7]	00!0!0/10230?zyy
+TVR (W)(1080) [Not 24/7]	00!0!0/10235?zyy
+TVU Concepción (W)(1080)	00!0!0/10237?zyy
+U Los Lagos TV (W)(1080) [Not 24/7]	00!0!0/10239?zyy
+UCL (W)(720)	00!0!0/10241?zyy
+UCV TV (W)(720)	00!0!0/10242?zyy
+UNIANDES TV (W)(720)	00!0!0/85685?zyy
+Universidad Autónoma Temuco (UATV) (W)(1080) [Not 24/7]	00!0!0/10243?zyy
+URU-VTV (L)(720)	00!0!0/8534?zyy
+URU-VTV (M)(1080)	00!0!0/8535?zyy
+URU-VTV (M)(720)	00!0!0/8536?zyy
+URU-VTV (T)(720)	00!0!0/8538?zyy
+URU-VTV Plus (L)(720)	00!0!0/8539?zyy
+URU-VTV Plus (T)(720)	00!0!0/8541?zyy
+URU-VTV Plus (TV)(1080)	00!0!0/8542?zyy
+URU-VTV Plus (TV)(720)	00!0!0/8543?zyy
+URU-VTV Plus (Z)(720)	00!0!0/8540?zyy
+URU-Directv Sports 1 UY (TV)(720)	00!0!0/8530?zyy
+URU-Canal 4 (TV)(1080)	00!0!0/8525?zyy
+URU-Canal 4 - Montecarlo (T)(720)	00!0!0/8526?zyy
+URU-Canal 4 Monte Carlo (L)(720)	00!0!0/8527?zyy
+URU-Canal 4 Montecarlo (T)(HQ)	00!0!0/8528?zyy
+URU-Canal 4 Montecarlo (Z)(LQ)	00!0!0/8529?zyy
+URU-Canal 12 (TV)(720)	00!0!0/8520?zyy
+URU-Canal 12 La Tele (L)(720)	00!0!0/8521?zyy
+URU-Canal 12 La Tele (T)(720)	00!0!0/8522?zyy
+URU-Canal 12 La Tele (T)(720)	00!0!0/8524?zyy
+URU-Canal 12 La Tele (TV)(720)	00!0!0/8523?zyy
+URU-Canal 10 (L)(HQ)	00!0!0/8515?zyy
+URU-Canal 10 (M)(720)	00!0!0/8516?zyy
+URU-Canal 10 (T)(720)	00!0!0/8518?zyy
+URU-Canal 10 HD (TV)(720)	00!0!0/8519?zyy
+URU-A+V (TV)(720)	00!0!0/8514?zyy
+URU-TNU (L)(720)	00!0!0/8532?zyy
+URU-TV Ciudad (TV)(720)	00!0!0/8533?zyy
+V Classic TV (W)(720)	00!0!0/10245?zyy
+VC Online (W)(720)	00!0!0/10246?zyy
+VEN-Globavision (Z)(SD)	00!0!0/13013?zyy
+VEN-Globovision (Z)(HQ)	00!0!0/13014?zyy
+VEN-Hispantv (Z)(HQ)	00!0!0/13015?zyy
+VEN-IVC (Z)(720)	00!0!0/13016?zyy
+VEN-Telesur (T)(1080)	00!0!0/13017?zyy
+VEN-Telesur (Z)(1080)	00!0!0/13018?zyy
+VEN-TLT (M)(HQ)	00!0!0/13019?zyy
+VEN-TLT (Z)(1080)	00!0!0/13020?zyy
+VEN-Venevision (Z)(720)	00!0!0/13022?zyy
+VEN-Venevision Plus (Z)(720)	00!0!0/13023?zyy
+Veo Televisión (W)(720) [Not 24/7]	00!0!0/85644?zyy
+Vos y TV (W)(720)	00!0!0/85695?zyy
+Voz de Poder Television (W)(720)	00!0!0/10248?zyy
+VPItv (W)(1080)	00!0!0/85646?zyy
+VTV Valle de Aconcagua (W)(720) [Not 24/7]	00!0!0/10249?zyy
+Wuan+ (W)(720)	00!0!0/85686?zyy
+Zaracay TV (W)(720) [Not 24/7]	00!0!0/85687?zyy
+Ñuka TV (W)(720)	00!0!0/85670?zyy
+MEX-Canal 6 CDMX	00!0!0/114788?zyy
+MEX-Conecta TV	00!0!0/114789?zyy
+MEX-Estrella News	00!0!0/114790?zyy
+MEX-EstrellaTV	00!0!0/114791?zyy
+MEX-Expresa TV (W)(720)	00!0!0/114792?zyy
+MEX-ITV Deportes	00!0!0/114793?zyy
+MEX-Justicia TV (W)(720)	00!0!0/114794?zyy
+MEX-La Voz Grupera TV (W)(720)	00!0!0/114795?zyy
+MEX-Lobo TV (W)(720)	00!0!0/114796?zyy
+MEX-Mexiquense TV (W)(720)	00!0!0/114797?zyy
+MEX-Milenio Television	00!0!0/114798?zyy
+MEX-Multimedios Bajío (W)(720)	00!0!0/114799?zyy
+MEX-Multimedios Ciudad Juárez (W)(720)	00!0!0/114800?zyy
+MEX-Multimedios Guadalajara (W)(720)	00!0!0/114801?zyy
+MEX-Multimedios Laguna (W)(720)	00!0!0/114802?zyy
+MEX-Multimedios Monterrey (W)(720)	00!0!0/114803?zyy
+MEX-Multimedios Puebla (W)(720)	00!0!0/114804?zyy
+MEX-Multimedios Saltillo (W)(720)	00!0!0/114805?zyy
+MEX-MyTime Movie Network Mexico (W)(720)	00!0!0/114806?zyy
+MEX-Once México (W)(1080)	00!0!0/114808?zyy
+MEX-Pluto TV EN DIRECTO EN VIVO (W)(720)	00!0!0/114809?zyy
+MEX-Pluto TV MTV Embarazada a los 16 (W)(720)	00!0!0/114810?zyy
+MEX-Radio y Televisión Budokan (352p)	00!0!0/114811?zyy
+MEX-Raly TV (W)(720)	00!0!0/114812?zyy
+MEX-RCG TV (W)(1080)	00!0!0/114813?zyy
+MEX-RCG TV (Timeshifted - 2 Hours) (432p)	00!0!0/114814?zyy
+MEX-RTQ Queretaro	00!0!0/114815?zyy
+MEX-Señal España (XHUNES-TDT) (W)(720)	00!0!0/114816?zyy
+MEX-SET Televisión Canal 26.1 (W)(720)	00!0!0/114817?zyy
+MEX-SET Televisión Canal 26.2 (W)(720)	00!0!0/114818?zyy
+MEX-SIPSE TV 8.1 (W)(1080)	00!0!0/114820?zyy
+MEX-SIPSE TVCUN 8.1 (W)(1080)	00!0!0/114821?zyy
+MEX-Spike Adventura (W)(720)	00!0!0/114822?zyy
+MEX-Super Channel 12 (W)(1080) [Geo-blocked]	00!0!0/114823?zyy
+MEX-TeleFórmula (W)(720) [Geo-blocked]	00!0!0/114824?zyy
+MEX-Telemax (XEWH-TDT) (W)(1080)	00!0!0/114825?zyy
+MEX-Teleplay Sureste (W)(720)	00!0!0/114826?zyy
+MEX-Teleritmo (W)(720)	00!0!0/114827?zyy
+MEX-Tlaxcala Televisión (W)(SD)	00!0!0/114828?zyy
+MEX-TV Cuatro 4.1 (W)(1080)	00!0!0/114829?zyy
+MEX-TV Cuatro 4.2 (W)(1080)	00!0!0/114830?zyy
+MEX-TV Daja (W)(1080)	00!0!0/114831?zyy
+MEX-TV Lobo Durango (W)(720)	00!0!0/114832?zyy
+MEX-TV Mar La Paz (W)(1080)	00!0!0/114833?zyy
+MEX-TV Mar Puerto Vallarta (W)(1080)	00!0!0/114834?zyy
+MEX-TV Nuevo León Canal 28 (XHMNL-TDT) (W)(720)	00!0!0/114835?zyy
+MEX-TV UJAT (XHUJAT-TDT) (W)(720)	00!0!0/114836?zyy
+MEX-TVE Star HD (W)(1080)	00!0!0/114837?zyy
+MEX-TVMás (W)(720)	00!0!0/114838?zyy
+MEX-TVMÁS (XHGV-TDT) (W)(SD)	00!0!0/114839?zyy
+MEX-TVP Culiacán (W)(720)	00!0!0/114840?zyy
+MEX-TVP Los Mochis (W)(720)	00!0!0/114841?zyy
+MEX-TVP Mazatlán (W)(720)	00!0!0/114842?zyy
+MEX-TVP Obregón (W)(720)	00!0!0/114843?zyy
+MEX-Ultra TV Puebla (W)(720)	00!0!0/114844?zyy
+MEX-UMTV (W)(1080)	00!0!0/114845?zyy
+MEX-Visión Televisión (W)(720)	00!0!0/114846?zyy
+MEX-8NTV (W)(1080)	00!0!0/114847?zyy
+MEX-ADN 40 (W)(720)	00!0!0/114848?zyy
+MEX-Alcance TV (W)(720)	00!0!0/114849?zyy
+MEX-AMX Noticias (W)(720) [Not 24/7]	00!0!0/114850?zyy
+MEX-Antena TV (W)(1080)	00!0!0/114851?zyy
+MEX-Azteca Internacional (W)(1080)	00!0!0/114852?zyy
+MEX-Canal 5	00!0!0/114854?zyy
+MEX-Canal 10 Cancún (W)(720) [Not 24/7]	00!0!0/114855?zyy
+MEX-Canal 10 Chiapas (W)(720)	00!0!0/114856?zyy
+MEX-Canal 10 Durango	00!0!0/114857?zyy
+MEX-Canal 15 ILCE Summa Sabres (W)(720)	00!0!0/114858?zyy
+MEX-Canal 26 Aguascalientes (W)(1080)	00!0!0/114859?zyy
+MEX-Canal 33 Tijuana (W)(720)	00!0!0/114860?zyy
+MEX-Canal 44 Chihuahua (W)(720) [Not 24/7]	00!0!0/114861?zyy
+MEX-Canal Catorce	00!0!0/114862?zyy
+MEX-Canal Ocho TV (W)(1080)	00!0!0/114863?zyy
+MEX-CCTV-4 America (W)(1080)	00!0!0/114864?zyy
+MEX-CGTN Español (W)(1080)	00!0!0/114865?zyy
+MEX-Clan TVE Internacional (W)(1080)	00!0!0/114866?zyy
+MEX-EnerGeek (W)(720) [Not 24/7]	00!0!0/114867?zyy
+MEX-Estrella News (W)(1080)	00!0!0/114869?zyy
+MEX-Estrella TV (W)(1080)	00!0!0/114870?zyy
+MEX-Fanpop TV	00!0!0/114871?zyy
+MEX-GikTVMx (W)(SD)	00!0!0/114872?zyy
+MEX-Kanade (W)(1080)	00!0!0/114873?zyy
+MEX-María Visión Mexico (W)(SD) [Not 24/7]	00!0!0/114875?zyy
+MEX-Mayavisión (W)(720)	00!0!0/114876?zyy
+MEX-Plous TV (W)(1080)	00!0!0/114877?zyy
+MEX-Spectrum Channel (W)(720)	00!0!0/114878?zyy
+MEX-Tele Yucatan [Geo-blocked]	00!0!0/114879?zyy
+MEX-TVE Internacional America (W)(1080)	00!0!0/114880?zyy
+ESP - #Vamos (T)(720)	00!0!0/8133?zyy
+ESP - #Vamos (TV)(1080)	00!0!0/8134?zyy
+ESP - 24H (T)(720)	00!0!0/8135?zyy
+ESP - 24h (TV)(720)	00!0!0/8136?zyy
+ESP - A3 Series (T)(720)	00!0!0/8137?zyy
+ESP - A3Series (TV)(1080)	00!0!0/8138?zyy
+ESP - AMC (T)(720)	00!0!0/8139?zyy
+ESP - AMC (TV)(1080)	00!0!0/8140?zyy
+ESP - Antena 3 (T)(720)	00!0!0/8141?zyy
+ESP - Antena 3 (TV)(1080)	00!0!0/8142?zyy
+ESP - Antena 3 Internacional (TV)(1080)	00!0!0/8143?zyy
+ESP - AXN (T)(720)	00!0!0/8144?zyy
+ESP - AXN White (T)(720)	00!0!0/8145?zyy
+ESP - AXN White (TV)(1080)	00!0!0/8146?zyy
+ESP - Baby TV (T)(720)	00!0!0/8147?zyy
+ESP - Baby TV (TV)(720)	00!0!0/8148?zyy
+ESP - Barca TV (T)(720)	00!0!0/8149?zyy
+ESP - BE MAD (T)(720)	00!0!0/8150?zyy
+ESP - BeMad (TV)(1080)	00!0!0/8151?zyy
+ESP - Blaze (T)(720)	00!0!0/8152?zyy
+ESP - Boing (T)(720)	00!0!0/8153?zyy
+ESP - Bom Cine (TV)(720)	00!0!0/8154?zyy
+ESP - Calle 13 (T)(720)	00!0!0/8155?zyy
+ESP - Calle 13 (TV)(1080)	00!0!0/8156?zyy
+ESP - Canal Casa (T)(720)	00!0!0/8157?zyy
+ESP - Caza Y Pesca (T)(720)	00!0!0/8159?zyy
+ESP - Cazavisión (T)(720)	00!0!0/8160?zyy
+ESP - Cine Español Ñ (T)(720)	00!0!0/8161?zyy
+ESP - Clan TVE (T)(720)	00!0!0/8162?zyy
+ESP - Comedia (T)(720)	00!0!0/8163?zyy
+ESP - Comedy Central (T)(720)	00!0!0/8164?zyy
+ESP - Crime And Investigation (T)(720)	00!0!0/8165?zyy
+ESP - Crimen Investigacion (M)(720)	00!0!0/8166?zyy
+ESP - Cuatro (T)(720)	00!0!0/8167?zyy
+ESP - DARK (TV)(1080)	00!0!0/8168?zyy
+ESP - Discovery Channel (T)(720)	00!0!0/8169?zyy
+ESP - Disney (T)(720)	00!0!0/8170?zyy
+ESP - Disney Channel (TV)(1080)	00!0!0/8171?zyy
+ESP - Disney JR. (T)(720)	00!0!0/8172?zyy
+ESP - Divinity (T)(720)	00!0!0/8173?zyy
+ESP - DKISS (T)(720)	00!0!0/8174?zyy
+ESP - Dkiss (TV)(SD)	00!0!0/8175?zyy
+ESP - DMAX (T)(720)	00!0!0/8176?zyy
+ESP - El Toros TV (L)(720)	00!0!0/8177?zyy
+ESP - Energy (T)(720)	00!0!0/8178?zyy
+ESP - Energy (TV)(SD)	00!0!0/8179?zyy
+ESP - Eurosport 1 (TV)(720)	00!0!0/8180?zyy
+ESP - Eurosport 2 (TV)(720)	00!0!0/8181?zyy
+ESP - FDF (T)(720)	00!0!0/8182?zyy
+ESP - Fox (T)(720)	00!0!0/8183?zyy
+ESP - FOX Life (T)(720)	00!0!0/8185?zyy
+ESP - Fox News (T)(720)	00!0!0/8186?zyy
+ESP - GOL (TV)(1080)	00!0!0/8187?zyy
+ESP - Historia (T)(720)	00!0!0/8188?zyy
+ESP - Historia (TV)(1080)	00!0!0/8189?zyy
+ESP - Hollywood (T)(720)	00!0!0/8190?zyy
+ESP - LA 1 (T)(720)	00!0!0/8191?zyy
+ESP - La 1 (TV)(1080)	00!0!0/8192?zyy
+ESP - La 2 (TV)(1080)	00!0!0/8193?zyy
+ESP - La Sexta (T)(720)	00!0!0/8194?zyy
+ESP - La Sexta (TV)(1080)	00!0!0/8195?zyy
+ESP - M. Accion (TV)(1080)	00!0!0/8196?zyy
+ESP - M. Cine Español (TV)(720)	00!0!0/8197?zyy
+ESP - M. Comedia (TV)(1080)	00!0!0/8198?zyy
+ESP - M. Deportes (TV)(1080)	00!0!0/8199?zyy
+ESP - M. Drama (TV)(1080)	00!0!0/8200?zyy
+ESP - M. Dreamworks (TV)(1080)	00!0!0/8201?zyy
+ESP - M. Golf (TV)(1080)	00!0!0/8202?zyy
+ESP - M. Series (TV)(1080)	00!0!0/8203?zyy
+ESP - Mega (L)(720)	00!0!0/8204?zyy
+ESP - MEGA (TV)(1080)	00!0!0/8205?zyy
+ESP - Movistar Accion (T)(720)	00!0!0/8206?zyy
+ESP - Movistar CINE N (T)(720)	00!0!0/8207?zyy
+ESP - Movistar Comedia (T)(720)	00!0!0/8208?zyy
+ESP - Movistar Disney (T)(720)	00!0!0/8209?zyy
+ESP - Movistar Drama (T)(720)	00!0!0/8210?zyy
+ESP - Movistar Estrenos (T)(720)	00!0!0/8211?zyy
+ESP - Movistar Formula 1 (T)(720)	00!0!0/8212?zyy
+ESP - Movistar Liga Campeones (T)(720)	00!0!0/8213?zyy
+ESP - Movistar Serie (T)(720)	00!0!0/8214?zyy
+ESP - Movistar Seriesmania (T)(720)	00!0!0/8215?zyy
+ESP - MTV España (T)(720)	00!0!0/8216?zyy
+ESP - Mundo Toros (TV)(720)	00!0!0/8217?zyy
+ESP - Nat Geo Wild (TV)(1080)	00!0!0/8218?zyy
+ESP - National Geo Wild (T)(720)	00!0!0/8219?zyy
+ESP - National Geographic (T)(720)	00!0!0/8220?zyy
+ESP - National Geographic (TV)(1080)	00!0!0/8221?zyy
+ESP - Neox (T)(720)	00!0!0/8222?zyy
+ESP - Neox (TV)(SD)	00!0!0/8223?zyy
+ESP - Nickelodeon (T)(720)	00!0!0/8225?zyy
+ESP - Nickelodeon (TV)(1080)	00!0!0/8226?zyy
+ESP - NOVA (T)(720)	00!0!0/8227?zyy
+ESP - Odisea (T)(720)	00!0!0/8228?zyy
+ESP - Odisea (TV)(720)	00!0!0/8229?zyy
+ESP - Panda (T)(720)	00!0!0/8230?zyy
+ESP - Paramount Channel (TV)(720)	00!0!0/8231?zyy
+ESP - Real Madrid TV (TV)(1080)	00!0!0/8232?zyy
+ESP - Series Mania (T)(720)	00!0!0/8233?zyy
+ESP - SOMOS (TV)(1080)	00!0!0/8234?zyy
+ESP - SYFY (T)(720)	00!0!0/8236?zyy
+ESP - SyFy (TV)(1080)	00!0!0/8237?zyy
+ESP - TCM (T)(720)	00!0!0/8238?zyy
+ESP - TCM (TV)(1080)	00!0!0/8239?zyy
+ESP - TeleCinco (T)(720)	00!0!0/8240?zyy
+ESP - Telecinco (TV)(1080)	00!0!0/8241?zyy
+ESP - Telecinco (TV)(720)	00!0!0/8242?zyy
+ESP - Teledeporte (TV)(1080)	00!0!0/8243?zyy
+ESP - Telemadrid (T)(720)	00!0!0/8244?zyy
+ESP - TNT (T)(720)	00!0!0/8245?zyy
+ESP - Toro Ole (T)(720)	00!0!0/8246?zyy
+ESP - Trece TV (T)(720)	00!0!0/8247?zyy
+ESP - TVE (T)(720)	00!0!0/8248?zyy
+ESP - TVE 24H (T)(720)	00!0!0/8249?zyy
+ESP - TVE LA 1 (T)(720)	00!0!0/8251?zyy
+ESP - Viajar (T)(720)	00!0!0/8252?zyy
+ESP - XTRM (T)(720)	00!0!0/8253?zyy
+ESP - XTRM (TV)(1080)	00!0!0/8254?zyy
+CA: CP24 (TV)(HD)	00!0!0/7959?zyy
+CAN-CITY TV HD (L)	00!0!0/7963?zyy
+CAN-CNN HD (L)	00!0!0/7964?zyy
+CAN-DISNEY CHANNEL (L)	00!0!0/7966?zyy
+CAN-Golf (T)(720)	00!0!0/7967?zyy
+CAN-HBO HD (L)	00!0!0/7968?zyy
+CAN-SPORTS NET 360 HD (L)	00!0!0/7969?zyy
+CAN-SPORTS NET EAST HD (L)	00!0!0/7970?zyy
+CAN-SPORTS NET ONTARIO HD (L)	00!0!0/7971?zyy
+CAN-SPORTS NET WEST HD (L)	00!0!0/7972?zyy
+CAN-TSN 1 (T)(720)	00!0!0/7973?zyy
+CAN-TSN SPORTS 1 (L)	00!0!0/7974?zyy
+CAN-TSN SPORTS 2 (L)	00!0!0/7975?zyy
+CAN-TSN SPORTS 3 (L)	00!0!0/7976?zyy
+CAN-TSN SPORTS 4 (L)	00!0!0/7977?zyy
+CAN-TSN SPORTS 5 (L)	00!0!0/7978?zyy
+USA-Animal Planet (L)(720)	00!0!0/10705?zyy
+USA-Bravo (L)(720)	00!0!0/10706?zyy
+USA-Destination America (L)(720)	00!0!0/10707?zyy
+USA-Discovery En Espanol (L)(720)	00!0!0/10708?zyy
+USA-Discovery Familia (L)(720)	00!0!0/10709?zyy
+USA-Discovery Life (L)(720)	00!0!0/10710?zyy
+USA-HGTV (L)(720)	00!0!0/10711?zyy
+USA-Investigation Discovery ID (L)(720)	00!0!0/10712?zyy
+USA-Science (L)(720)	00!0!0/10713?zyy
+USA-TLC USA (L)(720)	00!0!0/10714?zyy
+USA-ABC Northdakota (L)(720)	00!0!0/10715?zyy
+ABC West Virginia (L)(720)	00!0!0/10716?zyy
+CBS Newjersey (L)(720)	00!0!0/10717?zyy
+CBS Utah (L)(720)	00!0!0/10718?zyy
+CBS Vermont (L)(720)	00!0!0/10719?zyy
+FOX Colorado (L)(720)	00!0!0/10720?zyy
+FOX Minnesota (L)(720)	00!0!0/10721?zyy
+FOX Northcarolina (L)(720)	00!0!0/10722?zyy
+FOX Ohio (L)(720)	00!0!0/10723?zyy
+FOX Oklahoma (L)(720)	00!0!0/10724?zyy
+FOX Pennsylvania (L)(720)	00!0!0/10725?zyy
+FOX South Carolina (L)(720)	00!0!0/10726?zyy
+LAT | FOX NEWS (L)(720)	00!0!0/10727?zyy
+USA-6 ABC Philadelphia (L)(720)	00!0!0/10728?zyy
+USA-ABC 10 San Diego (L)(720)	00!0!0/10729?zyy
+USA-ABC 10 | Sacramento (L)(720)	00!0!0/10730?zyy
+USA-ABC 13 | Houston (L)(720)	00!0!0/10731?zyy
+USA-ABC 15 Phoenix (L)(720)	00!0!0/10732?zyy
+USA-ABC 7 California Los Angeles (L)(720)	00!0!0/10733?zyy
+USA-ABC 7 Chicago (L)(720)	00!0!0/10734?zyy
+USA-ABC 7 | New York (L)(720)	00!0!0/10735?zyy
+USA-ABC KTUL Tulsa (L)(720)	00!0!0/10736?zyy
+USA-ABC Las Vegas | KTNV (L)(720)	00!0!0/10737?zyy
+USA-ABC LOCAL 10 Miami (L)(720)	00!0!0/10738?zyy
+USA-ABC News 5 | Cleveland (L)(720)	00!0!0/10739?zyy
+USA-ABC WFTV 9 | Orlando (L)(720)	00!0!0/10740?zyy
+USA-ABC WKRN | Tennessee (L)(720)	00!0!0/10741?zyy
+USA-ABC WMUR | Boston (L)(720)	00!0!0/10742?zyy
+USA-ABC WSB 2 Atlanta (L)(720)	00!0!0/10743?zyy
+USA-ABC WSOC 9 Charlotte (L)(720)	00!0!0/10744?zyy
+USA-CBS | Wisconsin (L)(720)	00!0!0/10745?zyy
+USA-CBS 10TV | Columbus (L)(720)	00!0!0/10746?zyy
+USA-CBS 13 Sacramento (L)(720)	00!0!0/10747?zyy
+USA-CBS 2 Chicago (L)(720)	00!0!0/10748?zyy
+USA-CBS 2 | California Los Angeles (L)(720)	00!0!0/10749?zyy
+USA-CBS 3 | Philadelphia (L)(720)	00!0!0/10750?zyy
+USA-CBS 4 Miami (L)(720)	00!0!0/10751?zyy
+USA-CBS 4 | Indiana (L)(720)	00!0!0/10752?zyy
+USA-CBS 46 Atlanta (L)(720)	00!0!0/10753?zyy
+USA-CBS 47 Fresno (L)(720)	00!0!0/10754?zyy
+USA-CBS 5 Phoenix (L)(720)	00!0!0/10755?zyy
+USA-CBS 5 | Arizona (L)(720)	00!0!0/10756?zyy
+USA-CBS 8 San Diego (L)(720)	00!0!0/10757?zyy
+USA-CBS Cleveland 19 (L)(720)	00!0!0/10758?zyy
+USA-CBS KEYE | Austin (L)(720)	00!0!0/10759?zyy
+USA-CBS KHOU 11 | Houston (L)(720)	00!0!0/10760?zyy
+USA-CBS KKTV 11 | Colorado (L)(720)	00!0!0/10761?zyy
+USA-CBS KRCG 13 | Columbia (L)(720)	00!0!0/10762?zyy
+USA-CBS Las Vegas | KLAS (L)(720)	00!0!0/10763?zyy
+USA-CBS News | New York (L)(720)	00!0!0/10764?zyy
+USA-CBS News 6 | Orlando (L)(720)	00!0!0/10765?zyy
+USA-CBS Tennessee | WTVF (L)(720)	00!0!0/10766?zyy
+USA-CBS WBTV | Charlotte (L)(720)	00!0!0/10767?zyy
+USA-CBS WBZ 4 | Boston (L)(720)	00!0!0/10768?zyy
+USA-CBS WTAJ | Pennsylvania (L)(720)	00!0!0/10769?zyy
+USA-CBS WTOC 11 | Georgia (L)(720)	00!0!0/10770?zyy
+USA-CNBC (L)(720)	00!0!0/10771?zyy
+USA-CW Nashville (L)(720)	00!0!0/10772?zyy
+USA-Eleven Sports Networks (L)(720)	00!0!0/10773?zyy
+USA-Florida Pensacola (L)(720)	00!0!0/10774?zyy
+USA-Fox 23 Tulsa (L)(720)	00!0!0/10775?zyy
+USA-FOX 25 | Boston (L)(720)	00!0!0/10776?zyy
+USA-Fox 26 Fresno (L)(720)	00!0!0/10777?zyy
+USA-FOX 26 Houston (L)(720)	00!0!0/10778?zyy
+USA-FOX 28 Columbus (L)(720)	00!0!0/10779?zyy
+USA-FOX 29 Philadelphia (L)(720)	00!0!0/10780?zyy
+USA-FOX 32 Chicago (L)(720)	00!0!0/10781?zyy
+USA-FOX 35 Orlando (L)(720)	00!0!0/10782?zyy
+USA-FOX 5 | New York (L)(720)	00!0!0/10783?zyy
+USA-FOX Business Network (L)(720)	00!0!0/10784?zyy
+USA-NBC 10 Philadelphia (L)(720)	00!0!0/10785?zyy
+USA-NBC 11 Alive Atlanta (L)(720)	00!0!0/10786?zyy
+USA-NBC 12 Phoenix (L)(720)	00!0!0/10787?zyy
+USA-NBC 4 Columbus (L)(720)	00!0!0/10788?zyy
+USA-NBC 4 WSMV | Tennessee (L)(720)	00!0!0/10789?zyy
+USA-NBC 5 Chicago (L)(720)	00!0!0/10790?zyy
+USA-NBC 7 San Diego (L)(720)	00!0!0/10791?zyy
+USA-NBC California Los Angeles 4 (L)(720)	00!0!0/10792?zyy
+USA-FOX Indiana (L)(720)	00!0!0/10793?zyy
+USA-FOX WSVN 7 Miami (L)(720)	00!0!0/10794?zyy
+USA-MSG (L)(720)	00!0!0/10795?zyy
+USA-MSG Plus (L)(720)	00!0!0/10796?zyy
+USA-MSG Plus 2 (L)(720)	00!0!0/10797?zyy
+USA-MSG Plus 3 (L)(720)	00!0!0/10798?zyy
+USA-MSNBC (L)(720)	00!0!0/10799?zyy
+USA-NBC Florida Miami 6 (L)(720)	00!0!0/10800?zyy
+USA-NBC KSNV Las Vegas (L)(720)	00!0!0/10801?zyy
+USA-NBC New York (L)(720)	00!0!0/10802?zyy
+USA-NBC Universo (L)(720)	00!0!0/10803?zyy
+USA-AT&T SportsNet Pitsburgh (L)(720)	00!0!0/10804?zyy
+USA-AT&T SportsNet Southwest (L)(720)	00!0!0/10805?zyy
+USA-BEIN Sports (L)(720)	00!0!0/10806?zyy
+USA-BEIN Sports 4 (L)(720)	00!0!0/10807?zyy
+USA-BEIN Sports 5 (L)(720)	00!0!0/10808?zyy
+USA-BEIN Sports 6 (L)(720)	00!0!0/10809?zyy
+USA-BEIN Sports 7 (L)(720)	00!0!0/10810?zyy
+USA-BEIN Sports 8 (L)(720)	00!0!0/10811?zyy
+USA-BEIN Sports XTRA (L)(720)	00!0!0/10812?zyy
+USA-Fox Deportes (L)(720)	00!0!0/10813?zyy
+USA-FS1 (L)(720)	00!0!0/10814?zyy
+USA-FS2 (L)(720)	00!0!0/10815?zyy
+USA-Fubo Sports Network (L)(720)	00!0!0/10816?zyy
+USA-MASN (L)(720)	00!0!0/10817?zyy
+USA-MASN 2 (L)(720)	00!0!0/10818?zyy
+USA-Motortrend (L)(720)	00!0!0/10819?zyy
+USA-MSG (L)(720)	00!0!0/10820?zyy
+USA-NBA TV (L)(720)	00!0!0/10821?zyy
+USA-NBC Sports Bay Area (L)(720)	00!0!0/10822?zyy
+USA-NBC Sports Philadelphia Plus (L)(720)	00!0!0/10823?zyy
+USA-NBC Sports Washington (L)(720)	00!0!0/10824?zyy
+USA-NBC Sports Washington Plus (L)(720)	00!0!0/10825?zyy
+USA-NESN (L)(720)	00!0!0/10826?zyy
+USA-NESN PLUS (L)(720)	00!0!0/10827?zyy
+USA-NFL Network (L)(720)	00!0!0/10828?zyy
+USA-SEC Network (L)(720)	00!0!0/10836?zyy
+USA-SNY (L)(720)	00!0!0/10837?zyy
+USA-Spectrum News 1 (L)(720)	00!0!0/10838?zyy
+USA-SPECTRUM Sports NET LA Dodgers (L)(720)	00!0!0/10839?zyy
+USA-Spectrum Sportsnet Lakers (L)(720)	00!0!0/10840?zyy
+USA-SportsMAN Channel (L)(720)	00!0!0/10841?zyy
+USA-Stadium (L)(720)	00!0!0/10842?zyy
+USA-T-UDN USA (L)(720)	00!0!0/10843?zyy
+USA-YES Network (L)(720)	00!0!0/10844?zyy
+USA-A&E (L)(1080)	00!0!0/17902?zyy
+USA-AMC (L)(1080)	00!0!0/17903?zyy
+USA-AXS TV (L)(1080)	00!0!0/17904?zyy
+USA-BTN (L)(1080)	00!0!0/17905?zyy
+USA-Comedy Central (L)(1080)	00!0!0/17906?zyy
+USA-Cooking Channel (L)(1080)	00!0!0/17907?zyy
+USA-CW Nashville (L)(1080)	00!0!0/17908?zyy
+USA-Destination America (L)(1080)	00!0!0/17909?zyy
+USA-Cozi TV (L)(1080)	00!0!0/17910?zyy
+USA-FX (L)(1080)	00!0!0/17911?zyy
+USA-FYI (L)(1080)	00!0!0/17912?zyy
+USA-Hallmark Drama (L)(1080)	00!0!0/17913?zyy
+USA-HBO FAMILY West (L)(1080)	00!0!0/17914?zyy
+USA-HLN (L)(1080)	00!0!0/17915?zyy
+USA-ION (L)(1080)	00!0!0/17916?zyy
+USA-KBTX (L)(1080)	00!0!0/17917?zyy
+USA-KTLA (L)(1080)	00!0!0/17918?zyy
+USA-Laff (L)(1080)	00!0!0/17919?zyy
+USA-Law & Crime (L)(1080)	00!0!0/17920?zyy
+USA-Lifetime Movies Network (L)(1080)	00!0!0/17921?zyy
+USA-Magnolia Network (L)(1080)	00!0!0/17922?zyy
+USA-LIFETIME (L)(1080)	00!0!0/17923?zyy
+USA-NBC Universo (L)(720.)	00!0!0/17924?zyy
+USA-NBC Universo (L)(1080)	00!0!0/17925?zyy
+USA-OUTDOOR HD (L)(1080)	00!0!0/17926?zyy
+USA-Outermax (L)(1080)	00!0!0/17927?zyy
+USA-Showtime EAST (L)(1080)	00!0!0/17928?zyy
+USA-Showtime Family Zone (L)(1080)	00!0!0/17929?zyy
+USA-Showtime Showcase (L)(1080)	00!0!0/17930?zyy
+USA-Showtime Women (L)(1080)	00!0!0/17931?zyy
+USA-Sony Movies (L)(1080)	00!0!0/17932?zyy
+USA-Starz Encore Black (L)(1080)	00!0!0/17933?zyy
+USA-Starz Encore EAST (L)(1080)	00!0!0/17934?zyy
+USA-Sundance TV (L)(1080)	00!0!0/17935?zyy
+USA-SYFY USA (L)(1080)	00!0!0/17936?zyy
+USA-TNT (L)(1080)	00!0!0/17937?zyy
+USA-Starz Cinema (L)(1080)	00!0!0/17938?zyy
+USA-Starz Comedy (L)(1080)	00!0!0/17939?zyy
+USA-Starz Edge West (L)(1080)	00!0!0/17940?zyy
+USA-Starz Encore Action (L)(1080)	00!0!0/17941?zyy
+USA-Starz Encore Español (L)(1080)	00!0!0/17942?zyy
+USA-Starz Encore Suspense (L)(1080)	00!0!0/17943?zyy
+USA-Starz InBlack (L)(1080)	00!0!0/17944?zyy
+USA-Starz Kids & Family (L)(1080)	00!0!0/17945?zyy
+USA-Starz Encore Westerns (L)(1080)	00!0!0/17946?zyy
+USA-TBS (L)(1080)	00!0!0/17947?zyy
+USA-TNT East (L)(1080)	00!0!0/17948?zyy
+USA-TV Land (L)(1080)	00!0!0/17949?zyy
+USA-U-vision 48 | KNVO Mcallen TX (L)(1080)	00!0!0/17950?zyy
+USA-Ultra Cine (L)(1080)	00!0!0/17951?zyy
+USA-Ultra Clásico (L)(1080)	00!0!0/17952?zyy
+USA-Ultra Docu (L)(1080)	00!0!0/17953?zyy
+USA-Ultra Familia (L)(1080)	00!0!0/17954?zyy
+USA-Ultra Fiesta (L)(1080)	00!0!0/17955?zyy
+USA-Ultra Kidz (L)(1080)	00!0!0/17956?zyy
+USA-Ultra Macho (L)(1080)	00!0!0/17957?zyy
+USA-Ultra Mex (L)(1080)	00!0!0/17958?zyy
+USA-VICE (L)(1080)	00!0!0/17959?zyy
+USA-USA Network (L)(1080)	00!0!0/17960?zyy
+USA-WE TV (L)(1080)	00!0!0/17961?zyy
+USA-Action Max (L)(1080)	00!0!0/17962?zyy
+USA-Aspire TV (L)(1080)	00!0!0/17963?zyy
+USA-Bravo (L)(1080)	00!0!0/17964?zyy
+USA-CINEMAX East (L)(1080)	00!0!0/17965?zyy
+USA-CMT (L)(1080)	00!0!0/17966?zyy
+USA-FXM (L)(1080)	00!0!0/17967?zyy
+USA-FXX (L)(1080)	00!0!0/17968?zyy
+USA-Freeform (L)(1080)	00!0!0/17969?zyy
+USA-Hallmark Channel (L)(1080)	00!0!0/17970?zyy
+USA-Hallmark Movies & Mysteries (L)(1080)	00!0!0/17971?zyy
+USA-HBO 2 West Dual Audio (L)(1080)	00!0!0/17972?zyy
+USA-HBO Latino (L)(1080)	00!0!0/17973?zyy
+USA-HBO Comedy West Dual Audio (L)(1080)	00!0!0/17974?zyy
+USA-HBO EAST Dual Audio (L)(1080)	00!0!0/17975?zyy
+USA-HBO Signature West (L)(1080)	00!0!0/17976?zyy
+USA-HBO West (L)(1080)	00!0!0/17977?zyy
+USA-HBO ZONE West Dual Audio (L)(1080)	00!0!0/17978?zyy
+USA-IFC (L)(1080)	00!0!0/17979?zyy
+USA-KCAL 9 California Los Angeles (L)(1080)	00!0!0/17981?zyy
+USA-MoreMax (L)(1080)	00!0!0/17983?zyy
+USA-MovieMax (L)(1080)	00!0!0/17984?zyy
+USA-Own (L)(1080)	00!0!0/17985?zyy
+USA-Showtime 2 (L)(1080)	00!0!0/17986?zyy
+USA-Showtime Extreme (L)(1080)	00!0!0/17987?zyy
+USA-Showtime Next (L)(1080)	00!0!0/17989?zyy
+USA-Showtime West (L)(1080)	00!0!0/17990?zyy
+USA-Sony (L)(1080)	00!0!0/17991?zyy
+CAN-TSN 1 (M)(720)	00!0!0/45802?zyy
+CAN-TSN 3 (M)(720)	00!0!0/45803?zyy
+CAN-TSN 5 (M)(720)	00!0!0/45804?zyy
+CAN-Sportsnet 360 (M)(720)	00!0!0/45805?zyy
+CAN-Sportsnet East (M)(720)	00!0!0/45806?zyy
+CAN-Sportsnet Ontario (M)(720)	00!0!0/45808?zyy
+CAN-Sportsnet Pacific (M)(720)	00!0!0/45809?zyy
+CAN-Sportsnet West (M)(720)	00!0!0/45810?zyy
+CAN-A&E (M)(720)	00!0!0/45813?zyy
+CAN-ABC (M)(720)	00!0!0/45814?zyy
+CAN-AMC (M)(720)	00!0!0/45815?zyy
+CAN-Animal Planet (M)(720)	00!0!0/45816?zyy
+CAN-Bein Sports (M)(720)	00!0!0/45817?zyy
+CAN-BET (M)(720)	00!0!0/45818?zyy
+CAN-CBC (M)(720)	00!0!0/45820?zyy
+CAN-CBC Edmonton (M)(720)	00!0!0/45821?zyy
+CAN-CHCH (M)(720)	00!0!0/45823?zyy
+CAN-City Toronto (M)(720)	00!0!0/45824?zyy
+CAN-City TV (M)(720)	00!0!0/45825?zyy
+CAN-CMT Canada (M)(720)	00!0!0/45826?zyy
+CAN-CNBC (M)(720)	00!0!0/45827?zyy
+CAN-CNN (M)(720)	00!0!0/45828?zyy
+CAN-Cooking Channel (M)(720)	00!0!0/45829?zyy
+CAN-Cottage Life (M)(720)	00!0!0/45830?zyy
+CAN-CP24 (T)(720)	00!0!0/45831?zyy
+CAN-Crave 3 (M)(720)	00!0!0/45832?zyy
+CAN-Crave 4 (M)(720)	00!0!0/45833?zyy
+CAN-CTV 2 Ottawa (M)(720)	00!0!0/45834?zyy
+CAN-CTV SCI-FI (M)(720)	00!0!0/45836?zyy
+CAN-CTV Vancouver (M)(720)	00!0!0/45837?zyy
+CAN-Dejaview (M)(720)	00!0!0/45838?zyy
+CAN-Disney Channel (M)(720)	00!0!0/45839?zyy
+CAN-Disney JR (M)(720)	00!0!0/45840?zyy
+CAN-Fight Network (M)(720)	00!0!0/45844?zyy
+CAN-FX (M)(720)	00!0!0/45847?zyy
+CAN-Global (M)(720)	00!0!0/45848?zyy
+CAN-Global Halifax (M)(720)	00!0!0/45849?zyy
+CAN-Global Toronto (M)(720)	00!0!0/45850?zyy
+CAN-HBO (M)(720)	00!0!0/45852?zyy
+CAN-IFC (M)(720)	00!0!0/45854?zyy
+CAN-Love Nature (M)(720)	00!0!0/45855?zyy
+CAN-Movietime (M)(720)	00!0!0/45857?zyy
+CAN-OLN (M)(720)	00!0!0/45858?zyy
+CAN-OMNI 1 (M)(720)	00!0!0/45859?zyy
+CAN-Silver Screen Classics (M)(720)	00!0!0/45865?zyy
+CAN-Smithsonian Channel (M)(720)	00!0!0/45866?zyy
+CAN-Teletoon (M)(720)	00!0!0/45867?zyy
+CAN-TV 5 Quebec (M)(720)	00!0!0/45869?zyy
+CAN-TVA Montreal (M)(720)	00!0!0/45870?zyy
+CAN-TVA Sports (M)(720)	00!0!0/45871?zyy
+CAN-YES Network (M)(720)	00!0!0/45873?zyy
+CAN-YES TV (M)(720)	00!0!0/45874?zyy
+CAN-Zeste (M)(720)	00!0!0/45875?zyy
+CAN-CP24 (Z)(720)	00!0!0/84194?zyy
+USA-ESPN (L)(720)	00!0!0/84666?zyy
+USA-ESPN 2 (L)(720)	00!0!0/84667?zyy
+USA-ESPN Deportes (L)(720)	00!0!0/84668?zyy
+USA-ESPN U (L)(720)	00!0!0/84669?zyy
+USA-ESPNews (L)(720)	00!0!0/84670?zyy
+USA-FOX Soccer PLUS (L)(720)	00!0!0/84671?zyy
+USA-MLB Network (L)(720)	00!0!0/84672?zyy
+USA-NHL Network (L)(720)	00!0!0/84673?zyy
+USA-Bally New Orleans Plus (L)(720)	00!0!0/84674?zyy
+USA-Bally South plus (L)(720)	00!0!0/84675?zyy
+USA-Bally Sports Detroit (L)(720)	00!0!0/84676?zyy
+USA-Bally Sports Detroit Plus (L)(720)	00!0!0/84677?zyy
+USA-Bally Sports Florida (L)(720)	00!0!0/84678?zyy
+USA-Bally Sports Great Lakes (L)(720)	00!0!0/84679?zyy
+USA-Bally Sports Indiana (L)(720)	00!0!0/84680?zyy
+USA-Bally Sports Kansas City (L)(720)	00!0!0/84681?zyy
+USA-Bally Sports Kansas City Plus (L)(720)	00!0!0/84682?zyy
+USA-Bally Sports MidWest (L)(720)	00!0!0/84683?zyy
+USA-Bally Sports Midwest Plus (L)(720)	00!0!0/84684?zyy
+USA-Bally Sports New Orleans (L)(720)	00!0!0/84685?zyy
+USA-Bally Sports North (L)(720)	00!0!0/84686?zyy
+USA-Bally Sports North Plus (L)(720)	00!0!0/84687?zyy
+USA-Bally Sports Ohio (L)(720)	00!0!0/84688?zyy
+USA-Bally Sports Ohio Plus (L)(720)	00!0!0/84689?zyy
+USA-Bally Sports Oklahoma (L)(720)	00!0!0/84690?zyy
+USA-Bally Sports Oklahoma Plus (L)(720)	00!0!0/84691?zyy
+USA-Bally Sports SoCal (L)(720)	00!0!0/84692?zyy
+USA-Bally Sports South (L)(720)	00!0!0/84693?zyy
+USA-Bally Sports SouthEast (L)(720)	00!0!0/84694?zyy
+USA-Bally Sports Southwest (L)(720)	00!0!0/84695?zyy
+USA-Bally Sports Southwest Plus (L)(720)	00!0!0/84696?zyy
+USA-Bally Sports Sun (L)(720)	00!0!0/84697?zyy
+USA-Bally Sports West (L)(720)	00!0!0/84698?zyy
+USA-Bally Sports Wisconsin (L)(720)	00!0!0/84699?zyy
+USA-Bally Sports Wisconsin Plus (L)(720)	00!0!0/84700?zyy
+
+OnTime Live Sports Events Channels	^-
+
+LA LIGA 01	00!0!0/117063?zyy
+LA LIGA 02	00!0!0/117064?zyy
+LA LIGA 03	00!0!0/117065?zyy
+LA LIGA 04	00!0!0/117066?zyy
+SERIA A 01	00!0!0/117068?zyy
+SERIA A 02	00!0!0/117069?zyy
+SERIE A 03	00!0!0/117070?zyy
+SERIE A 04	00!0!0/117071?zyy
+
+SuperLeague	00!0!0/116986?zyy
+Belgium A	00!0!0/116987?zyy
+Belgium B	00!0!0/116988?zyy
+LA LIGA A	00!0!0/116989?zyy
+LA LIGA B	00!0!0/116990?zyy
+LA LIGA C	00!0!0/116991?zyy
+LA LIGA D	00!0!0/116992?zyy
+
+Ascenso MX A	00!0!0/116993?zyy
+Ascenso MX B	00!0!0/116994?zyy
+Femenil A	00!0!0/116995?zyy
+Femenil B	00!0!0/116996?zyy
+CONCACAF	00!0!0/116997?zyy
+Premier League	00!0!0/116998?zyy
+Copa Italiana	00!0!0/116999?zyy
+Libertadores A	00!0!0/117000?zyy
+Libertadores B	00!0!0/117001?zyy
+Libertadores C	00!0!0/117002?zyy
+Libertadores D	00!0!0/117003?zyy
+Libertadores E	00!0!0/117004?zyy
+Libertadores F	00!0!0/117005?zyy
+Sudamericana A	00!0!0/117006?zyy
+Sudamericana B	00!0!0/117007?zyy
+Sudamericana C	00!0!0/117008?zyy
+Sudamericana D	00!0!0/117009?zyy
+Guatemala A	00!0!0/117010?zyy
+Guatemala B	00!0!0/117011?zyy
+Guatemala C	00!0!0/117012?zyy
+El Salvador	00!0!0/117013?zyy
+Copa de Portugal	00!0!0/117014?zyy
+LIBERTADORES 01	00!0!0/117015?zyy
+LIBERTADORES 02	00!0!0/117016?zyy
+LIBERTADORES 03	00!0!0/117017?zyy
+LIBERTADORES 04	00!0!0/117018?zyy
+LIBERTADORES 05	00!0!0/117019?zyy
+LIBERTADORES 06	00!0!0/117020?zyy
+SUDAMERICANA 01	00!0!0/117021?zyy
+SUDAMERICANA 02	00!0!0/117022?zyy
+SUDAMERICANA 03	00!0!0/117023?zyy
+SUDAMERICANA 04	00!0!0/117024?zyy
+SUDAMERICANA 05	00!0!0/117025?zyy
+EVENTOS A	00!0!0/117026?zyy
+EVENTOS B	00!0!0/117027?zyy
+EVENTOS C	00!0!0/117028?zyy
+EVENTOS D	00!0!0/117029?zyy
+EVENTOS E	00!0!0/117030?zyy
+EVENTOS F	00!0!0/117031?zyy
+EVENTOS G	00!0!0/117032?zyy
+EVENTOS H	00!0!0/117033?zyy
+EVENTOS I	00!0!0/117034?zyy
+EVENTOS J	00!0!0/117035?zyy
+EVENTOS K	00!0!0/117036?zyy
+EVENTOS L	00!0!0/117037?zyy
+EVENTOS M	00!0!0/117038?zyy
+EVENTOS N	00!0!0/117039?zyy
+EVENTOS O	00!0!0/117040?zyy
+EVENTOS P	00!0!0/117041?zyy
+EVENTOS Q	00!0!0/117042?zyy
+EVENTOS R	00!0!0/117043?zyy
+EVENTOS S	00!0!0/117044?zyy
+EVENTOS T	00!0!0/117045?zyy
+EVENTOS U	00!0!0/117046?zyy
+EVENTOS V	00!0!0/117047?zyy
+EVENTOS W	00!0!0/117048?zyy
+EVENTOS X	00!0!0/117049?zyy
+EVENTOS Y	00!0!0/117050?zyy
+EVENTOS Z	00!0!0/117051?zyy
+EVENTOS 0	00!0!0/117054?zyy
+EVENTOS 1	00!0!0/117055?zyy
+EVENTOS 2	00!0!0/117056?zyy
+EVENTOS 3	00!0!0/117057?zyy
+EVENTOS 4	00!0!0/117058?zyy
+EVENTOS 5	00!0!0/117059?zyy
+EVENTOS 6	00!0!0/117060?zyy
+EVENTOS 7	00!0!0/117061?zyy
+
+LMB_01	00!0!0/116963?zyy
+LMB_02	00!0!0/116962?zyy
+LMB_03	00!0!0/116961?zyy
+LMB_04	00!0!0/116960?zyy
+LMB_05	00!0!0/116959?zyy
+LMB_06	00!0!0/116958?zyy
+LMB_07	00!0!0/116957?zyy
+LMB_08	00!0!0/116956?zyy
+LMB_09	00!0!0/116955?zyy
+LMB_10	00!0!0/116964?zyy
+MLB_1 	00!0!0/116968?zyy
+MLB_2 	00!0!0/116969?zyy
+MLB_3 	00!0!0/116970?zyy
+MLB_4 	00!0!0/116971?zyy
+MLB_5 	00!0!0/116972?zyy
+MLB_6 	00!0!0/116973?zyy
+MLB_7 	00!0!0/116974?zyy
+MLB_8 	00!0!0/116975?zyy
+MLB_9 	00!0!0/116976?zyy
+MLB_10	00!0!0/116977?zyy
+MLB_11	00!0!0/116978?zyy
+MLB_12	00!0!0/116979?zyy
+MLB_13	00!0!0/116980?zyy
+MLB_14	00!0!0/116981?zyy
+MLB_15	00!0!0/116982?zyy
+NHL A	00!0!0/116983?zyy
+NHL B	00!0!0/116984?zyy
+NHL C	00!0!0/116985?zyy
+
+PPV 1	00!0!0/113280?zyy
+PPV 2	00!0!0/113281?zyy
+
