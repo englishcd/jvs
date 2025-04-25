@@ -10,10 +10,10 @@
 
 [w]26-04-2025[z]	^-
 
-05:00 🇵🇾 Paraguayan Primera Division
+05:00 🇵🇾 Paraguayan Primera Division	^-
 Atletico Tembetary vs 2 de Mayo PJC	`*https://www.fctv77.live/football/paraguayan-primera-division-match-4115631/atltico-tembetary-vs-club-sportivo-2-de-mayo-04-2025.html
 
-05:00 🇨🇱 Chilean Primera Division
+05:00 🇨🇱 Chilean Primera Division	^-
 Nublense vs Deportes La Serena	`*https://www.fctv77.live/football/chilean-primera-division-match-4122817/nublense-vs-deportes-la-serena-04-2025.html
 Union La Calera vs Audax Italiano	`*https://www.fctv77.live/football/chilean-primera-division-match-4124323/union-la-calera-vs-audax-italiano-04-2025.html
 
@@ -26,7 +26,7 @@ Aurora vs Real Oruro	`*https://www.fctv77.live/football/bolivian-primera-divisio
 06:00 🇺🇸 National Premier League	^-
 North Carolina vs Charlotte Independen	`*https://www.fctv77.live/football/national-premier-soccer-league-match-4173828/north-carolina-vs-charlotte-independence-04-2025.html
 
-06:00 🇺🇸 MLS Next PL
+06:00 🇺🇸 MLS Next PL	^-
 Toronto FC II vs Chicago flame B	`*https://www.fctv77.live/football/mls-next-pl-match-4173915/toronto-fc-ii-vs-chicago-flame-b-04-2025.html
 
 07:00 🇪🇨 LigaPro Serie A	^-
@@ -195,7 +195,7 @@ Yenisey Krasnoyarsk vs Dynamo Moscow	`*https://www.fctv77.live/football/russian-
 14:00 🇳🇿 Northern Premier League	^-
 Fencibles United vs Auckland City	`*https://www.fctv77.live/football/new-zealand-northern-premier-league-match-4175279/fencibles-united-vs-auckland-city-04-2025.html
 
-14:15 🇦🇺 Queensland State Women's League
+14:15 🇦🇺 Queensland State Women's League	^-
 Sunshine Coast vs Queensland Lions (w)	`*https://www.fctv77.live/football/australia-queensland-state-womens-league-match-4175535/sunshine-coast-wanderers-w-vs-queensland-lions-w-04-2025.html
 
 14:30 🇰🇷 Korean K League 1	^-
