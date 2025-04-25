@@ -328,7 +328,7 @@ ESPN	https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7
 [l]Huhu.To[z]	`0https://huhu.to/
 [l]rbtv77[z] 🇮🇩 Live Events	`0https://rbtv77.im/
 [l]multicanais[z] 🇵🇹 Multi Channels	`0https://multicanais.deal/
-[l]Today's Matches[z]	`0https://govoet-live.blogspot.com/
+[l]Today's Matches[z] `0https://govoet-live.blogspot.com/
 
 	^-
 [w]Live Sport TV Channels[z]	^-
@@ -1131,6 +1131,8 @@ Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07
 ^=fctv77	`0https://www.fctv77.cfd/football.html
 ^=[l]livetv791.me[z] Live Events	`0https://livetv791.me/export/webmasters.php?lang=en
 ^=[l]NetPlay Volleyball[z] Nonton Voli	`0https://nontonvoli.blogspot.com/
+^=henrycolato ^+http://tv.masterplaytv.club:8080/get.php?username=henrycolato8&password=05a7d4ffb932&type=m3u_plus
+^=6mc180025 ^+http://mu3241218.oknirvana.club:8880/get.php?username=6mc180025&password=82171611&type=m3u_plus
 ^=Canal+ Foot a	09!09amagmaott.tv:1991/ZPVG8Bq31r/cotp38A38Z/8476?zyw
 ^=ch91 gvtv	`0https://govoet-envivo.blogspot.com/91
 ^=ch2 smtv	`0https://live2samuraitv.blogspot.com/p/ch2.html
