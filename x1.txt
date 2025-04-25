@@ -546,29 +546,6 @@ PPV 4 - (e)(1080)	00!0!0/113283?zyy
 24/7 Zack y Cody: Gemelos a bordo (e)	00!0!0/94997?zyy
 24/7 Zoey 101	00!0!0/95008?zyy
 24/7 ¡Scooby-Doo, dónde estás!	00!0!0/95038?zyy
-3ABN Dare To Dream Network | US	00!0!0/87932?zyy
-3ABN English | US	00!0!0/87933?zyy
-3ABN International | US	00!0!0/87934?zyy
-3ABN Kids | US	00!0!0/87935?zyy
-3ABN Latino | US	00!0!0/87936?zyy
-3ABN Praise Him Music Network | US	00!0!0/87937?zyy
-3ABN Proclaim! Network | US	00!0!0/87938?zyy
-A&R Canal Adventista | CO (720p)	00!0!0/87939?zyy
-Alcance TV | MX	00!0!0/87989?zyy
-Apostol TV (576p)	00!0!0/87941?zyy
-BTN TV (1080p)	00!0!0/87943?zyy
-Canal 13 Jujuy TV (720p)	00!0!0/87944?zyy
-Canal 30 TV Bethel (720p)	00!0!0/87946?zyy
-Canal ISB | CL	00!0!0/87991?zyy
-Canal Santa María (360p)	00!0!0/87949?zyy
-Casa Sobre La Roca TV | CL	00!0!0/87992?zyy
-Catholic TV	00!0!0/87951?zyy
-CBN Español (1080p)	00!0!0/87952?zyy
-CBN Family (1080p)	00!0!0/87953?zyy
-CBN News National (1080p)	00!0!0/87954?zyy
-CCTN 47 (1080p)	00!0!0/87955?zyy
-CFN Catholic Faith Network (720p)	00!0!0/87957?zyy
-Cielo TV (1080p)	00!0!0/87959?zyy
 CINEMA PPV-Cinema 01 (M)(1080)	00!0!0/8586?zyy
 CINEMA PPV-Cinema 02 (M)(1080)	00!0!0/8587?zyy
 CINEMA PPV-Cinema 03 (M)(1080)	00!0!0/8588?zyy
@@ -606,9 +583,6 @@ CINEMA PPV-Cinema 34 (M)(1080)	00!0!0/8619?zyy
 CINEMA PPV-Cinema 35 (M)(1080)	00!0!0/8620?zyy
 CINEMA PPV-Cinema 36 (M)(1080)	00!0!0/8621?zyy
 CINEMA PPV-Cinema 37 (M)(1080)	00!0!0/8622?zyy
-Credo TV (720p)	00!0!0/87960?zyy
-Cristiana TV | ES	00!0!0/87994?zyy
-Cristo Visión Canal 31 (720p)	00!0!0/87961?zyy
 DEPORTES - Espn 1 COL (PM)(1080)	00!0!0/9516?zyy
 DEPORTES - Espn 1 COL (e)(720)	00!0!0/9517?zyy
 DEPORTES - Espn 1 CHI (PM)(1080)	00!0!0/99538?zyy
@@ -708,8 +682,6 @@ DEPORTES - UFC (L)(720)	00!0!0/9610?zyy
 DEPORTES - UFC Fight PASS (T)(720)	00!0!0/9611?zyy
 DEPORTES - WWE (T)(720)	00!0!0/9612?zyy
 DEPORTES - WWE (M)(720)	00!0!0/9613?zyy
-Dios Te Ve (720p)	00!0!0/87962?zyy
-Dios Te Ve Kids (720p)	00!0!0/87963?zyy
 DOC-Animal Planet (L)(1080)	00!0!0/9811?zyy
 DOC-Animal Planet (M)(1080)	00!0!0/9812?zyy
 DOC-Animal Planet (TV)(720)	00!0!0/9813?zyy
@@ -788,25 +760,12 @@ ECU- Canal del Futbol (e)(1080)	00!0!0/107639?zyy
 ECU- Canal del Futbol (e)(720)	00!0!0/107640?zyy
 ECU- El Canal del Futbol (M)(1080)	00!0!0/109833?zyy
 ECU- El Canal del Futbol 2 (e)(1080)	00!0!0/109836?zyy
-El Camino TV (480p)	00!0!0/87965?zyy
 ES | DAZN 1	00!0!0/94464?zyy
 ES | DAZN 2 HD (L)	00!0!0/94465?zyy
 ES | DAZN F1 (L)	00!0!0/94466?zyy
 ES | Dazn La Liga HD	00!0!0/94467?zyy
 ES: Dazn La Liga 1 (TV)(1080)	00!0!0/103708?zyy
 ES: Dazn La Liga 1 (TV)(720)	00!0!0/103707?zyy
-EWTN Canada (720p)	00!0!0/87966?zyy
-EWTN Estados Unidos (Spanish) (720p)	00!0!0/87967?zyy
-EWTN | US	00!0!0/87997?zyy
-Extrema TV | CR	00!0!0/87998?zyy
-Faro de Santidad TV (720p)	00!0!0/87968?zyy
-Faro de Santidad TV | PR	00!0!0/87999?zyy
-Fortaleza Radio | CL	00!0!0/88000?zyy
-Gospel Cartoon (360p)	00!0!0/87970?zyy
-Gospel Movies Television | BR	00!0!0/88002?zyy
-Gracia TV | CL	00!0!0/88003?zyy
-Gran Hermano Argentina 24H	00!0!0/102111?zyy
-Iglesia Del Camino (480p)	00!0!0/87971?zyy
 INF-Baby First (M)(SD)	00!0!0/9854?zyy
 INF-Baby TV (Z)(1080)	00!0!0/9855?zyy
 INF-Boomerang (Z)	00!0!0/9857?zyy
@@ -837,12 +796,6 @@ INF-Nicktoons (M)(720)	00!0!0/9882?zyy
 INF-TeenNick (M)(1080)	00!0!0/9873?zyy
 INF-Tooncast (M)(720)	00!0!0/9883?zyy
 INF-Tooncast (Z)(720)	00!0!0/9884?zyy
-Jehova TV | HN	00!0!0/88004?zyy
-JN19 | PE	00!0!0/87987?zyy
-Juventud Renovada en el Espiritu Santo (720p)	00!0!0/87972?zyy
-Lighting Lives Blessing Nations TV Latino (LLBN) (480p)	00!0!0/87973?zyy
-Luz Naciente TV | CR	00!0!0/88005?zyy
-Mission TV (1080p)	00!0!0/87974?zyy
 MUS-Bandamax (M)(SD)	00!0!0/8307?zyy
 MUS-Bandamax (TV)(720)	00!0!0/8308?zyy
 MUS-HTV (M)(720)	00!0!0/8309?zyy
@@ -860,7 +813,6 @@ MUS-VH1 (TV)(720)	00!0!0/8320?zyy
 MUS-VH1 Classic (M)(SD)	00!0!0/8321?zyy
 MUS-VH1 Mega Hits (M)(SD)	00!0!0/8322?zyy
 MUS-VH1 Plus (M)(SD)	00!0!0/8323?zyy
-NCTV | CL	00!0!0/88007?zyy
 NOT-BBC World News (M)(720)	00!0!0/10250?zyy
 NOT-CNN en Español (M)(1080)	00!0!0/10251?zyy
 NOT-CNN en Español (M)(720)	00!0!0/10252?zyy
@@ -959,14 +911,6 @@ NOV-UNIMáS New York (TV)(720)	00!0!0/8390?zyy
 NOV-Universo (T)(720)	00!0!0/67008?zyy
 NOV-Universo (TV)(720)	00!0!0/8391?zyy
 NOV-Univision (T)(720)	00!0!0/67009?zyy
-Nueva Vida TV (720p)	00!0!0/87975?zyy
-Nuevo Tiempo | BR	00!0!0/88008?zyy
-Oasis TV | CO	00!0!0/88009?zyy
-Paraíso TV (720p)	00!0!0/87976?zyy
-Radio Vida Curico | CL	00!0!0/88010?zyy
-Restaurando Vidas TV | CL	00!0!0/88011?zyy
-SAL-Tigo Sports (TV)(SD)	00!0!0/106784?zyy
-Salvacion TV | PR	00!0!0/88012?zyy
 ES: Dazn 1 BAR FHD	00!0!0/103713?zyy
 ES: Dazn 2 BAR (TV)	00!0!0/103714?zyy
 ES: Dazn 2 (TV)(1080)	00!0!0/103710?zyy
@@ -992,23 +936,8 @@ SP: ES: M. Liga de Campeones 8 (Solo Eventos)	00!0!0/95780?zyy
 SP: ES: M. Liga de Campeones FHD (Fibra Multi-Comentaristas)	00!0!0/95766?zyy
 SP: ES: M. Liga de Campeones FHD (HEVC)	00!0!0/95768?zyy
 SP: ES: M. Liga de Campeones FHD (Orange)	00!0!0/95767?zyy
-Sublime Gracia TV | AR	00!0!0/88013?zyy
-SUMtv Latino (1080p)	00!0!0/87979?zyy
-TNE | CL	00!0!0/88014?zyy
-TV Aparecida | BR	00!0!0/88015?zyy
-TV CRET | SV	00!0!0/88016?zyy
-TV Gracia | CO	00!0!0/88017?zyy
-TV León de Judá (720p)	00!0!0/87980?zyy
-TV Maná Argentina (576p)	00!0!0/87981?zyy
-TV Maná Brasil (1080p)	00!0!0/87982?zyy
-TV Maná English (1080p)	00!0!0/87983?zyy
-TV Maná Español (1080p)	00!0!0/87984?zyy
-TV Rede Gospel | BR	00!0!0/88018?zyy
-TV Universal (480p)	00!0!0/87985?zyy
-TV Universal | BR	00!0!0/88019?zyy
 URU PPV 2 - (e)(720)	00!0!0/94287?zyy
 URU-PPV 1 - e)(1080)	00!0!0/94286?zyy
-Vida Television | US	00!0!0/88020?zyy
 UK | S-Ky Sports Bundesliga	00!0!0/110681?zyy
 24/7 Sobreviviendo a Escobar, alias JJ	00!0!0/112428?zyy
 24/7 El Capo	00!0!0/112429?zyy
