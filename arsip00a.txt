@@ -183,7 +183,7 @@ Hansa Rostock vs TSV 1860 München	`*https://www.fctv77.live/football/german-3-l
 00:00 🇵🇹 Liga Portugal 2	^-
 Pacos de Ferreira vs Uniao Leiria	`*https://www.fctv77.live/football/liga-portugal-2-match-4002561/pacos-de-ferreira-vs-uniao-leiria-04-2025.html
 
-00:00	🇩🇪 German Regionalliga	^-
+00:00 🇩🇪 German Regionalliga	^-
 Viktoria Aschaffenburg vs Schweinfurt 05	`*https://www.fctv77.live/football/german-regionalliga-match-4006847/viktoria-aschaffenburg-vs-schweinfurt-05-fc-04-2025.html
 SV Meppen vs Hamburger SV (Youth)	`*https://www.fctv77.live/football/german-regionalliga-match-4015059/sv-meppen-vs-hamburger-sv-youth-04-2025.html
 
@@ -334,7 +334,7 @@ FC Anyang vs Jeju United	`*https://www.fctv77.live/football/korean-k-league-1-ma
 14:30 🇨🇳 Chinese Football Super League	^-
 Changchun Yatai vs Chengdu Better City	`*https://www.fctv77.live/football/chinese-football-super-league-match-4123332/changchun-yatai-fc-vs-chengdu-rongcheng-fc-04-2025.html
 
-14:30 🇦🇺 Australia New South Wales Premier League	^-
+14:30 🇦🇺 New South Wales Premier League	^-
 NWS Spirit FC vs St George Saints	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127900/spirit-fc-vs-st-george-saints-04-2025.html
 
 14:30 🇰🇷 Korean K League 2	^-
