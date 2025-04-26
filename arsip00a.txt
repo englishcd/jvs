@@ -10,22 +10,6 @@
 
 [w]26-04-2025[z]	^-
 
-21:15 🇪🇸 Spanish Segunda Division	^-
-Eldense vs Cordoba	`*https://www.fctv77.live/football/spanish-segunda-division-match-4002056/eldense-vs-cordoba-04-2025.html
-Real Oviedo vs Levante	`*https://www.fctv77.live/football/spanish-segunda-division-match-4002120/real-oviedo-vs-levante-04-2025.html
-
-21:30 🇵🇹 Portuguese Primera Liga	^-
-Santa Clara vs FC Arouca	`*https://www.fctv77.live/football/portuguese-primera-liga-match-4001403/santa-clara-vs-fc-arouca-04-2025.html
-
-22:00 🇫🇷 [y]French Ligue 1[z]	^-
-Strasbourg vs Saint Etienne	`*https://www.fctv77.live/football/french-ligue-1-match-3989242/rc-strasbourg-alsace-vs-as-saint-tienne-04-2025.html
-
-22:00 🇺🇦 Ukrainian Premier League	^-
-Obolon Kiev vs FC Karpaty Lviv	`*https://www.fctv77.live/football/ukrainian-premier-league-match-3999454/obolon-kyiv-vs-fc-karpaty-lviv-04-2025.html
-
-22:00 🇪🇸 Spanish Primera División RFEF	^-
-FC Barcelona Atlètic vs SD Amorebieta	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024066/fc-barcelona-atltic-vs-sd-amorebieta-04-2025.html
-
 23:00 🇹🇷 Turkish Super League	^-
 Gazisehir Gaziantep vs Fenerbahce	`*https://www.fctv77.live/football/turkish-super-league-match-3996707/gazisehir-gaziantep-vs-fenerbahce-04-2025.html
 
