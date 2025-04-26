@@ -10,48 +10,6 @@
 
 [w]26-04-2025[z]	^-
 
-21:00 🇬🇧 English League Championship	^-
-Blackburn Rovers vs Watford	`*https://www.fctv77.live/football/english-football-league-championship-match-3991004/blackburn-rovers-vs-watford-04-2025.html
-Sheffield Wednesday vs Portsmouth	`*https://www.fctv77.live/football/english-football-league-championship-match-3991017/sheffield-wednesday-vs-portsmouth-04-2025.html
-Cardiff City vs West Bromwich (WBA)	`*https://www.fctv77.live/football/english-football-league-championship-match-3991077/cardiff-city-vs-west-bromwich-albion-04-2025.html
-Middlesbrough vs Norwich City	`*https://www.fctv77.live/football/english-football-league-championship-match-3991147/middlesbrough-vs-norwich-city-04-2025.html
-Oxford United vs Sunderland A.F.C	`*https://www.fctv77.live/football/english-football-league-championship-match-3991150/oxford-united-vs-sunderland-04-2025.html
-Preston North End vs Plymouth Argyle	`*https://www.fctv77.live/football/english-football-league-championship-match-3991158/preston-north-end-vs-plymouth-argyle-04-2025.html
-Millwall vs Swansea City	`*https://www.fctv77.live/football/english-football-league-championship-match-3991160/millwall-vs-swansea-city-04-2025.html
-Hull City vs Derby County	`*https://www.fctv77.live/football/english-football-league-championship-match-3991203/hull-city-vs-derby-county-04-2025.html
-
-21:00 🇬🇧 [y]English Premier League[z]	^-
-Southampton vs Fulham	`*https://www.fctv77.live/football/english-premier-league-match-3995881/southampton-vs-fulham-04-2025.html
-Brighton Hove Albion vs West Ham Utd	`*https://www.fctv77.live/football/english-premier-league-match-3995912/brighton-hove-albion-vs-west-ham-united-04-2025.html
-Wolves vs Leicester City	`*https://www.fctv77.live/football/english-premier-league-match-3995922/wolverhampton-wanderers-vs-leicester-city-04-2025.html
-Newcastle United vs Ipswich Town	`*https://www.fctv77.live/football/english-premier-league-match-3995925/newcastle-united-vs-ipswich-town-04-2025.html
-
-21:00 🇬🇧 English Football League One	^-
-Stockport County vs Lincoln City	`*https://www.fctv77.live/football/english-football-league-one-match-3997715/stockport-county-vs-lincoln-city-04-2025.html
-Wigan Athletic vs Blackpool	`*https://www.fctv77.live/football/english-football-league-one-match-3997737/wigan-athletic-vs-blackpool-04-2025.html
-Crawley Town vs Northampton Town	`*https://www.fctv77.live/football/english-football-league-one-match-3997792/crawley-town-vs-northampton-town-04-2025.html
-Peterborough Utd vs Bolton Wanderers	`*https://www.fctv77.live/football/english-football-league-one-match-3997976/peterborough-united-vs-bolton-wanderers-04-2025.html
-Burton Albion vs Cambridge United	`*https://www.fctv77.live/football/english-football-league-one-match-3997977/burton-albion-vs-cambridge-united-04-2025.html
-Exeter City vs Huddersfield Town	`*https://www.fctv77.live/football/english-football-league-one-match-3997979/exeter-city-vs-huddersfield-town-04-2025.html
-Barnsley vs Shrewsbury Town	`*https://www.fctv77.live/football/english-football-league-one-match-3997982/barnsley-vs-shrewsbury-town-04-2025.html
-
-21:00 🇬🇧 English National League	^-
-Barnet vs Aldershot Town	`*https://www.fctv77.live/football/english-national-league-match-4002898/barnet-vs-aldershot-town-04-2025.html
-Rochdale vs Hartlepool United	`*https://www.fctv77.live/football/english-national-league-match-4002900/rochdale-vs-hartlepool-united-04-2025.html
-Yeovil Town vs Sutton United	`*https://www.fctv77.live/football/english-national-league-match-4002912/yeovil-town-vs-sutton-united-04-2025.html
-York City vs Solihull Moors	`*https://www.fctv77.live/football/english-national-league-match-4002935/york-city-vs-solihull-moors-04-2025.html
-Forest Green Rovers vs Oldham Athletic	`*https://www.fctv77.live/football/english-national-league-match-4002994/forest-green-rovers-vs-oldham-athletic-04-2025.html
-Ebbsfleet United vs Maidenhead United	`*https://www.fctv77.live/football/english-national-league-match-4003021/ebbsfleet-united-vs-maidenhead-united-04-2025.html
-Boston United vs Gateshead	`*https://www.fctv77.live/football/english-national-league-match-4003078/boston-united-vs-gateshead-04-2025.html
-Dagenham Redbridge vs Altrincham	`*https://www.fctv77.live/football/english-national-league-match-4003079/dagenham---redbridge-vs-altrincham-04-2025.html
-Tamworth vs AFC Fylde	`*https://www.fctv77.live/football/english-national-league-match-4003091/tamworth-vs-afc-fylde-04-2025.html
-
-21:00 🇪🇸 Spanish Primera División RFEF	^-
-Athletic Bilbao B vs Cultural Leonesa	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024065/athletic-bilbao-b-vs-cultural-leonesa-04-2025.html
-
-21:00 🇷🇴 Romanian Liga I	^-
-Hermannstadt vs UTA Arad	`*https://www.fctv77.live/football/romanian-liga-i-match-4152604/hermannstadt-vs-uta-arad-04-2025.html
-
 21:15 🇪🇸 Spanish Segunda Division	^-
 Eldense vs Cordoba	`*https://www.fctv77.live/football/spanish-segunda-division-match-4002056/eldense-vs-cordoba-04-2025.html
 Real Oviedo vs Levante	`*https://www.fctv77.live/football/spanish-segunda-division-match-4002120/real-oviedo-vs-levante-04-2025.html
