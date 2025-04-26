@@ -10,13 +10,6 @@
 
 [w]27-04-2025[z]	^-
 
-01:30 🇩🇪 German Bundesliga 2	^-
-Fortuna Dusseldorf vs 1. FC Nürnberg	`*https://www.fctv77.live/football/german-bundesliga-2-match-3998457/fortuna-dusseldorf-vs-1-fc-nrnberg-04-2025.html
-
-01:30 🇺🇸 US Major League Soccer	^-
-Toronto FC vs New York City FC	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106167/toronto-fc-vs-new-york-city-fc-04-2025.html
-FC Cincinnati vs FC Kansas City	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106186/fc-cincinnati-vs-sporting-kansas-city-04-2025.html
-
 02:00 🇧🇷 Brazilian Serie B	^-
 Coritiba PR vs Operario Ferroviario PR	`*https://www.fctv77.live/football/brazilian-serie-b-match-4151477/coritiba-pr-vs-operario-ferroviario-pr-04-2025.html
 
