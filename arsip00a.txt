@@ -1,7 +1,7 @@
-[l]{s} Ⓗa0 Live Sports Events[z]	^-
+[g]{s} Ⓗa0 Live Sports Events[z]	^-
 
-👉[y]New Live Sports & TV Channels #1[z]👈	^^h10
-👉[y]New Live Sports & TV Channels #2[z]👈	^^h11
+👉[l]New Live Sports & TV Channels #1[z]👈	^^h10
+👉[l]New Live Sports & TV Channels #2[z]👈	^^h11
 
 [w]Live Football Events[z]	^-
 
