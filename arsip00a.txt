@@ -10,37 +10,6 @@
 
 [w]27-04-2025[z]	^-
 
-03:00 🇪🇸 [g]Copa del Rey[z]	^-
-FC Barcelona vs Real Madrid	`*https://www.fctv77.live/football/copa-del-rey-match-4172949/fc-barcelona-vs-real-madrid-04-2025.html
-
-03:30 🇺🇸 US Major League Soccer	^-
-Philadelphia Union vs DC United	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106170/philadelphia-union-vs-dc-united-04-2025.html
-New York Red Bulls vs Montreal Impact	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106242/new-york-red-bulls-vs-montreal-impact-04-2025.html
-
-04:00 🇨🇦 Canadian Premier League	^-
-Cavalry FC vs Atletico Ottawa	`*https://www.fctv77.live/football/canadian-premier-league-match-4163266/cavalry-fc-vs-atletico-ottawa-04-2025.html
-
-05:00 🇦🇷 Argentine Division 1	^-
-Belgrano vs Argentinos Juniors	`*https://www.fctv77.live/football/argentine-division-1-match-4107707/belgrano-vs-argentinos-juniors-04-2025.html
-
-06:00 🇧🇷 Brazilian Serie B	^-
-Avai FC vs America MG	`*https://www.fctv77.live/football/brazilian-serie-b-match-4151478/ava-fc-vs-america-mg-04-2025.html
-
-06:15 🇺🇸 US Major League Soccer	^-
-Orlando City vs Atlanta United	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106245/orlando-city-vs-atlanta-united-04-2025.html
-
-06:30 🇺🇸 US Major League Soccer	^-
-San Diego FC vs Real Salt Lake	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106094/san-diego-fc-vs-real-salt-lake-04-2025.html
-Columbus Crew vs San Jose Earthquakes	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106147/columbus-crew-vs-san-jose-earthquakes-04-2025.html
-Charlotte FC vs New England Revolution	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106240/charlotte-fc-vs-new-england-revolution-04-2025.html
-
-07:00 🇨🇦 Canadian Premier League	^-
-Vancouver FC vs Pacific FC	`*https://www.fctv77.live/football/canadian-premier-league-match-4163488/vancouver-fc-vs-pacific-fc-04-2025.html
-
-07:30 🇺🇸 US Major League Soccer	^-
-Houston Dynamo vs Austin FC	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106144/houston-dynamo-vs-austin-fc-04-2025.html
-Nashville vs Chicago Fire	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106162/nashville-vs-chicago-fire-04-2025.html
-
 08:30 🇺🇸 US Major League Soccer	^-
 Colorado Rapids vs Seattle Sounders	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106164/colorado-rapids-vs-seattle-sounders-04-2025.html
 
@@ -875,8 +844,6 @@ Sportsnet 360	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-p
 Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
 
 	^-
-^=Inter Miami CF vs FC Dallas	`*https://emmadju7.driveraudiencej2zeu49.sbs/id/football/united-states-major-league-soccer-4106157/inter-miami-cf-vs-fc-dallas.html
-^=New Live Sports & TV Channels	^^s10
 ^=[l]Today's Matches[z]	`0https://govoet-live.blogspot.com/
 ^=Live OnTime Events~🏴󠁧󠁢󠁥󠁮󠁧󠁿~	`4https://zayaxaw.blogspot.com/?0234
 ^=yaxawav	`0https://yaxawav.blogspot.com/?0234
