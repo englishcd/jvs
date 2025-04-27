@@ -10,41 +10,6 @@
 
 [w]27-04-2025[z]	^-
 
-17:00 🇵🇱 Poland Liga 1	^-
-Odra Opole vs Gornik Leczna	`*https://www.fctv77.live/football/poland-liga-1-match-3981093/odra-opole-vs-gornik-leczna-04-2025.html
-
-17:00 🇺🇦 Ukrainian Premier League	^-
-FC Vorskla Poltava vs Veres	`*https://www.fctv77.live/football/ukrainian-premier-league-match-3999450/fc-vorskla-poltava-vs-veres-04-2025.html
-
-17:00 🇵🇹 Liga Portugal 2	^-
-Feirense vs Porto B	`*https://www.fctv77.live/football/liga-portugal-2-match-4002573/feirense-vs-porto-b-04-2025.html
-
-17:00 🇪🇸 Spanish Primera División RFEF	^-
-G. Segoviana vs Barakaldo CF	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024095/g-segoviana-vs-barakaldo-cf-04-2025.html
-Sestao vs Ourense CF	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024101/sestao-vs-ourense-cf-04-2025.html
-Sevilla Atletico vs Real Betis B	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024384/sevilla-atletico-vs-real-betis-b-04-2025.html
-Real Madrid Castilla vs AD Ceuta	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024488/real-madrid-castilla-vs-ad-ceuta-04-2025.html
-
-17:00 🇪🇸 Spanish Segunda División RFEF	^-
-Alfaro vs Alaves B	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030554/alfaro-vs-alaves-b-04-2025.html
-Real Zaragoza B vs Teruel	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030555/real-zaragoza-b-vs-teruel-04-2025.html
-Real Valladol B vs Numancia	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030588/real-valladol-b-vs-numancia-04-2025.html
-Arenas Club de Getxo vs CD Tudelano	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030595/arenas-club-de-getxo-vs-cd-tudelano-04-2025.html
-Real Avila CF vs Compostela	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030604/real-avila-cf-vs-compostela-04-2025.html
-Calahorra vs Utebo FC	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030651/calahorra-vs-utebo-fc-04-2025.html
-CD Illescas vs AD Union Adarve	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030784/cd-illescas-vs-ad-union-adarve-04-2025.html
-CD Artistico Navalcarnero vs Cacereno	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030792/cd-artistico-navalcarnero-vs-cacereno-04-2025.html
-Getafe B vs CF Talavera de la Reina	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030800/getafe-b-vs-cf-talavera-de-la-reina-04-2025.html
-CD Coria vs UD San Sebastián Reyes	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030805/cd-coria-vs-ud-san-sebastin-de-los-reyes-04-2025.html
-Lleida vs RCD Espanyol B	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4032211/lleida-vs-rcd-espanyol-b-04-2025.html
-Sabadell vs CF Badalona	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4032220/sabadell-vs-cf-badalona-04-2025.html
-UD Alzira vs SCR Pena Deportiva	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4032221/ud-alzira-vs-scr-penya-deportiva-04-2025.html
-CD Linares Deportivo vs Villanovense	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4048836/cd-linares-deportivo-vs-villanovense-04-2025.html
-
-17:00 🇪🇸 Primera Div la Liga Femenino	^-
-Athletic Club vs Tenerife Egatesa (w)	`*https://www.fctv77.live/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4073387/athletic-club-w-vs-udg-tenerife-egatesa-w-04-2025.html
-Levante UD vs Atletico de Madrid （w）	`*https://www.fctv77.live/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4073406/levante-ud-w-vs-atletico-de-madrid-w-04-2025.html
-
 17:15 🇵🇱 PKO Bank Polski EKSTRAKLASA	^-
 Korona Kielce vs Jagiellonia Bialystok	`*https://www.fctv77.live/football/pko-bank-polski-ekstraklasa-match-3980888/korona-kielce-vs-jagiellonia-bialystok-04-2025.html
 
@@ -1090,7 +1055,6 @@ Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07
 	^-
 ^=Gol TV	00!0!0/9595?zyw
 ^=🇩🇪 SportDigital Fussball	00!0!1/29060?zyw
-^=atg100 ^+http://atg100.xyz:80/get.php?username=443432469215731&password=4362020837&type=m3u_plus
 ^=[l]Today's Matches[z]	`0https://govoet-live.blogspot.com/
 ^=Live OnTime Events~🏴󠁧󠁢󠁥󠁮󠁧󠁿~	`4https://zayaxaw.blogspot.com/?0234
 ^=yaxawav	`0https://yaxawav.blogspot.com/?0234
