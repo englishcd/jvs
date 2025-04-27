@@ -1090,6 +1090,7 @@ Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07
 	^-
 ^=Gol TV	00!0!0/9595?zyw
 ^=🇩🇪 SportDigital Fussball	00!0!1/29060?zyw
+^=atg100 ^+http://atg100.xyz:80/get.php?username=443432469215731&password=4362020837&type=m3u_plus
 ^=[l]Today's Matches[z]	`0https://govoet-live.blogspot.com/
 ^=Live OnTime Events~🏴󠁧󠁢󠁥󠁮󠁧󠁿~	`4https://zayaxaw.blogspot.com/?0234
 ^=yaxawav	`0https://yaxawav.blogspot.com/?0234
