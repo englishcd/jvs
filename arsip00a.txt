@@ -10,187 +10,6 @@
 
 [w]28-04-2025[z]	^-
 
-01:45 🇫🇷 [y]French Ligue 1[z]	^-
-Marseille vs Stade Brestois	`*https://www.fctv77.live/football/french-ligue-1-match-3989316/marseille-vs-stade-brestois-29-04-2025.html
-
-01:45 🇮🇹 [y]Italian Serie A[z]	^-
-Napoli vs Torino	`*https://www.fctv77.live/football/italian-serie-a-match-3994201/napoli-vs-torino-04-2025.html
-Atalanta vs Lecce	`*https://www.fctv77.live/football/italian-serie-a-match-3994229/atalanta-vs-lecce-04-2025.html
-
-02:00 🇪🇸 Spanish Segunda Division	^-
-Real Zaragoza vs SD Huesca	`*https://www.fctv77.live/football/spanish-segunda-division-match-4002237/real-zaragoza-vs-sd-huesca-04-2025.html
-
-02:00 🇺🇸 US Major League Soccer	^-
-Minnesota Utd vs Vancouver Whitecaps	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106145/minnesota-united-fc-vs-vancouver-whitecaps-04-2025.html
-
-02:30 🇵🇹 Portuguese Primera Liga	^-
-Boavista FC vs Sporting CP	`*https://www.fctv77.live/football/portuguese-primera-liga-match-4006303/boavista-fc-vs-sporting-cp-04-2025.html
-
-03:00 🇺🇸 US Women's National Soccer League	^-
-Portland Thorns vs Racing Louisville	`*https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131821/portland-thorns-fc-w-vs-racing-louisville-w-04-2025.html
-
-03:00 🇻🇪 Venezuela Segunda Division	^-
-Mineros de Guayana vs Dynamo Puerto FC	`*https://www.fctv77.live/football/venezuela-segunda-division-match-4173922/mineros-de-guayana-vs-dynamo-puerto-fc-04-2025.html
-Urena SC vs Trujillanos	`*https://www.fctv77.live/football/venezuela-segunda-division-match-4173949/urena-sc-vs-trujillanos-04-2025.html
-
-03:00 🇦🇼 Aruba Division Di Honor	^-
-Bubali SC vs SV Jong Aruba	`*https://www.fctv77.live/football/aruba-division-di-honor-match-4176672/bubali-sc-vs-sv-jong-aruba-04-2025.html
-
-03:30 🇪🇨 LigaPro Serie A	^-
-Orense SC vs Independiente Jose Teran	`*https://www.fctv77.live/football/ligapro-serie-a-match-4118405/orense-sc-vs-independiente-del-valle-04-2025.html
-
-03:30 🇯🇲 Jamaica Premier League	^-
-Dunbeholden FC vs Portmore United	`*https://www.fctv77.live/football/jamaica-premier-league-match-4133842/dunbeholden-fc-vs-portmore-united-04-2025.html
-Harbour View FC vs Vere United	`*https://www.fctv77.live/football/jamaica-premier-league-match-4133948/harbour-view-fc-vs-vere-united-04-2025.html
-Montego Bay Utd vs Cavalier FC	`*https://www.fctv77.live/football/jamaica-premier-league-match-4133953/montego-bay-utd-vs-cavalier-fc-04-2025.html
-Waterhouse FC vs Arnett Gardens	`*https://www.fctv77.live/football/jamaica-premier-league-match-4133969/waterhouse-fc-vs-arnett-gardens-04-2025.html
-
-03:30 🇵🇪 Peruvian Liga 1	^-
-Atletico Grau vs Sport Boys	`*https://www.fctv77.live/football/peruvian-liga-1-match-4140270/atletico-grau-vs-sport-boys-04-2025.html
-
-04:00 🇨🇷 Costa Rica Primera Division	^-
-Perez Zeledon vs Municipal Liberia	`*https://www.fctv77.live/football/costa-rica-primera-division-match-4099223/perez-zeledon-vs-municipal-liberia-04-2025.html
-
-04:00 🇺🇸 US Major League Soccer	^-
-Inter Miami CF vs FC Dallas	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106157/inter-miami-cf-vs-fc-dallas-04-2025.html
-
-04:00 🇬🇹 Guatemala Liga Nacional	^-
-Antigua GFC vs CD Achuapa	`*https://www.fctv77.live/football/guatemala-liga-nacional-match-4113226/antigua-gfc-vs-cd-achuapa-04-2025.html
-
-04:00 🇵🇦 Panamanian Liga de Futbol	^-
-Alianza FC (PAN) vs Tauro FC	`*https://www.fctv77.live/football/panamanian-liga-de-futbol-match-4116905/alianza-fc-pan-vs-tauro-fc-04-2025.html
-
-04:00 🇨🇴 Colombian Torneo BetPlay Dimayor	^-
-Deportes Quindio vs Real Santander	`*https://www.fctv77.live/football/colombian-torneo-betplay-dimayor-match-4125985/deportes-quindio-vs-real-santander-04-2025.html
-
-04:00 🇺🇸 USA ULOC	^-
-Birmingham Legion vs Chattanooga Wolves	`*https://www.fctv77.live/football/usa-uloc-match-4175435/birmingham-legion-vs-chattanooga-red-wolves-04-2025.html
-
-04:00 🇳🇮 Nicaragua Liga Primera	^-
-HYH Export Sebaco vs Deportivo Ocotal	`*https://www.fctv77.live/football/nicaragua-liga-primera-match-4176344/hyh-export-sebaco-fc-vs-deportivo-ocotal-04-2025.html
-
-04:00 🇰🇳 Saint Kitts Nevis Premier League	^-
-ELCO LTD St Peters vs Sandy Point	`*https://www.fctv77.live/football/saint-kitts-nevis-premier-league-match-4176556/elco-ltd-st-peters-vs-sandy-point-04-2025.html
-
-04:00 🇸🇻 El Salvador Segunda Division	^-
-CD INCA vs Zacatecoluca FC	`*https://www.fctv77.live/football/el-salvador-segunda-division-match-4176557/cd-inca-vs-zacatecoluca-fc-04-2025.html
-
-04:00 🇵🇷 PUR LPR	^-
-Caguas Sporting vs DS Edusoccer	`*https://www.fctv77.live/football/pur-lpr-match-4176558/caguas-sporting-vs-ds-edusoccer-04-2025.html
-
-04:10 🇨🇴 Categoría Primera A	^-
-Fortaleza F.C vs Dep.Indepen Medellin	`*https://www.fctv77.live/football/categoria-primera-a-match-4116016/fortaleza-fc-vs-depindependiente-medellin-04-2025.html
-
-04:15 🇧🇴 Bolivian Primera Division	^-
-Universitario De Vinto vs Always Ready	`*https://www.fctv77.live/football/bolivian-primera-division-match-4171426/universitario-de-vinto-vs-always-ready-04-2025.html
-
-04:30 🇦🇷 Argentine Division 2	^-
-Central Norte Salta vs Gimnasia Jujuy	`*https://www.fctv77.live/football/argentine-division-2-match-4115094/central-norte-salta-vs-gimnasia-jujuy-04-2025.html
-
-04:30 🇻🇪 Venezuela Primera Division	^-
-Universidad Cen Venezuela vs Caracas	`*https://www.fctv77.live/football/venezuela-primera-division-match-4115981/universidad-central-de-venezuela-vs-caracas-fc-04-2025.html
-Carabobo FC vs Deportivo Tachira	`*https://www.fctv77.live/football/venezuela-primera-division-match-4115985/carabobo-vs-deportivo-tachira-04-2025.html
-
-04:30 🇨🇱 Chilean Primera Division	^-
-Huachipato vs Union Espanola	`*https://www.fctv77.live/football/chilean-primera-division-match-4124322/huachipato-vs-union-espanola-04-2025.html
-
-04:30 🇧🇷 Brazilian Serie A	^-
-Palmeiras vs Bahia	`*https://www.fctv77.live/football/brazilian-serie-a-match-4141551/palmeiras-vs-bahia-04-2025.html
-Cruzeiro Esporte vs Vasco da Gama	`*https://www.fctv77.live/football/brazilian-serie-a-match-4141560/cruzeiro-esporte-clube-vs-clube-de-regatas-vasco-da-gama-04-2025.html
-Vitoria BA vs Gremio (RS)	`*https://www.fctv77.live/football/brazilian-serie-a-match-4141586/vitoria-ba-vs-gremio-rs-04-2025.html
-
-05:00 🇦🇷 Argentine Division 1	^-
-Lanus vs San Martin San Juan	`*https://www.fctv77.live/football/argentine-division-1-match-4107700/club-atltico-lans-vs-san-martin-san-juan-04-2025.html
-Instituto vs Sarmiento Junin	`*https://www.fctv77.live/football/argentine-division-1-match-4107704/instituto-de-crdoba-vs-sarmiento-junin-04-2025.html
-
-05:00 🇨🇴 Torneo BetPlay Dimayor	^-
-Barranquilla FC vs Atletico Huila	`*https://www.fctv77.live/football/colombian-torneo-betplay-dimayor-match-4125975/barranquilla-fc-vs-atletico-huila-04-2025.html
-
-05:00 🇧🇷 Brazilian Serie C	^-
-Botafogo PB vs ABC RN	`*https://www.fctv77.live/football/brazilian-serie-c-match-4146471/botafogo-pb-vs-abc-rn-04-2025.html
-Brusque FC vs Ypiranga (RS)	`*https://www.fctv77.live/football/brazilian-serie-c-match-4147329/brusque-fc-vs-ypirangars-04-2025.html
-
-05:00 🇧🇷 Brazilian Serie B	^-
-Cuiaba vs Ferroviaria SP	`*https://www.fctv77.live/football/brazilian-serie-b-match-4151479/cuiaba-vs-ferroviaria-sp-04-2025.html
-
-05:00 🇦🇼 Aruba Division Di Honor	^-
-Racing Club Savaneta vs SV Caravel	`*https://www.fctv77.live/football/aruba-division-di-honor-match-4176673/racing-club-savaneta-vs-sv-caravel-04-2025.html
-
-06:00 🇺🇸 US Major League Soccer	^-
-Los Angeles FC vs St. Louis City SC	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106149/los-angeles-fc-vs-st-louis-city-sc-04-2025.html
-
-06:00 🇪🇨 LigaPro Serie A	^-
-Club Sport Emelec vs Tecnico Univ	`*https://www.fctv77.live/football/ligapro-serie-a-match-4118401/club-sport-emelec-vs-tecnico-universitario-04-2025.html
-
-06:00 🇵🇪 Peruvian Liga 1	^-
-Universitario Deportes vs UTC Cajamarca	`*https://www.fctv77.live/football/peruvian-liga-1-match-4140275/universitario-de-deportes-vs-utc-cajamarca-04-2025.html
-
-06:00 🇺🇸 MLS Next PL	^-
-Houston Dynamo B vs Austin FC II	`*https://www.fctv77.live/football/mls-next-pl-match-4174775/houston-dynamo-b-vs-austin-fc-ii-04-2025.html
-
-06:00 🇺🇸 USA ULOC	^-
-Spokane Velocity vs Oakland Roots	`*https://www.fctv77.live/football/usa-uloc-match-4175436/spokane-velocity-vs-oakland-roots-04-2025.html
-
-06:00 🇲🇽 Mexico Liga MX	^-
-FC Juarez vs Pumas U.N.A.M.	`*https://www.fctv77.live/football/mexico-liga-mx-match-4175437/fc-juarez-vs-pumas-unam-04-2025.html
-
-06:00 🇳🇮 Nicaragua Liga Primera	^-
-Managua FC vs Real Esteli	`*https://www.fctv77.live/football/nicaragua-liga-primera-match-4176345/managua-fc-vs-real-esteli-04-2025.html
-
-06:00 🇰🇳 Saint Kitts Nevis Premier League	^-
-Bath United vs RAMS Village Superstars	`*https://www.fctv77.live/football/saint-kitts-nevis-premier-league-match-4176702/bath-united-vs-rams-village-superstars-04-2025.html
-
-06:00 🇺🇸 USL Jägermeister Cup	^-
-Pro-finish M vs North Carolina Lions	`*https://www.fctv77.live/football/usl-jagermeister-cup-match-4176779/pro-finish-management-fc-vs-north-carolina-lions-04-2025.html
-
-06:15 🇦🇷 Argentine Division 2	^-
-Colon Santa Fe vs Defensores Belgrano	`*https://www.fctv77.live/football/argentine-division-2-match-4115091/colon-de-santa-fe-vs-defensores-de-belgrano-04-2025.html
-
-06:15 🇵🇾 Paraguayan Primera Division	^-
-Sportivo Ameliano vs Libertad	`*https://www.fctv77.live/football/paraguayan-primera-division-match-4115638/sportivo-ameliano-vs-club-libertad-asuncin-04-2025.html
-
-06:20 🇨🇴 Categoría Primera A	^-
-America de Cali vs Deportivo Cali	`*https://www.fctv77.live/football/categoria-primera-a-match-4115949/america-de-cali-vs-deportivo-cali-04-2025.html
-
-06:30 🇧🇷 Brazilian Serie A	^-
-Santos vs Bragantino	`*https://www.fctv77.live/football/brazilian-serie-a-match-4141565/santos-vs-red-bull-bragantino-04-2025.html
-
-06:30 🇧🇴 Bolivian Primera Division	^-
-Bolivar vs Blooming	`*https://www.fctv77.live/football/bolivian-primera-division-match-4173265/bolivar-vs-blooming-04-2025.html
-
-07:00 🇻🇪 Venezuela Primera Division	^-
-Academia Puerto Cabello vs Portuguesa	`*https://www.fctv77.live/football/venezuela-primera-division-match-4116005/academia-puerto-cabello-vs-portuguesa-fc-04-2025.html
-
-07:00 🇸🇻 El Salvador Primera Division	^-
-CD FAS vs CD Cacahuatique	`*https://www.fctv77.live/football/el-salvador-primera-division-match-4116160/cd-fas-vs-cd-cacahuatique-04-2025.html
-
-07:00 🇧🇷 Brazilian Serie B	^-
-Amazonas vs Atletico Clube Goianiense	`*https://www.fctv77.live/football/brazilian-serie-b-match-4151483/amazonas-fc-vs-atletico-clube-goianiense-04-2025.html
-
-07:00 🇺🇸 MLS Next PL	^-
-San Jose Earthquakes vs Los Angeles II	`*https://www.fctv77.live/football/mls-next-pl-match-4174397/san-jose-earthquakes-reserve-vs-los-angeles-fc-ii-04-2025.html
-
-07:15 🇦🇷 Argentine Division 1	^-
-Independiente vs Deportivo Riestra	`*https://www.fctv77.live/football/argentine-division-1-match-4107701/ca-independiente-vs-deportivo-riestra-04-2025.html
-
-08:00 🇺🇸 US Major League Soccer	^-
-Los Angeles Galaxy vs Portland Timbers	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106183/los-angeles-galaxy-vs-portland-timbers-04-2025.html
-
-08:00 🇲🇽 Mexico Ascenso MX	^-
-Mineros de Zacatecas vs Venados FC	`*https://www.fctv77.live/football/mexico-ascenso-mx-match-4175554/mineros-de-zacatecas-vs-venados-fc-04-2025.html
-
-08:00 🇳🇮 Nicaragua Liga Primera	^-
-Diriangen vs Rancho Santana FC	`*https://www.fctv77.live/football/nicaragua-liga-primera-match-4176346/diriangen-vs-rancho-santana-fc-04-2025.html
-
-08:30 🇨🇴 Categoría Primera A	^-
-Atletico Bucaramanga vs Millonarios	`*https://www.fctv77.live/football/categoria-primera-a-match-4115993/atletico-bucaramanga-vs-millonarios-04-2025.html
-
-08:30 🇲🇽 Mexico Liga MX	^-
-Monterrey vs Pachuca	`*https://www.fctv77.live/football/mexico-liga-mx-match-4175438/monterrey-vs-pachuca-04-2025.html
-
-09:00 🇺🇸 MLS Next PL	^-
-Vancouver Whitecaps vs Ventura County	`*https://www.fctv77.live/football/mls-next-pl-match-4174774/vancouver-whitecaps-reserve-vs-ventura-county-fc-04-2025.html
-
 14:00 🇰🇷 Korean WK League	^-
 Boeun Sangmu vs Hyundai Steel (w)	`*https://www.fctv77.live/football/korean-wk-league-match-4166960/boeun-sangmu-w-vs-incheon-hyundai-steel-red-angels-w-04-2025.html
 
@@ -295,8 +114,10 @@ Ziggo Sport 2 Football	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-
 Ziggo Sport 3 F1	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 Ziggo Sport 5 Football	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,!!3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
 Ziggo Sport 6 Golf	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,!!1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
+🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
 Gol TV	00!0!0/9595?zyy
-🇩🇪 SportDigital Fussball	00!0!1/29060?zyy
+🇺🇸 USA Network	00!0!1/3089?zyy
+🇨🇦 USA Network	00!0!1/3047?zyy
 
 Sky Live Event 1	https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 Sky Live Event 2	https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
@@ -1105,8 +926,10 @@ Sportsnet 360	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-p
 Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
 
 	^-
+^=🇩🇪 SportDigital Fussball	00!0!2/278409?zyw
 ^=Gol TV	00!0!0/9595?zyw
-^=🇩🇪 SportDigital Fussball	00!0!1/29060?zyw
+^=🇺🇸 USA Network	00!0!1/3089?zyw
+^=🇨🇦 USA Network	00!0!1/3047?zyw
 ^=[l]Today's Matches[z]	`0https://govoet-live.blogspot.com/
 ^=Live OnTime Events~🏴󠁧󠁢󠁥󠁮󠁧󠁿~	`4https://zayaxaw.blogspot.com/?0234
 ^=yaxawav	`0https://yaxawav.blogspot.com/?0234
