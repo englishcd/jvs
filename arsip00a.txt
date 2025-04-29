@@ -10,14 +10,6 @@
 
 [w]30-04-2025[z]	^-
 
-01:00 🇦🇷 Argentine Reserve League	^-
-Lanus  vs CA Independiente	`*https://www.fctv77.live/football/argentine-reserve-league-match-4175574/lanus-reserves-vs-ca-independiente-reserves-04-2025.html
-Argentinos Jrs  vs Defensa y Justicia	`*https://www.fctv77.live/football/argentine-reserve-league-match-4175810/argentinos-jrs-reserves-vs-defensa-y-justicia-reserves-04-2025.html
-Godoy Cruz  vs Independiente Rivadavia	`*https://www.fctv77.live/football/argentine-reserve-league-match-4175811/godoy-cruz-reserves-vs-independiente-rivadavia-reserves-04-2025.html
-Racing Club  vs Banfield	`*https://www.fctv77.live/football/argentine-reserve-league-match-4175812/racing-club-reserves-vs-banfield-reserves-04-2025.html
-Rosario Central  vs Velez Sarsfield	`*https://www.fctv77.live/football/argentine-reserve-league-match-4175813/rosario-central-reserves-vs-velez-sarsfield-reserves-04-2025.html
-Tigre  vs Newell's	`*https://www.fctv77.live/football/argentine-reserve-league-match-4175814/tigre-reserves-vs-newells-reserves-04-2025.html
-
 01:30 🇪🇸 Spanish Segunda Division	^-
 Almeria vs Racing de Ferrol	`*https://www.fctv77.live/football/spanish-segunda-division-match-4002198/almeria-vs-racing-de-ferrol-04-2025.html
 
