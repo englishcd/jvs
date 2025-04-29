@@ -10,10 +10,6 @@
 
 [w]29-04-2025[z]	^-
 
-07:45 🇦🇷 Argentine Division 1	^-
-Velez Sarsfield vs Gimnasia La Plata	`*https://www.fctv77.live/football/argentine-division-1-match-4107703/velez-sarsfield-vs-gimnasia-la-plata-04-2025.html
-Central Cordoba vs Independen Rivadavia	`*https://www.fctv77.live/football/argentine-division-1-match-4107734/central-cordoba-sde-vs-independiente-rivadavia-04-2025.html
-
 08:00 🇦🇼 Aruba Division Di Honor	^-
 SV River Plate vs SV Caiquetio	`*https://www.fctv77.live/football/aruba-division-di-honor-match-4177101/sv-river-plate-vs-sv-caiquetio-04-2025.html
 
@@ -56,7 +52,7 @@ Santa Clara U23 vs Academico Viseu U23	`*https://www.fctv77.live/football/portug
 Portimonense U23 vs Braga U23	`*https://www.fctv77.live/football/portuguese-u23-league-match-4104605/portimonense-u23-vs-braga-u23-04-2025.html
 Rio Ave U23 vs CD Mafra U23	`*https://www.fctv77.live/football/portuguese-u23-league-match-4104606/rio-ave-u23-vs-cd-mafra-u23-04-2025.html
 
-18:00 🇬🇧 English U21 Professional Development League 2	^-
+18:00 🇬🇧 English U21 Pro Dev League 2	^-
 Hull City U21 vs Cardiff City U21	`*https://www.fctv77.live/football/english-u21-professional-development-league-2-match-4031408/hull-u21-vs-cardiff-city-u21-04-2025.html
 
 20:00 🇬🇪 Georgia Erovnuli Liga	^-
@@ -149,7 +145,7 @@ Newells Old Boys vs CA Huracan	`*https://www.fctv77.live/football/argentine-divi
 Atletico Nacional M vs Deportivo Pasto	`*https://www.fctv77.live/football/categoria-primera-a-match-4115995/atletico-nacional-medellin-vs-deportivo-pasto-04-2025.html
 
 08:00 [l]OFC W U16[z]	^-
-Papua New Guinea🇵🇬 vs American Samoa🇦🇸	`*https://www.fctv77.live/football/ofc-w-u16-match-4175367/papua-new-guinea-u16-w-vs-american-samoa-u16w-04-2025.html
+Papua N Guinea🇵🇬 vs American Samoa🇦🇸	`*https://www.fctv77.live/football/ofc-w-u16-match-4175367/papua-new-guinea-u16-w-vs-american-samoa-u16w-04-2025.html
 
 []👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/ofc-w-u16-match-4175367/papua-new-guinea-u16-w-vs-american-samoa-u16w-04-2025.html
 []** Follow the redirected page until Verification!	^-
