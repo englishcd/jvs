@@ -10,26 +10,11 @@
 
 [w]30-04-2025[z]	^-
 
-00:00 🇩🇪 German 3.Liga	^-
-Unterhaching vs Hansa Rostock	`*https://www.fctv77.live/football/german-3-liga-match-4000305/unterhaching-vs-hansa-rostock-04-2025.html
-
 00:00 🇳🇴 Norwegian 1.Divisjon	^-
 Hodd vs Ranheim IL	`*https://www.fctv77.live/football/norwegian-1-divisjon-match-4114367/hodd-vs-ranheim-il-04-2025.html
 
-00:00 🇳🇴 Norwegian 3.Divisjon	^-
-Bjorkelangen vs Kongsvinger IL B	`*https://www.fctv77.live/football/norwegian-3-divisjon-match-4114668/bjorkelangen-vs-kongsvinger-il-b-04-2025.html
-
 00:00 🇸🇪 Sweden Superettan	^-
 Falkenberg vs Orebro	`*https://www.fctv77.live/football/sweden-superettan-match-4116465/falkenberg-vs-orebro-04-2025.html
-
-00:00 🇸🇪 Sweden Allsvenskan	^-
-Malmo FF vs Osters IF	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116560/malmo-ff-vs-osters-if-04-2025.html
-
-00:00 🇱🇹 Lithuanian Cup	^-
-Alternatyvus FK vs Pempininkai	`*https://www.fctv77.live/football/lithuanian-cup-match-4175809/alternatyvus-fk-vs-pempininkai-04-2025.html
-
-00:00 🇲🇱 Mali Premiere Division	^-
-USFAS Bamako vs Onze Createurs	`*https://www.fctv77.live/football/mali-premiere-division-match-4177149/usfas-bamako-vs-onze-createurs-04-2025.html
 
 00:30 🇷🇺 Russian Cup	^-
 Spartak Moscow vs Dynamo Moscow	`*https://www.fctv77.live/football/russian-cup-match-4173610/spartak-moscow-vs-dynamo-moscow-04-2025.html
