@@ -5,22 +5,10 @@
 
 [g]Live Football Events[z]	^-
 
-[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/french-ligue-2-match-4019571/caen-vs-red-star-fc-93-05-2025.html
+[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/portuguese-primera-liga-match-4001381/fc-porto-vs-moreirense-05-2025.html
 []** Follow the redirected page until Verification!	^-
 
 [w]02-05-2025[z]	^-
-
-00:30 🇮🇹 Italian Serie B	^-
-Sassuolo vs Carrarese	`*https://www.fctv77.live/football/italian-serie-b-match-4000716/sassuolo-vs-carrarese-05-2025.html
-
-00:30 🇩🇰 Danish Cup	^-
-Viborg vs FC Copenhagen	`*https://www.fctv77.live/football/danish-cup-match-4139927/viborg-vs-fc-copenhagen-05-2025.html
-
-01:00 🇸🇦 Saudi Professional League	^-
-Al-Fateh vs Al Shabab Riyadh	`*https://www.fctv77.live/football/saudi-professional-league-match-4013889/al-fateh-sc-vs-al-shabab-fc-05-2025.html
-
-01:00 [l]CAF African Youth Championship[z]	^-
-Kenya 🇰🇪 U20 vs Morocco 🇲🇦 U20	`*https://www.fctv77.live/football/caf-african-youth-championship-match-4176755/kenyau20-vs-morocco-u20-05-2025.html
 
 01:30 🇬🇧 [y]English Premier League[z]	^-
 Nottingham Forest vs Brentford	`*https://www.fctv77.live/football/english-premier-league-match-3995927/nottingham-forest-vs-brentford-05-2025.html
@@ -252,7 +240,38 @@ Amiens vs Pau FC	`*https://www.fctv77.live/football/french-ligue-2-match-4019566
 USL Dunkerque vs Stade Lavallois MFC	`*https://www.fctv77.live/football/french-ligue-2-match-4019569/usl-dunkerque-vs-stade-lavallois-mfc-05-2025.html
 Caen vs Red Star FC 93	`*https://www.fctv77.live/football/french-ligue-2-match-4019571/caen-vs-red-star-fc-93-05-2025.html
 
-[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/french-ligue-2-match-4019571/caen-vs-red-star-fc-93-05-2025.html
+01:30 🇩🇪 [y]Bundesliga[z]	^-
+1. FC Heidenheim vs VfL Bochum	`*https://www.fctv77.live/football/bundesliga-match-3990667/1-fc-heidenheim-1846-vs-vfl-bochum-1848-05-2025.html
+
+01:30 🇪🇸 Spanish Segunda Division	^-
+Cordoba vs Cadiz	`*https://www.fctv77.live/football/spanish-segunda-division-match-4002170/cordoba-vs-cadiz-05-2025.html
+
+01:30 🇪🇸 Spanish Primera División RFEF	^-
+G. Segoviana vs Real Sociedad B	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024094/g-segoviana-vs-real-sociedad-b-05-2025.html
+Algeciras vs Real Betis B	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024434/algeciras-vs-real-betis-b-05-2025.html
+
+01:30 🇦🇷 Argentine Division 1	^-
+Racing Club vs Newells Old Boys	`*https://www.fctv77.live/football/argentine-division-1-match-4107738/racing-club-de-avellaneda-vs-club-atltico-newells-old-boys-05-2025.html
+Banfield vs Central Cordoba SDE	`*https://www.fctv77.live/football/argentine-division-1-match-4107739/banfield-vs-central-cordoba-sde-05-2025.html
+Argentinos Jr vs Estudiantes La Plata	`*https://www.fctv77.live/football/argentine-division-1-match-4107742/argentinos-juniors-vs-estudiantes-la-plata-05-2025.html
+Independien Rivada vs Defensa Justicia	`*https://www.fctv77.live/football/argentine-division-1-match-4107746/independiente-rivadavia-vs-defensa-y-justicia-05-2025.html
+
+01:45 🇫🇷 [y]French Ligue 1[z]	^-
+Nice vs Reims	`*https://www.fctv77.live/football/french-ligue-1-match-3989188/ogc-nice-vs-stade-de-reims-05-2025.html
+
+01:45 🇮🇹 [y]Italian Serie A[z]	^-
+Torino vs Venezia	`*https://www.fctv77.live/football/italian-serie-a-match-3994200/torino-vs-venezia-05-2025.html
+
+02:00 🇪🇸 [y]Spanish La Liga[z]	^-
+Rayo Vallecano vs Getafe	`*https://www.fctv77.live/football/spanish-la-liga-match-3994969/rayo-vallecano-vs-getafe-05-2025.html
+
+02:00 🇬🇧 [y]English Premier League[z]	^-
+Manchester City vs Wolves	`*https://www.fctv77.live/football/english-premier-league-match-3995926/manchester-city-vs-wolverhampton-wanderers-05-2025.html
+
+02:15 🇵🇹 Portuguese Primera Liga	^-
+FC Porto vs Moreirense	`*https://www.fctv77.live/football/portuguese-primera-liga-match-4001381/fc-porto-vs-moreirense-05-2025.html
+
+[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/portuguese-primera-liga-match-4001381/fc-porto-vs-moreirense-05-2025.html
 []** Follow the redirected page until Verification!	^-
 
 	^-
