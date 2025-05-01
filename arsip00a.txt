@@ -5,48 +5,10 @@
 
 [g]Live Football Events[z]	^-
 
-[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/portuguese-primera-liga-match-4001381/fc-porto-vs-moreirense-05-2025.html
+[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/argentine-division-1-match-4107737/club-atltico-unin-vs-belgrano-05-2025.html
 []** Follow the redirected page until Verification!	^-
 
 [w]02-05-2025[z]	^-
-
-01:30 🇬🇧 [y]English Premier League[z]	^-
-Nottingham Forest vs Brentford	`*https://www.fctv77.live/football/english-premier-league-match-3995927/nottingham-forest-vs-brentford-05-2025.html
-
-02:00 🇨🇴 Categoría Primera A	^-
-Envigado FC vs Deportiva Once Caldas	`*https://www.fctv77.live/football/categoria-primera-a-match-4115882/envigado-fc-vs-deportiva-once-caldas-05-2025.html
-
-02:00 🇧🇷 Campeonato de Feminino Série A1	^-
-Internacional vs Real Brasilia FC (w)	`*https://www.fctv77.live/football/campeonato-brasileiro-de-futebol-feminino-serie-a1-match-4150130/internacional-w-vs-real-brasilia-fc-w-05-2025.html
-
-02:00 🇧🇷 Brazilian Cup	^-
-Operario Ferroviario vs Vasco da Gama	`*https://www.fctv77.live/football/brazilian-cup-match-4172638/operario-ferroviario-pr-vs-clube-de-regatas-vasco-da-gama-05-2025.html
-Brusque FC vs Athletico Paranaense	`*https://www.fctv77.live/football/brazilian-cup-match-4172652/brusque-fc-vs-athletico-paranaense-05-2025.html
-
-02:00 [g]UEFA Europa Conference League[z]	^-
-Real Betis vs Fiorentina	`*https://www.fctv77.live/football/uefa-europa-conference-league-match-4172729/real-betis-vs-fiorentina-05-2025.html
-
-02:00 [y]UEFA Europa League[z]	^-
-Tottenham Hotspur vs Bodo Glimt	`*https://www.fctv77.live/football/uefa-europa-league-match-4172735/tottenham-hotspur-vs-bodo-glimt-05-2025.html
-Athletic Bilbao vs Manchester United	`*https://www.fctv77.live/football/uefa-europa-league-match-4172736/athletic-club-vs-manchester-united-05-2025.html
-
-02:00 [g]UEFA Europa Conference League[z]	^-
-Djurgardens vs Chelsea	`*https://www.fctv77.live/football/uefa-europa-conference-league-match-4172737/djurgardens-vs-chelsea-05-2025.html
-
-02:00 🇲🇦 The Botola Pro	^-
-R Sportive Berkane vs Difaa Hassani	`*https://www.fctv77.live/football/the-botola-pro-match-4172923/renaissance-de-berkane-vs-dhj-difaa-hassani-jadidi-05-2025.html
-
-02:00 🇨🇷 Costa Rica 2.Liga	^-
-ADR Jicaral vs Consultants Moravia	`*https://www.fctv77.live/football/costa-rica-2-liga-match-4177991/adr-jicaral-vs-futbol-consultants-moravia-05-2025.html
-
-03:30 🇪🇨 Ecuadorian Campeonato Serie B	^-
-CD Vargas Torres vs 9 de Octubre	`*https://www.fctv77.live/football/ecuadorian-campeonato-serie-b-match-4153795/cd-vargas-torres-vs-9-de-octubre-05-2025.html
-
-04:00 🇧🇷 Brazilian Cup	^-
-Santos vs CRB AL	`*https://www.fctv77.live/football/brazilian-cup-match-4172657/santos-vs-crb-al-05-2025.html
-
-04:10 🇨🇴 Torneo BetPlay Dimayor	^-
-Jaguares de Cordoba vs Cucuta	`*https://www.fctv77.live/football/colombian-torneo-betplay-dimayor-match-4175904/jaguares-de-cordoba-vs-cucuta-deportivo-05-2025.html
 
 04:30 🇧🇷 Brazilian Cup	^-
 Criciuma vs Bragantino	`*https://www.fctv77.live/football/brazilian-cup-match-4173230/criciuma-vs-red-bull-bragantino-05-2025.html
@@ -271,7 +233,13 @@ Manchester City vs Wolves	`*https://www.fctv77.live/football/english-premier-lea
 02:15 🇵🇹 Portuguese Primera Liga	^-
 FC Porto vs Moreirense	`*https://www.fctv77.live/football/portuguese-primera-liga-match-4001381/fc-porto-vs-moreirense-05-2025.html
 
-[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/portuguese-primera-liga-match-4001381/fc-porto-vs-moreirense-05-2025.html
+03:00 🇨🇱 Chilean Primera Division	^-
+Deportes Limache vs Colo Colo	`*https://www.fctv77.live/football/chilean-primera-division-match-4124335/deportes-limache-vs-colo-colo-05-2025.html
+
+04:00 🇦🇷 Argentine Division 1	^-
+Club Atlético Unión vs Belgrano	`*https://www.fctv77.live/football/argentine-division-1-match-4107737/club-atltico-unin-vs-belgrano-05-2025.html
+
+[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/argentine-division-1-match-4107737/club-atltico-unin-vs-belgrano-05-2025.html
 []** Follow the redirected page until Verification!	^-
 
 	^-
