@@ -57,6 +57,9 @@ Al Aqaba SC vs Al-Jazeera	`*https://www.fctv77.live/football/jordan-premier-leag
 00:30 🇮🇹 Italian Serie B	^-
 Sassuolo vs Carrarese	`*https://www.fctv77.live/football/italian-serie-b-match-4000716/sassuolo-vs-carrarese-05-2025.html
 
+00:30 🇩🇰 Danish Cup	^-
+Viborg vs FC Copenhagen	`*https://www.fctv77.live/football/danish-cup-match-4139927/viborg-vs-fc-copenhagen-05-2025.html
+
 01:00 🇸🇦 Saudi Professional League	^-
 Al-Fateh vs Al Shabab Riyadh	`*https://www.fctv77.live/football/saudi-professional-league-match-4013889/al-fateh-sc-vs-al-shabab-fc-05-2025.html
 
@@ -68,6 +71,9 @@ Nottingham Forest vs Brentford	`*https://www.fctv77.live/football/english-premie
 
 02:00 🇨🇴 Categoría Primera A	^-
 Envigado FC vs Deportiva Once Caldas	`*https://www.fctv77.live/football/categoria-primera-a-match-4115882/envigado-fc-vs-deportiva-once-caldas-05-2025.html
+
+02:00 🇧🇷 Campeonato de Feminino Série A1	^-
+Internacional vs Real Brasilia FC (w)	`*https://www.fctv77.live/football/campeonato-brasileiro-de-futebol-feminino-serie-a1-match-4150130/internacional-w-vs-real-brasilia-fc-w-05-2025.html
 
 02:00 🇧🇷 Brazilian Cup	^-
 Operario Ferroviario vs Vasco da Gama	`*https://www.fctv77.live/football/brazilian-cup-match-4172638/operario-ferroviario-pr-vs-clube-de-regatas-vasco-da-gama-05-2025.html
