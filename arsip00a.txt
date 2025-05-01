@@ -10,45 +10,6 @@
 
 [w]01-05-2025[z]	^-
 
-22:15 🇮🇹 Italian Serie B	^-
-Cittadella vs Brescia	`*https://www.fctv77.live/football/italian-serie-b-match-4000921/cittadella-vs-brescia-05-2025.html
-
-22:30 🇳🇪 Niger Premier League	^-
-AS Nigelec vs AS GNN	`*https://www.fctv77.live/football/niger-premier-league-match-4178137/as-nigelec-vs-as-gnn-05-2025.html
-
-23:00 🇸🇦 Saudi Professional League	^-
-Al-Riyadh vs Al-Orubah	`*https://www.fctv77.live/football/saudi-professional-league-match-4013859/al-riyadh-vs-al-orubah-05-2025.html
-Al-Akhdoud vs Al Wehda Mecca	`*https://www.fctv77.live/football/saudi-professional-league-match-4013883/al-okhdood-vs-al-wehda-mecca-05-2025.html
-
-23:00 🇳🇴 Norwegian Eliteserien	^-
-Rosenborg vs Kristiansund BK	`*https://www.fctv77.live/football/norwegian-eliteserien-match-4112055/rosenborg-vs-kristiansund-bk-05-2025.html
-
-23:00 🇱🇻 Latvian Higher League	^-
-Rigas Futbola skola vs FK Auda Riga	`*https://www.fctv77.live/football/latvian-higher-league-match-4138575/rigas-futbola-skola-vs-fk-auda-riga-05-2025.html
-
-23:00 🇪🇪 Estonian Esiliiga	^-
-Nomme JK Kalju II vs JK Welco Elekter	`*https://www.fctv77.live/football/estonian-esiliiga-match-4144282/nomme-jk-kalju-ii-vs-jk-welco-elekter-05-2025.html
-
-23:00 🇮🇷 Iran Pro League	^-
-Esteghlal Khozestan vs Kheybar Khorra	`*https://www.fctv77.live/football/iran-pro-league-match-4176105/esteghlal-khozestan-vs-kheybar-khorramabad-05-2025.html
-
-23:00 `🇪🇸 Spanish Tercera División RFEF	^-
-Real Jaen CF vs Malaga City	`*https://www.fctv77.live/football/spanish-tercera-division-rfef-match-4176438/real-jaen-cf-vs-malaga-city-05-2025.html
-
-23:00 🇦🇱 Albanian Cup
-KS Dinamo Tirana vs Egnatia	`*https://www.fctv77.live/football/albanian-cup-match-4176677/ks-dinamo-tirana-vs-egnatia-05-2025.html
-
-23:00 🇧🇭 Bahrain Premier League	^-
-Al-Muharraq vs Sitra	`*https://www.fctv77.live/football/bahrain-premier-league-match-4177593/al-muharraq-vs-sitra-05-2025.html
-Bahrain SC vs A'Ali FC	`*https://www.fctv77.live/football/bahrain-premier-league-match-4177594/bahrain-sc-vs-aali-fc-05-2025.html
-Malkia vs Najma Manama	`*https://www.fctv77.live/football/bahrain-premier-league-match-4177595/malkiya-vs-najma-manama-05-2025.html
-
-23:30 🇧🇬 Bulgarian First League	^-
-Hebar Pazardzhik vs Levski Krumovgrad	`*https://www.fctv77.live/football/bulgarian-first-league-match-4174309/fc-hebar-pazardzhik-vs-fk-levski-krumovgrad-05-2025.html
-
-23:45 🇦🇪 UAE Adnoc Pro-League	^-
-Al-Sharjah vs Banni Yas	`*https://www.fctv77.live/football/united-arab-emirates-adnoc-pro-league-match-4134592/al-sharjah-vs-baniyas-club-05-2025.html
-
 23:45 🇯🇴 Jordan Premier League	^-
 Al Aqaba SC vs Al-Jazeera	`*https://www.fctv77.live/football/jordan-premier-league-match-4177195/al-aqaba-sc-vs-al-jazeera-05-2025.html
 
