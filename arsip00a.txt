@@ -10,34 +10,6 @@
 
 [w]02-05-2025[z]	^-
 
-04:30 🇧🇷 Brazilian Cup	^-
-Criciuma vs Bragantino	`*https://www.fctv77.live/football/brazilian-cup-match-4173230/criciuma-vs-red-bull-bragantino-05-2025.html
-
-04:30 [l]CONMEBOL U17 Women's Sudamericano[z]	^-
-Bolivia 🇧🇴 U17 vs Uruguay 🇺🇾 U17	`*https://www.fctv77.live/football/conmebol-u17-womens-sudamericano-match-4176756/bolivia-w-u17-vs-uruguay-w-u17-05-2025.html
-
-06:00 🇧🇷 Brazilian Cup	^-
-Botafogo PB vs Flamengo	`*https://www.fctv77.live/football/brazilian-cup-match-4172635/botafogo-pb-vs-cr-flamengo-05-2025.html
-
-06:30 🇬🇹 Guatemala Liga Nacional	^-
-Marquense vs C.S.D. Comunicaciones	`*https://www.fctv77.live/football/guatemala-liga-nacional-match-4177993/marquense-vs-csd-comunicaciones-05-2025.html
-
-07:00 🇺🇸 USL Championship	^-
-Louisville City FC vs Lexington	`*https://www.fctv77.live/football/usl-championship-match-4127005/louisville-city-fc-vs-lexington-05-2025.html
-
-07:00 [l]CONMEBOL U17 Women's Sudamericano[z]	^-
-Brasil (w) 🇧🇷 U17 vs Peru (w) 🇵🇪 U17	`*https://www.fctv77.live/football/conmebol-u17-womens-sudamericano-match-4176757/brazil-w-u17-vs-peru-w-u17-05-2025.html
-
-07:00 🇳🇮 Nicaragua Liga Primera
-Walter Ferretti vs Managua FC	`*https://www.fctv77.live/football/nicaragua-liga-primera-match-4177995/walter-ferretti-vs-managua-fc-05-2025.html
-UNAN Managua vs Real Esteli	`*https://www.fctv77.live/football/nicaragua-liga-primera-match-4177996/unan-managua-vs-real-esteli-05-2025.html
-
-07:30 🇵🇪 Peruvian Liga 1	^-
-FBC Melgar vs Comerciantes Unidos	`*https://www.fctv77.live/football/peruvian-liga-1-match-4140284/fbc-melgar-vs-comerciantes-unidos-05-2025.html
-
-07:30 🇧🇷 Brazilian Cup	^-
-Cruzeiro Esporte Clube vs Vila Nova	`*https://www.fctv77.live/football/brazilian-cup-match-4172950/cruzeiro-esporte-clube-vs-vila-nova-05-2025.html
-
 09:00 CNCF CHL	^-
 CDSyC Cruz Azul vs Tigres UANL	`*https://www.fctv77.live/football/cncf-chl-match-4167098/cruz-azul-vs-tigres-uanl-05-2025.html
 
