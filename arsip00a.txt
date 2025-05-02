@@ -14,19 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]02-05-2025[z]	^-
 
-15:00 🇨🇳 Chinese Football League 2	^-
-Hainan Star vs Shenzhen 2028	`*https://www.fctv77.live/football/chinese-football-league-2-match-4154108/kunming-city-star-vs-shenzhen-2028-05-2025.html
-Hubei Istar vs Shanghai Port B	`*https://www.fctv77.live/football/chinese-football-league-2-match-4154114/hubei-istar-vs-shanghai-port-b-05-2025.html
-
-15:30 🇮🇩 Indonesian Liga 1	^-
-Barito Putera vs Dewa United FC	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029628/barito-putera-vs-dewa-united-fc-05-2025.html
-
-15:30 🇨🇳 Chinese Football League 2	^-
-Quanzhou Yassin vs Chengdu Rongcheng B	`*https://www.fctv77.live/football/chinese-football-league-2-match-4154107/quanzhou-yassin-vs-chengdu-rongcheng-b-05-2025.html
-
-16:00 🇺🇦 Ukrainian Youth Team Championship	^-
-Veres Rivne U21 vs Obolon Kiev U21	`*https://www.fctv77.live/football/ukrainian-youth-team-championship-match-4009617/veres-rivne-u21-vs-obolon-kiev-u21-05-2025.html
-
 16:30 🇦🇺 New South Wales Premier League	^-
 St George Saints vs Sydney FC (Youth)	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127910/st-george-saints-vs-sydney-fc-youth-05-2025.html
 Manly United vs Marconi Stallions	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127923/manly-united-vs-marconi-stallions-05-2025.html
@@ -494,8 +481,12 @@ Nova Sport 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!
 Sport 1 SK	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport 2 SK	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 CT Sport SK	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-True EPL Sports 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
-True EPL Sports 3	https://delicate-hall-d108.wirdytv.workers.dev/02_epl2_720p/chunklist.m3u8
+beIN Sports TV 1	https://spring-band-b889.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
+beIN Sports TV 3	https://spring-band-b889.wirdytv.workers.dev/02_epl2_720p/chunklist.m3u8
+True Premier Football 1	https://still-grass-cb06.wirdytv.workers.dev/02_PremierHD1_720p/chunklist.m3u8
+True Premier Football 2	https://summer-king-dc08.wirdytv.workers.dev/02_PremierHD2_720p/chunklist.m3u8
+True Premier Football 3	https://shrill-lake-bb62.wirdytv.workers.dev/02_PremierHD3_720p/chunklist.m3u8
+True Premier Football 4	https://truepremier.wirdytv.workers.dev/02_PremierHD4_720p/chunklist.m3u8
 EuroSport 1	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 EuroSport 2	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Tigo Sports 🇵🇪	https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
