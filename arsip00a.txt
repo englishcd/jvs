@@ -14,30 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]03-05-2025[z]	^-
 
-00:00 🇹🇷 Turkish Super League	^-
-Antalyaspor vs Konyaspor	`*https://www.fctv77.live/football/turkish-super-league-match-3996710/antalyaspor-vs-konyaspor-05-2025.html
-
-00:00 🇩🇪 German 3.Liga	^-
-VfL Osnabrück vs FC Viktoria Köln	`*https://www.fctv77.live/football/german-3-liga-match-4000475/vfl-osnabrck-vs-fc-viktoria-kln-05-2025.html
-
-00:00 🇵🇹 Liga Portugal 2	^-
-Uniao Leiria vs Oliveirense	`*https://www.fctv77.live/football/liga-portugal-2-match-4002602/uniao-leiria-vs-oliveirense-05-2025.html
-
-00:00 🇳🇴 Norwegian Eliteserien	^-
-Ham-Kam vs KFUM Oslo	`*https://www.fctv77.live/football/norwegian-eliteserien-match-4112048/ham-kam-vs-kfum-oslo-05-2025.html
-
-00:00 🇫🇮 Finnish Veikkausliiga	^-
-KuPs vs SJK Seinajoen	`*https://www.fctv77.live/football/finnish-veikkausliiga-match-4113438/kups-vs-sjk-seinajoen-05-2025.html
-
-00:00 🇩🇰 Danish Superliga	^-
-Randers FC vs Nordsjaelland	`*https://www.fctv77.live/football/danish-superliga-match-4159692/randers-fc-vs-nordsjaelland-05-2025.html
-
-00:00 🇩🇰 Danish 1st Division	^-
-B93 Copenhagen vs Vendsyssel	`*https://www.fctv77.live/football/danish-1st-division-match-4161377/boldklubben-af-1893-vs-vendsyssel-05-2025.html
-
-00:00 🇧🇬 Bulgarian First League	^-
-Lokomotiv Plovdiv vs Lokomotiv Sofia	`*https://www.fctv77.live/football/bulgarian-first-league-match-4174399/lokomotiv-plovdiv-vs-lokomotiv-sofia-05-2025.html
-
 00:30 🇿🇦 South Africa Premier League	^-
 AmaZulu vs Polokwane City FC	`*https://www.fctv77.live/football/south-africa-premier-soccer-league-match-4055920/amazulu-vs-polokwane-city-fc-05-2025.html
 
