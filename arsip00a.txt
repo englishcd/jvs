@@ -14,19 +14,7 @@ Gol TV	00!0!0/9595?zyy
 
 [w]03-05-2025[z]	^-
 
-20:00 🇫🇷 French Coupe de Feminine	^-
-Paris FC vs Paris Saint Germain (w)	`*https://www.fctv77.live/football/french-coupe-de-feminine-match-4178019/paris-fc-w-vs-paris-saint-germain-w-05-2025.html
-
-20:30 🇿🇦 South Africa Premier Soccer League	^-
-Kaizer Chiefs vs Orlando Pirates	`*https://www.fctv77.live/football/south-africa-premier-soccer-league-match-4056033/kaizer-chiefs-vs-orlando-pirates-05-2025.html
-
-20:30 🇩🇪 [y]Bundesliga[z]	^-
-FC St. Pauli vs VfB Stuttgart	`*https://www.fctv77.live/football/bundesliga-match-3990632/fc-st-pauli-vs-vfb-stuttgart-05-2025.html
-RB Leipzig vs Bayern Munchen	`*https://www.fctv77.live/football/bundesliga-match-3990650/rb-leipzig-vs-fc-bayern-munich-05-2025.html
-Br Monchengladbach vs TSG Hoffenheim	`*https://www.fctv77.live/football/bundesliga-match-3990663/borussia-monchengladbach-vs-tsg-hoffenheim-05-2025.html
-Union Berlin vs Werder Bremen	`*https://www.fctv77.live/football/bundesliga-match-3990672/1-fc-union-berlin-vs-sv-werder-bremen-05-2025.html
-
-21:00🇷🇺 Russian Premier League	^-
+21:00 🇷🇺 Russian Premier League	^-
 Lokomotiv Moscow vs Gazovik Orenburg	`*https://www.fctv77.live/football/russian-premier-league-match-3985080/lokomotiv-moscow-vs-gazovik-orenburg-05-2025.html
 
 21:00 🇬🇧 [y]English Premier League[z]	^-
@@ -296,7 +284,6 @@ TNT Sports 2	https://z.1UK_TNT_SPORTS_2/index.m3u8
 TNT Sports 3	https://z.1UK_TNT_SPORTS_3/index.m3u8
 TNT Sports 4	https://z.1UK_TNT_SPORTS_4/index.m3u8
 Cricket	`1https://me.webcric.com/frame1.htm[]`3https://me.webcric.com/frame1.htm
-Solh Sports	01!01fstream.sainaertebat.com/hls2/solhtv.m3u8
 Willow Sports	https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd!!1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 Premiere 🇧🇷	i3!16/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd!!d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 TNT Sports 1	i3!16/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
