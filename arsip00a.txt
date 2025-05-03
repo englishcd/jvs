@@ -14,12 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]03-05-2025[z]	^-
 
-13:00 🇯🇵 Japanese J1 League	^-
-Urawa Red Diamonds vs Tokyo Verdy	`*https://www.fctv77.live/football/japanese-j1-league-match-4105637/urawa-red-diamonds-vs-tokyo-verdy-05-2025.html
-Vissel Kobe vs Fagiano Okayama	`*https://www.fctv77.live/football/japanese-j1-league-match-4105638/vissel-kobe-vs-fagiano-okayama-05-2025.html
-Kashima Antlers vs Machida Zelvia	`*https://www.fctv77.live/football/japanese-j1-league-match-4105641/kashima-antlers-vs-machida-zelvia-05-2025.html
-Gamba Osaka vs Shonan Bellmare	`*https://www.fctv77.live/football/japanese-j1-league-match-4105645/gamba-osaka-vs-shonan-bellmare-05-2025.html
-
 14:00 🇦🇺 Australia A-League	^-
 Melbourne City vs Sydney FC	`*	`*https://www.fctv77.live/football/australia-a-league-match-4022419/melbourne-city-vs-sydney-fc-05-2025.html
 
@@ -233,7 +227,7 @@ Plymouth Argyle vs Leeds United	`*https://www.fctv77.live/football/english-footb
 Watford vs Sheffield Wednesday	`*https://www.fctv77.live/football/english-football-league-championship-match-3991123/watford-vs-sheffield-wednesday-05-2025.html
 Portsmouth vs Hull City	`*https://www.fctv77.live/football/english-football-league-championship-match-3991125/portsmouth-vs-hull-city-05-2025.html
 Norwich City vs Cardiff City	`*https://www.fctv77.live/football/english-football-league-championship-match-3991161/norwich-city-vs-cardiff-city-05-2025.html
-West Bromwich(WBA) vs Luton Town	`*https://www.fctv77.live/football/english-football-league-championship-match-3991170/west-bromwich-albion-vs-luton-town-05-2025.html
+West Bromwich (WBA) vs Luton Town	`*https://www.fctv77.live/football/english-football-league-championship-match-3991170/west-bromwich-albion-vs-luton-town-05-2025.html
 Swansea City vs Oxford United	`*https://www.fctv77.live/football/english-football-league-championship-match-3991199/swansea-city-vs-oxford-united-05-2025.html
 Coventry City vs Middlesbrough	`*https://www.fctv77.live/football/english-football-league-championship-match-3991200/coventry-city-vs-middlesbrough-05-2025.html
 Sunderland AFC vs Queens Park Rangers	`*https://www.fctv77.live/football/english-football-league-championship-match-3991202/sunderland-vs-queens-park-rangers-05-2025.html
@@ -262,7 +256,7 @@ SV Sandhausen vs Hansa Rostock	`*https://www.fctv77.live/football/german-3-liga-
 19:00 🇦🇲 Armenian Premier League	^-
 FC Ararat-Armenia vs Shirak	`*https://www.fctv77.live/football/armenian-premier-league-match-4011492/ararat-armenia-fc-vs-shirak-05-2025.html
 
-19:00 🇳🇱 [y]Netherlands Eredivisie[z] Vrouwen	^-
+19:00 🇳🇱 Netherlands Eredivisie Vrouwen	^-
 SC Heerenveen (w) vs FC Utrecht (w)	`*https://www.fctv77.live/football/netherlands-eredivisie-vrouwen-match-4017649/sc-heerenveen-w-vs-fc-utrecht-w-05-2025.html
 Fortuna FF (w) vs PSV Eindhoven (w)	`*https://www.fctv77.live/football/netherlands-eredivisie-vrouwen-match-4017652/fortuna-sittard-w-vs-psv-eindhoven-w-05-2025.html
 AZ Alkmaar (w) vs ADO Den Haag (w)	`*https://www.fctv77.live/football/netherlands-eredivisie-vrouwen-match-4017657/az-alkmaar-w-vs-ado-den-haag-w-05-2025.html
@@ -812,7 +806,7 @@ League Tables	`0https://m.tablesleague.com/
 England 🇬🇧 Premier League	`0https://www.scorebat.com/embed/competition/england-premier-league/
 Spain 🇪🇸 La Liga	`0https://www.scorebat.com/embed/competition/spain-la-liga/
 Italy 🇮🇹 Serie A	`0https://www.scorebat.com/embed/competition/italy-serie-a/
-Germany 🇩🇪 [y]Bundesliga[z]	`0https://www.scorebat.com/embed/competition/germany-bundesliga/
+Germany 🇩🇪 Bundesliga	`0https://www.scorebat.com/embed/competition/germany-bundesliga/
 France 🇫🇷 Ligue 1	`0https://www.scorebat.com/embed/competition/france-ligue-1/
 Netherlands 🇳🇱 Eredivisie	`0https://www.scorebat.com/embed/competition/netherlands-eredivisie/
 UEFA Champions League	`0https://www.scorebat.com/embed/league/uefa-champions-league/
