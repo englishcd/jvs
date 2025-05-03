@@ -14,30 +14,11 @@ Gol TV	00!0!0/9595?zyy
 
 [w]03-05-2025[z]	^-
 
-20:00 🇮🇹 [y]Italian Serie A[z]	^-
-Parma vs Como	`*https://www.fctv77.live/football/italian-serie-a-match-3994044/parma-vs-como-05-2025.html
-Cagliari vs Udinese	`*https://www.fctv77.live/football/italian-serie-a-match-3994055/cagliari-vs-udinese-05-2025.html
-
-20:00 🇹🇷 Turkish Super League	^-
-Alanyaspor vs Kayserispor	`*https://www.fctv77.live/football/turkish-super-league-match-3996705/alanyaspor-vs-kayserispor-05-2025.html
-Caykur Rizespor vs Gazisehir Gaziantep	`*https://www.fctv77.live/football/turkish-super-league-match-3996732/caykur-rizespor-vs-gazisehir-gaziantep-05-2025.html
-
-20:00 🇿🇦 South Africa Premier Soccer League	^-
-Lamontville G Arrows vs Stellenbosch	`*https://www.fctv77.live/football/south-africa-premier-soccer-league-match-4055873/lamontville-golden-arrows-vs-stellenbosch-fc-05-2025.html
-Kaizer Chiefs vs Orlando Pirates	`*https://www.fctv77.live/football/south-africa-premier-soccer-league-match-4056033/kaizer-chiefs-vs-orlando-pirates-05-2025.html
-
-20:00 🇸🇪 Sweden Superettan	^-
-Umea FC vs Landskrona BoIS	`*https://www.fctv77.live/football/sweden-superettan-match-4116482/umea-fc-vs-landskrona-bois-05-2025.html
-Varbergs BoIS FC vs Helsingborg	`*https://www.fctv77.live/football/sweden-superettan-match-4116485/varbergs-bois-fc-vs-helsingborg-05-2025.html
-
-20:00 🇸🇪 Sweden Allsvenskan	^-
-Degerfors IF vs IK Sirius FK	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116661/degerfors-if-vs-ik-sirius-fk-05-2025.html
-
-20:00 🇮🇹 Italian Women's Serie A	^-
-Lazio (w) vs Sassuolo (w)	`*https://www.fctv77.live/football/italian-womens-serie-a-match-4144526/lazio-w-vs-sassuolo-w-05-2025.html
-
 20:00 🇫🇷 French Coupe de Feminine	^-
 Paris FC vs Paris Saint Germain (w)	`*https://www.fctv77.live/football/french-coupe-de-feminine-match-4178019/paris-fc-w-vs-paris-saint-germain-w-05-2025.html
+
+20:30 🇿🇦 South Africa Premier Soccer League	^-
+Kaizer Chiefs vs Orlando Pirates	`*https://www.fctv77.live/football/south-africa-premier-soccer-league-match-4056033/kaizer-chiefs-vs-orlando-pirates-05-2025.html
 
 20:30 🇩🇪 [y]Bundesliga[z]	^-
 FC St. Pauli vs VfB Stuttgart	`*https://www.fctv77.live/football/bundesliga-match-3990632/fc-st-pauli-vs-vfb-stuttgart-05-2025.html
