@@ -14,58 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]04-05-2025[z]	^-
 
-05:00 🇺🇸 USL League One	^-
-Forward Madison FC vs Omaha	`*https://www.fctv77.live/football/usl-league-one-match-4147965/forward-madison-fc-vs-omaha-05-2025.html
-
-06:00 🇺🇸 USL Championship	^-
-Pittsburgh River vs North Carolina	`*https://www.fctv77.live/football/usl-championship-match-4126935/pittsburgh-riverhounds-vs-north-carolina-05-2025.html
-Indy Eleven vs Detroit City	`*https://www.fctv77.live/football/usl-championship-match-4126980/indy-eleven-vs-detroit-city-05-2025.html
-
-06:00 🇨🇦 Canadian Premier League	^-
-Valour vs Vancouver FC	`*https://www.fctv77.live/football/canadian-premier-league-match-4163589/valour-vs-vancouver-fc-05-2025.html
-
-06:30 🇺🇸 US Major League Soccer	^-
-DC United vs Colorado Rapids	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106238/dc-united-vs-colorado-rapids-05-2025.html
-Columbus Crew vs Charlotte FC	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106239/columbus-crew-vs-charlotte-fc-05-2025.html
-Montreal Impact vs Philadelphia Union	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106244/montreal-impact-vs-philadelphia-union-05-2025.html
-Inter Miami CF vs New York Red Bulls	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106255/inter-miami-cf-vs-new-york-red-bulls-05-2025.html
-
-06:30 🇺🇸 USL Championship	^-
-Tampa Bay Rowdies vs Birmingham Legion	`*https://www.fctv77.live/football/usl-championship-match-4126977/tampa-bay-rowdies-vs-birmingham-legion-05-2025.html
-
-06:30 🇺🇸 US Women's National Soccer League	^-
-Portland Thorns vs Orlando Pride (w)	`*https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131842/portland-thorns-fc-w-vs-orlando-pride-w-05-2025.html
-
-06:30 🇧🇷 Brazilian Serie B	^-
-Volta Redonda vs SC Paysandu Para	`*https://www.fctv77.live/football/brazilian-serie-b-match-4151481/volta-redonda-vs-sc-paysandu-para-05-2025.html
-
-07:00 🇦🇷 Argentine Division 1	^-
-CA Huracan vs Barracas Central	`*https://www.fctv77.live/football/argentine-division-1-match-4107741/ca-huracan-vs-barracas-central-05-2025.html
-Atletico Tucuman vs Lanus	`*https://www.fctv77.live/football/argentine-division-1-match-4107747/atletico-tucuman-vs-club-atltico-lans-05-2025.html
-
-07:00 🇺🇸 USL League One	^-
-Texoma vs Charlotte Independence	`*https://www.fctv77.live/football/usl-league-one-match-4153020/texoma-vs-charlotte-independence-05-2025.html
-
-07:30 🇺🇸 US Major League Soccer	^-
-Chicago Fire vs Orlando City	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106243/chicago-fire-vs-orlando-city-05-2025.html
-Austin FC vs Minnesota United FC	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106250/austin-fc-vs-minnesota-united-fc-05-2025.html
-
-08:00 🇺🇸 USL Championship	^-
-El Paso Locomotive vs New Mexico Utd	`*https://www.fctv77.live/football/usl-championship-match-4126978/el-paso-locomotive-fc-vs-new-mexico-united-05-2025.html
-Colorado Springs vs Phoenix Rising	`*https://www.fctv77.live/football/usl-championship-match-4127047/colorado-springs-switchbacks-fc-vs-phoenix-rising-fc-05-2025.html
-
-08:15 🇺🇸 US Major League Soccer	^-
-San Diego FC vs FC Dallas	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106161/san-diego-fc-vs-fc-dallas-05-2025.html
-
-08:30 🇺🇸 US Major League Soccer	^-
-Vancouver Whitecaps vs Real Salt Lake	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106159/vancouver-whitecaps-vs-real-salt-lake-05-2025.html
-
-09:00 🇺🇸 USL Championship	^-
-Orange County Blues FC vs FC Tulsa	`*https://www.fctv77.live/football/usl-championship-match-4126991/orange-county-blues-fc-vs-fc-tulsa-05-2025.html
-
-09:00 🇺🇸 US Women's National Soccer League	^-
-Utah Royals (w) vs North Carolina (w)	`*https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131857/utah-royals-w-vs-north-carolina-w-05-2025.html
-
 09:30 🇺🇸 US Major League Soccer	^-
 Seattle Sounders vs St. Louis City SC	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106064/seattle-sounders-vs-st-louis-city-sc-05-2025.html
 Los Angeles FC vs Houston Dynamo	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106135/los-angeles-fc-vs-houston-dynamo-05-2025.html
@@ -73,9 +21,6 @@ San J Earthquakes vs Portland Timbers	`*https://www.fctv77.live/football/united-
 
 09:30 🇺🇸 USL Championship	^-
 Las Vegas Lights vs Loudoun United	`*https://www.fctv77.live/football/usl-championship-match-4127004/las-vegas-lights-vs-loudoun-united-05-2025.html
-
-09:30 🇺🇸 USL League One	^-
-AV Alta vs FC Naples	`*https://www.fctv77.live/football/usl-league-one-match-4150221/av-alta-vs-fc-naples-05-2025.html
 
 12:00 🇦🇺 Australia A-League	^-
 Wellington Phoenix vs Perth Glory	`*https://www.fctv77.live/football/australia-a-league-match-4022445/wellington-phoenix-vs-perth-glory-05-2025.html
