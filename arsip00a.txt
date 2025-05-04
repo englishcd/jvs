@@ -14,27 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]04-05-2025[z]	^-
 
-21:00 🇧🇪 Belgian Pro League	^-
-Sint-Truidense vs Beerschot Wilrijk	`*https://www.fctv77.live/football/belgian-pro-league-match-4159413/sint-truidense-vs-beerschot-wilrijk-05-2025.html
-
-21:00 🇬🇧 English Conference South Division	^-
-Eastbourne Borough vs Maidstone United	`*https://www.fctv77.live/football/english-conference-south-division-match-4178491/eastbourne-borough-vs-maidstone-united-05-2025.html
-
-21:00 🇬🇧 English Conference North Division	^-
-Kidderminster Harriers vs Chester FC	`*https://www.fctv77.live/football/english-conference-north-division-match-4178492/kidderminster-harriers-vs-chester-fc-05-2025.html
-
-21:15 🇪🇸 [y]Spanish La Liga[z]	^-
-Sevilla vs Leganes	`*https://www.fctv77.live/football/spanish-la-liga-match-3995005/sevilla-fc-vs-cd-leganes-05-2025.html
-
-21:15 🇪🇸 Spanish Segunda Division	^-
-Racing de Ferrol vs Real Zaragoza	`*https://www.fctv77.live/football/spanish-segunda-division-match-4002203/racing-de-ferrol-vs-real-zaragoza-05-2025.html
-
-21:30 🇵🇹 Portuguese Primera Liga	^-
-Rio Ave vs Estrela da Amadora	`*https://www.fctv77.live/football/portuguese-primera-liga-match-4001405/rio-ave-vs-cf-estrela-amadora-sad-05-2025.html
-
-21:30 🇵🇹 Liga Portugal 2	^-
-Maritimo vs Feirense	`*https://www.fctv77.live/football/liga-portugal-2-match-4002569/maritimo-vs-feirense-05-2025.html
-
 22:15 🇫🇷 [y]French Ligue 1[z]	^-
 Lyon vs Lens	`*https://www.fctv77.live/football/french-ligue-1-match-3989163/lyon-vs-rc-lens-05-2025.html
 Stade Brestois vs Montpellier	`*https://www.fctv77.live/football/french-ligue-1-match-3989189/stade-brestois-29-vs-montpellier-hrault-sc-05-2025.html
