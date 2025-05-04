@@ -14,49 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]04-05-2025[z]	^-
 
-17:00 🇸🇬 Singapore Premier League	^-
-Lion City Sailors vs Geylang United	`*https://www.fctv77.live/football/singapore-premier-league-match-3962203/lion-city-sailors-vs-geylang-united-fc-05-2025.html
-
-17:00 🇵🇱 Poland Liga 1	^-
-Miedz Legnica vs Odra Opole	`*https://www.fctv77.live/football/poland-liga-1-match-3981089/miedz-legnica-vs-odra-opole-05-2025.html
-
-17:00 🇺🇦 Ukrainian Premier League	^-
-LNZ Lebedyn vs Zorya	`*https://www.fctv77.live/football/ukrainian-premier-league-match-3999464/lnz-cherkasy-vs-zorya-05-2025.html
-
-17:00 🇵🇹 Liga Portugal 2	^-
-FC Felgueiras vs SL Benfica B	`*https://www.fctv77.live/football/liga-portugal-2-match-4002572/fc-felgueiras-vs-sl-benfica-b-05-2025.html
-Alverca vs Pacos de Ferreira	`*https://www.fctv77.live/football/liga-portugal-2-match-4002594/alverca-vs-pacos-de-ferreira-05-2025.html
-
-17:00 🇪🇸 Spanish Primera División RFEF	^-
-CD Lugo vs FC Barcelona Atlètic	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024161/cd-lugo-vs-fc-barcelona-atltic-05-2025.html
-Unionistas de Salamanca vs Sestao	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024171/unionistas-de-salamanca-cf-vs-sestao-05-2025.html
-Recreativo Huelva vs Ibiza Eivissa	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024328/recreativo-huelva-vs-ibiza-eivissa-05-2025.html
-Atletico de Madrid B vs Fuenlabrada	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024557/atletico-de-madrid-b-vs-fuenlabrada-05-2025.html
-
-17:00 🇪🇸 Spanish Segunda División RFEF	^-
-Teruel vs Calahorra	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030654/teruel-vs-calahorra-05-2025.html
-SD Ejea vs Barbastro	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030655/sd-ejea-vs-barbastro-05-2025.html
-Utebo FC vs SD Logrones	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030656/utebo-fc-vs-sd-logrones-05-2025.html
-SD Gernika vs Real Sociedad C	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030657/sd-gernika-vs-real-sociedad-c-05-2025.html
-UD Logrones vs Alfaro	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030660/ud-logrones-vs-alfaro-05-2025.html
-CD Tudelano vs CD Anguiano	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030666/cd-tudelano-vs-cd-anguiano-05-2025.html
-CD Guijuelo vs Coruxo FC	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030673/cd-guijuelo-vs-coruxo-fc-05-2025.html
-Union Langreo vs SD Laredo	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030675/union-langreo-vs-sd-laredo-05-2025.html
-U.M. Escobedo vs UD Llanera	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030676/um-escobedo-vs-ud-llanera-05-2025.html
-Marino luanco vs Salamanca	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4030682/marino-luanco-vs-salamanca-05-2025.html
-Torrent C.F vs Sant Andreu	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4032257/torrent-cf-vs-sant-andreu-05-2025.html
-CF Badalona vs UE Olot	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4032258/cf-badalona-vs-ue-olot-05-2025.html
-Terrassa vs UD Alzira	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4032259/terrassa-vs-ud-alzira-05-2025.html
-CE Europa vs Mallorca B	`*https://www.fctv77.live/football/spanish-segunda-division-rfef-match-4032265/ce-europa-vs-mallorca-b-05-2025.html
-
-17:00 🇪🇸 Primera Div la Liga Femenino	^-
-Madrid CFF vs Levante Las Planas	`*https://www.fctv77.live/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4073311/madrid-cff-w-vs-badalona-women-05-2025.html
-Atletico de Madrid vs Athletic Club	`*https://www.fctv77.live/football/spanish-primera-division-de-la-liga-de-futbol-femenino-match-4073386/atletico-de-madrid-w-vs-athletic-club-w-05-2025.html
-
-17:00 🇰🇷 Korean K League 2	^-
-Busan I Park vs Chungnam Asan	`*https://www.fctv77.live/football/korean-k-league-2-match-4137167/busan-i-park-vs-chungnam-asan-05-2025.html
-Hwaseong FC vs Cheonan City	`*https://www.fctv77.live/football/korean-k-league-2-match-4137172/hwaseong-fc-vs-cheonan-city-05-2025.html
-
 17:15 🇵🇱 PKO Bank Polski EKSTRAKLASA	^-
 Piast Gliwice vs Radomiak Radom	`*https://www.fctv77.live/football/pko-bank-polski-ekstraklasa-match-3980961/piast-gliwice-vs-radomiak-radom-05-2025.html
 
