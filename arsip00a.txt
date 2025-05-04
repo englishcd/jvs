@@ -14,42 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]04-05-2025[z]	^-
 
-12:00 🇦🇺 Australia A-League	^-
-Wellington Phoenix vs Perth Glory	`*https://www.fctv77.live/football/australia-a-league-match-4022445/wellington-phoenix-vs-perth-glory-05-2025.html
-
-12:00 🇦🇺 National Premier Leagues Victoria	^-
-Melbourne Knights vs Dandenong City SC	`*https://www.fctv77.live/football/national-premier-leagues-victoria-match-4123645/melbourne-knights-vs-dandenong-city-sc-05-2025.html
-
-12:00 🇦🇺 Queensland State League 1	^-
-Redlands United FC vs Caboolture FC	`*https://www.fctv77.live/football/australia-queensland-state-league-1-match-4123811/redlands-united-fc-vs-caboolture-fc-05-2025.html
-
-12:00 🇦🇺 New South Wales Premier League	^-
-Western Sydney Wnd vs Blacktown City	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127913/western-sydney-wanderers-am-vs-blacktown-city-demons-05-2025.html
-Rockdale City Suns vs Sydney Olympic	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127914/rockdale-city-suns-vs-sydney-olympic-05-2025.html
-Sydney Utd 58 vs Mt Druitt Town Rng	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127918/sydney-united-58-fc-vs-mt-druitt-town-rangers-fc-05-2025.html
-
-12:00 🇰🇷 Korean K League 2	^-
-Bucheon FC 1995 vs Jeonnam Dragons	`*https://www.fctv77.live/football/korean-k-league-2-match-4137166/bucheon-fc-1995-vs-jeonnam-dragons-05-2025.html
-Seongnam FC vs Seoul E-Land FC	`*https://www.fctv77.live/football/korean-k-league-2-match-4137178/seongnam-fc-vs-seoul-e-land-fc-05-2025.html
-
-12:00 🇰🇷 Korean K League 4	^-
-Pyeongchang FC vs Jinju Citizen	`*https://www.fctv77.live/football/korean-k-league-4-match-4148175/pyeongchang-fc-vs-jinju-citizen-05-2025.html
-Sejong SA vs Pyeongtaek Citizen	`*https://www.fctv77.live/football/korean-k-league-4-match-4148199/sejong-sa-vs-pyeongtaek-citizen-05-2025.html
-Namyangju Citizen vs Geoje Citizen	`*https://www.fctv77.live/football/korean-k-league-4-match-4148214/namyangju-citizen-vs-geoje-citizen-05-2025.html
-
-12:00 🇰🇷 Korean K League 3	^-
-Gangneung City vs Paju Citizen FC	`*https://www.fctv77.live/football/korean-k-league-3-match-4152901/gangneung-citizen-vs-paju-citizen-fc-05-2025.html
-
-12:00 🇦🇺 Australia Capital Territory Women's League	^-
-Majura FC (w) vs Canberra Olympic (w)	`*https://www.fctv77.live/football/australia-capital-territory-womens-league-match-4178372/majura-fc-w-vs-canberra-olympic-w-05-2025.html
-Belconnen United vs Gungahlin United	`*https://www.fctv77.live/football/australia-capital-territory-womens-league-match-4178373/belconnen-united-w-vs-gungahlin-unitedw-05-2025.html
-
-13:00 🇦🇺 National Premier Leagues Queensland	^-
-Gold Coast Utd vs East Sub Brisbane	`*https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4123971/gold-coast-united-vs-eastern-suburbs-brisbane-05-2025.html
-
-13:00 🇦🇺 Australia W-League	^-
-Adelaide United vs Melbourne Victory	`*https://www.fctv77.live/football/australia-w-league-match-4176838/adelaide-united-women-vs-melbourne-victory-w-05-2025.html
-
 13:30 🇦🇺 Northern New South Wales PL	^-
 Adamstown Rosebuds vs Charleston City	`*https://www.fctv77.live/football/australia-northern-new-south-wales-premier-league-match-4132661/adamstown-rosebuds-fc-vs-charleston-city-blues-05-2025.html
 
