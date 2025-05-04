@@ -14,65 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]04-05-2025[z]	^-
 
-13:30 🇦🇺 Northern New South Wales PL	^-
-Adamstown Rosebuds vs Charleston City	`*https://www.fctv77.live/football/australia-northern-new-south-wales-premier-league-match-4132661/adamstown-rosebuds-fc-vs-charleston-city-blues-05-2025.html
-
-13:30 🇦🇺 Capital Territory Women's League	^-
-Canberra vs West Canberra Wanderers	`*https://www.fctv77.live/football/australia-capital-territory-womens-league-match-4178374/canberra-fc-w-vs-west-canberra-wanderers-fc-w-05-2025.html
-
-14:00 🇦🇺 Australia A-League	^-
-Melbourne Victory vs Newcastle Jets	`*https://www.fctv77.live/football/australia-a-league-match-4022366/melbourne-victory-vs-newcastle-jets-05-2025.html
-
-14:00 🇦🇺 National Premier Leagues Queensland	^-
-St George Willawong vs Brisbane Roar Y	`*https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4123853/st-george-willawong-fc-vs-brisbane-roar-youth-05-2025.html
-
-14:00 🇨🇳 Chinese Football League 1	^-
-Shenyang City Public vs Shaanxi Union	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145223/liaoning-tieren-vs-shaanxi-union-05-2025.html
-
-14:00 🇦🇺 New South Wales Women's League	^-
-Illawarra Stingrays vs Maca Searle (w)	`*https://www.fctv77.live/football/australia-new-south-wales-womens-league-match-4148803/illawarra-stingrays-w-vs-maca-searle-w-05-2025.html
-University of Sydney vs WS Wnd B (w)	`*https://www.fctv77.live/football/australia-new-south-wales-womens-league-match-4148804/university-of-sydney-w-vs-ws-wanderers-b-w-05-2025.html
-Mt Druitt Town Rng vs Northern Tigers	`*https://www.fctv77.live/football/australia-new-south-wales-womens-league-match-4148813/mt-druitt-town-rangers-fc-w-vs-northern-tigers-fc-w-05-2025.html
-Gladesville Ravens vs UNSW FC (w)	`*https://www.fctv77.live/football/australia-new-south-wales-womens-league-match-4148814/gladesville-ravens-w-vs-unsw-fc-w-05-2025.html
-
-14:30 🇦🇺 National Premier Leagues Queensland	^-
-Brisbane Wolves vs Sunshine Coast Wnd	`*https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4124044/brisbane-wolves-vs-sunshine-coast-wanderers-fc-05-2025.html
-
-14:30 🇰🇷 Korean K League 2	^-
-Ansan Greeners FC vs Gyeongnam FC	`*https://www.fctv77.live/football/korean-k-league-2-match-4137168/ansan-greeners-fc-vs-gyeongnam-fc-05-2025.html
-Incheon United vs Gimpo FC	`*https://www.fctv77.live/football/korean-k-league-2-match-4137171/incheon-united-club-vs-gimpo-fc-05-2025.html
-Chungbuk Cheongju vs Suwon Samsung	`*https://www.fctv77.live/football/korean-k-league-2-match-4137173/chungbuk-cheongju-fc-vs-suwon-samsung-bluewings-05-2025.html
-
-15:15 🇨🇿 Czech National Football League	^-
-Slavia Prague B vs Opava	`*https://www.fctv77.live/football/czech-national-football-league-match-4009898/slavia-praha-b-vs-opava-05-2025.html
-Viktoria Zizkov vs Chrudim	`*https://www.fctv77.live/football/czech-national-football-league-match-4009907/viktoria-zizkov-vs-chrudim-05-2025.html
-
-15:15 🇨🇿 Czech Third League	^-
-Brno B vs Slovacko II	`*https://www.fctv77.live/football/czech-third-league-match-4140653/brno-b-vs-slovacko-ii-05-2025.html
-MFK Karvina B vs Slovan Rosice	`*https://www.fctv77.live/football/czech-third-league-match-4140656/mfk-karvina-b-vs-slovan-rosice-05-2025.html
-Unicov vs Kromeriz	`*https://www.fctv77.live/football/czech-third-league-match-4140660/unicov-vs-kromeriz-05-2025.html
-Jablonec B vs Benatky Nad Jizerou	`*https://www.fctv77.live/football/czech-third-league-match-4140818/jablonec-b-vs-benatky-nad-jizerou-05-2025.html
-Hradec Kralove B vs Pardubice B	`*https://www.fctv77.live/football/czech-third-league-match-4140820/hradec-kralove-b-vs-pardubice-b-05-2025.html
-Admira Praha vs FK Chomutov	`*https://www.fctv77.live/football/czech-third-league-match-4140824/admira-praha-vs-fk-chomutov-05-2025.html
-
-15:15 🇨🇿 Czech Fourth Division	^-
-FK Pribram B vs Slavoj Cesky Krumlov	`*https://www.fctv77.live/football/czech-fourth-division-match-4179052/fk-pribram-b-vs-slavoj-cesky-krumlov-05-2025.html
-
-15:30 🇦🇹 Austrian 2.Liga	^-
-First Wien 1894 vs Kapfenberg	`*https://www.fctv77.live/football/austrian-2-liga-match-4007381/first-wien-1894-vs-kapfenberg-05-2025.html
-
-15:30 🇮🇩 Indonesian Liga 1	^-
-Semen Padang vs Madura United	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029620/semen-padang-vs-madura-united-05-2025.html
-
-15:30 🇨🇿 Czech Third League	^-
-Zlin B vs Frydek-Mistek	`*https://www.fctv77.live/football/czech-third-league-match-4140652/zlin-b-vs-frydek-mistek-05-2025.html
-
-15:30 🇷🇴 Romanian Liga II	^-
-FC Voluntari vs CSA Steaua Bucuresti	`*https://www.fctv77.live/football/romanian-liga-ii-match-4158374/fc-voluntari-vs-steaua-bucuresti-05-2025.html
-
-15:30 🇨🇿 Czech Fifth League	^-
-FC Sparta Brno vs TJ Moravan Lednice	`*https://www.fctv77.live/football/czech-fifth-league-match-4179210/fc-sparta-brno-vs-tj-moravan-lednice-05-2025.html
-
 16:00 🇨🇿 Czech Third League	^-
 Otrokovice vs Unie Hlubina	`*https://www.fctv77.live/football/czech-third-league-match-4140666/otrokovice-vs-unie-hlubina-05-2025.html
 
