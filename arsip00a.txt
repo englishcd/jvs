@@ -14,9 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]05-05-2025[z]	^-
 
-17:00 🇦🇺 National Premier Leagues Victoria	^-
-Melbourne Victory (Y) vs Hume City	`*https://www.fctv77.live/football/national-premier-leagues-victoria-match-4123647/melbourne-victory-fc-youth-vs-hume-city-05-2025.html
-
 18:00 🇨🇳 Chinese Football Super League	^-
 Henan Songshan Lm vs Tianjin Tigers	`*https://www.fctv77.live/football/chinese-football-super-league-match-4123366/henan-fc-vs-tianjin-jinmen-tiger-fc-05-2025.html
 Wuhan Three Towns vs Shanghai Port	`*https://www.fctv77.live/football/chinese-football-super-league-match-4123368/wuhan-three-towns-fc-vs-shanghai-port-fc-05-2025.html
@@ -302,10 +299,13 @@ Universo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live
 USA Network East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd!!78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
 USA Network West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd!!333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 TUDN USA	https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+TUDN ViX	https://wikihznew.newkso.ru/wikihz/wikitudn/mono.m3u8
 Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 Arena Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Concacaf	https://dto4p9su9kcif.cloudfront.net/out/v1/45b4d7be5ac64a83bdfdca7b683b40b5/index.m3u8
+Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 BandSports 🇧🇷	https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.mpd!!74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
 beIN Sports 1 🇦🇺	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd!!f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
 beIN Sports 2 🇦🇺	https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd!!9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
@@ -322,6 +322,10 @@ Nova Sport 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!
 Nova Sport 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+S Sport 1	https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+S Sport 2	https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+HRT 1	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd!!edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
+HRT 2	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd!!994c79af863838109e7f3503bcd2aff9:d2c19650ad2a2ac77a95453b941a6f0e
 beIN Sports TV 1	https://spring-band-b889.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
 beIN Sports TV 3	https://spring-band-b889.wirdytv.workers.dev/02_epl2_720p/chunklist.m3u8
 True Premier Football 1	https://still-grass-cb06.wirdytv.workers.dev/02_PremierHD1_720p/chunklist.m3u8
@@ -357,7 +361,7 @@ Fox Deportes	01!01dlive-news-manifest.tubi.video/live-news-manifest/csm/extlive/
 NBC Sports	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd!!0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 NBC TV	i3`06fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 NFL Channel	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd!!002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
-SportDigital Fussball	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
+SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
 
 	^-
 Sport Channels from [l]Ⓘc2 SportsTV[z]	^-
@@ -376,6 +380,7 @@ Tennis 1	https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 Tennis 2	https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
 MAV TV	https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
 RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
+RTK1	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
 Abu Dhabi Sports 1	https://sps1.starzplayarabia.com/out/v1/41ff8fde1cd84ed5b30ab8198755356b/index.mpd!!b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
 SSC 1 🇸🇦	https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd!!d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 SSC 2 🇸🇦	https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd!!8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
@@ -713,6 +718,7 @@ Sport Channels from [l]Ⓧa2 eXtra[z] 🆔	^-
 
 RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
 iNews	`0https://embed.rctiplus.com/live/inews/inewsid
+GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
 GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
 MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
 MNC SindoNews	01!02aMNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd!!26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
