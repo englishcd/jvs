@@ -14,16 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]05-05-2025[z]	^-
 
-14:30 🇰🇷 Korean K League 1	^-
-Gwangju vs Gimcheon Sangmu	`*https://www.fctv77.live/football/korean-k-league-1-match-4109500/gwangju-football-club-vs-gimcheon-sangmu-football-club-05-2025.html
-Ulsan Hyundai FC vs Pohang Steelers	`*https://www.fctv77.live/football/korean-k-league-1-match-4109585/ulsan-hd-fc-vs-pohang-steelers-05-2025.html
-
-14:30 🇨🇳 Chinese Football Super League	^-
-Dalian Duxing vs Beijing Guoan	`*https://www.fctv77.live/football/chinese-football-super-league-match-4123365/dalian-yingbo-fc-vs-beijing-guoan-fc-05-2025.html
-
-15:30 🇮🇩 Indonesian Liga 1	^-
-Persik Kediri vs Persebaya Surabaya	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029624/persik-kediri-vs-persebaya-surabaya-05-2025.html
-
 17:00 🇦🇺 National Premier Leagues Victoria	^-
 Melbourne Victory (Y) vs Hume City	`*https://www.fctv77.live/football/national-premier-leagues-victoria-match-4123647/melbourne-victory-fc-youth-vs-hume-city-05-2025.html
 
@@ -484,7 +474,8 @@ Just for Laughs Gags 4	https://www.youtube.com/watch?v=prRRorvO1Hk
 Just for Laughs Gags 5	https://www.youtube.com/watch?v=AxsCAFRj7c4
 Kompas 🇮🇩	https://www.youtube.com/watch?v=DOOrIxw5xOw
 tvOne 🇮🇩	https://www.youtube.com/watch?v=yNKvkPJl-tg
-Musica Studios	https://www.youtube.com/watch?v=vKJ2dNmwYiI
+Musica Studios	https://www.youtube.com/watch?v=HUk_4FMG5xQ
+Musica Studios https://www.youtube.com/watch?v=vKJ2dNmwYiI
 Alip_Ba_Ta	/l.7/?listType=playlist&list=PLVboWDxQI2PEdSKtQzYYxm7AqOBiCPBF0
 All Sidemen Charity Matches	/l.7/?listType=playlist&list=PLjQjmbVy2qeXMCBiJMR9vCknZDO4ToozC
 
