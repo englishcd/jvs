@@ -14,9 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]05-05-2025[z]	^-
 
-05:00 🇺🇸 US Women's Premier League	^-
-Tampa Bay Sun vs Dallas Trinity (w)	`*https://www.fctv77.live/football/united-states-womens-premier-league-match-4178896/tampa-bay-sun-w-vs-dallas-trinity-w-05-2025.html
-
 06:00 🇺🇸 US Major League Soccer	^-
 FC Kansas City vs Los Angeles Galaxy	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106203/sporting-kansas-city-vs-los-angeles-galaxy-05-2025.html
 
@@ -138,7 +135,7 @@ Wealdstone FC vs Halifax Town	`*https://www.fctv77.live/football/english-nationa
 Eastleigh vs York City	`*https://www.fctv77.live/football/english-national-league-match-4003101/eastleigh-vs-york-city-05-2025.html
 
 21:00 🇮🇹 Italian Campionato Primavera 1	^-
-US Cremonese U20 vs Atalanta U20 `*https://www.fctv77.live/football/italian-campionato-primavera-1-match-4176405/us-cremonese-u20-vs-atalanta-u19-05-2025.html
+US Cremonese U20 vs Atalanta U20	`*https://www.fctv77.live/football/italian-campionato-primavera-1-match-4176405/us-cremonese-u20-vs-atalanta-u19-05-2025.html
 
 21:00 [l]UEFA European U17 Women's Champ[z]	^-
 Spain 🇪🇸 U17 vs France 🇫🇷 U17	`*https://www.fctv77.live/football/uefa-european-u17-womens-championship-match-4177937/spain-w-u17-vs-france-w-u17-05-2025.html
