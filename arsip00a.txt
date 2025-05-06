@@ -14,52 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]06-05-2025[z]	^-
 
-17:00 🇯🇵 Japanese J3 League	^-
-FC Gifu vs Azul Claro Numazu	`*https://www.fctv77.live/football/japanese-j3-league-match-4111758/fc-gifu-vs-azul-claro-numazu-05-2025.html
-
-17:00 🇰🇷 Korean K League 1	^-
-FC Anyang vs FC Seoul	`*https://www.fctv77.live/football/korean-k-league-1-match-4114621/fc-anyang-vs-football-club-seoul-05-2025.html
-Suwon FC vs Daegu FC	`*https://www.fctv77.live/football/korean-k-league-1-match-4136368/suwon-football-club-vs-daegu-football-club-05-2025.html
-
-18:00 🇧🇮 Burundi Premier League	^-
-BS Dynamic vs Ngozi City FC	`*https://www.fctv77.live/football/burundi-premier-league-match-4110500/bs-dynamic-vs-ngozi-city-fc-05-2025.html
-
-18:00 🇨🇳 Chinese Football Super League	^-
-Meizhou Hakka vs Shanghai Shenhua	`*https://www.fctv77.live/football/chinese-football-super-league-match-4123372/meizhou-hakka-fc-vs-shanghai-shenhua-fc-05-2025.html
-
-18:30 🇨🇳 Chinese Football League 2	^-
-Guangxi Lanhang vs Chengdu Rongcheng	`*https://www.fctv77.live/football/chinese-football-league-2-match-4154104/guangxi-lanhang-football-club-vs-chengdu-rongcheng-b-05-2025.html
-Guizhou Zhucheng vs Quanzhou Yassin	`*https://www.fctv77.live/football/chinese-football-league-2-match-4154121/guizhou-zhucheng-athletic-fc-vs-quanzhou-yassin-05-2025.html
-Wuhan Three Towns B vs Shenzhen 2028	`*https://www.fctv77.live/football/chinese-football-league-2-match-4154128/wuhan-three-towns-b-vs-shenzhen-2028-05-2025.html
-
-18:35 🇨🇳 Chinese Football Super League	^-
-Qingdao Youth Island vs Sichuan Jiuniu	`*https://www.fctv77.live/football/chinese-football-super-league-match-4123373/qingdao-west-coast-fc-vs-shenzhen-peng-city-fc-05-2025.html
-
-19:00 🇱🇧 Lebanese Premier League	^-
-Racing Beirut vs Al Bourj	`*https://www.fctv77.live/football/lebanese-premier-league-match-4177592/racing-beirut-vs-bourj-sc-05-2025.html
-
-19:15 🇧🇳 Brunei Cup	^-
-Kasuka FC vs DPMM FC II	`*https://www.fctv77.live/football/brunei-cup-match-4180047/kasuka-fc-vs-dpmm-fc-ii-05-2025.html
-
-20:00 🇧🇮 Burundi Premier League	^-
-Musongati FC vs Kayanza Utd	`*https://www.fctv77.live/football/burundi-premier-league-match-4110503/musongati-fc-vs-kayanza-utd-05-2025.html
-Olympique Star vs Bumamuru	`*https://www.fctv77.live/football/burundi-premier-league-match-4110505/olympique-star-vs-bumamuru-05-2025.html
-
-20:00 🇷🇺 RUS D3B	^-
-Baltika Kaliningrad vs Saturn Moscow	`*https://www.fctv77.live/football/rus-d3b-match-4172820/baltika-bfu-kaliningrad-vs-fc-saturn-ramenskoe-05-2025.html
-
-20:45 🇧🇮 Burundi Premier League	^-
-Rukinzo FC vs Vitalo	`*https://www.fctv77.live/football/burundi-premier-league-match-4110501/rukinzo-fc-vs-vitalo-05-2025.html
-
-21:00 🇧🇬 Bulgarian First League	^-
-Levski Krumovgrad vs Lokomotiv Plovdiv	`*https://www.fctv77.live/football/bulgarian-first-league-match-4174311/fk-levski-krumovgrad-vs-lokomotiv-plovdiv-05-2025.html
-
-21:15 🇶🇦 Qatar Prince Cup	^-
-Al-Garrafa vs Al Khor SC	`*https://www.fctv77.live/football/qatar-prince-cup-match-4178637/al-gharafa-vs-al-khor-sc-05-2025.html
-
-21:35 🇰🇼 Kuwaiti Premier League	^-
-Al-Taddamon vs Al-Arabi Club (KUW)	`*https://www.fctv77.live/football/kuwaiti-premier-league-match-4164719/al-taddamon-vs-al-arabi-club-kuw-05-2025.html
-
 22:00 🇱🇻 Latvian Higher League	^-
 Metta/LU Riga vs Super Nova	`*https://www.fctv77.live/football/latvian-higher-league-match-4138466/metta-lu-riga-vs-super-nova-05-2025.html
 Tukums-2000 vs FK Liepaja	`*https://www.fctv77.live/football/latvian-higher-league-match-4138580/tukums-2000-vs-fk-liepaja-05-2025.html
