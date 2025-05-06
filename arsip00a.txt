@@ -14,9 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]07-05-2025[z]	^-
 
-01:45 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Championship	^-
-Partick Thistle vs Ayr United	`*https://www.fctv77.live/football/scottish-championship-match-4179464/partick-thistle-fc-vs-ayr-united-05-2025.html
-
 02:00 [y]UEFA Champions League[z]	^-
 Inter Milan vs FC Barcelona	`*https://www.fctv77.live/football/uefa-champions-league-match-4171613/inter-milan-vs-fc-barcelona-05-2025.html
 
