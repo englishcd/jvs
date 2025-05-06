@@ -14,17 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]06-05-2025[z]	^-
 
-22:00 🇱🇻 Latvian Higher League	^-
-Metta/LU Riga vs Super Nova	`*https://www.fctv77.live/football/latvian-higher-league-match-4138466/metta-lu-riga-vs-super-nova-05-2025.html
-Tukums-2000 vs FK Liepaja	`*https://www.fctv77.live/football/latvian-higher-league-match-4138580/tukums-2000-vs-fk-liepaja-05-2025.html
-
-22:00 🇲🇰 First Football League	^-
-FC Vardar Skopje vs Vlazrimi Struga	`*https://www.fctv77.live/football/north-macedonia-first-football-league-match-4149870/fc-vardar-skopje-vs-fc-struga-05-2025.html
-
-22:00 [l]CAF African Youth U20 Champ[z]	^-
-Zambia 🇿🇲 U20 vs Tanzania 🇹🇿 U20	`*https://www.fctv77.live/football/caf-african-youth-championship-match-4176443/zambia-u20-vs-tanzania-u20-05-2025.html
-Sierra Leone 🇸🇱 vs South Africa 🇿🇦	`*https://www.fctv77.live/football/caf-african-youth-championship-match-4176445/sierra-leone-u20-vs-south-africa-u20-05-2025.html
-
 22:30 🇨🇿 Czech Third League	^-
 Sokol Brozany vs SK Kladno	`*https://www.fctv77.live/football/czech-third-league-match-4146069/sokol-brozany-vs-sk-kladno-05-2025.html
 
@@ -82,6 +71,9 @@ Al Kuwait SC vs Al-Qadsia SC	`*https://www.fctv77.live/football/kuwaiti-premier-
 
 00:15 🇶🇦 Qatar Prince Cup	^-
 Al-Sadd vs Al-Khuraitiat	`*https://www.fctv77.live/football/qatar-prince-cup-match-4178638/al-sadd-vs-al-khuraitiat-05-2025.html
+
+01:00 [l]CAF African Youth U20 Champ[z]	^-
+Sierra Leone 🇸🇱 vs South Africa 🇿🇦	`*https://www.fctv77.live/football/caf-african-youth-championship-match-4176445/sierra-leone-u20-vs-south-africa-u20-05-2025.html
 
 01:35 🇦🇷 Group B Tebolidun League Manchester	^-
 Sacachispas vs Ferrocarril Midland	`*https://www.fctv77.live/football/argentine-group-b-tebolidun-league-manchester-match-4129755/sacachispas-vs-ferrocarril-midland-05-2025.html
