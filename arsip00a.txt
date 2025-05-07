@@ -904,6 +904,9 @@ Arena Sport 9	`0https://streaming.sportsnews.id/p/arena9cro.html
 Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 
 	^-
+^=🇺🇸 USA A	09!09amu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/3089?zyw
+^=🇺🇸 USA B	09!09bmu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/3089?zyw
+^=🇺🇸 USA C	09!09cmu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/3089?zyw
 ^=🇩🇪 SportDigital Fussball	00!0!2/278409?zyw
 ^=Gol TV	00!0!0/9595?zyw
 ^=🇺🇸 USA Network	00!0!1/3089?zyw
