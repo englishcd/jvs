@@ -14,39 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]07-05-2025[z]	^-
 
-07:00 🇨🇴 Colombian Torneo BetPlay Dimayor	^-
-Real Cartagena vs Barranquilla FC	`*https://www.fctv77.live/football/colombian-torneo-betplay-dimayor-match-4125946/real-cartagena-vs-barranquilla-fc-05-2025.html
-
-07:00 🇺🇸 US Open Cup	^-
-Nashville vs Chattanooga Red Wolves	`*https://www.fctv77.live/football/united-states-open-cup-match-4173226/nashville-vs-chattanooga-red-wolves-05-2025.html
-
-07:30 🇧🇷 Brazilian Serie B	^-
-Athletic Club MG vs Vila Nova	`*https://www.fctv77.live/football/brazilian-serie-b-match-4151509/athletic-club-vs-vila-nova-05-2025.html
-
-07:30 CONMEBOL Copa Sudamericana	^-
-Boston River vs Independiente	`*https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4157164/boston-river-vs-ca-independiente-05-2025.html
-
-07:30 CONMEBOL Copa Libertadores	^-
-Fortaleza vs Colo Colo	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4157401/fortaleza-vs-colo-colo-05-2025.html
-
-07:30 CONMEBOL Copa Sudamericana	^-
-Corinthians Paulista vs America Cali	`*https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4159519/corinthians-paulista-sp-vs-america-de-cali-05-2025.html
-
-08:30 🇺🇸 US Open Cup	^-
-Colorado Springs vs New York Red Bulls	`*https://www.fctv77.live/football/united-states-open-cup-match-4174761/colorado-springs-switchbacks-fc-vs-new-york-red-bulls-05-2025.html
-
-09:00 CONMEBOL Copa Libertadores	^-
-San Antonio Bulo Bulo vs CA Penarol	`*https://www.fctv77.live/football/conmebol-copa-libertadores-match-4159802/san-antonio-bulo-bulo-vs-ca-penarol-05-2025.html
-
-09:00 CONMEBOL Copa Sudamericana	^-
-FBC Melgar vs Lanus	`*https://www.fctv77.live/football/conmebol-copa-sudamericana-match-4160932/fbc-melgar-vs-club-atltico-lans-05-2025.html
-
-09:00 🇺🇸 US Open Cup	^-
-Tacoma Defiance vs Portland Timbers	`*https://www.fctv77.live/football/united-states-open-cup-match-4172922/tacoma-defiance-vs-portland-timbers-05-2025.html
-
-09:00 🇨🇦 Canadian Championship	^-
-Pacific FC vs Vancouver FC	`*https://www.fctv77.live/football/canadian-championship-match-4175701/pacific-fc-vs-vancouver-fc-05-2025.html
-
 10:00 [l]AFC Women's Futsal Asian Cup[z]	^-
 Iran 🇮🇷 vs Philippines 🇵🇭	`*https://www.fctv77.live/football/afc-womens-futsal-asian-cup-match-4178652/iran-futsal-w-vs-philippines-futsal-women-05-2025.html
 
