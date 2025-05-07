@@ -189,7 +189,7 @@ Lokomotiv Sofia vs Botev Vratsa	`*https://www.fctv77.live/football/bulgarian-fir
 
 [w]08-05-2025[z]	^-
 
-00:00 🇩🇪 German 3.Liga
+00:00 🇩🇪 German 3.Liga	^-
 Unterhaching vs Hansa Rostock	`*https://www.fctv77.live/football/german-3-liga-match-4000305/unterhaching-vs-hansa-rostock-05-2025.html
 
 00:00 🇬🇪 Georgia Erovnuli Liga	^-
