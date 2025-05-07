@@ -10,7 +10,10 @@ Gol TV	00!0!0/9595?zyy
 [g]Live Football Events[z]	^-
 
 []👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/united-states-open-cup-match-4173263/austin-fc-vs-el-paso-locomotive-fc-05-2025.html
-[]** Follow the redirected page until Verification!	^-
+[]** [y]Follow the redirected page until Verification![z]	^-
+	^-
+07-05 19:00 [l]AFC Women's Futsal Asian Cup[z]	^-
+Japan 🇯🇵 vs Indonesia 🇮🇩	`*https://www.fctv77.live/football/afc-womens-futsal-asian-cup-match-4178674/japan-futsal-w-vs-indonesia-futsal-women-05-2025.html
 
 08-05 01:00 🇸🇦 Saudi Professional League	^-
 Al Nassr FC vs Al Ittihad Club	`*https://www.fctv77.live/football/saudi-professional-league-match-4013855/al-nassr-fc-vs-al-ittihad-club-05-2025.html
@@ -68,6 +71,9 @@ Tampines Rovers vs Balestier Khalsa	`*https://www.fctv77.live/football/singapore
 
 19:00 🇹🇭 Thai League 3	^-
 Songkhla FC vs Thonburi United FC	`*https://www.fctv77.live/football/thai-league-3-match-4175768/songkhla-fc-vs-thonburi-united-fc-05-2025.html
+
+07-05 19:00 [l]AFC Women's Futsal Asian Cup[z]	^-
+Japan 🇯🇵 vs Indonesia 🇮🇩	`*https://www.fctv77.live/football/afc-womens-futsal-asian-cup-match-4178674/japan-futsal-w-vs-indonesia-futsal-women-05-2025.html
 
 19:30 ASEAN Club Champ Shopee Cup	^-
 BG Pathum United vs Buriram United	`*https://www.fctv77.live/football/asean-club-championship-shopee-cup-match-4136117/bg-pathum-united-vs-buriram-united-05-2025.html
