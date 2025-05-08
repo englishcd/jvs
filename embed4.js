@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
-  var tsPlayer = null,
+tsPlayer = null,
       hlsPlayer = null,
       dashPlayer = null;
 
-  var stopPlayers = function () {
+stopPlayers = function () {
     if (tsPlayer) {
       tsPlayer.destroy();
       tsPlayer = null;
@@ -20,12 +20,12 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   };
 
-  var hide_for_error = function () {
+hide_for_error = function () {
     $("#player").hide();
     stopPlayers();
   };
 
-  var show_for_ok = function () {
+show_for_ok = function () {
     $("#player").show();
   };
 

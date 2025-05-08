@@ -1,10 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
-  var flvPlayer = null;
-  var tsPlayer = null;
-  var hlsPlayer = null;
-  var dashPlayer = null;
+flvPlayer = null;
+tsPlayer = null;
+hlsPlayer = null;
+dashPlayer = null;
 
-  var stopPlayers = function () {
+stopPlayers = function () {
     if (flvPlayer) {
       flvPlayer.destroy();
       flvPlayer = null;
@@ -24,13 +24,13 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   };
 
-  var hide_for_error = function () {
+hide_for_error = function () {
     $("#player").hide();
 
     stopPlayers();
   };
 
-  var show_for_ok = function () {
+show_for_ok = function () {
     $("#player").show();
   };
 
