@@ -1,3 +1,4 @@
+if(typeof sURL==='undefined'){sURL='xxx'}
 tsPlayer = null,
       hlsPlayer = null,
       dashPlayer = null;
