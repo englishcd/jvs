@@ -1,4 +1,3 @@
-document.addEventListener("DOMContentLoaded", function () {
 tsPlayer = null,
       hlsPlayer = null,
       dashPlayer = null;
@@ -93,5 +92,3 @@ show_for_ok = function () {
     dashPlayer.play();
     return;
   }
-});
-

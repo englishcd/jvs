@@ -1,4 +1,3 @@
-document.addEventListener("DOMContentLoaded", function () {
 flvPlayer = null;
 tsPlayer = null;
 hlsPlayer = null;
@@ -86,7 +85,7 @@ show_for_ok = function () {
   }
 
   // Start play HTTP-FLV.
-  let isFlv = sURL.indexOf(".flv") > 0;
+  isFlv = sURL.indexOf(".flv") > 0;
 
   isFlv = isFlv || (sURL.url && sURL.url.indexOf("http") === 0);
   if (isFlv) {
@@ -109,4 +108,3 @@ show_for_ok = function () {
     flvPlayer.play();
     return;
   }
-});
