@@ -1,10 +1,10 @@
-if(typeof sURL==='undefined'){sURL='xxx'}
-flvPlayer = null;
-tsPlayer = null;
-hlsPlayer = null;
-dashPlayer = null;
+document.addEventListener("DOMContentLoaded", function () {
+  var flvPlayer = null;
+  var tsPlayer = null;
+  var hlsPlayer = null;
+  var dashPlayer = null;
 
-stopPlayers = function () {
+  var stopPlayers = function () {
     if (flvPlayer) {
       flvPlayer.destroy();
       flvPlayer = null;
@@ -24,13 +24,13 @@ stopPlayers = function () {
     }
   };
 
-hide_for_error = function () {
+  var hide_for_error = function () {
     $("#player").hide();
 
     stopPlayers();
   };
 
-show_for_ok = function () {
+  var show_for_ok = function () {
     $("#player").show();
   };
 
@@ -86,7 +86,7 @@ show_for_ok = function () {
   }
 
   // Start play HTTP-FLV.
-  isFlv = sURL.indexOf(".flv") > 0;
+  let isFlv = sURL.indexOf(".flv") > 0;
 
   isFlv = isFlv || (sURL.url && sURL.url.indexOf("http") === 0);
   if (isFlv) {
@@ -109,3 +109,4 @@ show_for_ok = function () {
     flvPlayer.play();
     return;
   }
+});

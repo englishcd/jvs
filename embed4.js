@@ -1,9 +1,9 @@
-if(typeof sURL==='undefined'){sURL='xxx'}
-tsPlayer = null,
+document.addEventListener("DOMContentLoaded", function () {
+  var tsPlayer = null,
       hlsPlayer = null,
       dashPlayer = null;
 
-stopPlayers = function () {
+  var stopPlayers = function () {
     if (tsPlayer) {
       tsPlayer.destroy();
       tsPlayer = null;
@@ -20,12 +20,12 @@ stopPlayers = function () {
     }
   };
 
-hide_for_error = function () {
+  var hide_for_error = function () {
     $("#player").hide();
     stopPlayers();
   };
 
-show_for_ok = function () {
+  var show_for_ok = function () {
     $("#player").show();
   };
 
@@ -93,3 +93,5 @@ show_for_ok = function () {
     dashPlayer.play();
     return;
   }
+});
+
