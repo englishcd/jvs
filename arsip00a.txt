@@ -9,7 +9,7 @@ Gol TV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/chinese-football-league-1-match-4145244/dingnan-united-vs-shanghai-jiading-huilong-05-2025.html
+[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127937/st-george-city-fa-vs-apia-leichhardt-tigers-05-2025.html
 []** [y]Follow the redirected page until Verification![z]	^-
 
 [w]10-05-2025[z]	^-
@@ -324,17 +324,42 @@ FC Tokyo vs Vissel Kobe	`*https://www.fctv77.live/football/japanese-j1-league-ma
 14:00 🇯🇵 Japanese J1 League	^-
 Kashiwa Reysol vs Fagiano Okayama	`*https://www.fctv77.live/football/japanese-j1-league-match-4105666/kashiwa-reysol-vs-fagiano-okayama-05-2025.html
 
-14:00 🇦🇺 National Premier Leagues Queensland
+14:00 🇦🇺 National Premier Leagues Queensland	^-
 Queensland Lions vs Brisbane Wolves	`*https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4123775/queensland-lions-sc-vs-brisbane-wolves-05-2025.html
 
-14:00 🇦🇺 New South Wales Premier League
+14:00 🇦🇺 New South Wales Premier League	^-
 Sydney Olympic vs Sydney United 58	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127934/sydney-olympic-vs-sydney-united-58-fc-05-2025.html
 Mt Druitt Town Rvs Sutherland Sharks	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127939/mt-druitt-town-rangers-fc-vs-sutherland-sharks-05-2025.html
 
-14:00 🇨🇳 Chinese Football League 1
+14:00 🇨🇳 Chinese Football League 1	^-
 Heilongjiang Lava vs Shanghai Jiading	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145244/dingnan-united-vs-shanghai-jiading-huilong-05-2025.html
 
-[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/chinese-football-league-1-match-4145244/dingnan-united-vs-shanghai-jiading-huilong-05-2025.html
+14:30 🇰🇷 Korean K League 1	^-
+Pohang Steelers vs Suwon FC	`*https://www.fctv77.live/football/korean-k-league-1-match-4109624/pohang-steelers-vs-suwon-football-club-05-2025.html
+
+14:30 🇦🇺 National Premier Leagues Queensland	^-
+Moreton Bay United vs Peninsula Power	`*https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4124003/moreton-city-excelsior-fc-vs-peninsula-power-05-2025.html
+
+14:30 🇰🇷 Korean K League 2	^-
+Gyeongnam FC vs Bucheon FC 1995	`*https://www.fctv77.live/football/korean-k-league-2-match-4137183/gyeongnam-fc-vs-bucheon-fc-1995-05-2025.html
+Gimpo FC vs Hwaseong FC	`*https://www.fctv77.live/football/korean-k-league-2-match-4137188/gimpo-fc-vs-hwaseong-fc-05-2025.html
+
+15:15 🇦🇺 National Premier Leagues Victoria	^-
+Altona Magic vs Melbourne Knights	`*https://www.fctv77.live/football/national-premier-leagues-victoria-match-4123668/altona-magic-vs-melbourne-knights-05-2025.html
+
+15:30 🇮🇩 Indonesian Liga 1	^-
+Madura United vs Borneo FC	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029644/madura-united-vs-borneo-fc-05-2025.html
+PSM Makassar vs Malut United	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029650/psm-makassar-vs-malut-united-05-2025.html
+
+16:00 🇦🇺 National Premier Leagues Victoria	^-
+Hume City vs St Albans Saints	`*https://www.fctv77.live/football/national-premier-leagues-victoria-match-4123665/hume-city-vs-st-albans-saints-05-2025.html
+Dandenong Thunder vs Preston Lions	`*https://www.fctv77.live/football/national-premier-leagues-victoria-match-4123666/dandenong-thunder-vs-preston-lions-05-2025.html
+
+16:00 🇦🇺 New South Wales Premier League	^-
+Marconi Stallions vs Wollongong Wolves	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127946/marconi-stallions-vs-wollongong-wolves-05-2025.html
+St George City vs A.P.I.A. Leichhardt	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127937/st-george-city-fa-vs-apia-leichhardt-tigers-05-2025.html
+
+[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127937/st-george-city-fa-vs-apia-leichhardt-tigers-05-2025.html
 []** Follow the redirected page until Verification!	^-
 
 	^-
