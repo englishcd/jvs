@@ -1,7 +1,7 @@
 [g]{s} Ⓗa0 Live Sports Events[z]	^-
 
-👉[g]New Live Sports & TV Channels #1[z]👈	^^h10
-👉[g]New Live Sports & TV Channels #2[z]👈	^^h11
+👉[y]New Live Sports & TV Channels #1[z]👈	^^h10
+👉[y]New Live Sports & TV Channels #2[z]👈	^^h11
 🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
 Gol TV	00!0!0/9595?zyy
 🇺🇸 USA Network	00!0!1/3089?zyy
@@ -355,13 +355,6 @@ Sky Live Event 5	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-H
 Sky Live Event 6	https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
 ESPN	https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
 Sky La Liga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-	^-
-[g]Multi Live Events[z]	^-
-
-[l]Huhu.To[z]	`0https://huhu.to/
-[l]rbtv77[z] 🇮🇩 Live Events	`0https://rbtv77.im/
-[l]multicanais[z] 🇵🇹 Multi Channels	`0https://multicanais.deal/
-[l]Today's Matches[z] `0https://govoet-live.blogspot.com/
 
 	^-
 [w]Live Sport TV Channels[z]	^-
@@ -456,6 +449,17 @@ NBC Sports	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channe
 NBC TV	i3`06fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 NFL Channel	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd!!002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
+
+Arena Sport 1	`0https://streaming.sportsnews.id/p/arena1cro.html
+Arena Sport 2	`0https://streaming.sportsnews.id/p/arena2cro.html
+Arena Sport 3	`0https://streaming.sportsnews.id/p/arena3cro.html
+Arena Sport 4	`0https://streaming.sportsnews.id/p/arena4cro.html
+Arena Sport 5	`0https://streaming.sportsnews.id/p/arena5cro.html
+Arena Sport 6	`0https://streaming.sportsnews.id/p/arena6cro.html
+Arena Sport 7	`0https://streaming.sportsnews.id/p/arena7cro.html
+Arena Sport 8	`0https://streaming.sportsnews.id/p/arena8cro.html
+Arena Sport 9	`0https://streaming.sportsnews.id/p/arena9cro.html
+Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 
 	^-
 Sport Channels from [l]Ⓘc2 SportsTV[z]	^-
@@ -1145,6 +1149,14 @@ Playlist [y]Main Menu[z]	^^szz
 [l]{h} Ⓣ6 Movies Film 3[z]	^^h6
 
 	^-
+[g]Multi Live Events[z]	^-
+
+[l]Huhu.To[z]	`0https://huhu.to/
+[l]rbtv77[z] 🇮🇩 Live Events	`0https://rbtv77.im/
+[l]multicanais[z] 🇵🇹 Multi Channels	`0https://multicanais.deal/
+[l]Today's Matches[z] `0https://govoet-live.blogspot.com/
+
+	^-
 [w]Live Sport OnTime Channels[z]	^-
 
 Sportsnet East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd!!f0407787b4d83e5db9dbcd760aec17ce:0f7c2736f496c2d2eccc9ebbe27799b9
@@ -1154,17 +1166,6 @@ Sportsnet Pacific	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-
 Sportsnet One	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-ch-05-prd-r-hd/index.mpd!!dbad1672b1bf3d0abd1c1c2161057f99:e1100c4e24f028d47a36ead37f0fd55f
 Sportsnet 360	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-prd-r-v2/dash-ch-06-prd-r-hd/index.mpd!!27c0df9fa2e9314b8c49f824e1ff9d82:ff57bd34fde4c6022385879fe394dd6d
 Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
-
-Arena Sport 1	`0https://streaming.sportsnews.id/p/arena1cro.html
-Arena Sport 2	`0https://streaming.sportsnews.id/p/arena2cro.html
-Arena Sport 3	`0https://streaming.sportsnews.id/p/arena3cro.html
-Arena Sport 4	`0https://streaming.sportsnews.id/p/arena4cro.html
-Arena Sport 5	`0https://streaming.sportsnews.id/p/arena5cro.html
-Arena Sport 6	`0https://streaming.sportsnews.id/p/arena6cro.html
-Arena Sport 7	`0https://streaming.sportsnews.id/p/arena7cro.html
-Arena Sport 8	`0https://streaming.sportsnews.id/p/arena8cro.html
-Arena Sport 9	`0https://streaming.sportsnews.id/p/arena9cro.html
-Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 
 	^-
 ^=🇺🇸 USA A	09!09amu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/3089?zyw
