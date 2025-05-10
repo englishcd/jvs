@@ -14,33 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]10-05-2025[z]	^-
 
-19:00 🇪🇸 [y]Spanish La Liga[z]	^-
-Valencia vs Getafe	`*https://www.fctv77.live/football/spanish-la-liga-match-3994942/valencia-cf-vs-getafe-05-2025.html
-
-20:00 🇮🇹 [y]Italian Serie A[z]	^-
-Como vs Cagliari	`*https://www.fctv77.live/football/italian-serie-a-match-3994156/como-vs-cagliari-05-2025.html
-
-20:30 🇩🇪 [y]Bundesliga[z]	^-
-VfL Bochum vs FSV Mainz 05	`*https://www.fctv77.live/football/bundesliga-match-3990662/vfl-bochum-1848-vs-1-fsv-mainz-05-05-2025.html
-Holstein Kiel vs SC Freiburg	`*https://www.fctv77.live/football/bundesliga-match-3990670/holstein-kiel-vs-sc-freiburg-05-2025.html
-Werder Bremen vs RB Leipzig	`*https://www.fctv77.live/football/bundesliga-match-3990674/sv-werder-bremen-vs-rb-leipzig-05-2025.html
-Union Berlin vs 1. FC Heidenheim	`*https://www.fctv77.live/football/bundesliga-match-3990683/1-fc-union-berlin-vs-1-fc-heidenheim-1846-05-2025.html
-
-21:00 🇬🇧 [y]English Premier League[z]	^-
-Fulham vs Everton	`*https://www.fctv77.live/football/english-premier-league-match-3995679/fulham-vs-everton-05-2025.html
-Ipswich Town vs Brentford	`*https://www.fctv77.live/football/english-premier-league-match-3995739/ipswich-town-vs-brentford-05-2025.html
-Wolves vs Brighton Hove Albion	`*https://www.fctv77.live/football/english-premier-league-match-3995752/wolverhampton-wanderers-vs-brighton-hove-albion-05-2025.html
-Southampton vs Manchester City	`*https://www.fctv77.live/football/english-premier-league-match-3995934/southampton-vs-manchester-city-05-2025.html
-
-21:15 🇪🇸 [y]Spanish La Liga[z]	^-
-Real Club Celta de Vigo vs Sevilla	`*https://www.fctv77.live/football/spanish-la-liga-match-3995048/rc-celta-vs-sevilla-fc-05-2025.html
-
-21:30 🇳🇱 [y]Netherlands Eredivisie[z]	^-
-RKC Waalwijk vs SC Heerenveen	`*https://www.fctv77.live/football/netherlands-eredivisie-match-3983511/rkc-waalwijk-vs-sc-heerenveen-05-2025.html
-
-23:00 🇮🇹 [y]Italian Serie A[z]	^-
-Lazio vs Juventus	`*https://www.fctv77.live/football/italian-serie-a-match-3994103/lazio-vs-juventus-05-2025.html
-
 23:30 🇩🇪 [y]Bundesliga[z]	^-
 Bayern Munchen vs Br Monchengladbach	`*https://www.fctv77.live/football/bundesliga-match-3990658/fc-bayern-munich-vs-borussia-monchengladbach-05-2025.html
 
@@ -77,78 +50,6 @@ Le Havre vs Marseille	`*https://www.fctv77.live/football/french-ligue-1-match-39
 Atletico Madrid vs Real Sociedad	`*https://www.fctv77.live/football/spanish-la-liga-match-3994786/atletico-madrid-vs-real-sociedad-05-2025.html
 
 [w]10-05-2025[z]	^-
-
-18:00 🇩🇪 German Bundesliga 2	^-
-Fortuna Dusseldorf vs Schalke 04	`*https://www.fctv77.live/football/german-bundesliga-2-match-3998483/fortuna-dusseldorf-vs-schalke-04-05-2025.html
-Elversberg vs Eintracht Braunschweig	`*https://www.fctv77.live/football/german-bundesliga-2-match-3998487/sv-elversberg-vs-eintracht-braunschweig-05-2025.html
-SC Paderborn 07 vs 1. FC Magdeburg	`*https://www.fctv77.live/football/german-bundesliga-2-match-3998509/sc-paderborn-07-vs-1-fc-magdeburg-05-2025.html
-
-18:00 🇨🇳 Chinese Football Super League	^-
-Shanghai Shenhua vs Qingdao Island	`*https://www.fctv77.live/football/chinese-football-super-league-match-4123398/shanghai-shenhua-fc-vs-qingdao-west-coast-fc-05-2025.html
-
-18:00 🇹🇭 M-150 Championship	^-
-Phrae United FC vs Lampang FC	`*https://www.fctv77.live/football/m-150-championship-match-4178695/phrae-united-fc-vs-lampang-fc-05-2025.html
-
-18:30 🇷🇺 Russian Premier League
-Gazovik Orenburg vs Khimki	`*https://www.fctv77.live/football/russian-premier-league-match-3985081/gazovik-orenburg-vs-khimki-05-2025.html
-
-18:30 🇨🇳 Chinese Football League 1	^-
-Guangdong Gzhou vs Chongqing Tong	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145238/guangdong-guangzhou-power-vs-chongqing-tongliangloong-fc-05-2025.html
-Guangxi Pingguo vs Shijiazhuang KungFu	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145240/guangxi-pingguo-fc-vs-shijiazhuang-gongfu-05-2025.html
-Nantong Zhiyun vs Shenzhen Juniors	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145248/nantong-zhiyun-fc-vs-shenzhen-juniors-05-2025.html
-
-18:30 🇬🇧 English Football League One	^-
-Leyton Orient vs Stockport County	`*https://www.fctv77.live/football/english-football-league-one-match-4179915/leyton-orient-vs-stockport-county-05-2025.html
-
-18:35 🇨🇳 Chinese Football Super League	^-
-Shandong Taishan vs Zhejiang Greentown	`*https://www.fctv77.live/football/chinese-football-super-league-match-4123392/shandong-taishan-fc-vs-zhejiang-professional-fc-05-2025.html
-Meizhou Hakka vs Chengdu Better City	`*https://www.fctv77.live/football/chinese-football-super-league-match-4123396/meizhou-hakka-fc-vs-chengdu-rongcheng-fc-05-2025.html
-
-19:00 🇮🇩 Indonesian Liga 1	^-
-Persija Jakarta vs Bali United	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029646/persija-jakarta-vs-bali-united-05-2025.html
-
-19:00 🇷🇴 Romanian Liga I	^-
-Farul Constanta vs UTA Arad	`*https://www.fctv77.live/football/romanian-liga-i-match-4152616/farul-constanta-vs-uta-arad-05-2025.html
-
-19:00 🇧🇬 Bulgarian First League	^-
-Slavia Sofia vs Lokomotiv Sofia	`*https://www.fctv77.live/football/bulgarian-first-league-match-4174294/slavia-sofia-vs-lokomotiv-sofia-05-2025.html
-
-19:30 🇺🇦 Ukrainian Premier League	^-
-Obolon Kiev vs LNZ Lebedyn	`*https://www.fctv77.live/football/ukrainian-premier-league-match-3999465/obolon-kyiv-vs-lnz-cherkasy-05-2025.html
-
-21:00 🇪🇸 Spanish Primera División RFEF	^-
-FC Barcelona Atlètic vs Andorra CF	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024162/fc-barcelona-atltic-vs-andorra-cf-05-2025.html
-Ibiza Eivissa vs AD Alcorcon	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024405/ibiza-eivissa-vs-ad-alcorcon-05-2025.html
-Merida AD vs Real Madrid Castilla	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024535/merida-ad-vs-real-madrid-castilla-05-2025.html
-
-21:00 🇧🇪 Belgian Pro League	^-
-Kortrijk vs Sint-Truidense	`*https://www.fctv77.live/football/belgian-pro-league-match-4159424/kv-kortrijk-vs-sint-truidense-05-2025.html
-
-21:00 [l]UEFA European U17 Women's Champ[z]	^-
-Netherlands 🇳🇱 vs Faroe Islands 🇫🇴	`*https://www.fctv77.live/football/uefa-european-u17-womens-championship-match-4179262/netherlands-w-u17-vs-faroe-islands-w-u17-05-2025.html
-Norway 🇳🇴 vs Austria 🇦🇹	`*https://www.fctv77.live/football/uefa-european-u17-womens-championship-match-4179263/norway-w-u17-vs-austria-w-u17-05-2025.html
-
-21:15 🇪🇸 Spanish Segunda Division	^-
-Sporting Gijon vs Deportivo La Coruna	`*https://www.fctv77.live/football/spanish-segunda-division-match-4002169/sporting-gijon-vs-deportivo-la-coruna-05-2025.html
-Mirandes vs Castellon	`*https://www.fctv77.live/football/spanish-segunda-division-match-4002251/mirandes-vs-castellon-05-2025.html
-
-21:30 🇵🇹 Portuguese Primera Liga	^-
-Nacional da Madeira vs Rio Ave	`*https://www.fctv77.live/football/portuguese-primera-liga-match-4001428/nacional-da-madeira-vs-rio-ave-05-2025.html
-Santa Clara vs FC Famalicao	`*https://www.fctv77.live/football/portuguese-primera-liga-match-4001468/santa-clara-vs-fc-famalicao-05-2025.html
-
-22:00 🇺🇦 Ukrainian Premier League	^-
-Rukh Vynnyky vs Veres	`*https://www.fctv77.live/football/ukrainian-premier-league-match-3999519/rukh-vynnyky-vs-veres-05-2025.html
-
-22:00 🇫🇷 French Ligue 2	^-
-Paris FC vs Ajaccio	`*https://www.fctv77.live/football/french-ligue-2-match-4019568/paris-fc-vs-ajaccio-05-2025.html
-Stade Lavallois MFC vs Metz	`*https://www.fctv77.live/football/french-ligue-2-match-4019575/stade-lavallois-mfc-vs-metz-05-2025.html
-
-23:00 🇪🇸 Spanish Primera División RFEF	^-
-Gimnastic de Tarragona vs CD Lugo	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024005/gimnastic-de-tarragona-vs-cd-lugo-05-2025.html
-SD Tarazona vs Ourense CF	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024030/sd-tarazona-vs-ourense-cf-05-2025.html
-Athletic Bilbao B vs Union Salamanca	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024159/athletic-bilbao-b-vs-unionistas-de-salamanca-cf-05-2025.html
-CD Alcoyano vs CF Intercity	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024309/cd-alcoyano-vs-cf-intercity-05-2025.html
-Yeclano Deportivo vs Villarreal B	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024580/yeclano-deportivo-vs-villarreal-b-05-2025.html
 
 23:30 🇪🇸 Spanish Segunda Division	^-
 Burgos CF vs Cordoba	`*https://www.fctv77.live/football/spanish-segunda-division-match-4002195/burgos-cf-vs-cordoba-05-2025.html
