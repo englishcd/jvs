@@ -78,65 +78,6 @@ Atletico Madrid vs Real Sociedad	`*https://www.fctv77.live/football/spanish-la-l
 
 [w]10-05-2025[z]	^-
 
-13:00 🇯🇵 Japanese J1 League	^-
-FC Tokyo vs Vissel Kobe	`*https://www.fctv77.live/football/japanese-j1-league-match-4105665/fc-tokyo-vs-vissel-kobe-05-2025.html
-
-14:00 🇯🇵 Japanese J1 League	^-
-Kashiwa Reysol vs Fagiano Okayama	`*https://www.fctv77.live/football/japanese-j1-league-match-4105666/kashiwa-reysol-vs-fagiano-okayama-05-2025.html
-
-14:00 🇦🇺 National Premier Leagues Queensland	^-
-Queensland Lions vs Brisbane Wolves	`*https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4123775/queensland-lions-sc-vs-brisbane-wolves-05-2025.html
-
-14:00 🇦🇺 New South Wales Premier League	^-
-Sydney Olympic vs Sydney United 58	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127934/sydney-olympic-vs-sydney-united-58-fc-05-2025.html
-Mt Druitt Town Rvs Sutherland Sharks	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127939/mt-druitt-town-rangers-fc-vs-sutherland-sharks-05-2025.html
-
-14:00 🇨🇳 Chinese Football League 1	^-
-Heilongjiang Lava vs Shanghai Jiading	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145244/dingnan-united-vs-shanghai-jiading-huilong-05-2025.html
-
-14:30 🇰🇷 Korean K League 1	^-
-Pohang Steelers vs Suwon FC	`*https://www.fctv77.live/football/korean-k-league-1-match-4109624/pohang-steelers-vs-suwon-football-club-05-2025.html
-
-14:30 🇦🇺 National Premier Leagues Queensland	^-
-Moreton Bay United vs Peninsula Power	`*https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4124003/moreton-city-excelsior-fc-vs-peninsula-power-05-2025.html
-
-14:30 🇰🇷 Korean K League 2	^-
-Gyeongnam FC vs Bucheon FC 1995	`*https://www.fctv77.live/football/korean-k-league-2-match-4137183/gyeongnam-fc-vs-bucheon-fc-1995-05-2025.html
-Gimpo FC vs Hwaseong FC	`*https://www.fctv77.live/football/korean-k-league-2-match-4137188/gimpo-fc-vs-hwaseong-fc-05-2025.html
-
-15:15 🇦🇺 National Premier Leagues Victoria	^-
-Altona Magic vs Melbourne Knights	`*https://www.fctv77.live/football/national-premier-leagues-victoria-match-4123668/altona-magic-vs-melbourne-knights-05-2025.html
-
-15:30 🇮🇩 Indonesian Liga 1	^-
-Madura United vs Borneo FC	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029644/madura-united-vs-borneo-fc-05-2025.html
-PSM Makassar vs Malut United	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029650/psm-makassar-vs-malut-united-05-2025.html
-
-16:00 🇦🇺 National Premier Leagues Victoria	^-
-Hume City vs St Albans Saints	`*https://www.fctv77.live/football/national-premier-leagues-victoria-match-4123665/hume-city-vs-st-albans-saints-05-2025.html
-Dandenong Thunder vs Preston Lions	`*https://www.fctv77.live/football/national-premier-leagues-victoria-match-4123666/dandenong-thunder-vs-preston-lions-05-2025.html
-
-16:00 🇦🇺 New South Wales Premier League	^-
-Marconi Stallions vs Wollongong Wolves	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127946/marconi-stallions-vs-wollongong-wolves-05-2025.html
-St George City vs A.P.I.A. Leichhardt	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127937/st-george-city-fa-vs-apia-leichhardt-tigers-05-2025.html
-
-16:35 🇦🇺 Australia A-League	^-
-Western Sydney vs Melbourne Victory	`*https://www.fctv77.live/football/australia-a-league-match-4179343/western-sydney-vs-melbourne-victory-05-2025.html
-
-17:00 🇸🇬 Singapore Premier League	^-
-Tanjong Pagar Utd vs Lion City Sailors	`*https://www.fctv77.live/football/singapore-premier-league-match-3962213/tanjong-pagar-utd-vs-lion-city-sailors-05-2025.html
-Tampines Rovers FC vs Young Lions	`*https://www.fctv77.live/football/singapore-premier-league-match-3962233/tampines-rovers-fc-vs-young-lions-05-2025.html
-
-17:00 🇺🇦 Ukrainian Premier League	^-
-Vorskla Poltava vs Chernomorets Odessa	`*https://www.fctv77.live/football/ukrainian-premier-league-match-3999508/fc-vorskla-poltava-vs-chernomorets-odessa-05-2025.html
-
-17:00 🇰🇷 Korean K League 1	^-
-Daejeon Citizen vs FC Seoul	`*https://www.fctv77.live/football/korean-k-league-1-match-4109481/daejeon-citizen-vs-football-club-seoul-05-2025.html
-FC Anyang vs Daegu FC	`*https://www.fctv77.live/football/korean-k-league-1-match-4109483/fc-anyang-vs-daegu-football-club-05-2025.html
-
-17:00 🇰🇷 Korean K League 2	^-
-Chungnam Asan vs Incheon United	`*https://www.fctv77.live/football/korean-k-league-2-match-4137182/chungnam-asan-vs-incheon-united-club-05-2025.html
-Seoul E-Land FC vs Ansan Greeners FC	`*https://www.fctv77.live/football/korean-k-league-2-match-4137186/seoul-e-land-fc-vs-ansan-greeners-fc-05-2025.html
-
 18:00 🇩🇪 German Bundesliga 2	^-
 Fortuna Dusseldorf vs Schalke 04	`*https://www.fctv77.live/football/german-bundesliga-2-match-3998483/fortuna-dusseldorf-vs-schalke-04-05-2025.html
 Elversberg vs Eintracht Braunschweig	`*https://www.fctv77.live/football/german-bundesliga-2-match-3998487/sv-elversberg-vs-eintracht-braunschweig-05-2025.html
