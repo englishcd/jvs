@@ -9,7 +9,7 @@ Gol TV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/usl-championship-match-4127081/rhode-island-vs-monterey-bay-fc-05-2025.html
+[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/japanese-j2-league-match-4111867/roasso-kumamoto-vs-ehime-fc-05-2025.html
 []** Follow the redirected page until Verification!	^-
 
 [w]10-05-2025[z]	^-
@@ -77,12 +77,6 @@ Le Havre vs Marseille	`*https://www.fctv77.live/football/french-ligue-1-match-39
 Atletico Madrid vs Real Sociedad	`*https://www.fctv77.live/football/spanish-la-liga-match-3994786/atletico-madrid-vs-real-sociedad-05-2025.html
 
 [w]10-05-2025[z]	^-
-
-12:00 🇯🇵 Japanese J1 League	^-
-Yokohama FC vs Avispa Fukuoka	`*https://www.fctv77.live/football/japanese-j1-league-match-4105662/yokohama-fc-vs-avispa-fukuoka-05-2025.html
-
-12:00 🇯🇵 Japanese J2 League	^-
-Omiya Ardija vs Vegalta Sendai	`*https://www.fctv77.live/football/japanese-j2-league-match-4111875/rb-omiya-ardija-vs-vegalta-sendai-05-2025.html
 
 13:00 🇯🇵 Japanese J1 League	^-
 FC Tokyo vs Vissel Kobe	`*https://www.fctv77.live/football/japanese-j1-league-match-4105665/fc-tokyo-vs-vissel-kobe-05-2025.html
@@ -259,7 +253,84 @@ Rosario Central vs Estudiantes La Plata	`*https://www.fctv77.live/football/argen
 03:00 🇺🇸 USL Championship	^-
 Rhode Island vs Monterey Bay FC	`*https://www.fctv77.live/football/usl-championship-match-4127081/rhode-island-vs-monterey-bay-fc-05-2025.html
 
-[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/usl-championship-match-4127081/rhode-island-vs-monterey-bay-fc-05-2025.html
+03:30 🇺🇸 US Major League Soccer	^-
+Minnesota United FC vs Inter Miami CF	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106252/minnesota-united-fc-vs-inter-miami-cf-05-2025.html
+Toronto FC vs DC United	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106266/toronto-fc-vs-dc-united-05-2025.html
+
+04:30 🇨🇦 Canadian Premier League	^-
+HFX Wanderers FC vs Cavalry FC	`*https://www.fctv77.live/football/canadian-premier-league-match-4163605/hfx-wanderers-fc-vs-cavalry-fc-05-2025.html
+
+05:00 🇺🇸 USL Championship	^-
+Loudoun United vs Lexington	`*https://www.fctv77.live/football/usl-championship-match-4127018/loudoun-united-vs-lexington-05-2025.html
+
+06:00 🇺🇸 USL Championship	^-
+Hartford Athletic vs Detroit City	`*https://www.fctv77.live/football/usl-championship-match-4127011/hartford-athletic-vs-detroit-city-05-2025.html
+
+06:30 🇺🇸 US Major League Soccer	^-
+FC Cincinnati vs Austin FC	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106251/fc-cincinnati-vs-austin-fc-05-2025.html
+Philadelphia Union vs Columbus Crew	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106254/philadelphia-union-vs-columbus-crew-05-2025.html
+New York City FC vs Montreal Impact	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106267/new-york-city-fc-vs-montreal-impact-05-2025.html
+New York Red Bulls vs LA Galaxy	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106274/new-york-red-bulls-vs-los-angeles-galaxy-05-2025.html
+Orlando City vs New England Revolution	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106316/orlando-city-vs-new-england-revolution-05-2025.html
+
+06:30 🇺🇸 USL Championship	^-
+Louisville City vs Pittsburgh River	`*https://www.fctv77.live/football/usl-championship-match-4126987/louisville-city-fc-vs-pittsburgh-riverhounds-05-2025.html
+Tampa Bay Rowdies vs Charleston Battery	`*https://www.fctv77.live/football/usl-championship-match-4126996/tampa-bay-rowdies-vs-charleston-battery-05-2025.html
+
+06:30 🇺🇸 US Women's National League	^-
+North Carolina vs Orlando Pride	`*https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131843/north-carolina-w-vs-orlando-pride-w-05-2025.html
+
+07:00 🇺🇸 USL Championship	^-
+FC Tulsa vs El Paso Locomotive FC	`*https://www.fctv77.live/football/usl-championship-match-4127008/fc-tulsa-vs-el-paso-locomotive-fc-05-2025.html
+
+07:00 🇨🇦 Canadian Premier League	^-
+Pacific FC vs York United FC	`*https://www.fctv77.live/football/canadian-premier-league-match-4163620/pacific-fc-vs-york-united-fc-05-2025.html
+
+07:30 🇺🇸 US Major League Soccer	^-
+Houston Dynamo vs Seattle Sounders	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106079/houston-dynamo-vs-seattle-sounders-05-2025.html
+St. Louis City SC vs San Diego FC	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106099/st-louis-city-sc-vs-san-diego-fc-05-2025.html
+FC Dallas vs Real Salt Lake	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106160/fc-dallas-vs-real-salt-lake-05-2025.html
+Nashville vs Charlotte FC	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106184/nashville-vs-charlotte-fc-05-2025.html
+
+07:30 🇺🇸 USL Championship	^-
+San Antonio vs Oakland Roots	`*https://www.fctv77.live/football/usl-championship-match-4126990/san-antonio-vs-oakland-roots-05-2025.html
+
+08:00 🇺🇸 USL Championship	^-
+New Mexico United vs Phoenix Rising	`*https://www.fctv77.live/football/usl-championship-match-4127076/new-mexico-united-vs-phoenix-rising-fc-05-2025.html
+
+08:30 🇺🇸 US Major League Soccer	^-
+Colorado Rapids vs San Jose Earthquakes	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106253/colorado-rapids-vs-san-jose-earthquakes-05-2025.html
+
+09:00 🇺🇸 USL Championship	^-
+Sacramento Republic FC vs Indy Eleven	`*https://www.fctv77.live/football/usl-championship-match-4126997/sacramento-republic-fc-vs-indy-eleven-05-2025.html
+
+09:30 🇺🇸 US Major League Soccer	^-
+Portland Timbers vs FC Kansas City	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106185/portland-timbers-vs-sporting-kansas-city-05-2025.html
+
+09:30 🇺🇸 USL Championship	^-
+Las Vegas Lights vs Colorado Springs	`*https://www.fctv77.live/football/usl-championship-match-4127007/las-vegas-lights-vs-colorado-springs-switchbacks-fc-05-2025.html
+
+11:00 🇯🇵 Japanese J2 League	^-
+Jubilo Iwata vs Fujieda MYFC	`*https://www.fctv77.live/football/japanese-j2-league-match-4111865/jubilo-iwata-vs-fujieda-myfc-05-2025.html
+Iwaki vs Hokkaido Consadole Sapporo	`*https://www.fctv77.live/football/japanese-j2-league-match-4111869/iwaki-fc-vs-hokkaido-consadole-sapporo-05-2025.html
+
+12:00 🇯🇵 Japanese J2 League	^-
+Mito Hollyhock vs Blaublitz Akita	`*https://www.fctv77.live/football/japanese-j2-league-match-4111866/mito-hollyhock-vs-blaublitz-akita-05-2025.html
+Imabari vs JEF Utd Ichihara Chiba	`*https://www.fctv77.live/football/japanese-j2-league-match-4111871/imabari-fc-vs-jef-united-ichihara-chiba-05-2025.html
+Sagan Tosu vs Ventforet Kofu	`*https://www.fctv77.live/football/japanese-j2-league-match-4111872/sagan-tosu-vs-ventforet-kofu-05-2025.html
+V-Varen Nagasaki vs Montedio Yamagata	`*https://www.fctv77.live/football/japanese-j2-league-match-4111873/v-varen-nagasaki-vs-montedio-yamagata-05-2025.html
+Tokushima Vortis vs Renofa Yamaguchi	`*https://www.fctv77.live/football/japanese-j2-league-match-4111874/tokushima-vortis-vs-renofa-yamaguchi-05-2025.html
+
+12:00 🇰🇷 Korean K League 4	^-
+Daegu FC II vs Geoje Citizen	`*https://www.fctv77.live/football/korean-k-league-4-match-4148216/daegu-fc-ii-vs-geoje-citizen-05-2025.html
+
+12:05 🇯🇵 Japanese J2 League	^-
+Kataller Toyama vs Oita Trinita	`*https://www.fctv77.live/football/japanese-j2-league-match-4111868/kataller-toyama-vs-oita-trinita-05-2025.html
+
+13:00 🇯🇵 Japanese J2 League	^-
+Roasso Kumamoto vs Ehime FC	`*https://www.fctv77.live/football/japanese-j2-league-match-4111867/roasso-kumamoto-vs-ehime-fc-05-2025.html
+
+[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/japanese-j2-league-match-4111867/roasso-kumamoto-vs-ehime-fc-05-2025.html
 []** Follow the redirected page until Verification!	^-
 
 	^-
