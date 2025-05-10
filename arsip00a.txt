@@ -78,44 +78,6 @@ Atletico Madrid vs Real Sociedad	`*https://www.fctv77.live/football/spanish-la-l
 
 [w]10-05-2025[z]	^-
 
-03:00 🇵🇾 Paraguayan Primera Division	^-
-Sportivo Trinidense vs 2 de Mayo PJC	`*https://www.fctv77.live/football/paraguayan-primera-division-match-4115628/club-sportivo-trinidense-vs-club-sportivo-2-de-mayo-05-2025.html
-
-03:30 🇵🇪 Peruvian Liga 1	^-
-Comerciantes Unidos vs EM Deportivo	`*https://www.fctv77.live/football/peruvian-liga-1-match-4140289/comerciantes-unidos-vs-em-deportivo-binacional-05-2025.html
-
-04:30 [l]CONMEBOL U17 Women's Sudamericano[z]	^-
-Brasil 🇧🇷 vs Ecuador 🇪🇨	`*https://www.fctv77.live/football/conmebol-u17-womens-sudamericano-match-4178698/brazil-w-u17-vs-ecuador-w-u17-05-2025.html
-Uruguay 🇺🇾 vs Peru 🇵🇪	`*https://www.fctv77.live/football/conmebol-u17-womens-sudamericano-match-4178699/uruguay-w-u17-vs-peru-w-u17-05-2025.html
-
-05:30 🇺🇸 USL League One	^-
-Knoxville troops vs Forward Madison	`*https://www.fctv77.live/football/usl-league-one-match-4148009/knoxville-troops-vs-forward-madison-fc-05-2025.html
-
-06:00 🇺🇸 USL Champ	^-
-North Carolina vs Orange County Blues	`*https://www.fctv77.live/football/usl-championship-match-4126985/north-carolina-vs-orange-county-blues-fc-05-2025.html
-
-06:20 🇨🇴 Categoría Primera A	^-
-Deportes Tolima vs Union Magdalena	`*https://www.fctv77.live/football/categoria-primera-a-match-4116023/deportes-tolima-vs-union-magdalena-05-2025.html
-
-07:00 🇺🇸 US Women's National League	^-
-Racing Louisville vs Gotham FC	`*https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131861/racing-louisville-w-vs-gotham-fc-w-05-2025.html
-
-07:00 🇧🇴 Bolivian Primera Division	^-
-Blooming vs Jorge Wilstermann	`*https://www.fctv77.live/football/bolivian-primera-division-match-4171328/blooming-vs-jorge-wilstermann-05-2025.html
-
-07:00 [l]CONMEBOL U17 Women's Sudamericano[z]	^-
-Chile 🇨🇱 vs Argentina 🇦🇷	`*https://www.fctv77.live/football/conmebol-u17-womens-sudamericano-match-4178696/chile-w-u17-vs-argentina-w-u17-05-2025.html
-Colombia 🇨🇴 vs Paraguay 🇵🇾	`*https://www.fctv77.live/football/conmebol-u17-womens-sudamericano-match-4178697/colombia-w-u17-vs-paraguay-w-u17-05-2025.html
-
-08:30 🇨🇴 Categoría Primera A	^-
-Atletico Bucaramanga vs Dep.Independ	`*https://www.fctv77.live/football/categoria-primera-a-match-4116010/atletico-bucaramanga-vs-depindependiente-medellin-05-2025.html
-
-09:30 🇺🇸 US Women's National Soccer League	^-
-Angel City FC (w) vs Utah Royals (w)	`*https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131841/angel-city-fc-w-vs-utah-royals-w-05-2025.html
-
-11:15 🇦🇺 Australia W-League	^-
-Melbourne Victory vs Adelaide United	`*https://www.fctv77.live/football/australia-w-league-match-4176839/melbourne-victory-w-vs-adelaide-united-women-05-2025.html
-
 12:00 🇯🇵 Japanese J1 League	^-
 Yokohama FC vs Avispa Fukuoka	`*https://www.fctv77.live/football/japanese-j1-league-match-4105662/yokohama-fc-vs-avispa-fukuoka-05-2025.html
 
