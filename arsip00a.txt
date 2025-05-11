@@ -73,53 +73,6 @@ Real Betis vs Osasuna	`*https://www.fctv77.live/football/spanish-la-liga-match-3
 
 [w]11-05-2025[z]	^-
 
-08:00 🇺🇸 USL Championship	^-
-New Mexico United vs Phoenix Rising	`*https://www.fctv77.live/football/usl-championship-match-4127076/new-mexico-united-vs-phoenix-rising-fc-05-2025.html
-
-08:30 🇺🇸 US Major League Soccer	^-
-Colorado Rapids vs San Jose Earthquakes	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106253/colorado-rapids-vs-san-jose-earthquakes-05-2025.html
-
-09:00 🇺🇸 USL Championship	^-
-Sacramento Republic FC vs Indy Eleven	`*https://www.fctv77.live/football/usl-championship-match-4126997/sacramento-republic-fc-vs-indy-eleven-05-2025.html
-
-09:30 🇺🇸 US Major League Soccer	^-
-Portland Timbers vs FC Kansas City	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106185/portland-timbers-vs-sporting-kansas-city-05-2025.html
-
-09:30 🇺🇸 USL Championship	^-
-Las Vegas Lights vs Colorado Springs	`*https://www.fctv77.live/football/usl-championship-match-4127007/las-vegas-lights-vs-colorado-springs-switchbacks-fc-05-2025.html
-
-11:00 🇯🇵 Japanese J2 League	^-
-Jubilo Iwata vs Fujieda MYFC	`*https://www.fctv77.live/football/japanese-j2-league-match-4111865/jubilo-iwata-vs-fujieda-myfc-05-2025.html
-Iwaki vs Hokkaido Consadole Sapporo	`*https://www.fctv77.live/football/japanese-j2-league-match-4111869/iwaki-fc-vs-hokkaido-consadole-sapporo-05-2025.html
-
-12:00 🇯🇵 Japanese J2 League	^-
-Mito Hollyhock vs Blaublitz Akita	`*https://www.fctv77.live/football/japanese-j2-league-match-4111866/mito-hollyhock-vs-blaublitz-akita-05-2025.html
-Imabari vs JEF Utd Ichihara Chiba	`*https://www.fctv77.live/football/japanese-j2-league-match-4111871/imabari-fc-vs-jef-united-ichihara-chiba-05-2025.html
-Sagan Tosu vs Ventforet Kofu	`*https://www.fctv77.live/football/japanese-j2-league-match-4111872/sagan-tosu-vs-ventforet-kofu-05-2025.html
-V-Varen Nagasaki vs Montedio Yamagata	`*https://www.fctv77.live/football/japanese-j2-league-match-4111873/v-varen-nagasaki-vs-montedio-yamagata-05-2025.html
-Tokushima Vortis vs Renofa Yamaguchi	`*https://www.fctv77.live/football/japanese-j2-league-match-4111874/tokushima-vortis-vs-renofa-yamaguchi-05-2025.html
-
-12:00 🇰🇷 Korean K League 4	^-
-Daegu FC II vs Geoje Citizen	`*https://www.fctv77.live/football/korean-k-league-4-match-4148216/daegu-fc-ii-vs-geoje-citizen-05-2025.html
-
-12:05 🇯🇵 Japanese J2 League	^-
-Kataller Toyama vs Oita Trinita	`*https://www.fctv77.live/football/japanese-j2-league-match-4111868/kataller-toyama-vs-oita-trinita-05-2025.html
-
-13:00 🇯🇵 Japanese J2 League	^-
-Roasso Kumamoto vs Ehime FC	`*https://www.fctv77.live/football/japanese-j2-league-match-4111867/roasso-kumamoto-vs-ehime-fc-05-2025.html
-
-13:00 [l]AFC Women's Futsal Asian Cup[z]	^-
-Indonesia 🇮🇩 vs Bahrain 🇧🇭	`*https://www.fctv77.live/football/afc-womens-futsal-asian-cup-match-4179828/indonesia-futsal-women-vs-bahrain-futsal-women-05-2025.html
-
-13:30 🇮🇩 Indonesian Liga 1	^-
-PSBS Biak Numfor vs Persis Solo FC	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029649/psbs-biak-numfor--vs-persis-solo-fc-05-2025.html
-
-13:30 🇦🇺 Northern New South Wales PL	^-
-New Lambton vs Adamstown Rosebuds	`*https://www.fctv77.live/football/australia-northern-new-south-wales-premier-league-match-4132667/new-lambton-fc-vs-adamstown-rosebuds-fc-05-2025.html
-
-13:30 🇦🇺 Capital Territory Women's League	^-
-Canberra FC (w) vs Majura FC (w)	`*https://www.fctv77.live/football/australia-capital-territory-womens-league-match-4180840/canberra-fc-w-vs-majura-fc-w-05-2025.html
-
 14:00 🇦🇺 National Premier Leagues Victoria	^-
 South Melbourne vs Oakleigh Cannons	`*https://www.fctv77.live/football/national-premier-leagues-victoria-match-4123526/south-melbourne-vs-oakleigh-cannons-05-2025.html
 
@@ -424,6 +377,7 @@ Fox Sports 🇲🇽 2	i3!16/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/c
 Fox Sports 🇲🇽 3	i3!16/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd!!11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 Fox Sports 🇲🇽 Premium	i3!16/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd!!9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 DAZN 1 🇩🇪	https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd!!0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
+DAZN 1 🇩🇪	https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
 DAZN 2 🇩🇪	https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 DAZN 1 🇪🇸	i3!16/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd!!44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 DAZN 2 🇪🇸	i3!16/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd!!0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
