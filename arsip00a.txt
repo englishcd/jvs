@@ -73,21 +73,6 @@ Real Betis vs Osasuna	`*https://www.fctv77.live/football/spanish-la-liga-match-3
 
 [w]11-05-2025[z]	^-
 
-07:00 🇺🇸 USL Championship	^-
-FC Tulsa vs El Paso Locomotive FC	`*https://www.fctv77.live/football/usl-championship-match-4127008/fc-tulsa-vs-el-paso-locomotive-fc-05-2025.html
-
-07:00 🇨🇦 Canadian Premier League	^-
-Pacific FC vs York United FC	`*https://www.fctv77.live/football/canadian-premier-league-match-4163620/pacific-fc-vs-york-united-fc-05-2025.html
-
-07:30 🇺🇸 US Major League Soccer	^-
-Houston Dynamo vs Seattle Sounders	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106079/houston-dynamo-vs-seattle-sounders-05-2025.html
-St. Louis City SC vs San Diego FC	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106099/st-louis-city-sc-vs-san-diego-fc-05-2025.html
-FC Dallas vs Real Salt Lake	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106160/fc-dallas-vs-real-salt-lake-05-2025.html
-Nashville vs Charlotte FC	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106184/nashville-vs-charlotte-fc-05-2025.html
-
-07:30 🇺🇸 USL Championship	^-
-San Antonio vs Oakland Roots	`*https://www.fctv77.live/football/usl-championship-match-4126990/san-antonio-vs-oakland-roots-05-2025.html
-
 08:00 🇺🇸 USL Championship	^-
 New Mexico United vs Phoenix Rising	`*https://www.fctv77.live/football/usl-championship-match-4127076/new-mexico-united-vs-phoenix-rising-fc-05-2025.html
 
