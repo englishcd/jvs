@@ -54,10 +54,6 @@ Eintracht Frankfurt vs FC St. Pauli	`*https://www.fctv77.live/football/bundeslig
 22:30 🇬🇧 [y]English Premier League[z]	^-
 Liverpool vs Arsenal	`*https://www.fctv77.live/football/english-premier-league-match-3995929/liverpool-vs-arsenal-05-2025.html
 
-22:30 🇪🇸 Spanish Primera División RFEF	^-
-Real Sociedad B vs Ponferradina	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024165/real-sociedad-b-vs-ponferradina-05-2025.html
-UD Marbella vs Recreativo Huelva	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024327/ud-marbella-vs-recreativo-huelva-05-2025.html
-
 23:00 🇮🇹 [y]Italian Serie A[z]	^-
 Torino vs Inter Milan	`*https://www.fctv77.live/football/italian-serie-a-match-3994002/torino-vs-inter-milan-05-2025.html
 
@@ -127,10 +123,7 @@ Kataller Toyama vs Oita Trinita	`*https://www.fctv77.live/football/japanese-j2-l
 13:00 🇯🇵 Japanese J2 League	^-
 Roasso Kumamoto vs Ehime FC	`*https://www.fctv77.live/football/japanese-j2-league-match-4111867/roasso-kumamoto-vs-ehime-fc-05-2025.html
 
-13:00 🇯🇵 Japanese J2 League	^-
-Roasso Kumamoto vs Ehime FC	`*https://www.fctv77.live/football/japanese-j2-league-match-4111867/roasso-kumamoto-vs-ehime-fc-05-2025.html
-
-13:00	[l]AFC Women's Futsal Asian Cup[z]	^-
+13:00 [l]AFC Women's Futsal Asian Cup[z]	^-
 Indonesia 🇮🇩 vs Bahrain 🇧🇭	`*https://www.fctv77.live/football/afc-womens-futsal-asian-cup-match-4179828/indonesia-futsal-women-vs-bahrain-futsal-women-05-2025.html
 
 13:30 🇮🇩 Indonesian Liga 1	^-
@@ -340,6 +333,10 @@ Estrela da Amadora vs AVS Futebol	`*https://www.fctv77.live/football/portuguese-
 
 22:00 🇺🇦 Ukrainian Premier League	^-
 FC Karpaty Lviv vs FK Oleksandria	`*https://www.fctv77.live/football/ukrainian-premier-league-match-3999536/fc-karpaty-lviv-vs-fk-oleksandria-05-2025.html
+
+22:30 🇪🇸 Spanish Primera División RFEF	^-
+Real Sociedad B vs Ponferradina	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024165/real-sociedad-b-vs-ponferradina-05-2025.html
+UD Marbella vs Recreativo Huelva	`*https://www.fctv77.live/football/spanish-primera-division-rfef-match-4024327/ud-marbella-vs-recreativo-huelva-05-2025.html
 
 23:00 🇹🇷 Turkish Super League	^-
 Besiktas JK vs Adana Demirspor	`*https://www.fctv77.live/football/turkish-super-league-match-3996744/besiktas-jk-vs-adana-demirspor-05-2025.html
