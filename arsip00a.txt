@@ -255,6 +255,7 @@ Sport 🇮🇹 Italia Plus	https://amg01370-italiansportcom-sportitalia-rakuten-
 Mediaset 1 🇮🇹 Italia https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 Sat1 🇩🇪	`0https://streaming.sportsnews.id/p/ch11.html
 Sport enFrance 🇫🇷	https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+TV 5 Monde	https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 Setanta Sports UA	https://dark-sunset-ca86.rendypaylater.workers.dev/https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd!!8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 Unifi Sports	https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 One Sports Plus	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd!!322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
@@ -949,7 +950,6 @@ Sky La Liga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/defaul
 ^=🇺🇸 USA C	09!09cmu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/3089?zyy
 ^=🇩🇪 SportDigital Fussball	00!0!2/278409?zyw
 ^=Gol TV	00!0!0/9595?zyw
-^=SkySportsNews[UK]	`4https://topembed.pw/channel/SkySportsNews[UK]
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=[l]NetPlay Volleyball[z] Nonton Voli	`0https://nontonvoli.blogspot.com/
