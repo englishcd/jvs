@@ -760,28 +760,6 @@ Always use Chrome browser! [y]⚠️ Please Allow Popups and Disable Ad Blocker.
 [w]Movies/Film Flix for Mobile Browser[z]	^-
 [][g]Try Dolphin browser if Chrome doesn't work![z]	^-
 
-2025 Berebut Jenazah.	https://pixeldrain.com/api/file/92foJUhN?.mp4
-2025 Black Diamond	https://pixeldrain.com/api/file/b939fmKB?.mp4
-2025 Bogota: City of the Lost	https://pixeldrain.com/api/file/89BFM6fp?.mp4
-2025 Death Before Wedding (Zgon Przed Weselem)	https://pixeldrain.com/api/file/2NAkhb2p?.mp4
-2025 Honeymoon Crasher	https://pixeldrain.com/api/file/27Gep8iy?.mp4
-2025 The Gorge	https://pixeldrain.com/api/file/wV6wzn12?.mp4
-2025 The Trauma Code Heroes on Call: Season 1#1	https://pixeldrain.com/api/file/cwCJWPGY?.mp4
-2025 The Trauma Code Heroes on Call: Season 1#2	https://pixeldrain.com/api/file/MiZWMCno?.mp4
-2025 The Trauma Code Heroes on Call: Season 1#3	https://pixeldrain.com/api/file/S1M5NabG?.mp4
-2025 The Trauma Code Heroes on Call: Season 1#4	https://pixeldrain.com/api/file/Fj8yELGe?.mp4
-2025 The Trauma Code Heroes on Call: Season 1#5	https://pixeldrain.com/api/file/e9ridxJE?.mp4
-2025 The Trauma Code Heroes on Call: Season 1#6	https://pixeldrain.com/api/file/edKWe52m?.mp4
-2025 The Trauma Code Heroes on Call: Season 1#7	https://pixeldrain.com/api/file/tMm5DYUR?.mp4
-2025 The Trauma Code Heroes on Call: Season 1#8	https://pixeldrain.com/api/file/ohUdviqK?.mp4
-2024 Death Whisperer 2 (Tee Yod 2)	https://pixeldrain.com/api/file/BfUmhxsj?.mp4
-2024 Dirty Money	https://pixeldrain.com/api/file/eGJ1EjhP?.mp4
-2024 Jangan Pandang Belakang 2: Aku Tahu Asal Usulmu.	https://pixeldrain.com/api/file/2TyfGWwY?.mp4
-2024 Joker: Folie a Deux	https://pixeldrain.com/api/file/G6fq9xNE?.mp4
-2024 Kemah Terlarang: Kesurupan Massal.	https://pixeldrain.com/api/file/QCkP7jgF?.mp4
-2024 Laut Tengah.	https://pixeldrain.com/api/file/gYJo59fk?.mp4
-2024 Moana 2	https://pixeldrain.com/api/file/7cWoBHyq?.mp4
-
 	^-
 [w]Live Sport OnTime Channels[z]	^-
 
@@ -860,15 +838,6 @@ Sky La Liga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/defaul
 ^=🇺🇸 USA C	09!09cmu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/3089?zyy
 ^=🇩🇪 SportDigital Fussball	00!0!2/278409?zyw
 ^=Gol TV	00!0!0/9595?zyw
-^=golperu1	`1https://streamtp4.com/global1.php?stream=golperu
-^=golperu2	`2https://streamtp4.com/global1.php?stream=golperu
-^=golperu3	`3https://streamtp4.com/global1.php?stream=golperu
-^=golperu4	`4https://streamtp4.com/global1.php?stream=golperu
-^=golperu5	`5https://streamtp4.com/global1.php?stream=golperu
-^=golperu6	`6https://streamtp4.com/global1.php?stream=golperu
-^=golperu7	`7https://streamtp4.com/global1.php?stream=golperu
-^=golperu8	`8https://streamtp4.com/global1.php?stream=golperu
-^=golperu9	`9https://streamtp4.com/global1.php?stream=golperu
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=[l]NetPlay Volleyball[z] Nonton Voli	`0https://nontonvoli.blogspot.com/
