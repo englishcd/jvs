@@ -19,7 +19,7 @@ Gol TV	00!0!0/9595?zyy
 []👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131839/seattle-reign-w-vs-houston-dash-w-05-2025.html
 []** Follow the redirected page until Verification!	^-
 
-[w]Live Sport TV Channels[z] for Desktop	^-
+[w]Live Sport TV Channels for Desktop[z]	^-
 
 ESPN 1	!zz.espn?zwz
 ESPN 2	!zz.espn2?zwz
@@ -78,7 +78,7 @@ ESPN NL 1	!zz.espn1_nl?zwz
 ESPN NL 2	!zz.espn2_nl?zwz
 ESPN NL 3	!zz.espn3_nl?zwz
 Caliente TV	!zz.calientetv?zwz
-^=TSN 1	!zz.tsn1?zwz
+^=TSN 1	!zz.tsn1?zwz?7
 TSN 2	!zz.tsn2?zwz
 TSN 3	!zz.tsn3?zwz
 TSN 4	!zz.tsn4?zwz
@@ -91,20 +91,20 @@ ESPN BR 2	!zz.espn2_br?zwz
 ESPN BR 3	!zz.espn3_br?zwz
 ESPN BR 4	!zz.espn4_br?zwz
 Max Event 1	!zz.max1?zwz
-^=Max Event 2	!zz.max2?zwz
+^=Max Event 2	!zz.max2?zwz?7
 Max Event 2	!zz.max3?zwz
 Max Event 3	!zz.max4?zwz
-^=Premiere BR 2	!zz.premiere2?zwz
-^=Premiere BR 3	!zz.premiere3?zwz
-^=Premiere BR 4	!zz.premiere4?zwz
-^=Premiere BR 5	!zz.premiere5?zwz
-^=Premiere BR 6	!zz.premiere6?zwz
-^=Premiere BR 7	!zz.premiere7?zwz
-^=Premiere BR 8	!zz.premiere8?zwz
+^=Premiere BR 2	!zz.premiere2?zwz?7
+^=Premiere BR 3	!zz.premiere3?zwz?7
+^=Premiere BR 4	!zz.premiere4?zwz?7
+^=Premiere BR 5	!zz.premiere5?zwz?7
+^=Premiere BR 6	!zz.premiere6?zwz?7
+^=Premiere BR 7	!zz.premiere7?zwz?7
+^=Premiere BR 8	!zz.premiere8?zwz?7
 Football Event 1	!zz.disney1?zwz
-^=Football Event 2	!zz.disney2?zwz
+^=Football Event 2	!zz.disney2?zwz?7
 Football Event 2	!zz.disney3?zwz
-^=Football Event 3	!zz.disney4?zwz
+^=Football Event 3	!zz.disney4?zwz?7
 Football Event 3	!zz.disney5?zwz
 Football Event 4	!zz.disney6?zwz
 Football Event 5	!zz.disney7?zwz
@@ -119,19 +119,20 @@ Football Event 13	!zz.disney15?zwz
 Sports Event 1	!zz.mlb1?zwz
 Sports Event 2	!zz.mlb2?zwz
 Sports Event 3	!zz.mlb3?zwz
-^=Sports Event 4	!zz.mlb4?zwz
+^=Sports Event 4	!zz.mlb4?zwz?7
 Sports Event 4	!zz.mlb5?zwz
 Sports Event 5	!zz.mlb6?zwz
-^=Sports Event 6	!zz.mlb7?zwz
+^=Sports Event 6	!zz.mlb7?zwz?7
 Sports Event 6	!zz.mlb8?zwz
-^=Sports Event 7	!zz.mlb9?zwz
+^=Sports Event 7	!zz.mlb9?zwz?7
 Sports Event 7	!zz.mlb10?zwz
 Sports Event 8	!zz.mlb11?zwz
 Sports Event 9	!zz.mlb12?zwz
 Sports Event 10	!zz.mlb13?zwz
-^=Sports Event 11	!zz.mlb14?zwz
+^=Sports Event 11	!zz.mlb14?zwz?7
 Sports Event 11	!zz.mlb15?zwz
 
+	^-
 [w]Live Sport TV Channels[z]	^-
 
 Fancode Live	https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd!!159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
