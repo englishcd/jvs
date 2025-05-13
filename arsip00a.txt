@@ -853,11 +853,7 @@ UKTV Play Heroes	PlutoTV/64c0d6b424ade50008bc8883
 UKTV Play Laughs	PlutoTV/64c0d6f34096290008132d6b
 UKTV Play Uncovered	PlutoTV/64c0d697b0cf5c000824e5d9
 
-[y]Live Football Events[z] #2	^-
-
 [g]⚠️ Settings | Privacy & security | Security | Use secure DNS | Select DNS provider: OpenDNS.[z][][g]⚠️ Settings | Privacy & security | Use secure DNS | Choose another provider: OpenDNS.[z]	^-
-
-[y]Live Football Events[z] #1	^-
 
 Always use Chrome browser! [y]⚠️ Please Allow Popups and Disable Ad Blocker.[z] ⚠️ [g]Install 3 Chrome Browser Extensions: CORS Unblock, Allow CORS, & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈[z][]Always use Chrome browser! [y]⚠️ Please Allow Popups and Disable Ad Blocker.[z] [g]⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈[z]	^-
 
