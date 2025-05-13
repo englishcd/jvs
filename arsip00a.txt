@@ -950,7 +950,6 @@ Sky La Liga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/defaul
 ^=🇺🇸 USA C	09!09cmu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/3089?zyy
 ^=🇩🇪 SportDigital Fussball	00!0!2/278409?zyw
 ^=Gol TV	00!0!0/9595?zyw
-^=sporttv1	`0https://admitsettle.net/embed/xt4p2tyjgzsp4t
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=[l]NetPlay Volleyball[z] Nonton Voli	`0https://nontonvoli.blogspot.com/
