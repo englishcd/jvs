@@ -4,8 +4,8 @@
 👉[l]New Live Sports & TV Channels #2[z]👈	^^h11
 🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
 Gol TV	00!0!0/9595?zyy
-🇺🇸 USA Network	00!0!1/3089?zyy
-🇨🇦 USA Network	00!0!1/3047?zyy
+🇺🇸 USA Network	00!0!1/3089?zyw
+🇨🇦 USA Network	00!0!1/3047?zyw
 
 [g]Live Football Events[z]	^-
 
@@ -918,8 +918,6 @@ Playlist [y]Main Menu[z]	^^szz
 
 [l]Huhu.To[z]	`0https://huhu.to/
 [l]rbtv77[z] 🇮🇩 Live Events	`0https://rbtv77.im/
-[l]multicanais[z] 🇵🇹 Multi Channels	`0https://multicanais.deal/
-[l]Today's Matches[z] `0https://govoet-live.blogspot.com/
 
 	^-
 [w]Live Sport OnTime Channels[z]	^-
