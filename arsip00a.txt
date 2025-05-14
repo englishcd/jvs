@@ -14,11 +14,11 @@ Gol TV	00!0!0/9595?zyy
 
 [w]15-05-2025[z]	^-
 
-00:00 🇪🇸 [y]Spanish La Liga	^-
+00:00 🇪🇸 [y]Spanish La Liga[z]	^-
 Deportivo Alavés vs Valencia	`*https://www.fctv77.live/football/spanish-la-liga-match-3994849/deportivo-alavs-vs-valencia-cf-05-2025.html
 Villarreal vs Leganes	`*https://www.fctv77.live/football/spanish-la-liga-match-3995082/villarreal-cf-vs-cd-leganes-05-2025.html
 
-01:00 🇳🇱 [y]Netherlands Eredivisie	^-
+01:00 🇳🇱 [y]Netherlands Eredivisie[z]	^-
 Almere City FC vs Fortuna Sittard	`*https://www.fctv77.live/football/netherlands-eredivisie-match-3983432/almere-city-fc-vs-fortuna-sittard-05-2025.html
 PSV Eindhoven vs Heracles Almelo	`*https://www.fctv77.live/football/netherlands-eredivisie-match-3983437/psv-eindhoven-vs-heracles-almelo-05-2025.html
 NEC Nijmegen vs NAC Breda	`*https://www.fctv77.live/football/netherlands-eredivisie-match-3983458/nec-nijmegen-vs-nac-breda-05-2025.html
@@ -29,7 +29,7 @@ Willem II vs PEC Zwolle	`*https://www.fctv77.live/football/netherlands-eredivisi
 FC Twente Enschede vs AZ Alkmaar	`*https://www.fctv77.live/football/netherlands-eredivisie-match-3983618/fc-twente-enschede-vs-az-alkmaar-05-2025.html
 Go Ahead Eagles vs SC Heerenveen	`*https://www.fctv77.live/football/netherlands-eredivisie-match-3983620/go-ahead-eagles-vs-sc-heerenveen-05-2025.html
 
-02:00 🇮🇹 [g]Coppa Italia	^-
+02:00 🇮🇹 [g]Coppa Italia[z]	^-
 Bologna vs AC Milan	`*https://www.fctv77.live/football/coppa-italia-match-4175720/bologna-vs-ac-milan-05-2025.html
 
 02:30 🇪🇸 [y]Spanish La Liga[z]	^-
