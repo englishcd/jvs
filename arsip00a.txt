@@ -431,163 +431,211 @@ ODISEA	https://cache4.zapitv.com/live/eds_c2/odisea_hd/dash_live_enc/odisea_hd.m
 	^-
 [w]USA 🇺🇸 Channels[z]	^-
 
-ABC East	https://1.0!ABC_EAST!.z?7	https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-ACC Network	https://2.0!ACC_NETWORK!.z?7	https://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-AMC Network	https://2.0!AMC_NETWORK!.z?7	https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
-American Heroes Channel	https://3.0!American_Heroes_Channel!.z?7	https://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-Animal Planet	https://5.0!Animal_Planet!.z?7	https://fl5.moveonjoy.com/Animal_Planet/index.m3u8
-Aspire	https://3.0!Aspire!.z?7	https://fl3.moveonjoy.com/Aspire/index.m3u8
-BBC America	https://1.0!BBC_AMERICA!.z?7	https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
-BBC World News	https://1.0!BBC_WORLD_NEWS!.z?7	https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-beIN Sports	https://2.0!BEIN_SPORTS!.z?7	https://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-BET East	https://2.0!BET_EAST!.z?7	https://fl2.moveonjoy.com/BET_EAST/index.m3u8
-BET Her	https://5.0!BET_HER!.z?7	https://fl5.moveonjoy.com/BET_HER/index.m3u8
-BET Jams	https://3.0!BET_Jams!.z?7	https://fl3.moveonjoy.com/BET_Jams/index.m3u8
-BET Soul	https://1.0!BET_SOUL!.z?7	https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
-Big Ten Network	https://3.0!BIG_TEN_NETWORK!.z?7	https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-Bloomberg	https://6.0!BLOOMBERG!.z?7	https://fl6.moveonjoy.com/BLOOMBERG/index.m3u8
-Boomerang	https://3.0!BOOMERANG!.z?7	https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-Bounce TV	https://3.0!BOUNCE_TV!.z?7	https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-Bravo	https://2.0!BRAVO!.z?7	https://fl2.moveonjoy.com/BRAVO/index.m3u8
-Buzzr	https://3.0!Buzzr!.z?7	https://fl3.moveonjoy.com/Buzzr/index.m3u8
-Cartoon Network	https://6.0!CARTOON_NETWORK!.z?7	https://fl6.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-CBS East	https://1.0!CBSEAST!.z?7	https://fl1.moveonjoy.com/CBSEAST/index.m3u8
-CBS Sports Network	https://2.0!CBS_SPORTS_NETWORK!.z?7	https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-Cinemax East	https://5.0!CINEMAX_EAST!.z?7	https://fl5.moveonjoy.com/CINEMAX_EAST/index.m3u8
-Cinemax Moremax	https://3.0!CINEMAX_MOREMAX!.z?7	https://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-Cinemax West	https://1.0!CINEMAX_WEST!.z?7	https://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8
-Cleo TV	https://3.0!Cleo_TV!.z?7	https://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-CMT	https://3.0!CMT!.z?7	https://fl3.moveonjoy.com/CMT/index.m3u8
-CNBC	https://2.0!CNBC!.z?7	https://fl2.moveonjoy.com/CNBC/index.m3u8
-CNN International	https://4.0!CNN_INTERNATIONAL!.z?7	https://fl4.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-Comedy Central	https://3.0!Comedy_Central!.z?7	https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-Comet	https://3.0!COMET!.z?7	https://fl3.moveonjoy.com/COMET/index.m3u8
-Cooking Channel	https://3.0!COOKING_CHANNEL!.z?7	https://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-Court TV	https://3.0!COURT_TV!.z?7	https://fl3.moveonjoy.com/COURT_TV/index.m3u8
-Cozi TV	https://3.0!COZI_TV!.z?7	https://fl3.moveonjoy.com/COZI_TV/index.m3u8
-Crave 1	https://3.0!CRAVE_1!.z?7	https://fl3.moveonjoy.com/CRAVE_1/index.m3u8
-Crave 2	https://6.0!CRAVE_2!.z?7	https://fl6.moveonjoy.com/CRAVE_2/index.m3u8
-Crave 3	https://3.0!CRAVE_3!.z?7	https://fl3.moveonjoy.com/CRAVE_3/index.m3u8
-Crave 4	https://6.0!CRAVE_4!.z?7	https://fl6.moveonjoy.com/CRAVE_4/index.m3u8
-C-Span	https://6.0!C-SPAN!.z?7	https://fl6.moveonjoy.com/C-SPAN/index.m3u8
-Curiosity Stream	https://3.0!Curiosity_Stream!.z?7	https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
-Destination America	https://3.0!Destination_America!.z?7	https://fl3.moveonjoy.com/Destination_America/index.m3u8
-Discovery Channel	https://3.0!Discovery_Channel!.z?7	https://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-Discovery Family Channel	https://5.0!DISCOVERY_FAMILY_CHANNEL!.z?7	https://fl5.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-Discovery Life	https://5.0!DISCOVERY_LIFE!.z?7	https://fl5.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-Discovery Science	https://3.0!Discovery_Science!.z?7	https://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-Disney Channel	https://5.0!DISNEY_CHANNEL!.z?7	https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-Disney Jr	https://2.0!DISNEY_JR!.z?7	https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-Disney XD	https://5.0!DISNEY_XD!.z?7	https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-DIY	https://1.0!DIY!.z?7	https://fl1.moveonjoy.com/DIY/index.m3u8
-Epix Drive In	https://5.0!EPIX_DRIVE_IN!.z?7	https://fl5.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-ESPN 2	https://5.0!ESPN_2!.z?7	https://fl5.moveonjoy.com/ESPN_2/index.m3u8
-ESPN News	https://5.0!ESPN_NEWS!.z?7	https://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
-ESPN U	https://5.0!ESPN_U!.z?7	https://fl5.moveonjoy.com/ESPN_U/index.m3u8
-Food Network	https://5.0!FOOD_NETWORK!.z?7	https://fl5.moveonjoy.com/FOOD_NETWORK/index.m3u8
-FOX Business Network	https://5.0!FOX_Business_Network!.z?7	https://fl5.moveonjoy.com/FOX_Business_Network/index.m3u8
-FOX East	https://1.0!FOX_EAST!.z?7	https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-FOX Soul	https://1.0!FOX_SOUL!.z?7	https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-FOX Sports 1	https://4.0!FOX_Sports_1!.z?7	https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
-Free Form	https://5.0!FREE_FORM!.z?7	https://fl5.moveonjoy.com/FREE_FORM/index.m3u8
-FX	https://6.0!FX!.z?7	https://fl6.moveonjoy.com/FX/index.m3u8
-FX Movie	https://6.0!FX_MOVIE!.z?7	https://fl6.moveonjoy.com/FX_MOVIE/index.m3u8
-FXX	https://6.0!FXX!.z?7	https://fl6.moveonjoy.com/FXX/index.m3u8
-FYI	https://5.0!FYI!.z?7	https://fl5.moveonjoy.com/FYI/index.m3u8
-Game Show Network	https://5.0!GAME_SHOW_NETWORK!.z?7	https://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
-Golf Channel	https://5.0!GOLF_CHANNEL!.z?7	https://fl5.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-Grit TV	https://5.0!GRIT_TV!.z?7	https://fl5.moveonjoy.com/GRIT_TV/index.m3u8
-Hallmark Channel	https://2.0!HALLMARK_CHANNEL!.z?7	https://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-Hallmark Drama	https://2.0!HALLMARK_DRAMA!.z?7	https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-Hallmark Movies Mysteries	https://2.0!HALLMARK_MOVIES_MYSTERIES!.z?7	https://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+ABC News	https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+ABC US	!yz~196a3d53-fe48-484c-b267-f3f326f8c9e7
+AMC	!yz~c21d4225-12e5-4178-af0e-33711499d86e
+Animal Planet US	!yz~c1b75c6c-48df-46c5-a6e0-8a2787fb0f65
+Big Ten Network	!yz~a9fac2ae-4feb-4765-aded-46b61277a09b
+Bravo	!yz~3427392c-1304-44d6-a80a-680111fff048
+Cartoon Network US	!yz~30919575-c426-404b-a063-395b706fa39c
+CBS Sports Network	!yz~9a60f692-4ae9-483b-9791-411f7530754d
+CBS	!yz~f52160c3-ffe2-4eea-9315-b47c57c06dad
+Cinemax US	!yz~00fff1fa-6c4f-4459-af8e-cf05448c217c
+CNBC US	!yz~4268c138-3258-42b8-8192-f9a3873e7794
+CNN US	!yz~24e6e9dd-7a3b-46e5-bddd-e21ae6152898
+Comedy Central	!yz~56af1099-35de-4c64-ace2-99eb216793b4
+Discovery Channel	!yz~17dec456-cbcb-4836-b268-dd2a40cb4b87
+ESPN News	!yz~56cc18c4-1e9d-4af0-b1a2-76fc8fc86333
+ESPN U	!yz~be6d8aa9-b18f-4004-9f5a-e587a49c3bc4
+ESPN US	!yz~4e731d12-852c-4daa-b950-aa97b5357aba
+ESPN	!yz~4e731d12-852c-4daa-b950-aa97b5357aba
+ESPN2 US	!yz~c8d2e86a-43fc-4b22-b084-3008e8d1063c
+Fox News US	!yz~f03819b3-64bd-4730-ab94-2469c3d30d81
+Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903
+Fox Sports 2	!yz~b97d13a4-fd30-434e-9e23-2cbd03687c1f
+Fox	!yz~868cfc8b-f31c-40b5-bc19-bb2f8434c869
+Freeformus	!yz~b42b40dc-d18f-4728-8556-f778ddeaeca8
+Hallmark Movies Mysteries	!yz~4b77c33b-6f66-4f65-881f-56def984b98f
+Hallmark TV	!yz~453ef90c-c384-40bb-9c86-74b69a4b28b3
+HBO US	!yz~2560c665-052e-4646-aaab-3ad367a7bc8e
+HGTV US	!yz~3ac0c981-95f6-4fce-a66d-9b55773370f2
+History American Network	!yz~7ba806d9-3ae3-4425-a46d-90db0b27988a
+MLB Network US	!yz~38a596d0-649a-459b-af25-4dd8629f6f0d
+MSNBC US	!yz~020da831-3bb1-4609-8f59-7aa72392ab15
+MTV	!yz~35f9fae8-6edc-4a88-ab78-65ac05b2b4e1
+National Geographic US	!yz~5cd05983-0661-4da6-98ff-b31f6e411620
+NBA US	!yz~b93f8f7b-03f8-4693-803a-32a9c894e296
+NBC US	!yz~0f866e96-e1b8-481d-bd6d-64949cb9f34d
+NFL Network	!yz~04f7d00e-0f79-4956-8296-985ac70a84be
+NHL Network US	!yz~f3842e8c-b2e7-443a-82b8-31ba28ea73d4
+Nickelodeon	!yz~64e9b01f-1dfc-4708-b9b6-ab6249c25536
+Oxygen US	!yz~bb04ce33-6834-4d78-b55c-e8a6d010edd3
+Showtime US	!yz~ee470167-b523-4775-93fe-735ab59e7285
+SyFy US	!yz~7558427d-1db8-480d-a80e-bc08eefa2b6c
+TBS US	!yz~df2ca648-51bd-41ad-a153-a33f0faf0c3f
+TLC US	!yz~5281d7f6-3ffb-4b38-b273-f1bad18ddcbb
+TNT US	!yz~b8e3ff52-2d13-45a6-a3a0-9e64c1a0080c
+Travel Channel	!yz~c20312cb-10ba-47eb-9441-91d03ef3ef19
+USA Network	!yz~594edb0c-896e-4853-b97b-26c3a4f05156
+VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94
+
+ABC East	https://1.0!ABC_EAST!.z?7
+ACC Network	https://2.0!ACC_NETWORK!.z?7
+AMC Network	https://2.0!AMC_NETWORK!.z?7
+American Heroes Channel	https://3.0!American_Heroes_Channel!.z?7
+Animal Planet	https://5.0!Animal_Planet!.z?7
+Aspire	https://3.0!Aspire!.z?7
+BBC America	https://1.0!BBC_AMERICA!.z?7
+BBC World News	https://1.0!BBC_WORLD_NEWS!.z?7
+beIN Sports	https://2.0!BEIN_SPORTS!.z?7
+BET East	https://2.0!BET_EAST!.z?7
+BET Her	https://5.0!BET_HER!.z?7
+BET Jams	https://3.0!BET_Jams!.z?7
+BET Soul	https://1.0!BET_SOUL!.z?7
+Big Ten Network	https://3.0!BIG_TEN_NETWORK!.z?7
+Bloomberg	https://6.0!BLOOMBERG!.z?7
+Boomerang	https://3.0!BOOMERANG!.z?7
+Bounce TV	https://3.0!BOUNCE_TV!.z?7
+Bravo	https://2.0!BRAVO!.z?7
+Buzzr	https://3.0!Buzzr!.z?7
+Cartoon Network	https://6.0!CARTOON_NETWORK!.z?7
+CBS East	https://1.0!CBSEAST!.z?7
+CBS Sports Network	https://2.0!CBS_SPORTS_NETWORK!.z?7
+Cinemax East	https://5.0!CINEMAX_EAST!.z?7
+Cinemax Moremax	https://3.0!CINEMAX_MOREMAX!.z?7
+Cinemax West	https://1.0!CINEMAX_WEST!.z?7
+Cleo TV	https://3.0!Cleo_TV!.z?7
+CMT	https://3.0!CMT!.z?7
+CNBC	https://2.0!CNBC!.z?7
+CNN International	https://4.0!CNN_INTERNATIONAL!.z?7
+Comedy Central	https://3.0!Comedy_Central!.z?7
+Comet	https://3.0!COMET!.z?7
+Cooking Channel	https://3.0!COOKING_CHANNEL!.z?7
+Court TV	https://3.0!COURT_TV!.z?7
+Cozi TV	https://3.0!COZI_TV!.z?7
+Crave 1	https://3.0!CRAVE_1!.z?7
+Crave 2	https://6.0!CRAVE_2!.z?7
+Crave 3	https://3.0!CRAVE_3!.z?7
+Crave 4	https://6.0!CRAVE_4!.z?7
+C-Span	https://6.0!C-SPAN!.z?7
+Curiosity Stream	https://3.0!Curiosity_Stream!.z?7
+Destination America	https://3.0!Destination_America!.z?7
+Discovery Channel	https://3.0!Discovery_Channel!.z?7
+Discovery Family Channel	https://5.0!DISCOVERY_FAMILY_CHANNEL!.z?7
+Discovery Life	https://5.0!DISCOVERY_LIFE!.z?7
+Discovery Science	https://3.0!Discovery_Science!.z?7
+Disney Channel	https://5.0!DISNEY_CHANNEL!.z?7
+Disney Jr	https://2.0!DISNEY_JR!.z?7
+Disney XD	https://5.0!DISNEY_XD!.z?7
+DIY	https://1.0!DIY!.z?7
+Epix Drive In	https://5.0!EPIX_DRIVE_IN!.z?7
+ESPN 2	https://5.0!ESPN_2!.z?7
+ESPN News	https://5.0!ESPN_NEWS!.z?7
+ESPN U	https://5.0!ESPN_U!.z?7
+Food Network	https://5.0!FOOD_NETWORK!.z?7
+FOX Business Network	https://5.0!FOX_Business_Network!.z?7
+FOX East	https://1.0!FOX_EAST!.z?7
+FOX Soul	https://1.0!FOX_SOUL!.z?7
+FOX Sports 1	https://4.0!FOX_Sports_1!.z?7
+Free Form	https://5.0!FREE_FORM!.z?7
+FX	https://6.0!FX!.z?7
+FX Movie	https://6.0!FX_MOVIE!.z?7
+FXX	https://6.0!FXX!.z?7
+FYI	https://5.0!FYI!.z?7
+Game Show Network	https://5.0!GAME_SHOW_NETWORK!.z?7
+Golf Channel	https://5.0!GOLF_CHANNEL!.z?7
+Grit TV	https://5.0!GRIT_TV!.z?7
+Hallmark Channel	https://2.0!HALLMARK_CHANNEL!.z?7
+Hallmark Drama	https://2.0!HALLMARK_DRAMA!.z?7
+Hallmark Movies Mysteries	https://2.0!HALLMARK_MOVIES_MYSTERIES!.z?7
 HBO Hits	https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd!!b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-HBO 1	https://1.0!HBO!.z?7	https://fl1.moveonjoy.com/HBO/index.m3u8
-HBO 2	https://5.0!HBO_2!.z?7	https://fl5.moveonjoy.com/HBO_2/index.m3u8
-HBO Comedy	https://5.0!HBO_COMEDY!.z?7	https://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
-HBO Family	https://5.0!HBO_FAMILY!.z?7	https://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-HGTV	https://2.0!HGTV!.z?7	https://fl2.moveonjoy.com/HGTV/index.m3u8
-HLN	https://1.0!HLN!.z?7	https://fl1.moveonjoy.com/HLN/index.m3u8
-HSN	https://4.0!HSN!.z?7	https://fl4.moveonjoy.com/HSN/index.m3u8
-INSP	https://1.0!INSP!.z?7	https://fl1.moveonjoy.com/INSP/index.m3u8
-Investigation Discovery	https://5.0!INVESTIGATION_DISCOVERY!.z?7	https://fl5.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-ION TV	https://1.0!ION_TV!.z?7	https://fl1.moveonjoy.com/ION_TV/index.m3u8
-Lifetime	https://5.0!LIFETIME!.z?7	https://fl5.moveonjoy.com/LIFETIME/index.m3u8
-Lifetime Movie Network	https://1.0!LIFETIME_MOVIE_NETWORK!.z?7	https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-Love Nature	https://1.0!LOVE_NATURE!.z?7	https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
-Me TV	https://6.0!ME_TV!.z?7	https://fl6.moveonjoy.com/ME_TV/index.m3u8
-MLB Network	https://2.0!MLB_NETWORK!.z?7	https://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-Motor Trend	https://5.0!MOTOR_TREND!.z?7	https://fl5.moveonjoy.com/MOTOR_TREND/index.m3u8
-MSG	https://3.0!MSG!.z?7	https://fl3.moveonjoy.com/MSG/index.m3u8
-MTV 1	https://2.0!MTV!.z?7	https://fl2.moveonjoy.com/MTV/index.m3u8
-MTV 2	https://2.0!MTV_2!.z?7	https://fl2.moveonjoy.com/MTV_2/index.m3u8
-MTV Classic	https://2.0!MTV_CLASSIC!.z?7	https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-MTV Live	https://2.0!MTV_LIVE!.z?7	https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-MTV U	https://2.0!MTV_U!.z?7	https://fl2.moveonjoy.com/MTV_U/index.m3u8
-Much	https://1.0!MUCH!.z?7	https://fl1.moveonjoy.com/MUCH/index.m3u8
-Nat Geo Wild	https://5.0!Nat_Geo_Wild!.z?7	https://fl5.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-National Geographic	https://5.0!National_Geographic!.z?7	https://fl5.moveonjoy.com/National_Geographic/index.m3u8
-NBA 2	https://5.0!NBA_2!.z?7	https://fl5.moveonjoy.com/NBA_2/index.m3u8
-NBA TV	https://5.0!NBA_TV!.z?7	https://fl5.moveonjoy.com/NBA_TV/index.m3u8
-NBC East	https://1.0!NBC_EAST!.z?7	https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-News Nation	https://5.0!NEWS_NATION!.z?7	https://fl5.moveonjoy.com/NEWS_NATION/index.m3u8
-NFL Network	https://2.0!NFL_NETWORK!.z?7	https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-NFL RedZone	https://1.0!NFL_RedZone!.z?7	https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-NHL Network	https://6.0!NHL_NETWORK!.z?7	https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
-Nick Jr	https://5.0!NICK_JR!.z?7	https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-Nick Music	https://5.0!NICK_MUSIC!.z?7	https://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
-Nickelodeon	https://1.0!NICKELODEON!.z?7	https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-Nicktoons	https://1.0!NICKTOONS!.z?7	https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
-Outer Max	https://6.0!OUTER_MAX!.z?7	https://fl6.moveonjoy.com/OUTER_MAX/index.m3u8
-Outside TV	https://5.0!OUTSIDE_TV!.z?7	https://fl5.moveonjoy.com/OUTSIDE_TV/index.m3u8
-Ovation	https://3.0!Ovation!.z?7	https://fl3.moveonjoy.com/Ovation/index.m3u8
-OWN	https://2.0!OWN!.z?7	https://fl2.moveonjoy.com/OWN/index.m3u8
-Oxygen	https://2.0!OXYGEN!.z?7	https://fl2.moveonjoy.com/OXYGEN/index.m3u8
-Paramount Network	https://2.0!PARAMOUNT_NETWORK!.z?7	https://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-QVC	https://6.0!QVC!.z?7	https://fl6.moveonjoy.com/QVC/index.m3u8
-Reelz	https://1.0!REELZ!.z?7	https://fl1.moveonjoy.com/REELZ/index.m3u8
-Revolt	https://1.0!REVOLT!.z?7	https://fl1.moveonjoy.com/REVOLT/index.m3u8
-SEC Network	https://6.0!SEC_NETWORK!.z?7	https://fl6.moveonjoy.com/SEC_NETWORK/index.m3u8
-Showtime 1	https://2.0!SHOWTIME!.z?7	https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-Showtime 2	https://5.0!SHOWTIME_2!.z?7	https://fl5.moveonjoy.com/SHOWTIME_2/index.m3u8
-Showtime Extreme	https://5.0!SHOWTIME_EXTREME!.z?7	https://fl5.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-Showtime Next	https://5.0!SHOWTIME_NEXT!.z?7	https://fl5.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-Showtime West	https://5.0!SHOWTIME_WEST!.z?7	https://fl5.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-Showtime Women	https://5.0!SHOWTIME_WOMEN!.z?7	https://fl5.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-Smithsonian Channel	https://5.0!SMITHSONIAN_CHANNEL!.z?7	https://fl5.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-Sportsman Channel	https://1.0!SPORTSMAN_CHANNEL!.z?7	https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-Start TV	https://3.0!Start_Tv!.z?7	https://fl3.moveonjoy.com/Start_Tv/index.m3u8
-Starz	https://5.0!STARZ!.z?7	https://fl5.moveonjoy.com/STARZ/index.m3u8
-Starz Comedy	https://5.0!STARZ_COMEDY!.z?7	https://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
-Starz Edge	https://5.0!STARZ_EDGE!.z?7	https://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
-Starz Encore	https://5.0!STARZ_ENCORE!.z?7	https://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
-Starz Encore Action	https://5.0!STARZ_ENCORE_ACTION!.z?7	https://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-Starz Encore Classic	https://5.0!STARZ_ENCORE_CLASSIC!.z?7	https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-Starz Encore Westerns	https://5.0!STARZ_ENCORE_WESTERNS!.z?7	https://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-Sundance	https://6.0!SUNDANCE!.z?7	https://fl6.moveonjoy.com/SUNDANCE/index.m3u8
-SYFY	https://5.0!SYFY!.z?7	https://fl5.moveonjoy.com/SYFY/index.m3u8
-TBS	https://1.0!TBS!.z?7	https://fl1.moveonjoy.com/TBS/index.m3u8
-TCM	https://1.0!TCM!.z?7	https://fl1.moveonjoy.com/TCM/index.m3u8
-Tennis Channel	https://5.0!TENNIS_CHANNEL!.z?7	https://fl5.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-The Weather Channel	https://5.0!THE_WEATHER_CHANNEL!.z?7	https://fl5.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-TLC	https://5.0!TLC!.z?7	https://fl5.moveonjoy.com/TLC/index.m3u8
-TNT	https://2.0!TNT!.z?7	https://fl2.moveonjoy.com/TNT/index.m3u8
-Travel Channel	https://5.0!Travel_Channel!.z?7	https://fl5.moveonjoy.com/Travel_Channel/index.m3u8
-TRU TV	https://1.0!TRU_TV!.z?7	https://fl1.moveonjoy.com/TRU_TV/index.m3u8
-TSN 1	https://5.0!TSN_1!.z?7	https://fl5.moveonjoy.com/TSN_1/index.m3u8
-TSN 2	https://5.0!TSN_2!.z?7	https://fl5.moveonjoy.com/TSN_2/index.m3u8
-TSN 3	https://5.0!TSN_3!.z?7	https://fl5.moveonjoy.com/TSN_3/index.m3u8
-TSN 4	https://5.0!TSN_4!.z?7	https://fl5.moveonjoy.com/TSN_4/index.m3u8
-TSN 5	https://5.0!TSN_5!.z?7	https://fl5.moveonjoy.com/TSN_5/index.m3u8
-TV Land	https://5.0!TV_Land!.z?7	https://fl5.moveonjoy.com/TV_Land/index.m3u8
-TV One	https://2.0!TV_ONE!.z?7	https://fl2.moveonjoy.com/TV_ONE/index.m3u8
-USA Network	https://5.0!USA_Network!.z?7	https://fl5.moveonjoy.com/USA_Network/index.m3u8
-VH1	https://5.0!VH1!.z?7	https://fl5.moveonjoy.com/VH1/index.m3u8
-Viceland	https://4.0!VICELAND!.z?7	https://fl4.moveonjoy.com/VICELAND/index.m3u8
-W Network	https://5.0!W_NETWORK!.z?7	https://fl5.moveonjoy.com/W_NETWORK/index.m3u8
-WE TV	https://1.0!WE_TV!.z?7	https://fl1.moveonjoy.com/WE_TV/index.m3u8
-WGN	https://1.0!WGN!.z?7	https://fl1.moveonjoy.com/WGN/index.m3u8
-World Fishing Network	https://5.0!WORLD_FISHING_NETWORK!.z?7	https://fl5.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-Yes Network	https://2.0!YES_NETWORK!.z?7	https://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+HBO 1	https://1.0!HBO!.z?7
+HBO 2	https://5.0!HBO_2!.z?7
+HBO Comedy	https://5.0!HBO_COMEDY!.z?7
+HBO Family	https://5.0!HBO_FAMILY!.z?7
+HGTV	https://2.0!HGTV!.z?7
+HLN	https://1.0!HLN!.z?7
+HSN	https://4.0!HSN!.z?7
+INSP	https://1.0!INSP!.z?7
+Investigation Discovery	https://5.0!INVESTIGATION_DISCOVERY!.z?7
+ION TV	https://1.0!ION_TV!.z?7
+Lifetime	https://5.0!LIFETIME!.z?7
+Lifetime Movie Network	https://1.0!LIFETIME_MOVIE_NETWORK!.z?7
+Love Nature	https://1.0!LOVE_NATURE!.z?7
+Me TV	https://6.0!ME_TV!.z?7
+MLB Network	https://2.0!MLB_NETWORK!.z?7
+Motor Trend	https://5.0!MOTOR_TREND!.z?7
+MSG	https://3.0!MSG!.z?7
+MTV 1	https://2.0!MTV!.z?7
+MTV 2	https://2.0!MTV_2!.z?7
+MTV Classic	https://2.0!MTV_CLASSIC!.z?7
+MTV Live	https://2.0!MTV_LIVE!.z?7
+MTV U	https://2.0!MTV_U!.z?7
+Much	https://1.0!MUCH!.z?7
+Nat Geo Wild	https://5.0!Nat_Geo_Wild!.z?7
+National Geographic	https://5.0!National_Geographic!.z?7
+NBA 2	https://5.0!NBA_2!.z?7
+NBA TV	https://5.0!NBA_TV!.z?7
+NBC East	https://1.0!NBC_EAST!.z?7
+News Nation	https://5.0!NEWS_NATION!.z?7
+NFL Network	https://2.0!NFL_NETWORK!.z?7
+NFL RedZone	https://1.0!NFL_RedZone!.z?7
+NHL Network	https://6.0!NHL_NETWORK!.z?7
+Nick Jr	https://5.0!NICK_JR!.z?7
+Nick Music	https://5.0!NICK_MUSIC!.z?7
+Nickelodeon	https://1.0!NICKELODEON!.z?7
+Nicktoons	https://1.0!NICKTOONS!.z?7
+Outer Max	https://6.0!OUTER_MAX!.z?7
+Outside TV	https://5.0!OUTSIDE_TV!.z?7
+Ovation	https://3.0!Ovation!.z?7
+OWN	https://2.0!OWN!.z?7
+Oxygen	https://2.0!OXYGEN!.z?7
+Paramount Network	https://2.0!PARAMOUNT_NETWORK!.z?7
+QVC	https://6.0!QVC!.z?7
+Reelz	https://1.0!REELZ!.z?7
+Revolt	https://1.0!REVOLT!.z?7
+SEC Network	https://6.0!SEC_NETWORK!.z?7
+Showtime 1	https://2.0!SHOWTIME!.z?7
+Showtime 2	https://5.0!SHOWTIME_2!.z?7
+Showtime Extreme	https://5.0!SHOWTIME_EXTREME!.z?7
+Showtime Next	https://5.0!SHOWTIME_NEXT!.z?7
+Showtime West	https://5.0!SHOWTIME_WEST!.z?7
+Showtime Women	https://5.0!SHOWTIME_WOMEN!.z?7
+Smithsonian Channel	https://5.0!SMITHSONIAN_CHANNEL!.z?7
+Sportsman Channel	https://1.0!SPORTSMAN_CHANNEL!.z?7
+Start TV	https://3.0!Start_Tv!.z?7
+Starz	https://5.0!STARZ!.z?7
+Starz Comedy	https://5.0!STARZ_COMEDY!.z?7
+Starz Edge	https://5.0!STARZ_EDGE!.z?7
+Starz Encore	https://5.0!STARZ_ENCORE!.z?7
+Starz Encore Action	https://5.0!STARZ_ENCORE_ACTION!.z?7
+Starz Encore Classic	https://5.0!STARZ_ENCORE_CLASSIC!.z?7
+Starz Encore Westerns	https://5.0!STARZ_ENCORE_WESTERNS!.z?7
+Sundance	https://6.0!SUNDANCE!.z?7
+SYFY	https://5.0!SYFY!.z?7
+TBS	https://1.0!TBS!.z?7
+TCM	https://1.0!TCM!.z?7
+Tennis Channel	https://5.0!TENNIS_CHANNEL!.z?7
+The Weather Channel	https://5.0!THE_WEATHER_CHANNEL!.z?7
+TLC	https://5.0!TLC!.z?7
+TNT	https://2.0!TNT!.z?7
+Travel Channel	https://5.0!Travel_Channel!.z?7
+TRU TV	https://1.0!TRU_TV!.z?7
+TSN 1	https://5.0!TSN_1!.z?7
+TSN 2	https://5.0!TSN_2!.z?7
+TSN 3	https://5.0!TSN_3!.z?7
+TSN 4	https://5.0!TSN_4!.z?7
+TSN 5	https://5.0!TSN_5!.z?7
+TV Land	https://5.0!TV_Land!.z?7
+TV One	https://2.0!TV_ONE!.z?7
+USA Network	https://5.0!USA_Network!.z?7
+VH1	https://5.0!VH1!.z?7
+Viceland	https://4.0!VICELAND!.z?7
+W Network	https://5.0!W_NETWORK!.z?7
+WE TV	https://1.0!WE_TV!.z?7
+WGN	https://1.0!WGN!.z?7
+World Fishing Network	https://5.0!WORLD_FISHING_NETWORK!.z?7
+Yes Network	https://2.0!YES_NETWORK!.z?7
 
 	^-
 Sport Channels from [l]Ⓧa2 eXtra[z] 🆔	^-
