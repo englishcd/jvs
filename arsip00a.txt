@@ -307,13 +307,12 @@ Match! Futbol 2 🇷🇺	https://video.beeline.tv/live/d/channel320.isml/manifes
 Match! Futbol 3 🇷🇺	https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd!!6cfb55b12aaa9df1626a8adaa4f26329:84486e2e8e5fdee2ef8240019923078c
 Match! Premier 🇷🇺	https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd!!2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
 Match! TV 🇷🇺	https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd!!5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
-^=Sports Live Stream	https://www.youtube.com/watch?v=LxPMF3OJ-OU
 
 	^-
 [g]YouTube Favorite Streaming[z]	^-
 
-Makkah Live	https://www.youtube.com/watch?v=eJNWHKld5E8
-Madinah Live	https://www.youtube.com/watch?v=yWw0DWJQVtU&pp=0gcJCX4JAYcqIYzv
+Makkah Live	https://www.youtube.com/watch?v=XHzoK6BJK8Q
+Madinah Live	https://www.youtube.com/watch?v=yWw0DWJQVtU
 The World Live. EarthTV	https://www.youtube.com/watch?v=HfgIFGbdGJ0
 Angry Birds 1	https://www.youtube.com/watch?v=vnqWVuU0sns
 Angry Birds 2	https://www.youtube.com/watch?v=7QJ9ZS4QC94
@@ -332,7 +331,7 @@ Cartoon Network 2	https://www.youtube.com/watch?v=uUCTOHriQCg
 Cartoonito	https://www.youtube.com/watch?v=p5l3ZS1jVUE
 Masha and The Bear	https://www.youtube.com/watch?v=ajK6TflcuBc
 Nicktoons	https://www.youtube.com/watch?v=5-6_PVhnZ0g
-SpongeBob 🇮🇩	https://www.youtube.com/watch?v=PSGW7Rxk6O0
+SpongeBob 🇮🇩	https://www.youtube.com/watch?v=7ZlpCM4WtMI
 Shaun the Sheep	https://www.youtube.com/watch?v=EZsmbpdjHRc
 Timmy & Friends	https://www.youtube.com/watch?v=MSXaxnnDOvY
 Muse Indonesia	https://www.youtube.com/watch?v=1dbh9_mnw7E
@@ -351,7 +350,7 @@ JTBC Drama 🇰🇷 6	https://www.youtube.com/watch?v=QocpB3PIgQw
 KBS World 🇰🇷	https://www.youtube.com/watch?v=OxQQsIvJTTU
 tvN D Ent 🇰🇷	https://www.youtube.com/watch?v=IB7zflbICFM
 STV News Hokkaido 🇯🇵 1	https://www.youtube.com/watch?v=hA46WfBYdgo
-STV News Hokkaido 🇯🇵 2	https://www.youtube.com/watch?v=atuUrJCgCPM&pp=0AUB
+STV News Hokkaido 🇯🇵 2	https://www.youtube.com/watch?v=atuUrJCgCPM
 HTB Hokkaido News 24 🇯🇵	https://www.youtube.com/watch?v=7-Vky63lvek
 Just for Laughs Gags 1	https://www.youtube.com/watch?v=yDDjo0Yh7A0
 Just for Laughs Gags 2	https://www.youtube.com/watch?v=gAK55njYkIA
