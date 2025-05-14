@@ -693,18 +693,16 @@ Action Movies E	i3!0620415?zxz
 
 ID MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 ID MNC TV	01!02aMNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd!!828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-ID RCTI	01!02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd!!9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-ID GTV	01!02aGTV-HD/sa_dash_vmx/GTV-HD.mpd!!88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+ID RCTI	01!02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd!!9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 ID GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+ID GTV	01!02aGTV-HD/sa_dash_vmx/GTV-HD.mpd!!88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 ID Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID Indosiar (m)	https://l.6/vd.m3u8?ch=indosiar&t=666
-ID iNews	01!02aiNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd!!a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+ID iNews	01!02aiNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd!!a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 ID SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-ID SCTV (m)	https://l.6/vd.m3u8?ch=sctv&t=666
 ID Trans7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
 ID Trans TV	https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8
 ID Net TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=NET.
@@ -921,28 +919,7 @@ UKTV Play Uncovered	PlutoTV/64c0d697b0cf5c000824e5d9
 [g]⚠️ Settings | Privacy & security | Security | Use secure DNS | Select DNS provider: OpenDNS.[z][][g]⚠️ Settings | Privacy & security | Use secure DNS | Choose another provider: OpenDNS.[z]	^-
 
 Always use Chrome browser! [y]⚠️ Please Allow Popups and Disable Ad Blocker.[z] ⚠️ [g]Install 3 Chrome Browser Extensions: CORS Unblock, Allow CORS, & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈[z][]Always use Chrome browser! [y]⚠️ Please Allow Popups and Disable Ad Blocker.[z] [g]⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈[z]	^-
-
-	^-
-[w]Movies/Film Flix for Mobile Browser[z]	^-
 [][g]Try Dolphin browser if Chrome doesn't work![z]	^-
-
-	^-
-[w]Live Sport OnTime Channels[z]	^-
-
-Alkass 1 One	https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass1mhu/master.m3u8
-Alkass 2 Two	https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass2hef/master.m3u8
-Alkass 3 Three	https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass3vak/master.m3u8
-Alkass 4 Four	https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass4cn/master.m3u8
-Alkass 5 Five	https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass5nnha/master.m3u8
-Alkass Shoof	https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass6Shoof1/master.m3u8
-Al Aoula Inter TV1 🇲🇦	https://arriadia1.bassamnetflix2.workers.dev/live/eds/al_aoula_inter/hls_snrt/index.m3u8
-Al Aoula Laayoune TV1 🇲🇦	https://arriadia1.bassamnetflix2.workers.dev/live/eds/al_aoula_laayoune/hls_snrt/index.m3u8
-Al Maghribia TV1 🇲🇦	https://arriadia1.bassamnetflix2.workers.dev/live/eds/al_maghribia_snrt/hls_snrt/index.m3u8
-Arrabiaa TV4 🇲🇦	https://arriadia1.bassamnetflix2.workers.dev/live/eds/arrabiaa/hls_snrt/index.m3u8
-Arryadia TV3 🇲🇦	https://arriadia1.bassamnetflix2.workers.dev/live/eds/arriadia/hls_snrt/index.m3u8
-Assadissa TV6 🇲🇦	https://arriadia1.bassamnetflix2.workers.dev/live/eds/assadissa/hls_snrt/index.m3u8
-Tamazight TV8 🇲🇦	https://arriadia1.bassamnetflix2.workers.dev/live/eds/tamazight_tv8_snrt/hls_snrt/index.m3u8
-Alrabiaa	https://vip.bassamnetflix2.workers.dev/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.m3u8
 
 	^-
 Playlist [y]Main Menu[z]	^^szz
