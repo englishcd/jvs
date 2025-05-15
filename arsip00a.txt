@@ -968,7 +968,7 @@ ESPN	https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7
 Sky La Liga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 	^-
-^=Jet Lee	`0https://www.facebook.com/plugins/video.php?height=314&href=https://www.facebook.com/100027335414014/videos/303842773870234/&show_text=false&width=560&t=139
+^=Jet Lee	`0https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/100027335414014/videos/303842773870234/
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=[l]NetPlay Volleyball[z] Nonton Voli	`0https://nontonvoli.blogspot.com/
