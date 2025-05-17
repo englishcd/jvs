@@ -17,17 +17,6 @@ Gol TV	00!0!0/9595?zyy
 22:30 🇬🇪 [g]FA Cup[z]	^-
 Crystal Palace vs Manchester City	`*https://www.fctv77.live/football/fa-cup-match-4176912/crystal-palace-vs-manchester-city-05-2025.html
 
-20:30 🇩🇪 [y]Bundesliga[z]	^-
-Br Monchengladbach vs VfL Wolfsburg	`*https://www.fctv77.live/football/bundesliga-match-3990668/borussia-monchengladbach-vs-vfl-wolfsburg-05-2025.html
-Borussia Dortmund vs Holstein Kiel	`*https://www.fctv77.live/football/bundesliga-match-3990671/borussia-dortmund-vs-holstein-kiel-05-2025.html
-FSV Mainz 05 vs Bayer Leverkusen	`*https://www.fctv77.live/football/bundesliga-match-3990673/1-fsv-mainz-05-vs-bayer-04-leverkusen-05-2025.html
-TSG Hoffenheim vs Bayern Munchen	`*https://www.fctv77.live/football/bundesliga-match-3990675/tsg-hoffenheim-vs-fc-bayern-munich-05-2025.html
-RB Leipzig vs VfB Stuttgart	`*https://www.fctv77.live/football/bundesliga-match-3990678/rb-leipzig-vs-vfb-stuttgart-05-2025.html
-SC Freiburg vs Eintracht Frankfurt	`*https://www.fctv77.live/football/bundesliga-match-3990680/sc-freiburg-vs-eintracht-frankfurt-05-2025.html
-FC Augsburg vs Union Berlin	`*https://www.fctv77.live/football/bundesliga-match-3990686/fc-augsburg-vs-1-fc-union-berlin-05-2025.html
-FC St. Pauli vs VfL Bochum	`*https://www.fctv77.live/football/bundesliga-match-3990688/fc-st-pauli-vs-vfl-bochum-1848-05-2025.html
-1. FC Heidenheim vs Werder Bremen	`*https://www.fctv77.live/football/bundesliga-match-3990691/1-fc-heidenheim-1846-vs-sv-werder-bremen-05-2025.html
-
 [w]18-05-2025[z]	^-
 
 01:45 🇮🇹 [y]Italian Serie A[z]	^-
@@ -45,10 +34,6 @@ Strasbourg vs Le Havre	`*https://www.fctv77.live/football/french-ligue-1-match-3
 Marseille vs Rennes	`*https://www.fctv77.live/football/french-ligue-1-match-3989357/marseille-vs-stade-rennais-fc-05-2025.html
 
 [w]17-05-2025[z]	^-
-
-19:00 🇮🇩 Indonesian Liga 1	^-
-PSS Sleman vs Persija Jakarta	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029655/pss-sleman-vs-persija-jakarta-05-2025.html
-Persis Solo FC vs Dewa United FC	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029667/persis-solo-fc-vs-dewa-united-fc-05-2025.html
 
 22:55 🇸🇦 Saudi Professional League	^-
 Al Ettifaq vs Dhamk	`*https://www.fctv77.live/football/saudi-professional-league-match-4013904/al-ettifaq-fc-vs-damac-05-2025.html
