@@ -46,10 +46,6 @@ Marseille vs Rennes	`*https://www.fctv77.live/football/french-ligue-1-match-3989
 
 [w]17-05-2025[z]	^-
 
-15:30 🇮🇩 Indonesian Liga 1	^-
-Barito Putera vs PSM Makassar	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029658/barito-putera-vs-psm-makassar-05-2025.html
-Bali United vs Madura United	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029662/bali-united-vs-madura-united-05-2025.html
-
 19:00 🇮🇩 Indonesian Liga 1	^-
 PSS Sleman vs Persija Jakarta	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029655/pss-sleman-vs-persija-jakarta-05-2025.html
 Persis Solo FC vs Dewa United FC	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029667/persis-solo-fc-vs-dewa-united-fc-05-2025.html
@@ -57,12 +53,10 @@ Persis Solo FC vs Dewa United FC	`*https://www.fctv77.live/football/indonesian-l
 22:55 🇸🇦 Saudi Professional League	^-
 Al Ettifaq vs Dhamk	`*https://www.fctv77.live/football/saudi-professional-league-match-4013904/al-ettifaq-fc-vs-damac-05-2025.html
 
-23:15 🇸🇦 Saudi Professional League	^-
-Al-Feiha vs Al-Akhdoud	`*https://www.fctv77.live/football/saudi-professional-league-match-4013927/al-ahli-sfc-vs-al-kholood-05-2025.html
-
 [w]18-05-2025[z]	^-
 
 01:00 🇸🇦 Saudi Professional League	^-
+Al-Feiha vs Al-Akhdoud	`*https://www.fctv77.live/football/saudi-professional-league-match-4013927/al-ahli-sfc-vs-al-kholood-05-2025.html
 Al Ahli Jeddah vs Al Kholood	`*https://www.fctv77.live/football/saudi-professional-league-match-4013927/al-ahli-sfc-vs-al-kholood-05-2025.html
 
 01:30 🇺🇸 US Major League Soccer	^-
