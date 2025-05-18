@@ -14,30 +14,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]18-05-2025[z]	^-
 
-06:15 🇺🇸 US Major League Soccer	^-
-Columbus Crew vs FC Cincinnati	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106317/columbus-crew-vs-fc-cincinnati-05-2025.html
-
-06:30 🇺🇸 US Major League Soccer	^-
-Atlanta United vs Philadelphia Union	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106246/atlanta-united-vs-philadelphia-union-05-2025.html
-Charlotte FC vs Chicago Fire	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106275/charlotte-fc-vs-chicago-fire-05-2025.html
-New England Rev vs S Jose Earthquakes	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106320/new-england-revolution-vs-san-jose-earthquakes-05-2025.html
-
-07:30 🇺🇸 US Major League Soccer	^-
-FC Dallas vs Houston Dynamo	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106133/fc-dallas-vs-houston-dynamo-05-2025.html
-Austin FC vs Vancouver Whitecaps	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106143/austin-fc-vs-vancouver-whitecaps-05-2025.html
-Minnesota United vs St. Louis City	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106172/minnesota-united-fc-vs-st-louis-city-sc-05-2025.html
-Nashville vs DC United	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106277/nashville-vs-dc-united-05-2025.html
-
-08:30 🇺🇸 US Major League Soccer	^-
-Portland Timbers vs Seattle Sounders	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106073/portland-timbers-vs-seattle-sounders-05-2025.html
-Colorado Rapids vs Real Salt Lake	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106261/colorado-rapids-vs-real-salt-lake-05-2025.html
-
-09:30 🇺🇸 US Major League Soccer	^-
-San Diego FC vs FC Kansas City	`*https://www.fctv77.live/football/united-states-major-league-soccer-match-4106171/san-diego-fc-vs-sporting-kansas-city-05-2025.html
-
-13:30 🇮🇩 Indonesian Liga 1	^-
-PSBS Biak Numfor vs Arema FC	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029670/psbs-biak-numfor--vs-arema-fc-05-2025.html
-
 []👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/korean-k-league-2-match-4137192/jeonnam-dragons-vs-chungbuk-cheongju-fc-05-2025.html
 []** Follow the redirected page until Verification!	^-
 
@@ -52,7 +28,7 @@ Ziggo Sport 6 Golf	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_7576
 FIFA	https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 SPOTV 1	https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd!!ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 SPOTV 2	https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd!!7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-
+Premier Sports 1	https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Nzc0MmE3ZjMxNTMwLTNmYjktMzI3NC03NTkyLTMyNmM0YmI3/master.m3u8?md5=8M6ryuUEivB1VuvxsIKgrg&expires=1746922404
 TNT Sports 1	https://z.1UK_TNT_SPORTS_1/index.m3u8
 TNT Sports 2	https://z.1UK_TNT_SPORTS_2/index.m3u8
 TNT Sports 3	https://z.1UK_TNT_SPORTS_3/index.m3u8
@@ -69,13 +45,26 @@ Fox Sports 🇲🇽 1	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/c
 Fox Sports 🇲🇽 2	i3!16/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd!!8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 Fox Sports 🇲🇽 3	i3!16/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd!!11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 Fox Sports 🇲🇽 Premium	i3!16/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd!!9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+Sport 1 🇩🇪	!zy.513346178/index.m3u8?7
+Sky Sport F1 🇩🇪	!zy.3788216934/index.m3u8?7
+Sky Bundesliga 🇩🇪	!zy.672710480/index.m3u8?7
 DAZN 1 🇩🇪	https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd!!0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
 DAZN 1 🇩🇪	https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
 DAZN 2 🇩🇪	https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 DAZN 1 🇪🇸	i3!16/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd!!44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 DAZN 2 🇪🇸	i3!16/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd!!0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 DAZN LaLiga 🇪🇸	i3!16/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd!!43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-La Liga HyperMotion 🇪🇸	i3!16/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd!!d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+DAZN 1 🇪🇸	!zy.2941093452/index.m3u8?7
+DAZN F1 🇪🇸	!zy.270716645/index.m3u8?7
+LaLiga TV M+ 🇪🇸	!zy.1980907224/index.m3u8?7
+LaLiga TV M+ 🇪🇸	!zy.2428779244/index.m3u8?7
+LaLiga TV M+ 🇪🇸	!zy.2881668464/index.m3u8?7
+LaLiga TV M+ 🇪🇸	!zy.3996529465/index.m3u8?7
+LaLiga TV M+ 🇪🇸	!zy.450666896/index.m3u8?7
+LaLiga TV HyperMotion 🇪🇸	!zy.3958277473/index.m3u8?7
+LaLiga HyperMotion 🇪🇸	01!01fhttps://oha.to/play/3461295847/index.m3u8?7
+LaLiga HyperMotion 🇪🇸	i3!16/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd!!d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+BlueTV Marvel	!zy.2594145557/index.m3u8?7
 DAZN F1 🇪🇸	i3!16/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd!!1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd!!002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 Universo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd!!a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
@@ -86,6 +75,7 @@ Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Liv
 RTP Madeira 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 RTP 3 🇵🇹	https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
+Fia WRC Rally	https://stream.gia.tv/giatv/giatv-Motor/Motor/playlist.m3u8
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 Arena Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -398,7 +388,7 @@ Schedule Live Score	`0https://www.scorebat.com/embed/livescore/
 [g]Live Table, Stats & Live Scores[z]	^-
 League Tables	`0https://m.tablesleague.com/
 England 🇬🇧 Premier League	`0https://www.scorebat.com/embed/competition/england-premier-league/
-Spain 🇪🇸 La Liga	`0https://www.scorebat.com/embed/competition/spain-la-liga/
+Spain 🇪🇸 LaLiga	`0https://www.scorebat.com/embed/competition/spain-la-liga/
 Italy 🇮🇹 Serie A	`0https://www.scorebat.com/embed/competition/italy-serie-a/
 Germany 🇩🇪 Bundesliga	`0https://www.scorebat.com/embed/competition/germany-bundesliga/
 France 🇫🇷 Ligue 1	`0https://www.scorebat.com/embed/competition/france-ligue-1/
@@ -981,7 +971,7 @@ Sky Live Event 4	https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-H
 Sky Live Event 5	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd!!6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
 Sky Live Event 6	https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
 ESPN	https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-Sky La Liga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+Sky LaLiga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
