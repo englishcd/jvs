@@ -1031,10 +1031,18 @@
 🇩🇪 Das Erste `	!zy.533426354/7!z
 🇩🇪 Das Erste `	!zy.1340558123/7!z
 🇩🇪 Dazn 1 !	!zy.263339334/7!z
-🇩🇪 Dazn 1 [match] `	!zy.3579549301/7!z
 🇩🇪 Dazn 1 `	!zy.1346436847/7!z
 🇩🇪 Dazn 1 `	!zy.2267295660/7!z
 🇩🇪 Dazn 1 {events} '	!zy.2748335805/7!z
+🇩🇪 Dazn 1 [match] `	!zy.3579549301/7!z
+🇩🇪 Dazn 2 [match] `	!zy.2923762838/7!z
+🇩🇪 Dazn 3 [match] `	!zy.832542472/7!z
+🇩🇪 Dazn 4 [match] `	!zy.1484263760/7!z
+🇩🇪 Dazn 5 [match] `	!zy.3349320398/7!z
+🇩🇪 Dazn 6 [match] `	!zy.3166441517/7!z
+🇩🇪 Dazn 7 [match] `	!zy.593925043/7!z
+🇩🇪 Dazn 8 [match] `	!zy.1869814941/7!z
+🇩🇪 Dazn 9 [match] `	!zy.4037648131/7!z
 🇩🇪 Dazn 10 [match] `	!zy.2936413245/7!z
 🇩🇪 Dazn 11 [match] `	!zy.819765155/7!z
 🇩🇪 Dazn 12 [match] `	!zy.4283648988/7!z
@@ -1046,25 +1054,15 @@
 🇩🇪 Dazn 18 [match] `	!zy.2331252043/7!z
 🇩🇪 Dazn 2 '	!zy.1389052779/7!z
 🇩🇪 Dazn 2 !	!zy.1209157526/7!z
-🇩🇪 Dazn 2 [match] `	!zy.2923762838/7!z
 🇩🇪 Dazn 2 `	!zy.162211919/7!z
 🇩🇪 Dazn 2 `	!zy.1775092266/7!z
 🇩🇪 Dazn 2 Bar '	!zy.716312141/7!z
-🇩🇪 Dazn 3 [match] `	!zy.832542472/7!z
-🇩🇪 Dazn 4 [match] `	!zy.1484263760/7!z
-🇩🇪 Dazn 5 [match] `	!zy.3349320398/7!z
-🇩🇪 Dazn 6 [match] `	!zy.3166441517/7!z
-🇩🇪 Dazn 7 [match] `	!zy.593925043/7!z
-🇩🇪 Dazn 8 [match] `	!zy.1869814941/7!z
-🇩🇪 Dazn 9 [match] `	!zy.4037648131/7!z
 🇩🇪 Dazn Fast+ !	!zy.4044798259/7!z
 🇩🇪 Dazn Sport 1 `	!zy.1059241617/7!z
 🇩🇪 Dazn Sport 2 `	!zy.2980952434/7!z
 🇩🇪 Db Liga 1 `	!zy.300144653/7!z
 🇩🇪 Db Liga 1 `	!zy.544779527/7!z
 🇩🇪 Db Liga 1 `	!zy.763134903/7!z
-🇩🇪 Db Liga 10 `	!zy.1262698795/7!z
-🇩🇪 Db Liga 10 `	!zy.2235470073/7!z
 🇩🇪 Db Liga 2 `	!zy.678356168/7!z
 🇩🇪 Db Liga 2 `	!zy.2935466724/7!z
 🇩🇪 Db Liga 3 `	!zy.1058402443/7!z
@@ -1081,6 +1079,8 @@
 🇩🇪 Db Liga 8 `	!zy.3175116374/7!z
 🇩🇪 Db Liga 9 `	!zy.2856024597/7!z
 🇩🇪 Db Liga 9 `	!zy.4087199410/7!z
+🇩🇪 Db Liga 10 `	!zy.1262698795/7!z
+🇩🇪 Db Liga 10 `	!zy.2235470073/7!z
 🇩🇪 Deluxe Music '	!zy.263471499/7!z
 🇩🇪 Deluxe Music !	!zy.3429108966/7!z
 🇩🇪 Deluxe Music `	!zy.2185652870/7!z
@@ -1124,7 +1124,6 @@
 🇩🇪 Dw Español !	!zy.1845262259/7!z
 🇩🇪 Dw TV '	!zy.1234064310/7!z
 🇩🇪 Dyn Sport 1 '	!zy.493970639/7!z
-🇩🇪 Dyn Sport 10 '	!zy.4246322523/7!z
 🇩🇪 Dyn Sport 2 '	!zy.1523654175/7!z
 🇩🇪 Dyn Sport 3 '	!zy.1739667375/7!z
 🇩🇪 Dyn Sport 4 '	!zy.3583110079/7!z
@@ -1133,6 +1132,7 @@
 🇩🇪 Dyn Sport 7 '	!zy.2452722031/7!z
 🇩🇪 Dyn Sport 8 '	!zy.274794174/7!z
 🇩🇪 Dyn Sport 9 '	!zy.755052302/7!z
+🇩🇪 Dyn Sport 10 '	!zy.4246322523/7!z
 🇩🇪 E! !	!zy.2181381785/7!z
 🇩🇪 E! Entertainment '	!zy.4141730817/7!z
 🇩🇪 Eagle Bollywood `	!zy.1014517668/7!z
@@ -1253,6 +1253,14 @@
 🇩🇪 Light Channel '	!zy.4264490284/7!z
 🇩🇪 Light Channel !	!zy.3577177074/7!z
 🇩🇪 Magenta Fussball 1 `	!zy.3136042538/7!z
+🇩🇪 Magenta Fussball 2 `	!zy.878916041/7!z
+🇩🇪 Magenta Fussball 3 `	!zy.4173934935/7!z
+🇩🇪 Magenta Fussball 4 `	!zy.4060887118/7!z
+🇩🇪 Magenta Fussball 5 `	!zy.1051080912/7!z
+🇩🇪 Magenta Fussball 6 `	!zy.2955493171/7!z
+🇩🇪 Magenta Fussball 7 `	!zy.2088976301/7!z
+🇩🇪 Magenta Fussball 8 `	!zy.2778934529/7!z
+🇩🇪 Magenta Fussball 9 `	!zy.1762209183/7!z
 🇩🇪 Magenta Fussball 10 `	!zy.3229308951/7!z
 🇩🇪 Magenta Fussball 11 `	!zy.215046281/7!z
 🇩🇪 Magenta Fussball 12 `	!zy.2187222890/7!z
@@ -1262,30 +1270,10 @@
 🇩🇪 Magenta Fussball 16 `	!zy.101994896/7!z
 🇩🇪 Magenta Fussball 17 `	!zy.3401470222/7!z
 🇩🇪 Magenta Fussball 18 `	!zy.329139106/7!z
-🇩🇪 Magenta Fussball 2 `	!zy.878916041/7!z
-🇩🇪 Magenta Fussball 3 `	!zy.4173934935/7!z
-🇩🇪 Magenta Fussball 4 `	!zy.4060887118/7!z
-🇩🇪 Magenta Fussball 5 `	!zy.1051080912/7!z
-🇩🇪 Magenta Fussball 6 `	!zy.2955493171/7!z
-🇩🇪 Magenta Fussball 7 `	!zy.2088976301/7!z
-🇩🇪 Magenta Fussball 8 `	!zy.2778934529/7!z
-🇩🇪 Magenta Fussball 9 `	!zy.1762209183/7!z
 🇩🇪 Magenta Sport 1 '	!zy.1810523752/7!z
 🇩🇪 Magenta Sport 1 !	!zy.3432695221/7!z
-🇩🇪 Magenta Sport 10 !	!zy.1438750126/7!z
-🇩🇪 Magenta Sport 10 {events} '	!zy.2148720832/7!z
-🇩🇪 Magenta Sport 11 !	!zy.1755429918/7!z
-🇩🇪 Magenta Sport 11 {events} '	!zy.2398423057/7!z
-🇩🇪 Magenta Sport 12 '	!zy.3474801522/7!z
-🇩🇪 Magenta Sport 12 !	!zy.788645582/7!z
-🇩🇪 Magenta Sport 13 !	!zy.308408190/7!z
-🇩🇪 Magenta Sport 14 !	!zy.2688627566/7!z
-🇩🇪 Magenta Sport 15 !	!zy.2636192478/7!z
-🇩🇪 Magenta Sport 17 !	!zy.3890301374/7!z
-🇩🇪 Magenta Sport 18 !	!zy.1706155631/7!z
 🇩🇪 Magenta Sport 2 '	!zy.743054520/7!z
 🇩🇪 Magenta Sport 2 !	!zy.2335883109/7!z
-🇩🇪 Magenta Sport 20 !	!zy.3545622272/7!z
 🇩🇪 Magenta Sport 3 '	!zy.287978760/7!z
 🇩🇪 Magenta Sport 3 !	!zy.3059390165/7!z
 🇩🇪 Magenta Sport 4 '	!zy.2735401240/7!z
@@ -1300,6 +1288,18 @@
 🇩🇪 Magenta Sport 8 !	!zy.3247089604/7!z
 🇩🇪 Magenta Sport 9 '	!zy.1536830889/7!z
 🇩🇪 Magenta Sport 9 !	!zy.4243230324/7!z
+🇩🇪 Magenta Sport 10 !	!zy.1438750126/7!z
+🇩🇪 Magenta Sport 10 {events} '	!zy.2148720832/7!z
+🇩🇪 Magenta Sport 11 !	!zy.1755429918/7!z
+🇩🇪 Magenta Sport 11 {events} '	!zy.2398423057/7!z
+🇩🇪 Magenta Sport 12 '	!zy.3474801522/7!z
+🇩🇪 Magenta Sport 12 !	!zy.788645582/7!z
+🇩🇪 Magenta Sport 13 !	!zy.308408190/7!z
+🇩🇪 Magenta Sport 14 !	!zy.2688627566/7!z
+🇩🇪 Magenta Sport 15 !	!zy.2636192478/7!z
+🇩🇪 Magenta Sport 17 !	!zy.3890301374/7!z
+🇩🇪 Magenta Sport 18 !	!zy.1706155631/7!z
+🇩🇪 Magenta Sport 20 !	!zy.3545622272/7!z
 🇩🇪 Masha Und Der B R `	!zy.2403875880/7!z
 🇩🇪 Max Kino `	!zy.3472371261/7!z
 🇩🇪 Max Kino 2 `	!zy.2956972870/7!z
@@ -1516,10 +1516,6 @@
 🇩🇪 Rtlup `	!zy.1708287350/7!z
 🇩🇪 S.Sport 1 `	!zy.173311091/7!z
 🇩🇪 S.Sport 1 `	!zy.2525079634/7!z
-🇩🇪 S.Sport 10 `	!zy.2659830919/7!z
-🇩🇪 S.Sport 10 `	!zy.4242909772/7!z
-🇩🇪 S.Sport 11 `	!zy.1378077721/7!z
-🇩🇪 S.Sport 11 `	!zy.3953049103/7!z
 🇩🇪 S.Sport 2 `	!zy.403615665/7!z
 🇩🇪 S.Sport 2 `	!zy.869906614/7!z
 🇩🇪 S.Sport 3 [match] `	!zy.1994192997/7!z
@@ -1536,6 +1532,10 @@
 🇩🇪 S.Sport 8 `	!zy.2801218088/7!z
 🇩🇪 S.Sport 9 `	!zy.1164227559/7!z
 🇩🇪 S.Sport 9 `	!zy.2978752107/7!z
+🇩🇪 S.Sport 10 `	!zy.2659830919/7!z
+🇩🇪 S.Sport 10 `	!zy.4242909772/7!z
+🇩🇪 S.Sport 11 `	!zy.1378077721/7!z
+🇩🇪 S.Sport 11 `	!zy.3953049103/7!z
 🇩🇪 S.Sport F1 `	!zy.3336659461/7!z
 🇩🇪 S.Sport Golf `	!zy.119323253/7!z
 🇩🇪 S.Sport Golf `	!zy.3017117912/7!z
@@ -1616,6 +1616,14 @@
 🇩🇪 Sky Box Liebesfilm `	!zy.1435025483/7!z
 🇩🇪 Sky Box Mystery `	!zy.4005116622/7!z
 🇩🇪 Sky Box Premieren 1 `	!zy.1615338745/7!z
+🇩🇪 Sky Box Premieren 2 `	!zy.4006026010/7!z
+🇩🇪 Sky Box Premieren 3 `	!zy.577575812/7!z
+🇩🇪 Sky Box Premieren 4 `	!zy.682103453/7!z
+🇩🇪 Sky Box Premieren 5 `	!zy.3825340931/7!z
+🇩🇪 Sky Box Premieren 6 `	!zy.1787631072/7!z
+🇩🇪 Sky Box Premieren 7 `	!zy.2787579262/7!z
+🇩🇪 Sky Box Premieren 8 `	!zy.2131167186/7!z
+🇩🇪 Sky Box Premieren 9 `	!zy.3014461260/7!z
 🇩🇪 Sky Box Premieren 10 `	!zy.3749412691/7!z
 🇩🇪 Sky Box Premieren 11 `	!zy.332496845/7!z
 🇩🇪 Sky Box Premieren 12 `	!zy.2640214062/7!z
@@ -1626,24 +1634,13 @@
 🇩🇪 Sky Box Premieren 17 `	!zy.3586029130/7!z
 🇩🇪 Sky Box Premieren 18 `	!zy.211707110/7!z
 🇩🇪 Sky Box Premieren 19 `	!zy.3224659064/7!z
-🇩🇪 Sky Box Premieren 2 `	!zy.4006026010/7!z
 🇩🇪 Sky Box Premieren 20 `	!zy.3874898838/7!z
-🇩🇪 Sky Box Premieren 3 `	!zy.577575812/7!z
-🇩🇪 Sky Box Premieren 4 `	!zy.682103453/7!z
-🇩🇪 Sky Box Premieren 5 `	!zy.3825340931/7!z
-🇩🇪 Sky Box Premieren 6 `	!zy.1787631072/7!z
-🇩🇪 Sky Box Premieren 7 `	!zy.2787579262/7!z
-🇩🇪 Sky Box Premieren 8 `	!zy.2131167186/7!z
-🇩🇪 Sky Box Premieren 9 `	!zy.3014461260/7!z
 🇩🇪 Sky Box Sci-Fi `	!zy.607841075/7!z
 🇩🇪 Sky Box Thriller `	!zy.2077545130/7!z
 🇩🇪 Sky Box Western `	!zy.50330410/7!z
 🇩🇪 Sky Bundesliga !	!zy.672710480/7!z
 🇩🇪 Sky Bundesliga 1 !	!zy.1917998896/7!z
 🇩🇪 Sky Bundesliga 1 [match] '	!zy.1554081161/7!z
-🇩🇪 Sky Bundesliga 10 !	!zy.3366791827/7!z
-🇩🇪 Sky Bundesliga 10 [match] '	!zy.454539383/7!z
-🇩🇪 Sky Bundesliga 10 `	!zy.4105254911/7!z
 🇩🇪 Sky Bundesliga 2 !	!zy.905063904/7!z
 🇩🇪 Sky Bundesliga 2 {events} '	!zy.2578153887/7!z
 🇩🇪 Sky Bundesliga 3 !	!zy.143787088/7!z
@@ -1667,6 +1664,9 @@
 🇩🇪 Sky Bundesliga 9 '	!zy.4227655150/7!z
 🇩🇪 Sky Bundesliga 9 !	!zy.1109531889/7!z
 🇩🇪 Sky Bundesliga 9 [match] '	!zy.1274071941/7!z
+🇩🇪 Sky Bundesliga 10 !	!zy.3366791827/7!z
+🇩🇪 Sky Bundesliga 10 [match] '	!zy.454539383/7!z
+🇩🇪 Sky Bundesliga 10 `	!zy.4105254911/7!z
 🇩🇪 Sky Bundesliga1 `	!zy.3948160239/7!z
 🇩🇪 Sky Cinema 1 '	!zy.1279460649/7!z
 🇩🇪 Sky Cinema 1+ '	!zy.2735828708/7!z
@@ -1753,20 +1753,10 @@
 🇩🇪 Sky Replay !	!zy.2276831746/7!z
 🇩🇪 Sky Select '	!zy.1870257759/7!z
 🇩🇪 Sky Select `	!zy.283510209/7!z
-🇩🇪 Sky Select 09 4K '	!zy.3746417663/7!z
 🇩🇪 Sky Select 1 '	!zy.1859652468/7!z
 🇩🇪 Sky Select 1 !	!zy.2903000601/7!z
 🇩🇪 Sky Select 1 `	!zy.471974067/7!z
 🇩🇪 Sky Select 1 Box '	!zy.1652281656/7!z
-🇩🇪 Sky Select 10 !	!zy.2327898350/7!z
-🇩🇪 Sky Select 10 `	!zy.1225702913/7!z
-🇩🇪 Sky Select 10 `	!zy.2368875410/7!z
-🇩🇪 Sky Select 10 4K '	!zy.1917658583/7!z
-🇩🇪 Sky Select 11 4K '	!zy.3986138697/7!z
-🇩🇪 Sky Select 12 4K '	!zy.2525570218/7!z
-🇩🇪 Sky Select 13 4K '	!zy.156477236/7!z
-🇩🇪 Sky Select 14 4K '	!zy.1622417772/7!z
-🇩🇪 Sky Select 15 4K '	!zy.4285440754/7!z
 🇩🇪 Sky Select 2 '	!zy.695759268/7!z
 🇩🇪 Sky Select 2 !	!zy.3936894153/7!z
 🇩🇪 Sky Select 2 `	!zy.2460927824/7!z
@@ -1795,20 +1785,30 @@
 🇩🇪 Sky Select 8 !	!zy.2685936744/7!z
 🇩🇪 Sky Select 8 `	!zy.57596824/7!z
 🇩🇪 Sky Select 8 `	!zy.3996795400/7!z
+🇩🇪 Sky Select 09 4K '	!zy.3746417663/7!z
 🇩🇪 Sky Select 9 '	!zy.1588084917/7!z
 🇩🇪 Sky Select 9 !	!zy.2641890776/7!z
 🇩🇪 Sky Select 9 `	!zy.3485784838/7!z
 🇩🇪 Sky Select 9 `	!zy.3545918392/7!z
+🇩🇪 Sky Select 10 !	!zy.2327898350/7!z
+🇩🇪 Sky Select 10 `	!zy.1225702913/7!z
+🇩🇪 Sky Select 10 `	!zy.2368875410/7!z
+🇩🇪 Sky Select 10 4K '	!zy.1917658583/7!z
+🇩🇪 Sky Select 11 4K '	!zy.3986138697/7!z
+🇩🇪 Sky Select 12 4K '	!zy.2525570218/7!z
+🇩🇪 Sky Select 13 4K '	!zy.156477236/7!z
+🇩🇪 Sky Select 14 4K '	!zy.1622417772/7!z
+🇩🇪 Sky Select 15 4K '	!zy.4285440754/7!z
+🇩🇪 Sky Select Premiere 3 !	!zy.3343704634/7!z
+🇩🇪 Sky Select Premiere 4 !	!zy.1970028074/7!z
+🇩🇪 Sky Select Premiere 8 !	!zy.2963067691/7!z
+🇩🇪 Sky Select Premiere 9 !	!zy.2382166683/7!z
 🇩🇪 Sky Select Premiere 10 !	!zy.1694858291/7!z
 🇩🇪 Sky Select Premiere 11 !	!zy.1483036035/7!z
 🇩🇪 Sky Select Premiere 12 !	!zy.533016403/7!z
 🇩🇪 Sky Select Premiere 13 !	!zy.581240547/7!z
 🇩🇪 Sky Select Premiere 14 !	!zy.2424691443/7!z
 🇩🇪 Sky Select Premiere 17 !	!zy.3609567267/7!z
-🇩🇪 Sky Select Premiere 3 !	!zy.3343704634/7!z
-🇩🇪 Sky Select Premiere 4 !	!zy.1970028074/7!z
-🇩🇪 Sky Select Premiere 8 !	!zy.2963067691/7!z
-🇩🇪 Sky Select Premiere 9 !	!zy.2382166683/7!z
 🇩🇪 Sky Select Programm Bersicht `	!zy.2777266633/7!z
 🇩🇪 Sky Serien & Shows !	!zy.873142600/7!z
 🇩🇪 Sky Serien & Shows `	!zy.313699292/7!z
@@ -1820,9 +1820,6 @@
 🇩🇪 Sky Sport 1 !	!zy.1046831603/7!z
 🇩🇪 Sky Sport 1 `	!zy.3383055989/7!z
 🇩🇪 Sky Sport 1 {events} '	!zy.1385766515/7!z
-🇩🇪 Sky Sport 10 !	!zy.3398209199/7!z
-🇩🇪 Sky Sport 10 {events} '	!zy.64546215/7!z
-🇩🇪 Sky Sport 11 {events} '	!zy.222236022/7!z
 🇩🇪 Sky Sport 2 !	!zy.2042960675/7!z
 🇩🇪 Sky Sport 2 [match] '	!zy.1870973910/7!z
 🇩🇪 Sky Sport 2 `	!zy.2382703781/7!z
@@ -1843,6 +1840,9 @@
 🇩🇪 Sky Sport 9 !	!zy.236268082/7!z
 🇩🇪 Sky Sport 9 [match] '	!zy.2454960312/7!z
 🇩🇪 Sky Sport 9 `	!zy.3267125897/7!z
+🇩🇪 Sky Sport 10 !	!zy.3398209199/7!z
+🇩🇪 Sky Sport 10 {events} '	!zy.64546215/7!z
+🇩🇪 Sky Sport 11 {events} '	!zy.222236022/7!z
 🇩🇪 Sky Sport Austria 1 [match] '	!zy.766992038/7!z
 🇩🇪 Sky Sport Austria 2 [match] '	!zy.3341910980/7!z
 🇩🇪 Sky Sport Austria 3 [match] '	!zy.677590309/7!z
@@ -1906,7 +1906,6 @@
 🇩🇪 Sr Fernsehen !	!zy.2405098471/7!z
 🇩🇪 Sr Fernsehen `	!zy.4117685823/7!z
 🇩🇪 Stern Filme 1 !	!zy.3288066978/7!z
-🇩🇪 Stern Filme 10 !	!zy.3592253767/7!z
 🇩🇪 Stern Filme 2 !	!zy.2220593522/7!z
 🇩🇪 Stern Filme 3 !	!zy.3107698882/7!z
 🇩🇪 Stern Filme 4 !	!zy.186344658/7!z
@@ -1915,6 +1914,7 @@
 🇩🇪 Stern Filme 7 !	!zy.1287331330/7!z
 🇩🇪 Stern Filme 8 !	!zy.3471542739/7!z
 🇩🇪 Stern Filme 9 !	!zy.4086014051/7!z
+🇩🇪 Stern Filme 10 !	!zy.3592253767/7!z
 🇩🇪 Stingray Classica '	!zy.2969484974/7!z
 🇩🇪 Stingray Classica !	!zy.1779435258/7!z
 🇩🇪 Stingray Classica `	!zy.3164307077/7!z
@@ -2369,9 +2369,6 @@
 🇫🇷 6Ter `	!zy.4239659507/7!z
 🇫🇷 A La Carte 1 '	!zy.278866624/7!z
 🇫🇷 A La Carte 1 `	!zy.2059196517/7!z
-🇫🇷 A La Carte 10 '	!zy.3537501017/7!z
-🇫🇷 A La Carte 10 `	!zy.651711736/7!z
-🇫🇷 A La Carte 11 `	!zy.4153174242/7!z
 🇫🇷 A La Carte 2 '	!zy.2651860259/7!z
 🇫🇷 A La Carte 2 `	!zy.4097040262/7!z
 🇫🇷 A La Carte 3 '	!zy.1387933117/7!z
@@ -2388,6 +2385,9 @@
 🇫🇷 A La Carte 8 `	!zy.1710474062/7!z
 🇫🇷 A La Carte 9 '	!zy.3279565173/7!z
 🇫🇷 A La Carte 9 `	!zy.2841232336/7!z
+🇫🇷 A La Carte 10 '	!zy.3537501017/7!z
+🇫🇷 A La Carte 10 `	!zy.651711736/7!z
+🇫🇷 A La Carte 11 `	!zy.4153174242/7!z
 🇫🇷 A+ !	!zy.1765873640/7!z
 🇫🇷 A12 TV !	!zy.2701753448/7!z
 🇫🇷 Ab 1 '	!zy.3051821190/7!z
@@ -2469,11 +2469,6 @@
 🇫🇷 Bein Sports 3 `	!zy.2683082226/7!z
 🇫🇷 Bein Sports 3 `	!zy.3758995179/7!z
 🇫🇷 Bein Sports 3 {1} `	!zy.2221938935/7!z
-🇫🇷 Bein Sports Max 10 !	!zy.3800425623/7!z
-🇫🇷 Bein Sports Max 10 (Event Only) '	!zy.2158150250/7!z
-🇫🇷 Bein Sports Max 10 `	!zy.2473905459/7!z
-🇫🇷 Bein Sports Max 10 `	!zy.3123667785/7!z
-🇫🇷 Bein Sports Max 10 {1} `	!zy.116006831/7!z
 🇫🇷 Bein Sports Max 4 !	!zy.4250355899/7!z
 🇫🇷 Bein Sports Max 4 (Event Only) '	!zy.470010406/7!z
 🇫🇷 Bein Sports Max 4 (Event Only) '	!zy.3251642729/7!z
@@ -2509,6 +2504,11 @@
 🇫🇷 Bein Sports Max 9 `	!zy.371802195/7!z
 🇫🇷 Bein Sports Max 9 `	!zy.3574544749/7!z
 🇫🇷 Bein Sports Max 9 {1} `	!zy.4030067291/7!z
+🇫🇷 Bein Sports Max 10 !	!zy.3800425623/7!z
+🇫🇷 Bein Sports Max 10 (Event Only) '	!zy.2158150250/7!z
+🇫🇷 Bein Sports Max 10 `	!zy.2473905459/7!z
+🇫🇷 Bein Sports Max 10 `	!zy.3123667785/7!z
+🇫🇷 Bein Sports Max 10 {1} `	!zy.116006831/7!z
 🇫🇷 Berbere Television '	!zy.2584606877/7!z
 🇫🇷 Berbere TV !	!zy.2314271385/7!z
 🇫🇷 Bet '	!zy.1004650317/7!z
@@ -2564,15 +2564,6 @@
 🇫🇷 Canal Play !	!zy.3488639675/7!z
 🇫🇷 Canal Play 1 '	!zy.2103148163/7!z
 🇫🇷 Canal Play 1 !	!zy.962706596/7!z
-🇫🇷 Canal Play 10 '	!zy.335056030/7!z
-🇫🇷 Canal Play 11 '	!zy.3241421560/7!z
-🇫🇷 Canal Play 12 '	!zy.2257866792/7!z
-🇫🇷 Canal Play 13 '	!zy.3153361304/7!z
-🇫🇷 Canal Play 14 '	!zy.164930952/7!z
-🇫🇷 Canal Play 15 '	!zy.884247608/7!z
-🇫🇷 Canal Play 16 '	!zy.1930753768/7!z
-🇫🇷 Canal Play 17 '	!zy.1316282200/7!z
-🇫🇷 Canal Play 18 '	!zy.3424929929/7!z
 🇫🇷 Canal Play 2 '	!zy.1154892358/7!z
 🇫🇷 Canal Play 3 '	!zy.1403868677/7!z
 🇫🇷 Canal Play 3 !	!zy.1134686148/7!z
@@ -2586,6 +2577,15 @@
 🇫🇷 Canal Play 8 '	!zy.3522742488/7!z
 🇫🇷 Canal Play 9 '	!zy.3330530459/7!z
 🇫🇷 Canal Play 9 !	!zy.152172389/7!z
+🇫🇷 Canal Play 10 '	!zy.335056030/7!z
+🇫🇷 Canal Play 11 '	!zy.3241421560/7!z
+🇫🇷 Canal Play 12 '	!zy.2257866792/7!z
+🇫🇷 Canal Play 13 '	!zy.3153361304/7!z
+🇫🇷 Canal Play 14 '	!zy.164930952/7!z
+🇫🇷 Canal Play 15 '	!zy.884247608/7!z
+🇫🇷 Canal Play 16 '	!zy.1930753768/7!z
+🇫🇷 Canal Play 17 '	!zy.1316282200/7!z
+🇫🇷 Canal Play 18 '	!zy.3424929929/7!z
 🇫🇷 Canal Plus C Nema `	!zy.1281048661/7!z
 🇫🇷 Canal Savoir !	!zy.2684363321/7!z
 🇫🇷 Canal Series `	!zy.4289865749/7!z
@@ -3091,18 +3091,6 @@
 🇫🇷 Rmc Sport 1 `	!zy.4198743891/7!z
 🇫🇷 Rmc Sport 1 {1} `	!zy.1751151029/7!z
 🇫🇷 Rmc Sport 1 Access `	!zy.2856261938/7!z
-🇫🇷 Rmc Sport 10 !	!zy.3658283022/7!z
-🇫🇷 Rmc Sport 10 {events} '	!zy.2195294466/7!z
-🇫🇷 Rmc Sport 11 {events} '	!zy.2352898515/7!z
-🇫🇷 Rmc Sport 12 !	!zy.2697767790/7!z
-🇫🇷 Rmc Sport 12 {events} '	!zy.2669041824/7!z
-🇫🇷 Rmc Sport 13 '	!zy.796086260/7!z
-🇫🇷 Rmc Sport 14 '	!zy.2639500260/7!z
-🇫🇷 Rmc Sport 15 '	!zy.2687744596/7!z
-🇫🇷 Rmc Sport 16 '	!zy.3885219972/7!z
-🇫🇷 Rmc Sport 16 !	!zy.1431047598/7!z
-🇫🇷 Rmc Sport 17 '	!zy.3673418036/7!z
-🇫🇷 Rmc Sport 18 '	!zy.1487109861/7!z
 🇫🇷 Rmc Sport 2 '	!zy.789832663/7!z
 🇫🇷 Rmc Sport 2 !	!zy.600432825/7!z
 🇫🇷 Rmc Sport 2 `	!zy.1351366729/7!z
@@ -3132,14 +3120,18 @@
 🇫🇷 Rmc Sport 8 '	!zy.1705245558/7!z
 🇫🇷 Rmc Sport 9 '	!zy.1489228486/7!z
 🇫🇷 Rmc Sport 9 !	!zy.1410978216/7!z
-🇫🇷 Rmc Sport Live 10 `	!zy.2045698089/7!z
-🇫🇷 Rmc Sport Live 10 {1} `	!zy.2702225745/7!z
-🇫🇷 Rmc Sport Live 11 `	!zy.3041190071/7!z
-🇫🇷 Rmc Sport Live 12 `	!zy.1003218772/7!z
-🇫🇷 Rmc Sport Live 13 `	!zy.4150388682/7!z
-🇫🇷 Rmc Sport Live 14 `	!zy.4255444691/7!z
-🇫🇷 Rmc Sport Live 15 `	!zy.823062093/7!z
-🇫🇷 Rmc Sport Live 16 `	!zy.3212962222/7!z
+🇫🇷 Rmc Sport 10 !	!zy.3658283022/7!z
+🇫🇷 Rmc Sport 10 {events} '	!zy.2195294466/7!z
+🇫🇷 Rmc Sport 11 {events} '	!zy.2352898515/7!z
+🇫🇷 Rmc Sport 12 !	!zy.2697767790/7!z
+🇫🇷 Rmc Sport 12 {events} '	!zy.2669041824/7!z
+🇫🇷 Rmc Sport 13 '	!zy.796086260/7!z
+🇫🇷 Rmc Sport 14 '	!zy.2639500260/7!z
+🇫🇷 Rmc Sport 15 '	!zy.2687744596/7!z
+🇫🇷 Rmc Sport 16 '	!zy.3885219972/7!z
+🇫🇷 Rmc Sport 16 !	!zy.1431047598/7!z
+🇫🇷 Rmc Sport 17 '	!zy.3673418036/7!z
+🇫🇷 Rmc Sport 18 '	!zy.1487109861/7!z
 🇫🇷 Rmc Sport Live 5 `	!zy.3452571558/7!z
 🇫🇷 Rmc Sport Live 5 {1} `	!zy.4171564526/7!z
 🇫🇷 Rmc Sport Live 6 `	!zy.1128597573/7!z
@@ -3150,6 +3142,14 @@
 🇫🇷 Rmc Sport Live 8 {1} `	!zy.3927680764/7!z
 🇫🇷 Rmc Sport Live 9 `	!zy.2590317289/7!z
 🇫🇷 Rmc Sport Live 9 {1} `	!zy.1841130943/7!z
+🇫🇷 Rmc Sport Live 10 `	!zy.2045698089/7!z
+🇫🇷 Rmc Sport Live 10 {1} `	!zy.2702225745/7!z
+🇫🇷 Rmc Sport Live 11 `	!zy.3041190071/7!z
+🇫🇷 Rmc Sport Live 12 `	!zy.1003218772/7!z
+🇫🇷 Rmc Sport Live 13 `	!zy.4150388682/7!z
+🇫🇷 Rmc Sport Live 14 `	!zy.4255444691/7!z
+🇫🇷 Rmc Sport Live 15 `	!zy.823062093/7!z
+🇫🇷 Rmc Sport Live 16 `	!zy.3212962222/7!z
 🇫🇷 Rmc Sport News `	!zy.179745605/7!z
 🇫🇷 Rmc Sport News `	!zy.1958125138/7!z
 🇫🇷 Rmc Story '	!zy.968071291/7!z
@@ -4065,14 +4065,6 @@
 🇮🇹 Sky Nature !	!zy.3810188456/7!z
 🇮🇹 Sky Primafila 1 '	!zy.1492183364/7!z
 🇮🇹 Sky Primafila 1 !	!zy.1944682394/7!z
-🇮🇹 Sky Primafila 10 '	!zy.2268489342/7!z
-🇮🇹 Sky Primafila 10 !	!zy.4272937805/7!z
-🇮🇹 Sky Primafila 12 !	!zy.2221901869/7!z
-🇮🇹 Sky Primafila 14 !	!zy.187661709/7!z
-🇮🇹 Sky Primafila 15 !	!zy.911168573/7!z
-🇮🇹 Sky Primafila 16 !	!zy.1911500525/7!z
-🇮🇹 Sky Primafila 17 !	!zy.1284441949/7!z
-🇮🇹 Sky Primafila 18 !	!zy.3470758028/7!z
 🇮🇹 Sky Primafila 2 '	!zy.525374356/7!z
 🇮🇹 Sky Primafila 2 !	!zy.877200714/7!z
 🇮🇹 Sky Primafila 3 '	!zy.573618724/7!z
@@ -4089,6 +4081,14 @@
 🇮🇹 Sky Primafila 8 !	!zy.2130255339/7!z
 🇮🇹 Sky Primafila 9 '	!zy.1753260677/7!z
 🇮🇹 Sky Primafila 9 !	!zy.1134113883/7!z
+🇮🇹 Sky Primafila 10 '	!zy.2268489342/7!z
+🇮🇹 Sky Primafila 10 !	!zy.4272937805/7!z
+🇮🇹 Sky Primafila 12 !	!zy.2221901869/7!z
+🇮🇹 Sky Primafila 14 !	!zy.187661709/7!z
+🇮🇹 Sky Primafila 15 !	!zy.911168573/7!z
+🇮🇹 Sky Primafila 16 !	!zy.1911500525/7!z
+🇮🇹 Sky Primafila 17 !	!zy.1284441949/7!z
+🇮🇹 Sky Primafila 18 !	!zy.3470758028/7!z
 🇮🇹 Sky Serie !	!zy.836680112/7!z
 🇮🇹 Sky Sport !	!zy.924661659/7!z
 🇮🇹 Sky Sport 24 !	!zy.2775802255/7!z
@@ -4439,7 +4439,6 @@
 🇳🇱 Ustad !	!zy.4211423588/7!z
 🇳🇱 Veronica Disney Xd '	!zy.3607349185/7!z
 🇳🇱 Viaplay Event 1 !	!zy.2922568715/7!z
-🇳🇱 Viaplay Event 10 !	!zy.2038080316/7!z
 🇳🇱 Viaplay Event 2 !	!zy.3918702299/7!z
 🇳🇱 Viaplay Event 3 !	!zy.3572666219/7!z
 🇳🇱 Viaplay Event 4 !	!zy.1725059963/7!z
@@ -4448,6 +4447,7 @@
 🇳🇱 Viaplay Event 7 !	!zy.561129899/7!z
 🇳🇱 Viaplay Event 8 !	!zy.2736963194/7!z
 🇳🇱 Viaplay Event 9 !	!zy.2655164362/7!z
+🇳🇱 Viaplay Event 10 !	!zy.2038080316/7!z
 🇳🇱 Viaplay F1 !	!zy.3687874505/7!z
 🇳🇱 Viaplay F1 [match] '	!zy.190889111/7!z
 🇳🇱 Wos TV !	!zy.3632482166/7!z
@@ -4557,6 +4557,14 @@
 🇵🇱 Cinemax 2 !	!zy.932863820/7!z
 🇵🇱 Cinemax 2 `	!zy.1474710776/7!z
 🇵🇱 Cinemax Poland 1 `	!zy.3933402174/7!z
+🇵🇱 Cinemax Poland 2 `	!zy.3556755707/7!z
+🇵🇱 Cinemax Poland 3 `	!zy.3297041592/7!z
+🇵🇱 Cinemax Poland 4 `	!zy.2699407729/7!z
+🇵🇱 Cinemax Poland 5 `	!zy.3080627506/7!z
+🇵🇱 Cinemax Poland 6 `	!zy.2383649271/7!z
+🇵🇱 Cinemax Poland 7 `	!zy.2573766068/7!z
+🇵🇱 Cinemax Poland 8 `	!zy.1188119141/7!z
+🇵🇱 Cinemax Poland 9 `	!zy.1370117670/7!z
 🇵🇱 Cinemax Poland 10 `	!zy.4100501777/7!z
 🇵🇱 Cinemax Poland 11 `	!zy.3809715538/7!z
 🇵🇱 Cinemax Poland 12 `	!zy.3667827095/7!z
@@ -4567,15 +4575,7 @@
 🇵🇱 Cinemax Poland 17 `	!zy.2416565464/7!z
 🇵🇱 Cinemax Poland 18 `	!zy.1336939273/7!z
 🇵🇱 Cinemax Poland 19 `	!zy.1489700682/7!z
-🇵🇱 Cinemax Poland 2 `	!zy.3556755707/7!z
 🇵🇱 Cinemax Poland 20 `	!zy.526322194/7!z
-🇵🇱 Cinemax Poland 3 `	!zy.3297041592/7!z
-🇵🇱 Cinemax Poland 4 `	!zy.2699407729/7!z
-🇵🇱 Cinemax Poland 5 `	!zy.3080627506/7!z
-🇵🇱 Cinemax Poland 6 `	!zy.2383649271/7!z
-🇵🇱 Cinemax Poland 7 `	!zy.2573766068/7!z
-🇵🇱 Cinemax Poland 8 `	!zy.1188119141/7!z
-🇵🇱 Cinemax Poland 9 `	!zy.1370117670/7!z
 🇵🇱 Comedy Central !	!zy.2907107187/7!z
 🇵🇱 Comedy Central Extra !	!zy.1707756539/7!z
 🇵🇱 Crime+ Investigation !	!zy.3453122284/7!z
@@ -6304,7 +6304,6 @@
 🇹🇷 Dinamik Loca-3 `	!zy.4138115962/7!z
 🇹🇷 Dinamik Marvel `	!zy.1558936074/7!z
 🇹🇷 Dinamik Salon 1 `	!zy.4289078283/7!z
-🇹🇷 Dinamik Salon 10 `	!zy.858109830/7!z
 🇹🇷 Dinamik Salon 2 `	!zy.3087425243/7!z
 🇹🇷 Dinamik Salon 3 `	!zy.2238084971/7!z
 🇹🇷 Dinamik Salon 4 `	!zy.927378299/7!z
@@ -6313,6 +6312,7 @@
 🇹🇷 Dinamik Salon 7 `	!zy.1894175147/7!z
 🇹🇷 Dinamik Salon 8 `	!zy.4072031866/7!z
 🇹🇷 Dinamik Salon 9 `	!zy.3486937034/7!z
+🇹🇷 Dinamik Salon 10 `	!zy.858109830/7!z
 🇹🇷 Dinamik Savas `	!zy.3251354376/7!z
 🇹🇷 Dinamik Sener Sen `	!zy.2809722762/7!z
 🇹🇷 Dinamik Turk `	!zy.306993094/7!z
@@ -6354,7 +6354,6 @@
 🇹🇷 Dream Aksiyon `	!zy.1514643536/7!z
 🇹🇷 Dream Animasyon `	!zy.3968360733/7!z
 🇹🇷 Dream Bein Office 1 `	!zy.2759159211/7!z
-🇹🇷 Dream Bein Office 10 `	!zy.3853043495/7!z
 🇹🇷 Dream Bein Office 2 `	!zy.3822393211/7!z
 🇹🇷 Dream Bein Office 3 `	!zy.3736420043/7!z
 🇹🇷 Dream Bein Office 4 `	!zy.1821762267/7!z
@@ -6363,6 +6362,7 @@
 🇹🇷 Dream Bein Office 7 `	!zy.724932619/7!z
 🇹🇷 Dream Bein Office 8 `	!zy.2841972698/7!z
 🇹🇷 Dream Bein Office 9 `	!zy.2483365482/7!z
+🇹🇷 Dream Bein Office 10 `	!zy.3853043495/7!z
 🇹🇷 Dream Box-Set `	!zy.855745980/7!z
 🇹🇷 Dream Dram `	!zy.3548409764/7!z
 🇹🇷 Dream Kemal Sunal `	!zy.95010505/7!z
@@ -6408,11 +6408,6 @@
 🇹🇷 Eno Animasyon '	!zy.3833753338/7!z
 🇹🇷 Eno Turk 1 !	!zy.2233687217/7!z
 🇹🇷 Eno Vizyon 1 '	!zy.1949742603/7!z
-🇹🇷 Eno Vizyon 10 '	!zy.1635384352/7!z
-🇹🇷 Eno Vizyon 11 '	!zy.1545196944/7!z
-🇹🇷 Eno Vizyon 12 '	!zy.465153856/7!z
-🇹🇷 Eno Vizyon 14 '	!zy.2499369696/7!z
-🇹🇷 Eno Vizyon 15 '	!zy.2845406032/7!z
 🇹🇷 Eno Vizyon 2 '	!zy.865520859/7!z
 🇹🇷 Eno Vizyon 3 '	!zy.251061611/7!z
 🇹🇷 Eno Vizyon 4 '	!zy.3168156027/7!z
@@ -6421,6 +6416,11 @@
 🇹🇷 Eno Vizyon 7 '	!zy.4218831787/7!z
 🇹🇷 Eno Vizyon 8 '	!zy.2032587898/7!z
 🇹🇷 Eno Vizyon 9 '	!zy.1145503178/7!z
+🇹🇷 Eno Vizyon 10 '	!zy.1635384352/7!z
+🇹🇷 Eno Vizyon 11 '	!zy.1545196944/7!z
+🇹🇷 Eno Vizyon 12 '	!zy.465153856/7!z
+🇹🇷 Eno Vizyon 14 '	!zy.2499369696/7!z
+🇹🇷 Eno Vizyon 15 '	!zy.2845406032/7!z
 🇹🇷 Eno Western '	!zy.1134525301/7!z
 🇹🇷 Er TV `	!zy.3498658720/7!z
 🇹🇷 Ercis TV !	!zy.2901457550/7!z
@@ -6905,13 +6905,13 @@
 🇹🇷 Sinevizyon 5 '	!zy.567459984/7!z
 🇹🇷 Sinevizyon 8 '	!zy.3644982305/7!z
 🇹🇷 Sinevizyon Turk 1 '	!zy.237327525/7!z
-🇹🇷 Sinevizyon Turk 10 '	!zy.1349345581/7!z
 🇹🇷 Sinevizyon Turk 2 '	!zy.1233464949/7!z
 🇹🇷 Sinevizyon Turk 5 '	!zy.4221956709/7!z
 🇹🇷 Sinevizyon Turk 6 '	!zy.3154479285/7!z
 🇹🇷 Sinevizyon Turk 7 '	!zy.2170921221/7!z
 🇹🇷 Sinevizyon Turk 8 '	!zy.53819092/7!z
 🇹🇷 Sinevizyon Turk 9 '	!zy.1045765988/7!z
+🇹🇷 Sinevizyon Turk 10 '	!zy.1349345581/7!z
 🇹🇷 Sirinler TV '	!zy.1766241745/7!z
 🇹🇷 Sirinler TV `	!zy.383348303/7!z
 🇹🇷 Sirinler TV {1} `	!zy.1556019396/7!z
@@ -7584,12 +7584,6 @@
 🏳️ Bein Sports 1 Premium 4K H265 `	!zy.849681587/7!z
 🏳️ Bein Sports 1 Premium Hevc `	!zy.1697037782/7!z
 🏳️ Bein Sports 1 Premium Low `	!zy.1582724745/7!z
-🏳️ Bein Sports 10 `	!zy.512081022/7!z
-🏳️ Bein Sports 10 `	!zy.2197007780/7!z
-🏳️ Bein Sports 11 `	!zy.602248654/7!z
-🏳️ Bein Sports 11 `	!zy.1314499898/7!z
-🏳️ Bein Sports 12 `	!zy.3235293913/7!z
-🏳️ Bein Sports 13 `	!zy.209496647/7!z
 🏳️ Bein Sports 2 `	!zy.104108606/7!z
 🏳️ Bein Sports 2 `	!zy.235859680/7!z
 🏳️ Bein Sports 2 `	!zy.451029796/7!z
@@ -7684,6 +7678,12 @@
 🏳️ Bein Sports 9 {1} `	!zy.15964420/7!z
 🏳️ Bein Sports 9 Hevc `	!zy.1486077362/7!z
 🏳️ Bein Sports 9 Hq `	!zy.4217694788/7!z
+🏳️ Bein Sports 10 `	!zy.512081022/7!z
+🏳️ Bein Sports 10 `	!zy.2197007780/7!z
+🏳️ Bein Sports 11 `	!zy.602248654/7!z
+🏳️ Bein Sports 11 `	!zy.1314499898/7!z
+🏳️ Bein Sports 12 `	!zy.3235293913/7!z
+🏳️ Bein Sports 13 `	!zy.209496647/7!z
 🏳️ Bein Sports Afc `	!zy.36852918/7!z
 🏳️ Bein Sports Afc `	!zy.2630530373/7!z
 🏳️ Bein Sports Afc `	!zy.2641117215/7!z
@@ -7764,30 +7764,14 @@
 🏳️ Cable Imagen Armstrong `	!zy.3026476090/7!z
 🏳️ Cadena 103 !	!zy.2078493181/7!z
 🏳️ Camaras Live 4 !	!zy.2800794596/7!z
-🏳️ Canal 10 Cordoba !	!zy.554272998/7!z
-🏳️ Canal 10 Neuqu N `	!zy.4197904850/7!z
-🏳️ Canal 10 Nortevision `	!zy.3438017510/7!z
-🏳️ Canal 10 Rio Negro `	!zy.1702779059/7!z
-🏳️ Canal 11 De La Costa `	!zy.4086451019/7!z
-🏳️ Canal 12 Puerto Madryn !	!zy.3461255939/7!z
-🏳️ Canal 12 Puerto Madryn `	!zy.2409855862/7!z
-🏳️ Canal 13 !	!zy.3553045010/7!z
-🏳️ Canal 13 Jujuy !	!zy.3000350147/7!z
-🏳️ Canal 13 La Rioja !	!zy.3748047012/7!z
 🏳️ Canal 2 De Ushuaia `	!zy.173872721/7!z
 🏳️ Canal 2 Misiones !	!zy.1375887607/7!z
 🏳️ Canal 2 Misiones `	!zy.24341643/7!z
 🏳️ Canal 2 Salta `	!zy.4150150474/7!z
 🏳️ Canal 2 Telpin !	!zy.3570028344/7!z
-🏳️ Canal 21 Arg: V `	!zy.4005024279/7!z
-🏳️ Canal 22 !	!zy.1748201740/7!z
-🏳️ Canal 22 `	!zy.3538376624/7!z
-🏳️ Canal 26 !	!zy.2645809100/7!z
 🏳️ Canal 3 Formosa `	!zy.1926369648/7!z
 🏳️ Canal 3 La Pampa `	!zy.3445536003/7!z
 🏳️ Canal 3 Las Heras `	!zy.2584659733/7!z
-🏳️ Canal 34 San Juan !	!zy.3631005081/7!z
-🏳️ Canal 34 San Juan `	!zy.3414323648/7!z
 🏳️ Canal 4 !	!zy.3282210299/7!z
 🏳️ Canal 4 Balcarce `	!zy.4267732037/7!z
 🏳️ Canal 4 Esquel !	!zy.2495980467/7!z
@@ -7797,7 +7781,6 @@
 🏳️ Canal 5 Pico Arg: Runcado `	!zy.571696551/7!z
 🏳️ Canal 5 Pico Truncado !	!zy.972276690/7!z
 🏳️ Canal 5 Santa Fe `	!zy.331121556/7!z
-🏳️ Canal 50 Morteros !	!zy.2051350090/7!z
 🏳️ Canal 6 Digital !	!zy.2558493346/7!z
 🏳️ Canal 6 Moreno `	!zy.3793297151/7!z
 🏳️ Canal 6 Posadas `	!zy.1062444655/7!z
@@ -7808,13 +7791,30 @@
 🏳️ Canal 7 Neuquen !	!zy.3610556806/7!z
 🏳️ Canal 7 Salta !	!zy.3358297960/7!z
 🏳️ Canal 7 TV !	!zy.461409789/7!z
-🏳️ Canal 79 Puan `	!zy.125849707/7!z
-🏳️ Canal 79 Santa Clara Del Mar `	!zy.992954151/7!z
-🏳️ Canal 79 Villa Maza `	!zy.253160236/7!z
 🏳️ Canal 9 Litoral !	!zy.893318363/7!z
 🏳️ Canal 9 Litoral `	!zy.646232909/7!z
 🏳️ Canal 9 Norte Misionero `	!zy.1293079812/7!z
 🏳️ Canal 9 Rio Cuarto !	!zy.231426995/7!z
+🏳️ Canal 10 Cordoba !	!zy.554272998/7!z
+🏳️ Canal 10 Neuqu N `	!zy.4197904850/7!z
+🏳️ Canal 10 Nortevision `	!zy.3438017510/7!z
+🏳️ Canal 10 Rio Negro `	!zy.1702779059/7!z
+🏳️ Canal 11 De La Costa `	!zy.4086451019/7!z
+🏳️ Canal 12 Puerto Madryn !	!zy.3461255939/7!z
+🏳️ Canal 12 Puerto Madryn `	!zy.2409855862/7!z
+🏳️ Canal 13 !	!zy.3553045010/7!z
+🏳️ Canal 13 Jujuy !	!zy.3000350147/7!z
+🏳️ Canal 13 La Rioja !	!zy.3748047012/7!z
+🏳️ Canal 21 Arg: V `	!zy.4005024279/7!z
+🏳️ Canal 22 !	!zy.1748201740/7!z
+🏳️ Canal 22 `	!zy.3538376624/7!z
+🏳️ Canal 26 !	!zy.2645809100/7!z
+🏳️ Canal 34 San Juan !	!zy.3631005081/7!z
+🏳️ Canal 34 San Juan `	!zy.3414323648/7!z
+🏳️ Canal 50 Morteros !	!zy.2051350090/7!z
+🏳️ Canal 79 Puan `	!zy.125849707/7!z
+🏳️ Canal 79 Santa Clara Del Mar `	!zy.992954151/7!z
+🏳️ Canal 79 Villa Maza `	!zy.253160236/7!z
 🏳️ Canal 907 Fm `	!zy.3619033352/7!z
 🏳️ Canal Arg: Dc `	!zy.1463078348/7!z
 🏳️ Canal E !	!zy.118506628/7!z
@@ -8197,9 +8197,6 @@
 🏳️ Musictv Arab `	!zy.2361384741/7!z
 🏳️ Muzik !	!zy.882974983/7!z
 🏳️ My Cinema 1 !	!zy.1939375783/7!z
-🏳️ My Cinema 10 !	!zy.2798118565/7!z
-🏳️ My Cinema 11 !	!zy.2611466005/7!z
-🏳️ My Cinema 12 !	!zy.3691492805/7!z
 🏳️ My Cinema 2 !	!zy.876149879/7!z
 🏳️ My Cinema 3 !	!zy.156816839/7!z
 🏳️ My Cinema 4 !	!zy.3145206231/7!z
@@ -8208,6 +8205,9 @@
 🏳️ My Cinema 7 !	!zy.4242043655/7!z
 🏳️ My Cinema 8 !	!zy.2122900694/7!z
 🏳️ My Cinema 9 !	!zy.1139330406/7!z
+🏳️ My Cinema 10 !	!zy.2798118565/7!z
+🏳️ My Cinema 11 !	!zy.2611466005/7!z
+🏳️ My Cinema 12 !	!zy.3691492805/7!z
 🏳️ Myhd-Mbc 1 `	!zy.2984321198/7!z
 🏳️ Myhd-Mbc 2 `	!zy.1064183629/7!z
 🏳️ Myhd-Mbc 3 `	!zy.4089718739/7!z
@@ -8595,7 +8595,6 @@
 🏴 Arena Sport 1 Hr '	!zy.79472391/7!z
 🏴 Arena Sport 1 Premium !	!zy.1238355296/7!z
 🏴 Arena Sport 1 Srb '	!zy.2389983617/7!z
-🏴 Arena Sport 10 Hr '	!zy.3991014499/7!z
 🏴 Arena Sport 2 `	!zy.2522975011/7!z
 🏴 Arena Sport 2 Bih '	!zy.1441857735/7!z
 🏴 Arena Sport 2 Premium !	!zy.4094009774/7!z
@@ -8612,6 +8611,7 @@
 🏴 Arena Sport 5 {events} '	!zy.2118074007/7!z
 🏴 Arena Sport 5 Srb '	!zy.3549958285/7!z
 🏴 Arena Sport 6 !	!zy.123787077/7!z
+🏴 Arena Sport 10 Hr '	!zy.3991014499/7!z
 🏴 Arena Sport Premium 1 '	!zy.2057912072/7!z
 🏴 Arena Sport Premium 2 '	!zy.1024017880/7!z
 🏴 Arena Sport Premium 3 '	!zy.6909032/7!z
@@ -8636,7 +8636,6 @@
 🏴 Cartoon Network '	!zy.4201794202/7!z
 🏴 Cc Extra `	!zy.867765469/7!z
 🏴 Cine+ Select 1 '	!zy.2523260552/7!z
-🏴 Cine+ Select 10 '	!zy.355106282/7!z
 🏴 Cine+ Select 2 '	!zy.3519388760/7!z
 🏴 Cine+ Select 3 '	!zy.3970282984/7!z
 🏴 Cine+ Select 4 '	!zy.1585801720/7!z
@@ -8644,6 +8643,7 @@
 🏴 Cine+ Select 6 '	!zy.608516760/7!z
 🏴 Cine+ Select 7 '	!zy.421860136/7!z
 🏴 Cine+ Select 9 '	!zy.2786438473/7!z
+🏴 Cine+ Select 10 '	!zy.355106282/7!z
 🏴 Cinema TV Bh '	!zy.3863662541/7!z
 🏴 Cinemania '	!zy.2763008054/7!z
 🏴 Cinemania `	!zy.3999207369/7!z
