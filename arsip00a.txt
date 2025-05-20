@@ -1,14 +1,14 @@
 [g]{s} Ⓗa0 Live Sports Events[z]	^-
 
-👉[g]Sports & TV[z] [l]PlayList[z] #1👈	^^h10
-👉[g]Sports & TV[z] [l]PlayList[z] #2👈	^^h11
+👉[y]Sports & TV[z] [l]PlayList[z] #1👈	^^h10
+👉[y]Sports & TV[z] [l]PlayList[z] #2👈	^^h11
 
 Gol TV	00!0!0/9595?zyy
 🇺🇸 USA Network	00!0!1/3089?zyy
 🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
 
-👉[l]{h} Ⓕb2[z] Fun [g]Sports & TV[z]👈	^^hb2
-👉[l]{h} Ⓦb3[z] Wow [g]Sports & TV[z]👈	^^hb3
+👉[l]{h} Ⓕb2[z] Fun [y]Sports & TV[z]👈	^^hb2
+👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
 
 [g]Live Football Events[z]	^-
 
@@ -28,6 +28,48 @@ New England Revolution vs Chicago Fire	`*https://www.fctv77.live/football/united
 
 09:30 🇺🇸 US Open Cup	^-
 San Jose Earthquakes vs Portland Timbers	`*https://www.fctv77.live/football/united-states-open-cup-match-4183891/san-jose-earthquakes-vs-portland-timbers-05-2025.html
+
+07:30 🇧🇷 Brazilian Cup	^-
+Nautico (PE) vs Sao Paulo	`*https://www.fctv77.live/football/brazilian-cup-match-4172636/nautico-pe-vs-sao-paulo-05-2025.html
+Gremio RS vs Centro Sportivo Alagoano	`*https://www.fctv77.live/football/brazilian-cup-match-4172645/gremio-rs-vs-centro-sportivo-alagoano-05-2025.html
+
+07:30 🇨🇦 Canadian Championship	^-
+Valour vs Vancouver Whitecaps	`*https://www.fctv77.live/football/canadian-championship-match-4185313/valour-vs-vancouver-whitecaps-05-2025.html
+
+15:30 🇦🇺 Australia FFA Cup	^-
+Tuggeranong United vs Canberra FC	`*https://www.fctv77.live/football/australia-ffa-cup-match-4184164/tuggeranong-united-vs-canberra-fc-05-2025.html
+
+17:00 🇦🇺 Australia FFA Cup	^-
+White City Woodville vs Fulham Utd	`*https://www.fctv77.live/football/australia-ffa-cup-match-4182133/white-city-woodville-vs-fulham-united-fc-05-2025.html
+
+18:45 🇸🇬 Singapore Cup	^-
+DPMM FC vs Lion City Sailors	`*https://www.fctv77.live/football/singapore-cup-match-4170006/dpmm-fc-vs-lion-city-sailors-05-2025.html
+
+19:30 ASEAN Club Champ Shopee Cup	^-
+Buriram United vs Cong An Nhan Dan	`*https://www.fctv77.live/football/asean-club-championship-shopee-cup-match-4181292/buriram-united-vs-cong-an-ha-noi-fc-05-2025.html
+
+23:10 🇸🇦 Saudi Professional League	^-
+Al Nassr FC vs Al Khaleej Club	`*https://www.fctv77.live/football/saudi-professional-league-match-4013922/al-nassr-fc-vs-al-khaleej-club-05-2025.html
+
+23:25 🇸🇦 Saudi Professional League	^-
+Al Kholood vs Al-Feiha	`*https://www.fctv77.live/football/saudi-professional-league-match-4013926/al-kholood-vs-al-fayha-05-2025.html
+
+[w]22-05-2025[z]	^-
+
+00:00 🇸🇪 Sweden Superettan	^-
+Utsiktens BK vs Orebro	`*https://www.fctv77.live/football/sweden-superettan-match-4116688/utsiktens-bk-vs-orebro-05-2025.html
+Falkenberg vs Trelleborgs FF	`*https://www.fctv77.live/football/sweden-superettan-match-4116691/falkenberg-vs-trelleborgs-ff-05-2025.html
+Vasteras SK FK vs Ostersunds FK	`*https://www.fctv77.live/football/sweden-superettan-match-4116695/vasteras-sk-fk-vs-ostersunds-fk-05-2025.html
+Orgryte vs Sandvikens IF	`*https://www.fctv77.live/football/sweden-superettan-match-4116724/orgryte-vs-sandvikens-if-05-2025.html
+
+00:45 🇮🇪 Ireland Leinster Senior League	^-
+Killester Donnycarne vs Malahide Utd	`*https://www.fctv77.live/football/ireland-leinster-senior-league-match-4185138/killester-donnycarne-vs-malahide-united-05-2025.html
+
+01:00 🇸🇦 Saudi Professional League	^-
+Al Wehda Mecca vs Al Hilal SFC	`*https://www.fctv77.live/football/saudi-professional-league-match-4013935/al-wehda-mecca-vs-al-hilal-05-2025.html
+
+02:00 [y]UEFA Europa League[z]	^-
+Tottenham Hotspur vs Manchester United	`*https://www.fctv77.live/football/uefa-europa-league-match-4181314/tottenham-hotspur-vs-manchester-united-05-2025.html
 
 []👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/english-national-league-match-4184367/forest-green-rovers-vs-southend-united-05-2025.html
 []** Follow the redirected page until Verification!	^-
