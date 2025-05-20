@@ -3,33 +3,45 @@
 👉[l]New Live Sports & TV Channels #1[z]👈	^^h10
 👉[l]New Live Sports & TV Channels #2[z]👈	^^h11
 
-🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
 Gol TV	00!0!0/9595?zyy
 🇺🇸 USA Network	00!0!1/3089?zyy
+🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
 
 👉[l]{h} Ⓕb2[z] Fun Sports & TV👈	^^hb2
 👉[l]{h} Ⓦb3[z] Wow Sports & TV👈	^^hb3
 
 [g]Live Football Events[z]	^-
 
-[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/categoria-primera-a-match-4116011/depindependiente-medellin-vs-deportivo-pereira-05-2025.html
+[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/bolivian-copa-lfpb-match-4171345/independiente-petrolero-vs-club-guabira-05-2025.html
 []** Follow the redirected page until Verification!	^-
 
 [w]20-05-2025[z]	^-
 
-01:30 [l]UEFA European U17 Championship[z]	^-
-Germany 🇩🇪 U17 vs France 🇫🇷 U17	`*https://www.fctv77.live/football/uefa-european-u17-football-championship-match-4183884/germany-u17-vs-france-u17-05-2025.html
+23:00 🇸🇦 Saudi Professional League	^-
+Al-Qadasiya vs Al-Orubah	`*https://www.fctv77.live/football/saudi-professional-league-match-4013929/al-qadsiah-vs-al-orubah-05-2025.html
 
-01:45 🇮🇪 Ireland Premier Division	^-
-Shelbourne vs Drogheda United	`*https://www.fctv77.live/football/ireland-premier-division-match-4112371/shelbourne-vs-drogheda-united-05-2025.html
+23:00 [l]UEFA European U17 Football Championship[z]	^-
+England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 U17 vs Belgium 🇧🇪 U17	`*https://www.fctv77.live/football/uefa-european-u17-football-championship-match-4183883/england-u17-vs-belgium-u17-05-2025.html
+
+23:20 🇸🇦 Saudi Professional League	^-
+Al-Taawon vs Al-Riyadh	`*https://www.fctv77.live/football/saudi-professional-league-match-4013925/al-taawoun-vs-al-riyadh-05-2025.html
+
+[w]21-05-2025[z]	^-
+
+01:00 🇸🇦 Saudi Professional League	^-
+Al Shabab Riyadh vs Al Ittihad Club	`*https://www.fctv77.live/football/saudi-professional-league-match-4013942/al-shabab-fc-vs-al-ittihad-club-05-2025.html
+
+01:30 [l]UEFA European U17 Football Championship[z]	^-
+Italy 🇮🇹 U17 vs Czech Republic 🇨🇿 U17	`*https://www.fctv77.live/football/uefa-european-u17-football-championship-match-4183882/italy-u17-vs-czech-republic-u17-05-2025.html
 
 02:00 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [y]English Premier League[z]	^-
-Brighton Hove Albion vs Liverpool	`*https://www.fctv77.live/football/english-premier-league-match-3995844/brighton-hove-albion-vs-liverpool-05-2025.html
+Manchester City vs Bournemouth AFC	`*https://www.fctv77.live/football/english-premier-league-match-3995760/manchester-city-vs-bournemouth-afc-05-2025.html
+Crystal Palace vs Wolves	`*https://www.fctv77.live/football/english-premier-league-match-3995778/crystal-palace-vs-wolverhampton-wanderers-05-2025.html
 
-02:00 🇮🇪 Ireland Premier Division	^-
-Shamrock Rovers vs St. Patricks Athletic	`*https://www.fctv77.live/football/ireland-premier-division-match-4112391/shamrock-rovers-vs-st-patricks-athletic-05-2025.html
+06:30 🇺🇸 US Open Cup	^-
+New England Revolution vs Chicago Fire	`*
 
-[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/categoria-primera-a-match-4116011/depindependiente-medellin-vs-deportivo-pereira-05-2025.html
+[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/bolivian-copa-lfpb-match-4171345/independiente-petrolero-vs-club-guabira-05-2025.html
 []** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
@@ -135,6 +147,7 @@ Sky Sports Tennis	https://z.1UK_SKY_SPORTS_TENNIS/index.m3u8
 BEK TV	https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 Fox Deportes	01!01dlive-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 NBC Sports	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd!!0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+NBC Sports	https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v4tilgx2y7n7y/master.m3u8
 NBC TV	i3`06fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 NFL Channel	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd!!002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
@@ -980,10 +993,6 @@ Sky LaLiga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
-^=🇺🇸 USA Net 0	`0http://mu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/3089
-^=🇺🇸 USA Net 1	https://cors.yaamp.ru/http://mu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/3089?zyy
-^=🇺🇸 USA Net 2	https://cors-proxy.cooks.fyi/http://mu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/3089?zyy
-^=🇺🇸 USA Net 3	https://proji.glitch.me/http://mu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/3089?zyy
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=[l]NetPlay Volleyball[z] Nonton Voli	`0https://nontonvoli.blogspot.com/
