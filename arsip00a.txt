@@ -152,6 +152,17 @@ NBC TV	i3`06fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnu
 NFL Channel	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd!!002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
 
+FIFA+ 🇦🇹	https://jmp2.uk/sam-ATBA3300007PT.m3u8
+FIFA+ 🇨🇦	https://jmp2.uk/sam-CABD1200008JG.m3u8
+FIFA+ 🇨🇭	https://jmp2.uk/sam-CHBA3300010UC.m3u8
+FIFA+ 🇩🇪	https://jmp2.uk/sam-DEBA3300019EB.m3u8
+FIFA+ 🇪🇸	https://jmp2.uk/sam-ESBC2700009B4.m3u8
+FIFA+ 🇫🇷	https://jmp2.uk/sam-FRBA3300037Y7.m3u8
+FIFA+ 🇬🇧	https://jmp2.uk/sam-GBBD1100008YW.m3u8
+FIFA+ 🇮🇳	https://jmp2.uk/sam-INBA5100009V3.m3u8
+FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8
+FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8
+
 	^-
 [w]Live Sport TV Channels[z] [l]for Desktop[z]	^-
 
@@ -275,6 +286,8 @@ Sport 🇮🇹 Italia Plus	https://amg01370-italiansportcom-sportitalia-rakuten-
 Mediaset 1 🇮🇹 Italia https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 Sat1 🇩🇪	`0https://streaming.sportsnews.id/p/ch11.html
 Sport enFrance 🇫🇷	https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+L'Equipe Live 1 🇫🇷	https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
+L'Equipe Live 2 🇫🇷	https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
 TV 5 Monde	https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 Setanta Sports UA	https://dark-sunset-ca86.rendypaylater.workers.dev/https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd!!8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 Unifi Sports	https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -676,7 +689,7 @@ MNC SindoNews	01!02aMNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd!!26cc3e3343858d39863
 ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 ID TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-ID PSJ TV	01!01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8?7
+ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 	^-
 [w]24/7 Action Movies Channels[z]	^-
