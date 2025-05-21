@@ -17,25 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]21-05-2025[z]	^-
 
-06:00 🇨🇦 Canadian Championship	^-
-Forge FC vs Montreal Impact	`*https://www.fctv77.live/football/canadian-championship-match-4185312/forge-fc-vs-montreal-impact-05-2025.html
-
-06:30 🇦🇷 Argentine Division 1	^-
-River Plate vs CA Platense	`*https://www.fctv77.live/football/argentine-division-1-match-4183187/river-plate-vs-ca-platense-05-2025.html
-
-06:30 🇺🇸 US Open Cup	^-
-New England Revolution vs Chicago Fire	`*https://www.fctv77.live/football/united-states-open-cup-match-4183890/new-england-revolution-vs-chicago-fire-05-2025.html
-
-09:30 🇺🇸 US Open Cup	^-
-San Jose Earthquakes vs Portland Timbers	`*https://www.fctv77.live/football/united-states-open-cup-match-4183891/san-jose-earthquakes-vs-portland-timbers-05-2025.html
-
-07:30 🇧🇷 Brazilian Cup	^-
-Nautico (PE) vs Sao Paulo	`*https://www.fctv77.live/football/brazilian-cup-match-4172636/nautico-pe-vs-sao-paulo-05-2025.html
-Gremio RS vs Centro Sportivo Alagoano	`*https://www.fctv77.live/football/brazilian-cup-match-4172645/gremio-rs-vs-centro-sportivo-alagoano-05-2025.html
-
-07:30 🇨🇦 Canadian Championship	^-
-Valour vs Vancouver Whitecaps	`*https://www.fctv77.live/football/canadian-championship-match-4185313/valour-vs-vancouver-whitecaps-05-2025.html
-
 15:30 🇦🇺 Australia FFA Cup	^-
 Tuggeranong United vs Canberra FC	`*https://www.fctv77.live/football/australia-ffa-cup-match-4184164/tuggeranong-united-vs-canberra-fc-05-2025.html
 
@@ -1040,6 +1021,15 @@ Sky LaLiga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
+^=🇵🇹 Sport TV 1	`0https://sportsonline.si/channels/pt/sporttv1.php
+^=🇵🇹 Sport TV 2	`0https://sportsonline.si/channels/pt/sporttv2.php
+^=🇵🇹 Sport TV 3	`0https://sportsonline.si/channels/pt/sporttv3.php
+^=🇵🇹 Sport TV 4	`0https://sportsonline.si/channels/pt/sporttv4.php
+^=🇵🇹 Sport TV 5	`0https://sportsonline.si/channels/pt/sporttv5.php
+^=🇵🇹 Eleven Sports 1	`0https://sportsonline.si/channels/pt/eleven1.php
+^=🇵🇹 Eleven Sports 2	`0https://sportsonline.si/channels/pt/eleven2.php
+^=🇵🇹 Eleven Sports 3	`0https://sportsonline.si/channels/pt/eleven3.php
+^=🇵🇹 Benefica TV	`0https://sportsonline.si/channels/pt/btv.php
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=[l]NetPlay Volleyball[z] Nonton Voli	`0https://nontonvoli.blogspot.com/
