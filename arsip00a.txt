@@ -1021,15 +1021,8 @@ Sky LaLiga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
-^=🇵🇹 Sport TV 1	`0https://sportsonline.si/channels/pt/sporttv1.php
-^=🇵🇹 Sport TV 2	`0https://sportsonline.si/channels/pt/sporttv2.php
-^=🇵🇹 Sport TV 3	`0https://sportsonline.si/channels/pt/sporttv3.php
-^=🇵🇹 Sport TV 4	`0https://sportsonline.si/channels/pt/sporttv4.php
-^=🇵🇹 Sport TV 5	`0https://sportsonline.si/channels/pt/sporttv5.php
-^=🇵🇹 Eleven Sports 1	`0https://sportsonline.si/channels/pt/eleven1.php
-^=🇵🇹 Eleven Sports 2	`0https://sportsonline.si/channels/pt/eleven2.php
-^=🇵🇹 Eleven Sports 3	`0https://sportsonline.si/channels/pt/eleven3.php
-^=🇵🇹 Benefica TV	`0https://sportsonline.si/channels/pt/btv.php
+^=hd9blog	`0https://embedsp.blogspot.com/hd/hd9
+^=hd9szo	`0https://sportzonline.ps/channels/hd/hd9.php
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=[l]NetPlay Volleyball[z] Nonton Voli	`0https://nontonvoli.blogspot.com/
