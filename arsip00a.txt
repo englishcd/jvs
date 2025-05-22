@@ -394,7 +394,7 @@ Match! TV 🇷🇺	https://video.beeline.tv/live/d/channel317.isml/manifest-stb.
 [g]YouTube Favorite Streaming[z]	^-
 
 Makkah Live	https://www.youtube.com/watch?v=XHzoK6BJK8Q
-Madinah Live	https://www.youtube.com/watch?v=yWw0DWJQVtU
+Madinah Live	https://www.youtube.com/watch?v=rHWSRMcGGBQ
 The World Live. EarthTV	https://www.youtube.com/watch?v=HfgIFGbdGJ0
 Angry Birds 1	https://www.youtube.com/watch?v=vnqWVuU0sns
 Angry Birds 2	https://www.youtube.com/watch?v=7QJ9ZS4QC94
@@ -413,11 +413,11 @@ Cartoon Network 2	https://www.youtube.com/watch?v=uUCTOHriQCg
 Cartoonito	https://www.youtube.com/watch?v=p5l3ZS1jVUE
 Masha and The Bear	https://www.youtube.com/watch?v=ajK6TflcuBc
 Nicktoons	https://www.youtube.com/watch?v=5-6_PVhnZ0g
-Om Nom Stories	https://www.youtube.com/watch?v=dUK8gWPccDc
-SpongeBob 🇮🇩	https://www.youtube.com/watch?v=7ZlpCM4WtMI
+Om Nom Stories	https://www.youtube.com/watch?v=5qOi2uYTdX0
+SpongeBob 🇮🇩	https://www.youtube.com/watch?v=1Q6qVdiCA6Y
 Shaun the Sheep	https://www.youtube.com/watch?v=EZsmbpdjHRc
 Timmy & Friends	https://www.youtube.com/watch?v=MSXaxnnDOvY
-Muse Indonesia	https://www.youtube.com/watch?v=1dbh9_mnw7E
+Muse Indonesia	https://www.youtube.com/watch?v=zI6anm6WXrE
 Mr. Bean Classic	https://www.youtube.com/watch?v=NOCisq9ASyM
 Mr. Bean Cartoon	https://www.youtube.com/watch?v=CzWq54WESp8
 RailCowGirl	https://www.youtube.com/watch?v=czoEAKX9aaM
@@ -431,7 +431,6 @@ JTBC Drama 🇰🇷 4	https://www.youtube.com/watch?v=XYg58WbOVtY
 JTBC Drama 🇰🇷 5	https://www.youtube.com/watch?v=k56lD1GfnmY
 JTBC Drama 🇰🇷 6	https://www.youtube.com/watch?v=QocpB3PIgQw
 KBS World 🇰🇷	https://www.youtube.com/watch?v=OxQQsIvJTTU
-tvN D Ent 🇰🇷	https://www.youtube.com/watch?v=IB7zflbICFM
 YTN Live 🇰🇷	https://www.youtube.com/watch?v=FJfwehhzIhw
 STV News Hokkaido 🇯🇵 1	https://www.youtube.com/watch?v=hA46WfBYdgo
 STV News Hokkaido 🇯🇵 2	https://www.youtube.com/watch?v=atuUrJCgCPM
