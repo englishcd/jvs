@@ -12,16 +12,10 @@ Gol TV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/chilean-primera-division-match-4124348/deportes-limache-vs-universidad-de-chile-05-2025.html
+[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/jamaica-premier-league-match-4185407/cavalier-fc-vs-mount-pleasant-fa-05-2025.html
 []** Follow the redirected page until Verification!	^-
 
 [w]23-05-2025[z]	^-
-
-09:00 🇲🇽 Mexico Liga MX	^-
-Club America vs Toluca	`*https://www.fctv77.live/football/mexico-liga-mx-match-4185055/club-america-vs-toluca-05-2025.html
-
-09:00 🇵🇪 Peruvian Liga 1	^-
-Unive De Deportes vs Sporting Cristal	`*https://www.fctv77.live/football/peruvian-liga-1-match-4140319/universitario-de-deportes-vs-sporting-cristal-05-2025.html
 
 15:30 🇮🇩 Indonesian Liga 1	^-
 Persik Kediri vs Borneo FC	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029679/persik-kediri-vs-borneo-fc-05-2025.html
@@ -42,25 +36,53 @@ Belgium 🇧🇪 U17 vs Czech Rep 🇨🇿 U17	`*https://www.fctv77.live/footbal
 23:00 🇸🇦 Saudi Arabia Division 1	^-
 Al-adalh vs Al Bukayriyah	`*https://www.fctv77.live/football/saudi-arabia-division-1-match-4185192/al-adalah-vs-al-bukayriyah-05-2025.html
 
-[w]23-05-2025[z]	^-
+[w]24-05-2025[z]	^-
 
 00:00 🇩🇰 Danish 1st Division	^-
 Odense BK vs Esbjerg	`*https://www.fctv77.live/football/danish-1st-division-match-4161437/odense-bk-vs-esbjerg-05-2025.html
 Hvidovre IF vs AC Horsens	`*https://www.fctv77.live/football/danish-1st-division-match-4161440/hvidovre-if-vs-ac-horsens-05-2025.html
 Fredericia vs Kolding FC	`*https://www.fctv77.live/football/danish-1st-division-match-4161449/fredericia-vs-kolding-fc-05-2025.html
 
+00:30 🇷🇴 Romanian Liga I	^-
+CFR Cluj vs Fotbal Club FCSB	`*https://www.fctv77.live/football/romanian-liga-i-match-4152040/cfr-cluj-vs-fotbal-club-fcsb-05-2025.html
+
 00:30 🇦🇹 Austrian Bundesliga	^-
 Austria Klagenfurt vs TSV Hartberg	`*https://www.fctv77.live/football/austrian-bundesliga-match-4156739/sk-austria-klagenfurt-vs-tsv-hartberg-05-2025.html
 LASK Linz vs Rheindorf Altach	`*https://www.fctv77.live/football/austrian-bundesliga-match-4156751/lask-linz-vs-rheindorf-altach-05-2025.html
 WSG Swarovski Tirol vs Grazer AK	`*https://www.fctv77.live/football/austrian-bundesliga-match-4156760/wsg-tirol-vs-grazer-ak-05-2025.html
 
+01:00 🇺🇾 Uruguay Primera Division	^-
+Racing Club Monte vs Boston River	`*https://www.fctv77.live/football/uruguay-primera-division-match-4185547/racing-club-montevideo-vs-boston-river-05-2025.html
+
+01:30 [l]UEFA European U17 Championship[z]	^-
+Italy 🇮🇹 U17 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 U17	`*https://www.fctv77.live/football/uefa-european-u17-football-championship-match-4183878/italy-u17-vs-england-u17-05-2025.html
+
+01:45 🇮🇹 [y]Italian Serie A[z]	^-
+Napoli vs Cagliari	`*https://www.fctv77.live/football/italian-serie-a-match-3994017/napoli-vs-cagliari-05-2025.html
+Como vs Inter Milan	`*https://www.fctv77.live/football/italian-serie-a-match-3994085/como-vs-inter-milan-05-2025.html
+
+01:45 🇧🇪 Belgian Pro League	^-
+Cercle Brugge vs Patro Eisden	`*https://www.fctv77.live/football/belgian-pro-league-match-4184079/cercle-brugge-vs-patro-eisden-05-2025.html
+
+02:00 🇪🇸 [y]Spanish La Liga[z]	^-
+Real Betis vs Valencia	`*https://www.fctv77.live/football/spanish-la-liga-match-3994950/real-betis-vs-valencia-cf-05-2025.html
+
+03:30 🇵🇪 Peruvian Liga 1	^-
+Alianza Universidad vs FBC Melgar	`*https://www.fctv77.live/football/peruvian-liga-1-match-4140320/alianza-universidad-de-hunuco-vs-fbc-melgar-05-2025.html
+
 04:00 🇯🇲 Jamaica Premier League	^-
 Arnett Gardens vs Montego Bay Utd	`*https://www.fctv77.live/football/jamaica-premier-league-match-4185406/arnett-gardens-vs-montego-bay-utd-05-2025.html
+
+04:30 🇪🇨 LigaPro Serie A	^-
+Independ Jose Teran vs Mushuc Runa	`*https://www.fctv77.live/football/ligapro-serie-a-match-4118449/independiente-del-valle-vs-mushuc-runa-05-2025.html
 
 05:00 🇨🇱 Chilean Primera Division	^-
 Deportes Limache vs Univ de Chile	`*https://www.fctv77.live/football/chilean-primera-division-match-4124348/deportes-limache-vs-universidad-de-chile-05-2025.html
 
-[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/chilean-primera-division-match-4124348/deportes-limache-vs-universidad-de-chile-05-2025.html
+07:00 🇯🇲 Jamaica Premier League	^-
+Cavalier FC vs Mount Pleasant FA	`*https://www.fctv77.live/football/jamaica-premier-league-match-4185407/cavalier-fc-vs-mount-pleasant-fa-05-2025.html
+
+[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/jamaica-premier-league-match-4185407/cavalier-fc-vs-mount-pleasant-fa-05-2025.html
 []** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
