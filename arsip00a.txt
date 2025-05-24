@@ -298,7 +298,7 @@ Arminia Bielefeld vs VfB Stuttgart	`*https://www.fctv77.live/football/dfb-pokal-
 01:00 🇺🇾 Uruguay Primera Division	^-
 CA Juventud vs Torque	`*https://www.fctv77.live/football/uruguay-primera-division-match-4185720/ca-juventud-vs-montevideo-city-torque-05-2025.html
 
-01:45 🇮🇹 [g]Italian Serie A[z]	^-
+01:45 🇮🇹 [y]Italian Serie A[z]	^-
 AC Milan vs Monza	`*https://www.fctv77.live/football/italian-serie-a-match-3994128/ac-milan-vs-monza-05-2025.html
 
 02:00 🇪🇸 [y]Spanish La Liga[z]	^-
