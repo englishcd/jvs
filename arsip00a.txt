@@ -17,54 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]24-05-2025[z]	^-
 
-16:00 🇮🇩 Indonesian Liga 1	^-
-Madura United vs PSS Sleman	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029672/madura-united-vs-pss-sleman-05-2025.html
-PSIS Semarang vs Barito Putera	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029673/psis-semarang-vs-barito-putera-05-2025.html
-Persib Bandung vs Persis Solo FC	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029674/persib-bandung-vs-persis-solo-fc-05-2025.html
-Arema FC vs Semen Padang	`*https://www.fctv77.live/football/indonesian-liga-1-match-4029678/arema-fc-vs-semen-padang-05-2025.html
-
-16:00 🇦🇺 National Premier Leagues Victoria	^-
-Dandenong Thunder vs Hume City	`*https://www.fctv77.live/football/national-premier-leagues-victoria-match-4123684/dandenong-thunder-vs-hume-city-05-2025.html
-
-16:00 🇦🇺 National Premier Leagues Queensland	^-
-Queensland Lions SC vs Peninsula Power	`*https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4123968/queensland-lions-sc-vs-peninsula-power-05-2025.html
-
-16:00 🇦🇺 New South Wales Premier League	^-
-Mt Druitt Town vs West Sydney Wander	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127721/mt-druitt-town-rangers-fc-vs-western-sydney-wanderers-am-05-2025.html
-Wollongong Wolves vs Leichhardt Tigers	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127725/wollongong-wolves-vs-apia-leichhardt-tigers-05-2025.html
-
-16:00 🇦🇺 Australian Welsh League	^-
-Mounties Wander vs Canterbury Bankstown	`*https://www.fctv77.live/football/australian-welsh-league-match-4129400/mounties-wanderers-vs-canterbury-bankstown-fc-05-2025.html
-Bulls Academy vs Northern Tigers	`*https://www.fctv77.live/football/australian-welsh-league-match-4129401/bulls-academy-vs-northern-tigers-05-2025.html
-Inter Lions vs Newcastle Jets (Y)	`*https://www.fctv77.live/football/australian-welsh-league-match-4129402/inter-lions-vs-newcastle-jets-fc-youth-05-2025.html
-
-16:00 🇦🇺 Western National Premier Leagues	^-
-Perth Glory (Y) vs Olympic Kingsway	`*https://www.fctv77.live/football/western-australia-national-premier-leagues-match-4133701/perth-glory-youth-vs-olympic-kingsway-sc-05-2025.html
-Stirling Macedonia vs Western Knights	`*https://www.fctv77.live/football/western-australia-national-premier-leagues-match-4133785/stirling-macedonia-vs-western-knights-05-2025.html
-
-16:00 🇦🇺 QLD D2	^-
-Grange Thistle SC vs Robina City Blue	`*https://www.fctv77.live/football/qld-d2-match-4142995/grange-thistle-sc-vs-robina-city-blue-05-2025.html
-
-16:00 🇺🇦 Ukrainian First League	^-
-FK Epitsentr Dunayivtsi vs Kudrivka	`*https://www.fctv77.live/football/ukrainian-first-league-match-4160961/fk-epitsentr-dunayivtsi-vs-kudrivka-05-2025.html
-Metalist Kharkiv vs SC Poltava	`*https://www.fctv77.live/football/ukrainian-first-league-match-4160963/metalist-kharkiv-vs-sc-poltava-05-2025.html
-FC Bukovyna chernivtsi vs UCSA	`*https://www.fctv77.live/football/ukrainian-first-league-match-4160966/fc-bukovyna-chernivtsi-vs-ucsa-05-2025.html
-Ahrobiznes TSKR vs Metalist 25 Kharkiv	`*https://www.fctv77.live/football/ukrainian-first-league-match-4160967/ahrobiznes-tsk-romny-vs-metalist-1925-kharkiv-05-2025.html
-
-16:00 🇦🇺 New South Wales League 2	^-
-Fraser Park FC vs Camden Tigers SC	`*https://www.fctv77.live/football/australia-new-south-wales-league-2-match-4185623/fraser-park-fc-vs-camden-tigers-sc-05-2025.html
-Bankstown United FC vs Hawkesbury	`*https://www.fctv77.live/football/australia-new-south-wales-league-2-match-4185629/bankstown-united-fc-vs-hawkesbury-05-2025.html
-Dunbar Rovers FC vs Hearst Neville	`*https://www.fctv77.live/football/australia-new-south-wales-league-2-match-4185632/dunbar-rovers-fc-vs-hearst-neville-05-2025.html
-
-16:00 🇦🇹 Austrian Landesliga	^-
-UFC Siezenheim vs USK Anif	`*https://www.fctv77.live/football/austrian-landesliga-match-4186286/ufc-siezenheim-vs-usk-anif-05-2025.html
-
-16:15 🇦🇺 New South Wales Premier League	^-
-St George City vs Rockdale City Suns	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127762/st-george-city-fa-vs-rockdale-city-suns-05-2025.html
-
-16:30 🇦🇺 New South Wales Premier League	^-
-St George Saints vs Sydney Olympic	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127719/st-george-saints-vs-sydney-olympic-05-2025.html
-
 16:35 🇦🇺 Australia A-League	^-
 Melbourne City vs Western United FC	`*https://www.fctv77.live/football/australia-a-league-match-4181924/melbourne-city-vs-western-united-fc-05-2025.html
 
