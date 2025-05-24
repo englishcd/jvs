@@ -17,35 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]24-05-2025[z]	^-
 
-21:00 🇳🇴 Norwegian Eliteserien	^-
-Bryne vs Fredrikstad	`*https://www.fctv77.live/football/norwegian-eliteserien-match-4112099/bryne-vs-fredrikstad-05-2025.html
-
-21:00 🇫🇮 Finnish Veikkausliiga	^-
-Ilves Tampere vs AC Oulu	`*https://www.fctv77.live/football/finnish-veikkausliiga-match-4113451/ilves-tampere-vs-ac-oulu-05-2025.html
-
-21:00 🇺🇿 Uzbekistan Super League	^-
-Neftchi Fargona vs Shurtan Guzor	`*https://www.fctv77.live/football/uzbekistan-super-league-match-4147814/neftchi-fargona-vs-shurtan-guzor-05-2025.html
-
-21:00 🇬🇪 Georgia Erovnuli Liga	^-
-FC Kolkheti Poti vs Dila Gori	`*https://www.fctv77.live/football/georgia-erovnuli-liga-match-4153269/fc-kolkheti-poti-vs-dila-gori-05-2025.html
-
-21:00 🇨🇿 Czech First League	^-
-Slavia Praha vs Banik Ostrava	`*https://www.fctv77.live/football/czech-first-league-match-4174446/slavia-praha-vs-banik-ostrava-05-2025.html
-Sparta Praha vs Sigma Olomouc	`*https://www.fctv77.live/football/czech-first-league-match-4174447/sparta-praha-vs-sigma-olomouc-05-2025.html
-FC Viktoria Plzen vs Baumit Jablonec	`*https://www.fctv77.live/football/czech-first-league-match-4174449/fc-viktoria-plzen-vs-baumit-jablonec-05-2025.html
-
-21:00 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Cup	^-
-Aberdeen vs Celtic FC	`*https://www.fctv77.live/football/scottish-cup-match-4182802/aberdeen-vs-celtic-fc-05-2025.html
-
-21:00 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English League Championship	^-
-Sheffield United vs Sunderland A.F.C	`*https://www.fctv77.live/football/english-football-league-championship-match-4183225/sheffield-united-vs-sunderland-05-2025.html
-
-21:10 🇦🇪 UAE Adnoc Pro-League	^-
-Dubba Al-Husun vs Al Oruba (UAE)	`*https://www.fctv77.live/football/united-arab-emirates-adnoc-pro-league-match-4183070/dibba-al-hisn-vs-al-oroobauae-05-2025.html
-
-21:15 🇪🇸 [y]Spanish La Liga[z]	^-
-Real Madrid vs Real Sociedad	`*https://www.fctv77.live/football/spanish-la-liga-match-3994845/real-madrid-vs-real-sociedad-05-2025.html
-
 22:00 🇺🇦 Ukrainian Premier League	^-
 Dynamo Kyiv vs Kolos Kovalyovka	`*https://www.fctv77.live/football/ukrainian-premier-league-match-3999543/dynamo-kyiv-vs-kolos-kovalivka-05-2025.html
 
