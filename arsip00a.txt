@@ -17,34 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]24-05-2025[z]	^-
 
-20:00 🇹🇷 Turkish Super League	^-
-Eyupspor vs Antalyaspor	`*https://www.fctv77.live/football/turkish-super-league-match-3996760/eyupspor-vs-antalyaspor-05-2025.html
-
-20:00 🇸🇮 Slovenia 1.Liga	^-
-NK Bravo vs NK Olimpija Ljubljana	`*https://www.fctv77.live/football/slovenia-1-liga-match-4001702/nk-bravo-vs-nk-olimpija-ljubljana-05-2025.html
-
-20:00 🇿🇦 South Africa Premier League	^-
-AmaZulu vs Orlando Pirates	`*https://www.fctv77.live/football/south-africa-premier-soccer-league-match-4055886/amazulu-vs-orlando-pirates-05-2025.html
-Lamontville Golden vs Sekhukhune Utd	`*https://www.fctv77.live/football/south-africa-premier-soccer-league-match-4055890/lamontville-golden-arrows-vs-sekhukhune-united-05-2025.html
-Cape Town City vs Stellenbosch FC	`*https://www.fctv77.live/football/south-africa-premier-soccer-league-match-4055911/cape-town-city-fc-vs-stellenbosch-fc-05-2025.html
-Magesi vs Marumo Gallants FC	`*https://www.fctv77.live/football/south-africa-premier-soccer-league-match-4055928/magesi-vs-marumo-gallants-fc-05-2025.html
-Kaizer Chiefs vs Polokwane City FC	`*https://www.fctv77.live/football/south-africa-premier-soccer-league-match-4055998/kaizer-chiefs-vs-polokwane-city-fc-05-2025.html
-Supersport United vs Richards Bay	`*https://www.fctv77.live/football/south-africa-premier-soccer-league-match-4056004/supersport-united-vs-richards-bay-05-2025.html
-
-20:00 🇸🇪 Sweden Allsvenskan	^-
-IFK Varnamo vs Osters IF	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116508/ifk-varnamo-vs-osters-if-05-2025.html
-
-20:00 🇸🇪 Sweden Superettan	^-
-Ostersunds FK vs Orebro	`*https://www.fctv77.live/football/sweden-superettan-match-4116736/ostersunds-fk-vs-orebro-05-2025.html
-
-20:00 🇩🇰 Danish Superliga	^-
-Lyngby vs Aalborg	`*https://www.fctv77.live/football/danish-superliga-match-4159214/lyngby-vs-aalborg-05-2025.html
-Silkeborg vs Viborg	`*https://www.fctv77.live/football/danish-superliga-match-4159235/silkeborg-vs-viborg-05-2025.html
-Vejle vs Sonderjyske	`*https://www.fctv77.live/football/danish-superliga-match-4159401/vejle-vs-sonderjyske-05-2025.html
-
-20:00 CAF Champions League	^-
-Mamelodi Sundowns vs Pyramids FC	`*https://www.fctv77.live/football/caf-champions-league-match-4180496/mamelodi-sundowns-vs-pyramids-fc-05-2025.html
-
 20:30 🇷🇺 Russian Premier League	^-
 Fakel vs Krylya Sovetov	`*https://www.fctv77.live/football/russian-premier-league-match-3984931/fakel-voronezh-vs-krylya-sovetov-05-2025.html
 FC Krasnodar vs Dynamo Moscow	`*https://www.fctv77.live/football/russian-premier-league-match-3984981/fk-krasnodar-vs-dynamo-moscow-05-2025.html
