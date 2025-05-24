@@ -17,33 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]24-05-2025[z]	^-
 
-16:35 🇦🇺 Australia A-League	^-
-Melbourne City vs Western United FC	`*https://www.fctv77.live/football/australia-a-league-match-4181924/melbourne-city-vs-western-united-fc-05-2025.html
-
-17:00 🇸🇬 Singapore Premier League	^-
-Hougang United FC vs DPMM FC	`*https://www.fctv77.live/football/singapore-premier-league-match-3962230/hougang-united-fc-vs-dpmm-fc-05-2025.html
-Tampines Rovers vs Lion City Sailors	`*https://www.fctv77.live/football/singapore-premier-league-match-3962237/tampines-rovers-fc-vs-lion-city-sailors-05-2025.html
-
-17:00 🇷🇺 Russian National League	^-
-Rotor Volgograd vs FC Ufa	`*https://www.fctv77.live/football/russian-national-football-league-match-3995212/rotor-volgograd-vs-fk-ufa-05-2025.html
-Ural Sverdlovsk O vs SKA Khabarovsk	`*https://www.fctv77.live/football/russian-national-football-league-match-3995222/ural-yekaterinburg-vs-ska-khabarovsk-05-2025.html
-Arsenal Tula vs Baltika Kaliningrad	`*https://www.fctv77.live/football/russian-national-football-league-match-3995311/arsenal-tula-vs-baltika-kaliningrad-05-2025.html
-Yenisey Krasnoyarsk vs Tyumen	`*https://www.fctv77.live/football/russian-national-football-league-match-3995312/yenisey-krasnoyarsk-vs-tyumen-05-2025.html
-Chernomorets Novorossijsk vs FK Sochi	`*https://www.fctv77.live/football/russian-national-football-league-match-3995340/chernomorets-novorossijsk-vs-fc-sochi-05-2025.html
-Alania Vladikavkaz vs N Nizhnekamsk	`*https://www.fctv77.live/football/russian-national-football-league-match-3995385/alania-vladikavkaz-vs-neftekhimik-nizhnekamsk-05-2025.html
-Torpedo Moscow vs Naberezhnye Chelny	`*https://www.fctv77.live/football/russian-national-football-league-match-3995386/torpedo-moscow-vs-kamaz-naberezhnye-chelny-05-2025.html
-Sokol vs Chaika Peschanokopskoe	`*https://www.fctv77.live/football/russian-national-football-league-match-3995418/sokol-vs-chaika-peschanokopskoe-05-2025.html
-
-17:00 🇺🇦 Ukrainian Premier League	^-
-Chernomorets Odessa vs FK Oleksandria	`*https://www.fctv77.live/football/ukrainian-premier-league-match-3999537/chernomorets-odessa-vs-fk-oleksandria-05-2025.html
-
-17:00 🇰🇷 Korean K League 1	^-
-Daejeon Citizen vs Daegu FC	`*https://www.fctv77.live/football/korean-k-league-1-match-4109523/daejeon-citizen-vs-daegu-football-club-05-2025.html
-Ulsan Hyundai FC vs Gimcheon Sangmu FC	`*https://www.fctv77.live/football/korean-k-league-1-match-4109607/ulsan-hd-fc-vs-gimcheon-sangmu-football-club-05-2025.html
-
-17:00 🇦🇺 South National Premier Leagues	^-
-Metrostars SC vs Para Hills Knights SC	`*https://www.fctv77.live/football/south-australia-national-premier-leagues-match-4117685/metrostars-sc-vs-para-hills-knlghts-sc-05-2025.html
-
 17:30 🇦🇺 Darwin Premier League	^-
 Hellenic AC vs University Azzurri FC	`*https://www.fctv77.live/football/australia-darwin-premier-league-match-4185802/hellenic-ac-vs-university-azzurri-fc-05-2025.html
 
