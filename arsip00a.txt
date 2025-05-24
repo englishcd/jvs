@@ -17,36 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]24-05-2025[z]	^-
 
-22:00 🇺🇦 Ukrainian Premier League	^-
-Dynamo Kyiv vs Kolos Kovalyovka	`*https://www.fctv77.live/football/ukrainian-premier-league-match-3999543/dynamo-kyiv-vs-kolos-kovalivka-05-2025.html
-
-22:00 🇷🇴 Romanian Liga I	^-
-Universitaea Cluj vs Rapid Bucuresti	`*https://www.fctv77.live/football/romanian-liga-i-match-4152038/fc-universitatea-cluj-vs-fc-rapid-1923-05-2025.html
-
-22:00 🇦🇹 Austrian Bundesliga	^-
-Austria Wien vs FC Blau Weiss Linz	`*https://www.fctv77.live/football/austrian-bundesliga-match-4156863/austria-vienna-vs-fc-blau-weiss-linz-05-2025.html
-Red Bull Salzburg vs Rapid Wien	`*https://www.fctv77.live/football/austrian-bundesliga-match-4156868/red-bull-salzburg-vs-rapid-wien-05-2025.html
-Sturm Graz vs Wolfsberger AC	`*https://www.fctv77.live/football/austrian-bundesliga-match-4156880/sturm-graz-vs-wolfsberger-ac-05-2025.html
-
-22:00 🇷🇸 Serbian Super liga	^-
-FK Spartak Zlatibor Voda vs Tekstilac	`*https://www.fctv77.live/football/serbian-super-liga-match-4169619/fk-spartak-zlatibor-voda-vs-tekstilac-05-2025.html
-Radnicki Nis vs Jedinstvo UB	`*https://www.fctv77.live/football/serbian-super-liga-match-4169623/radnicki-nis-vs-jedinstvo-ub-05-2025.html
-IMT Novi Beograd vs Napredak Krusevac	`*https://www.fctv77.live/football/serbian-super-liga-match-4169624/fk-imt-belgrad-vs-fk-napredak-krusevac-05-2025.html
-
-22:30 🇵🇱 PKO Bank Polski EKSTRAKLASA	^-
-Rakow Czestochowa vs Widzew lodz	`*https://www.fctv77.live/football/pko-bank-polski-ekstraklasa-match-3981046/rakow-czestochowa-vs-widzew-lodz-05-2025.html
-Legia Warszawa vs Stal Mielec	`*https://www.fctv77.live/football/pko-bank-polski-ekstraklasa-match-3981047/legia-warszawa-vs-stal-mielec-05-2025.html
-Radomiak Radom vs Motor Lublin	`*https://www.fctv77.live/football/pko-bank-polski-ekstraklasa-match-3981097/radomiak-radom-vs-motor-lublin-05-2025.html
-Lech Poznan vs Piast Gliwice	`*https://www.fctv77.live/football/pko-bank-polski-ekstraklasa-match-3981099/lech-poznan-vs-piast-gliwice-05-2025.html
-Jagiellonia Bialystok vs Pogon Szczecin	`*https://www.fctv77.live/football/pko-bank-polski-ekstraklasa-match-3981114/jagiellonia-bialystok-vs-pogon-szczecin-05-2025.html
-Puszcza Niepolomice vs Slask Wroclaw	`*https://www.fctv77.live/football/pko-bank-polski-ekstraklasa-match-3981116/puszcza-niepolomice-vs-slask-wroclaw-05-2025.html
-Gornik Zabrze vs Korona Kielce	`*https://www.fctv77.live/football/pko-bank-polski-ekstraklasa-match-3981117/gornik-zabrze-vs-korona-kielce-05-2025.html
-Lechia Gdansk vs GKS Katowice	`*https://www.fctv77.live/football/pko-bank-polski-ekstraklasa-match-3981118/lechia-gdansk-vs-gks-katowice-05-2025.html
-Zaglebie Lubin vs Cracovia Krakow	`*https://www.fctv77.live/football/pko-bank-polski-ekstraklasa-match-3981119/zaglebie-lubin-vs-cracovia-krakow-05-2025.html
-
-22:30 🇸🇪 Sweden Allsvenskan	^-
-GAIS vs IK Sirius FK	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116493/gais-vs-ik-sirius-fk-05-2025.html
-
 22:30 🇦🇷 Copa Argentina	^-
 Deportivo Riestra vs Deportivo Armenio	`*https://www.fctv77.live/football/copa-argentina-match-4163774/deportivo-riestra-vs-deportivo-armenio-05-2025.html
 
