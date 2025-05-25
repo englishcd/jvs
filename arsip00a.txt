@@ -17,13 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]25-05-2025[z]	^-
 
-21:30 🇸🇪 Sweden Allsvenskan	^-
-Brommapojkarna vs AIK Solna	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116490/brommapojkarna-vs-aik-05-2025.html
-Djurgardens vs Hacken	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116503/djurgardens-vs-hacken-05-2025.html
-
-22:00 🇭🇷 Croatian Football League	^-
-Rijeka vs Slaven Belupo	`*https://www.fctv77.live/football/croatian-football-league-match-3988044/rijeka-vs-slaven-belupo-05-2025.html
-
 22:00 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [y]English Premier League[z]	^-
 Southampton vs Arsenal	`*https://www.fctv77.live/football/english-premier-league-match-3995654/southampton-vs-arsenal-05-2025.html
 Bournemouth AFC vs Leicester City	`*https://www.fctv77.live/football/english-premier-league-match-3995660/bournemouth-afc-vs-leicester-city-05-2025.html
