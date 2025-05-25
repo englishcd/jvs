@@ -17,54 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]25-05-2025[z]	^-
 
-20:00 🇸🇮 Slovenia 1.Liga	^-
-NK Publikum Celje vs Domzale	`*https://www.fctv77.live/football/slovenia-1-liga-match-4001613/nk-publikum-celje-vs-domzale-05-2025.html
-Maribor vs NK Nafta	`*https://www.fctv77.live/football/slovenia-1-liga-match-4001682/maribor-vs-nk-nafta-05-2025.html
-
-20:00 🇦🇿 Azerbaijan Premier League	^-
-Turan Tovuz vs FK Kapaz Ganca	`*https://www.fctv77.live/football/azerbaijan-premier-league-match-4018071/turan-tovuz-vs-fk-kapaz-ganca-05-2025.html
-
-20:00 🇷🇼 Rwandan National League	^-
-Gasogi Utd vs Rutsiro FC	`*https://www.fctv77.live/football/rwandan-national-league-match-4043033/gasogi-utd-vs-rutsiro-fc-05-2025.html
-
-20:00 🇺🇬 Uganda Division 2	^-
-Busoga United vs Gaddafi FC	`*https://www.fctv77.live/football/uganda-division-2-match-4069221/busoga-united-vs-gadafi-fc-05-2025.html
-Kaaro Karungi FC vs Onduparaka FC	`*https://www.fctv77.live/football/uganda-division-2-match-4069254/kaaro-karungi-fc-vs-onduparaka-fc-05-2025.html
-Kataka FC vs Paidha Black Angels	`*https://www.fctv77.live/football/uganda-division-2-match-4069259/kataka-fc-vs-paidha-black-angels-05-2025.html
-
-20:00 🇫🇮 Finnish Veikkausliiga	^-
-KuPs vs Vaasa VPS	`*https://www.fctv77.live/football/finnish-veikkausliiga-match-4113456/kups-vs-vaasa-vps-05-2025.html
-
-20:00 🇳🇴 Norwegian 3.Divisjon	^-
-Lorenskog vs Ull Kisa B	`*https://www.fctv77.live/football/norwegian-3-divisjon-match-4114686/lorenskog-vs-ull-kisa-b-05-2025.html
-
-20:00 🇸🇪 Sweden Superettan	^-
-Varbergs BoIS FC vs Kalmar	`*https://www.fctv77.live/football/sweden-superettan-match-4116744/varbergs-bois-fc-vs-kalmar-05-2025.html
-
-20:00 Finland: Finnish Ykkosliiga	^-
-Klubi 04 Helsinki vs PK-35 Vantaa	`*https://www.fctv77.live/football/finnish-ykkosliiga-match-4124565/klubi-04-helsinki-vs-pk-35-vantaa-05-2025.html
-Lahti vs KaPa	`*https://www.fctv77.live/football/finnish-ykkosliiga-match-4124568/lahti-vs-kpyln-pallo-05-2025.html
-
-20:00 Latvia: Latvian Higher League	^-
-BFC Daugavpils vs Jelgava	`*https://www.fctv77.live/football/latvian-higher-league-match-4138513/bfc-daugavpils-vs-jelgava-05-2025.html
-
-20:00 🇬🇪 Georgia Erovnuli Liga	^-
-Samgurali Tskh vs Dinamo Batumi	`*https://www.fctv77.live/football/georgia-erovnuli-liga-match-4153264/samgurali-tskh-vs-dinamo-batumi-05-2025.html
-
-20:00 🇸🇪 Sweden Division 2	^-
-Skara FC vs Herrestads AIF	`*https://www.fctv77.live/football/sweden-division-2-match-4168780/skara-fc-vs-herrestads-aif-05-2025.html
-
-20:00 🇷🇺 RUS D3B	^-
-Torpedo Vladimir vs Baltika-BFU K	`*https://www.fctv77.live/football/rus-d3b-match-4172826/torpedo-vladimir-vs-baltika-bfu-kaliningrad-05-2025.html
-Amkar Perm vs Krylia Sovetov II	`*https://www.fctv77.live/football/rus-d3b-match-4173153/amkar-perm-vs-krylia-sovetov-ii-05-2025.html
-FK Orenburg-2 vs Stroitel Kamensk-S	`*https://www.fctv77.live/football/rus-d3b-match-4173154/fk-orenburg-2-vs-stroitel-kamensk-shakhtinsky-05-2025.html
-
-20:00 🇱🇧 Lebanese Premier League	^-
-Shabab Sahel vs Al Riyadi Al Abbasiyah	`*https://www.fctv77.live/football/lebanese-premier-league-match-4182243/shabab-al-sahel-sc-vs-al-riyadi-al-abbasiyah-05-2025.html
-
-20:00 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Women's Cup	^-
-Glasgow City vs Glasgow Rangers (w)	`*https://www.fctv77.live/football/scottish-womens-cup-match-4185751/glasgow-city-w-vs-glasgow-rangers-w-05-2025.html
-
 21:00 🇧🇷 Brazilian Serie A	^-
 Gremio (RS) vs Bahia	`*https://www.fctv77.live/football/brazilian-serie-a-match-4141657/gremio-rs-vs-bahia-05-2025.html
 
