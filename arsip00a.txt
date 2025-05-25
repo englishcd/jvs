@@ -17,24 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]25-05-2025[z]	^-
 
-21:00 🇧🇷 Brazilian Serie A	^-
-Gremio (RS) vs Bahia	`*https://www.fctv77.live/football/brazilian-serie-a-match-4141657/gremio-rs-vs-bahia-05-2025.html
-
-21:00 🇨🇿 Czech First League	^-
-Mlada Boleslav vs Synot Slovacko	`*https://www.fctv77.live/football/czech-first-league-match-4174546/mlada-boleslav-vs-synot-slovacko-05-2025.html
-Dukla Prague vs Dynamo Ceske Budejovice	`*https://www.fctv77.live/football/czech-first-league-match-4174547/dukla-prague-vs-dynamo-ceske-budejovice-05-2025.html
-Teplice vs Pardubice	`*https://www.fctv77.live/football/czech-first-league-match-4174554/teplice-vs-pardubice-05-2025.html
-
-21:00 🇺🇾 Uruguay Primera Division	^-
-Danubio FC vs Miramar Misiones FC	`*https://www.fctv77.live/football/uruguay-primera-division-match-4185752/danubio-fc-vs-miramar-misiones-fc-05-2025.html
-
-21:10 🇦🇪 UAE Adnoc Pro-League	^-
-Al Bataeh vs Al Wehda (UAE)	`*https://www.fctv77.live/football/united-arab-emirates-adnoc-pro-league-match-4183068/al-bataeh-vs-al-wahda-fc-05-2025.html
-Al-Sharjah vs Al-Wasl	`*https://www.fctv77.live/football/united-arab-emirates-adnoc-pro-league-match-4183069/al-sharjah-vs-al-wasl-sc-05-2025.html
-
-21:15 🇪🇸 [y]Spanish La Liga[z]	^-
-Villarreal vs Sevilla	`*https://www.fctv77.live/football/spanish-la-liga-match-3995056/villarreal-cf-vs-sevilla-fc-05-2025.html
-
 21:30 🇸🇪 Sweden Allsvenskan	^-
 Brommapojkarna vs AIK Solna	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116490/brommapojkarna-vs-aik-05-2025.html
 Djurgardens vs Hacken	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116503/djurgardens-vs-hacken-05-2025.html
