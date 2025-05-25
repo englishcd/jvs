@@ -17,30 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]25-05-2025[z]	^-
 
-18:00 🇨🇳 Chinese Football League 1	^-
-Shanghai Jiading H vs Shaanxi Union	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145099/shanghai-jiading-huilong-vs-shaanxi-union-05-2025.html
-Dalian K'un City vs Dongguan Guanlian	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145284/dalian-kun-city-vs-foshan-nanshi-05-2025.html
-Suzhou Dongwu vs Shenyang City Public	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145288/suzhou-dongwu-vs-liaoning-tieren-05-2025.html
-
-18:00 🇷🇺 RUS D3A	^-
-Tekstilshchik Ivanovo vs FC Murom	`*https://www.fctv77.live/football/rus-d3a-match-4153658/tekstilshchik-ivanovo-vs-fc-murom-05-2025.html
-Irtysh 1946 Omsk vs Sibir Novosibirsk	`*https://www.fctv77.live/football/rus-d3a-match-4153660/irtysh-1946-omsk-vs-sibir-novosibirsk-05-2025.html
-Dynamo Moscow B vs Dynamo Kirov	`*https://www.fctv77.live/football/rus-d3a-match-4153665/dynamo-moscow-b-vs-dynamo-kirov-05-2025.html
-FK Kaluga vs FK Forte Taganrog	`*https://www.fctv77.live/football/rus-d3a-match-4153668/fk-kaluga-vs-fk-forte-taganrog-05-2025.html
-
-18:00 🇷🇺 RUS D3B	^-
-Arsenal Tula II vs Dinamo Bryansk	`*https://www.fctv77.live/football/rus-d3b-match-4172307/arsenal-tula-ii-vs-dinamo-bryansk-05-2025.html
-
-18:00 🇩🇰 Danish Division 3 Group A	^-
-BK Avarta vs IF Lyseng	`*https://www.fctv77.live/football/danish-division-3-group-a-match-4174031/bk-avarta-vs-if-lyseng-05-2025.html
-
-18:30 🇨🇳 Chinese Football League 1	^-
-Chongqing Tongliang vs Guangxi Pingguo	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145283/chongqing-tongliangloong-fc-vs-guangxi-pingguo-fc-05-2025.html
-Shijiazhuang KungFu vs Nanjing City	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145285/shijiazhuang-gongfu-vs-nanjing-city-05-2025.html
-
-18:30 🇨🇿 Czech First League	^-
-Hradec Kralove vs Bohemians 1905	`*https://www.fctv77.live/football/czech-first-league-match-4184771/hradec-kralove-vs-bohemians-1905-05-2025.html
-
 19:00 🇪🇸 [y]Spanish La Liga[z]	^-
 Girona vs Atletico Madrid	`*https://www.fctv77.live/football/spanish-la-liga-match-3994852/girona-fc-vs-atletico-madrid-05-2025.html
 
