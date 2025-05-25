@@ -17,25 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]25-05-2025[z]	^-
 
-19:15 🇭🇺 OTP Bank Liga	^-
-Nyiregyhaza vs Zalaegerszegi TE	`*https://www.fctv77.live/football/otp-bank-liga-match-3984289/nyiregyhaza-vs-zalaegerszegi-te-05-2025.html
-
-19:30 🇺🇦 Ukrainian Premier League	^-
-Veres vs LNZ Lebedyn	`*https://www.fctv77.live/football/ukrainian-premier-league-match-3999549/veres-vs-lnz-cherkasy-05-2025.html
-
-19:30 🇦🇹 Austrian 2.Liga	^-
-SKU Amstetten vs FC Liefering	`*https://www.fctv77.live/football/austrian-2-liga-match-4007408/sku-amstetten-vs-fc-liefering-05-2025.html
-
-19:30 🇳🇴 Norwegian Eliteserien	^-
-Ham-Kam vs Molde	`*https://www.fctv77.live/football/norwegian-eliteserien-match-4112093/ham-kam-vs-molde-05-2025.html
-
-19:30 🇳🇴 Norwegian 3.Divisjon	^-
-Sortland IL vs Frigg	`*https://www.fctv77.live/football/norwegian-3-divisjon-match-4119731/sortland-il-vs-frigg-05-2025.html
-
-19:30 🇲🇼 Malawi Premier League	^-
-Mighty Wanderers vs Silver Strikers	`*https://www.fctv77.live/football/malawi-premier-league-match-4165077/mighty-wanderers-vs-silver-strikers-05-2025.html
-Creck SC vs Songwe Border Utd	`*https://www.fctv77.live/football/malawi-premier-league-match-4186803/creck-sc-vs-songwe-border-utd-05-2025.html
-
 20:00 🇸🇮 Slovenia 1.Liga	^-
 NK Publikum Celje vs Domzale	`*https://www.fctv77.live/football/slovenia-1-liga-match-4001613/nk-publikum-celje-vs-domzale-05-2025.html
 Maribor vs NK Nafta	`*https://www.fctv77.live/football/slovenia-1-liga-match-4001682/maribor-vs-nk-nafta-05-2025.html
