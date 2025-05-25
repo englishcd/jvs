@@ -17,49 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]25-05-2025[z]	^-
 
-19:00 🇪🇸 [y]Spanish La Liga[z]	^-
-Girona vs Atletico Madrid	`*https://www.fctv77.live/football/spanish-la-liga-match-3994852/girona-fc-vs-atletico-madrid-05-2025.html
-
-19:00 🇳🇴 Norwegian 2.Divisjon	^-
-Honefoss BK vs Kjelsas	`*https://www.fctv77.live/football/norwegian-2-divisjon-match-4111064/honefoss-bk-vs-kjelsas-05-2025.html
-Grorud vs Follo	`*https://www.fctv77.live/football/norwegian-2-divisjon-match-4111072/grorud-vs-follo-05-2025.html
-
-19:00 🇳🇴 Norwegian 3.Divisjon	^-
-Kongsvinger IL B vs Assiden	`*https://www.fctv77.live/football/norwegian-3-divisjon-match-4114683/kongsvinger-il-b-vs-assiden-05-2025.html
-Skjetten Fotball vs Lillestrom B	`*https://www.fctv77.live/football/norwegian-3-divisjon-match-4114712/skjetten-fotball-vs-lillestrom-b-05-2025.html
-
-19:00 🇸🇪 Sweden Allsvenskan	^-
-IFK Goteborg vs Malmo FF	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116507/ifk-goteborg-vs-malmo-ff-05-2025.html
-Halmstads vs Elfsborg	`*https://www.fctv77.live/football/sweden-allsvenskan-match-4116515/halmstads-vs-elfsborg-05-2025.html
-
-19:00 🇳🇴 Norwegian 3.Divisjon	^-
-Aalesund FK B vs Rosenborg B	`*https://www.fctv77.live/football/norwegian-3-divisjon-match-4122065/aalesund-fk-b-vs-rosenborg-b-05-2025.html
-
-19:00 🇧🇾 Belarusian Premier League	^-
-FC Minsk vs Maxline Vitebsk	`*https://www.fctv77.live/football/belarusian-premier-league-match-4150603/fc-minsk-vs-maxline-vitebsk-05-2025.html
-
-19:00 🇬🇪 Georgia Erovnuli Liga	^-
-Gagra Tbilisi vs FC Telavi	`*https://www.fctv77.live/football/georgia-erovnuli-liga-match-4153298/gagra-tbilisi-vs-fc-telavi-05-2025.html
-
-19:00 🇷🇺 RUS D3B	^-
-Luki Energiya vs Sheksna Cherepovets	`*https://www.fctv77.live/football/rus-d3b-match-4170912/luki-energiya-vs-sheksna-cherepovets-05-2025.html
-Saturn Moscow vs Spartak 2 Moscow	`*https://www.fctv77.live/football/rus-d3b-match-4170915/fc-saturn-ramenskoe-vs-spartak-2-moscow-05-2025.html
-
-19:00 🇧🇾 Belarusian First League	^-
-FC Baranovichi vs Uni X-Labs Minsk	`*https://www.fctv77.live/football/belarusian-first-league-match-4172240/fc-baranovichi-vs-uni-x-labs-minsk-05-2025.html
-
-19:00 🇷🇺 RUS D3B	^-
-Rubin Kazan B vs Akron Togliatti B	`*https://www.fctv77.live/football/rus-d3b-match-4173155/rubin-kazan-b-vs-akron-togliatti-b-05-2025.html
-
-19:00 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English Football League One	^-
-Leyton Orient vs Charlton Athletic	`*https://www.fctv77.live/football/english-football-league-one-match-4183939/leyton-orient-vs-charlton-athletic-05-2025.html
-
-19:00 🇷🇴 Romanian Liga I	^-
-CSM Politehnica Iasi vs Metaloglobus	`*https://www.fctv77.live/football/romanian-liga-i-match-4185175/acsm-politehnica-iai-vs-metaloglobus-05-2025.html
-
-19:00 🇳🇬 Nigeria C W	^-
-Rivers Angels vs Nasarawa Amazons (w)	`*https://www.fctv77.live/football/nigeria-c-w-match-4186736/rivers-angels--w-vs-nasarawa-amazons-w-05-2025.html
-
 19:15 🇭🇺 OTP Bank Liga	^-
 Nyiregyhaza vs Zalaegerszegi TE	`*https://www.fctv77.live/football/otp-bank-liga-match-3984289/nyiregyhaza-vs-zalaegerszegi-te-05-2025.html
 
