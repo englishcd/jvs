@@ -17,59 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]25-05-2025[z]	^-
 
-14:30 🇰🇷 Korean K League 1	^-
-Gwangju FC vs Gangwon FC	`*https://www.fctv77.live/football/korean-k-league-1-match-4114629/gwangju-football-club-vs-gangwon-football-club-05-2025.html
-
-14:30 🇰🇷 Korean K League 2	^-
-Chungnam Asan vs Bucheon FC 1995	`*https://www.fctv77.live/football/korean-k-league-2-match-4137197/chungnam-asan-vs-bucheon-fc-1995-05-2025.html
-Incheon United vs Jeonnam Dragons	`*https://www.fctv77.live/football/korean-k-league-2-match-4137198/incheon-united-club-vs-jeonnam-dragons-05-2025.html
-
-14:30 🇨🇳 Chinese Football League 2	^-
-Nantong Haimen Codion vs Xi‘an Ronghai	`*https://www.fctv77.live/football/chinese-football-league-2-match-4154042/haimen-codion-vs-shanxi-chongde-ronghai-05-2025.html
-
-15:00 🇦🇺 Queensland State League 1	^-
-Brisbane Strikers vs Caboolture FC	`*https://www.fctv77.live/football/australia-queensland-state-league-1-match-4123916/brisbane-strikers-vs-caboolture-fc-05-2025.html
-
-15:00 🇦🇺 National Premier Leagues Queensland	^-
-Brisbane Olympic Utd vs Brisbane Roar	`*https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4123965/brisbane-olympic-united-fc-vs-brisbane-roar-youth-05-2025.html
-
-15:00 🇨🇳 Chinese Football League 2	^-
-Guangdong Mingtu vs Guangxi Lanhang	`*https://www.fctv77.live/football/chinese-football-league-2-match-4153922/guangdong-mingtu-vs-guangxi-lanhang-football-club-05-2025.html
-Shaoxing Shangyu vs GuangZ Dandelion	`*https://www.fctv77.live/football/chinese-football-league-2-match-4154131/ganzhou-ruishi-vs-guangzhou-dandelion-alpha-fc-05-2025.html
-
-15:00 🇷🇺 RUS D3B	^-
-FK Ural-2 vs Khimik Dzerzhinsk	`*https://www.fctv77.live/football/rus-d3b-match-4173156/fk-ural-2-vs-khimik-dzerzhinsk-05-2025.html
-
-16:00 🇵🇱 Poland Women's Ekstraliga	^-
-GKS Katowice vs Stomil Olsztyn (w)	`*https://www.fctv77.live/football/poland-womens-ekstraliga-match-4009447/gks-katowice-w-vs-stomil-olsztyn-w-05-2025.html
-
-16:00 🇨🇳 Chinese Football League 2	^-
-Guangxi Hengchen vs Hainan Star	`*https://www.fctv77.live/football/chinese-football-league-2-match-4154000/guangxi-hengchen-football-club-vs-kunming-city-star-05-2025.html
-
-16:00 🇷🇺 RUS D3B	^-
-Uralets Nizhny T vs Nosta Novotroitsk	`*https://www.fctv77.live/football/rus-d3b-match-4173157/uralets-nizhny-tagil-vs-nosta-novotroitsk-05-2025.html
-
-16:00 🇨🇳 Chinese Macao Liga de Elite	^-
-Shao Jiang vs Cheng Fung	`*https://www.fctv77.live/football/chinese-macao-liga-de-elite-match-4185227/shao-jiang-vs-ching-fung-05-2025.html
-
-16:30 🇪🇪 Estonian Esiliiga	^-
-Nomme JK Kalju II vs Viimsi MRJK	`*https://www.fctv77.live/football/estonian-esiliiga-match-4144288/nomme-jk-kalju-ii-vs-viimsi-mrjk-05-2025.html
-Tallinna Kalev II vs Tartu Maag TB	`*https://www.fctv77.live/football/estonian-esiliiga-match-4144300/jk-tallinna-kalev-ii-vs-tartu-jk-maag-tammeka-b-05-2025.html
-Nomme United vs Tallinna Levadia B	`*https://www.fctv77.live/football/estonian-esiliiga-match-4144308/fc-nomme-united-vs-tallinna-fc-levadia-b-05-2025.html
-
-17:00 🇸🇬 Singapore Premier League	^-
-Tanjong Pagar Utd vs Geylang United	`*https://www.fctv77.live/football/singapore-premier-league-match-3962228/tanjong-pagar-utd-vs-geylang-united-fc-05-2025.html
-Balestier Khalsa vs Albirex Niigata	`*https://www.fctv77.live/football/singapore-premier-league-match-3962259/balestier-khalsa-fc-vs-albirex-niigata-fc-05-2025.html
-
-17:00 🇰🇷 Korean K League 2	^-
-Suwon Samsung Bluewings vs Gimpo FC	`*https://www.fctv77.live/football/korean-k-league-2-match-4137200/suwon-samsung-bluewings-vs-gimpo-fc-05-2025.html
-
-17:00 🇵🇹 Portuguese Campeonato Nacional	^-
-Leca vs Paredes	`*https://www.fctv77.live/football/portuguese-campeonato-nacional-match-4184842/leca-vs-paredes-05-2025.html
-
-17:00 🇱🇹 Lithuanian Women's A Lyga	^-
-FK Banga (w) vs FC Hegelmann (w)	`*https://www.fctv77.live/football/lithuanian-womens-a-lyga-match-4186849/fk-banga-w-vs-fc-hegelmann-w-05-2025.html
-
 18:00 🇨🇳 Chinese Football League 1	^-
 Shanghai Jiading H vs Shaanxi Union	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145099/shanghai-jiading-huilong-vs-shaanxi-union-05-2025.html
 Dalian K'un City vs Dongguan Guanlian	`*https://www.fctv77.live/football/chinese-football-league-1-match-4145284/dalian-kun-city-vs-foshan-nanshi-05-2025.html
