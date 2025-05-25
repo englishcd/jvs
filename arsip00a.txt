@@ -17,41 +17,6 @@ Gol TV	00!0!0/9595?zyy
 
 [w]25-05-2025[z]	^-
 
-22:00 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [y]English Premier League[z]	^-
-Southampton vs Arsenal	`*https://www.fctv77.live/football/english-premier-league-match-3995654/southampton-vs-arsenal-05-2025.html
-Bournemouth AFC vs Leicester City	`*https://www.fctv77.live/football/english-premier-league-match-3995660/bournemouth-afc-vs-leicester-city-05-2025.html
-Liverpool vs Crystal Palace	`*https://www.fctv77.live/football/english-premier-league-match-3995677/liverpool-vs-crystal-palace-05-2025.html
-Fulham vs Manchester City	`*https://www.fctv77.live/football/english-premier-league-match-3995682/fulham-vs-manchester-city-05-2025.html
-Ipswich Town vs West Ham United	`*https://www.fctv77.live/football/english-premier-league-match-3995735/ipswich-town-vs-west-ham-united-05-2025.html
-Newcastle United vs Everton	`*https://www.fctv77.live/football/english-premier-league-match-3995781/newcastle-united-vs-everton-05-2025.html
-Nottingham Forest vs Chelsea	`*https://www.fctv77.live/football/english-premier-league-match-3995800/nottingham-forest-vs-chelsea-05-2025.html
-Manchester United vs Aston Villa	`*https://www.fctv77.live/football/english-premier-league-match-3995815/manchester-united-vs-aston-villa-05-2025.html
-Wolves vs Brentford	`*https://www.fctv77.live/football/english-premier-league-match-3995835/wolverhampton-wanderers-vs-brentford-05-2025.html
-Tottenham Hotspur vs Brighton H Albion	`*https://www.fctv77.live/football/english-premier-league-match-3995842/tottenham-hotspur-vs-brighton-hove-albion-05-2025.html
-
-22:00 🇺🇦 Ukrainian Premier League	^-
-Polissya Zhytomyr vs Kryvbas	`*https://www.fctv77.live/football/ukrainian-premier-league-match-3999534/polissya-zhytomyr-vs-kryvbas-05-2025.html
-FC Karpaty Lviv vs Zorya	`*https://www.fctv77.live/football/ukrainian-premier-league-match-3999548/fc-karpaty-lviv-vs-zorya-05-2025.html
-
-22:00 🇳🇴 Norwegian Eliteserien	^-
-Sandefjord vs Stromsgodset	`*https://www.fctv77.live/football/norwegian-eliteserien-match-4112088/sandefjord-vs-stromsgodset-05-2025.html
-Sarpsborg 08 vs Tromso IL	`*https://www.fctv77.live/football/norwegian-eliteserien-match-4112092/sarpsborg-08-vs-tromso-il-05-2025.html
-Kristiansund BK vs Viking	`*https://www.fctv77.live/football/norwegian-eliteserien-match-4112136/kristiansund-bk-vs-viking-05-2025.html
-
-22:00 🇩🇰 Danish Superliga	^-
-Aarhus AGF vs Brondby IF	`*https://www.fctv77.live/football/danish-superliga-match-4159683/aarhus-agf-vs-brondby-if-05-2025.html
-FC Copenhagen vs Nordsjaelland	`*https://www.fctv77.live/football/danish-superliga-match-4159691/fc-copenhagen-vs-nordsjaelland-05-2025.html
-Midtjylland vs Randers FC	`*https://www.fctv77.live/football/danish-superliga-match-4159703/midtjylland-vs-randers-fc-05-2025.html
-
-22:00 CAF Confederation Cup	^-
-Simba Sports Club vs Renaissance Sport	`*https://www.fctv77.live/football/caf-confederation-cup-match-4176914/simba-sports-club-vs-renaissance-de-berkane-05-2025.html
-
-22:00 🇫🇷 French Ligue 2	^-
-Clermont vs Boulogne	`*https://www.fctv77.live/football/french-ligue-2-match-4184684/clermont-vs-boulogne-05-2025.html
-
-22:15 🇮🇹 Italian Serie B	^-
-Cremonese vs Juve Stabia	`*https://www.fctv77.live/football/italian-serie-b-match-4184933/cremonese-vs-juve-stabia-05-2025.html
-
 22:30 🇸🇮 Slovenia 1.Liga	^-
 NK Mura 05 vs FC Koper	`*https://www.fctv77.live/football/slovenia-1-liga-match-4001697/nk-mura-05-vs-fc-koper-05-2025.html
 
