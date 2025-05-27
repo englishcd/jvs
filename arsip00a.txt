@@ -45,7 +45,6 @@ DAZN 2 🇩🇪	https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 DAZN 1 🇪🇸	i3!16/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd!!44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 DAZN 2 🇪🇸	i3!16/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd!!0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 DAZN LaLiga 🇪🇸	i3!16/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd!!43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-LaLiga HyperMotion 🇪🇸	!zy.3461295847/7!z
 LaLiga HyperMotion 🇪🇸	i3!16/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd!!d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 DAZN F1 🇪🇸	i3!16/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd!!1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd!!002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
