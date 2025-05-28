@@ -82,6 +82,9 @@ TUS Geretsried vs TSV Schwabmunchen	`*https://www.fctv77.live/football/german-bu
 
 [w]29-05-2025[z]	^-
 
+02:00 [y]UEFA Europa Conference League[z]	^-
+Real Betis vs Chelsea	`*https://www.fctv77.live/football/uefa-europa-conference-league-match-4181316/real-betis-vs-chelsea-05-2025.html
+
 00:00 🇳🇴 Norwegian Eliteserien	^-
 Fredrikstad vs Rosenborg	`*https://www.fctv77.live/football/norwegian-eliteserien-match-4112142/fredrikstad-vs-rosenborg-05-2025.html
 
@@ -127,9 +130,6 @@ Sacachispas vs UAI Urquiza	`*https://www.fctv77.live/football/argentine-group-b-
 
 02:00 🇳🇴 Norwegian Eliteserien	^-
 Bodo Glimt vs Viking	`*https://www.fctv77.live/football/norwegian-eliteserien-match-4112145/bodo-glimt-vs-viking-05-2025.html
-
-02:00 [y]UEFA Europa Conference League[z]	^-
-Real Betis vs Chelsea	`*https://www.fctv77.live/football/uefa-europa-conference-league-match-4181316/real-betis-vs-chelsea-05-2025.html
 
 03:00 🇦🇷 Copa Argentina	^-
 Excursionistas vs Argentinos Juniors	`*https://www.fctv77.live/football/copa-argentina-match-4175686/excursionistas-vs-argentinos-juniors-05-2025.html
