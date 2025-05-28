@@ -17,45 +17,7 @@ GolTV	00!0!0/9595?zyy
 
 [w]28-05-2025[z]	^-
 
-13:00 🇨🇳 [l]CFA Xintai Cup Int'l[z]	^-
-Australia 🇦🇺 U16 vs Vietnam 🇻🇳 U16	`*https://www.fctv77.live/football/cfa-team-china-xintai-cup-international-tournament-hohhot-2025-match-4181376/australia-u16-vs-vietnam-u16-05-2025.html
-
-15:00 🇦🇺 New South Wales Premier League	^-
-Sydney Olympic vs Cen Coast Mariners	`*https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127831/sydney-olympic-vs-central-coast-mariners-youth-05-2025.html
-
-15:45 🇦🇺 FFA Cup	^-
-Northern Tigers vs Hills United FC	`*https://www.fctv77.live/football/australia-ffa-cup-match-4184403/northern-tigers-vs-hills-united-fc-05-2025.html
-
-16:30 🇦🇺 National Premier Leagues Queensland	^-
-St George Willa vs Brisbane Olympic Utd	`*https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4123865/st-george-willawong-fc-vs-brisbane-olympic-united-fc-05-2025.html
-
-16:30 🇦🇺 FFA Cup	^-
-Sydney United 58 FC vs Western Rage	`*https://www.fctv77.live/football/australia-ffa-cup-match-4184483/sydney-united-58-fc-vs-western-rage-05-2025.html
-
-16:45 🇦🇺 FFA Cup	^-
-Leichhardt Tigers vs Marconi Stallions	`*https://www.fctv77.live/football/australia-ffa-cup-match-4184393/apia-leichhardt-tigers-vs-marconi-stallions-05-2025.html
-
-17:00 🇩🇰 Danish U19 Youth League	^-
-FC Kobenhavn U19 vs Nordsjaelland U19	`*https://www.fctv77.live/football/danish-u19-youth-league-match-4038791/fc-kobenhavn-u19-vs-nordsjaelland-u19-05-2025.html
-
-17:00 🇦🇺 New South Wales Women's PL	^-
-Broadmeadow Magic vs AdamsT Rosebud	`*https://www.fctv77.live/football/australia-new-south-wales-womens-premier-league-match-4187484/broadmeadow-magic-w-vs-adamstown-rosebud-w-05-2025.html
-New Lambton FC vs Lake Macquarie	`*https://www.fctv77.live/football/australia-new-south-wales-womens-premier-league-match-4187485/new-lambton-fc-w-vs-lake-macquarie-w-05-2025.html
-
-17:30 🇯🇵 Japanese J1 League	^-
-Urawa Red Diamonds vs Cerezo Osaka	`*https://www.fctv77.live/football/japanese-j1-league-match-4105547/urawa-red-diamonds-vs-cerezo-osaka-05-2025.html
-
-17:30 🇰🇷 Korean K League 1	^-
-Gimcheon Sangmu FC vs FC Seoul	`*https://www.fctv77.live/football/korean-k-league-1-match-4109490/gimcheon-sangmu-football-club-vs-football-club-seoul-05-2025.html
-Gangwon FC vs FC Anyang	`*https://www.fctv77.live/football/korean-k-league-1-match-4109538/gangwon-football-club-vs-fc-anyang-05-2025.html
-
-17:30 🇰🇷 Korean K League 1	^-
-Gwangju FC vs Ulsan Hyundai FC	`*https://www.fctv77.live/football/korean-k-league-1-match-4109589/gwangju-football-club-vs-ulsan-hd-fc-05-2025.html
-
-18:00 🇷🇺 RUS D3A	^-
-Rodina Moskva II vs FK Leningradets	`*https://www.fctv77.live/football/rus-d3a-match-4171447/rodina-moskva-ii-vs-fc-leningradets-05-2025.html
-
-18:35 🇨🇳 [l]CFA Xintai Cup Int'l[z]	^-
+18:35 🇨🇳 [l]CFA Xintai Cup International[z]	^-
 China 🇨🇳 U16 vs Saudi Arabia 🇸🇦 U16	`*https://www.fctv77.live/football/cfa-team-china-xintai-cup-international-tournament-hohhot-2025-match-4181375/china-u16-vs-saudi-arabia-u16-05-2025.html
 
 19:00 [l]International (w) Friendly[z]	^-
