@@ -303,12 +303,6 @@ NBC Sports	https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef
 NBC TV	i3`06fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 NFL Channel	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd!!002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
-Arena Sport 5	`0https://streaming.sportsnews.id/p/arena5cro.html
-Arena Sport 6	`0https://streaming.sportsnews.id/p/arena6cro.html
-Arena Sport 7	`0https://streaming.sportsnews.id/p/arena7cro.html
-Arena Sport 8	`0https://streaming.sportsnews.id/p/arena8cro.html
-Arena Sport 9	`0https://streaming.sportsnews.id/p/arena9cro.html
-Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 
 FIFA+ 🇦🇹	https://jmp2.uk/sam-ATBA3300007PT.m3u8
 FIFA+ 🇨🇦	https://jmp2.uk/sam-CABD1200008JG.m3u8
@@ -1144,6 +1138,12 @@ Arena Sport 1	`0https://streaming.sportsnews.id/p/arena1cro.html
 Arena Sport 2	`0https://streaming.sportsnews.id/p/arena2cro.html
 Arena Sport 3	`0https://streaming.sportsnews.id/p/arena3cro.html
 Arena Sport 4	`0https://streaming.sportsnews.id/p/arena4cro.html
+Arena Sport 5	`0https://streaming.sportsnews.id/p/arena5cro.html
+Arena Sport 6	`0https://streaming.sportsnews.id/p/arena6cro.html
+Arena Sport 7	`0https://streaming.sportsnews.id/p/arena7cro.html
+Arena Sport 8	`0https://streaming.sportsnews.id/p/arena8cro.html
+Arena Sport 9	`0https://streaming.sportsnews.id/p/arena9cro.html
+Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 
 Sportsnet East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd!!f0407787b4d83e5db9dbcd760aec17ce:0f7c2736f496c2d2eccc9ebbe27799b9
 Sportsnet Ontario	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-02-prd-r-v2/dash-ch-02-prd-r-hd/index.mpd!!620814bb9cc23732994f4cdd85716b6f:b9e3a3412749e7f9fbb87b1a6b4bbcdd
