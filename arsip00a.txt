@@ -38,8 +38,8 @@ Leichhardt Tigers vs Marconi Stallions	`*https://www.fctv77.live/football/austra
 17:00 🇩🇰 Danish U19 Youth League	^-
 FC Kobenhavn U19 vs Nordsjaelland U19	`*https://www.fctv77.live/football/danish-u19-youth-league-match-4038791/fc-kobenhavn-u19-vs-nordsjaelland-u19-05-2025.html
 
-17:00 🇦🇺 New South Wales Women's Premier League	^-
-Broadmeadow Magic vs Adamstown Rosebud	`*https://www.fctv77.live/football/australia-new-south-wales-womens-premier-league-match-4187484/broadmeadow-magic-w-vs-adamstown-rosebud-w-05-2025.html
+17:00 🇦🇺 New South Wales Women's PL	^-
+Broadmeadow Magic vs AdamsT Rosebud	`*https://www.fctv77.live/football/australia-new-south-wales-womens-premier-league-match-4187484/broadmeadow-magic-w-vs-adamstown-rosebud-w-05-2025.html
 New Lambton FC vs Lake Macquarie	`*https://www.fctv77.live/football/australia-new-south-wales-womens-premier-league-match-4187485/new-lambton-fc-w-vs-lake-macquarie-w-05-2025.html
 
 17:30 🇯🇵 Japanese J1 League	^-
@@ -178,7 +178,7 @@ Talleres Córdoba vs Instituto Cordoba	`*https://www.fctv77.live/football/argent
 Atletico Tucuman vs Lanus	`*https://www.fctv77.live/football/argentine-reserve-league-match-4185951/atletico-tucuman-reserve-vs-lanus-reserves-05-2025.html
 Deportivo Riestra vs Godoy Cruz	`*https://www.fctv77.live/football/argentine-reserve-league-match-4186607/deportivo-riestra-reserves-vs-godoy-cruz-reserves-05-2025.html
 
-01:30 🇦🇷 Argentine Group B Tebolidun League Manchester	^-
+01:30 🇦🇷 Group B Tebolidun League Manchester	^-
 Sacachispas vs UAI Urquiza	`*https://www.fctv77.live/football/argentine-group-b-tebolidun-league-manchester-match-4129773/sacachispas-vs-uai-urquiza-05-2025.html
 
 02:00 🇳🇴 Norwegian Eliteserien	^-
