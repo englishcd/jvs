@@ -17,27 +17,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]28-05-2025[z]	^-
 
-19:45 [g]International Club Friendly[z]	^-
-ASEAN All-Star vs Manchester United	https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
-18:35 🇨🇳 [l]CFA Xintai Cup International[z]	^-
-China 🇨🇳 U16 vs Saudi Arabia 🇸🇦 U16	`*https://www.fctv77.live/football/cfa-team-china-xintai-cup-international-tournament-hohhot-2025-match-4181375/china-u16-vs-saudi-arabia-u16-05-2025.html
-
-19:00 [l]International (w) Friendly[z]	^-
-Bhutan 🇧🇹 vs China Hong Kong 🇭🇰	`*https://www.fctv77.live/football/international-friendly-match-4186331/bhutan-w-vs-china-hong-kong-w-05-2025.html
-
-19:00 🇦🇿 Azerbaijan First Division	^-
-Difai Agsu FK vs Hypers Guba	`*https://www.fctv77.live/football/azerbaijan-first-division-match-4187517/difai-agsu-fk-vs-hypers-guba-05-2025.html
-
-19:30 [l]CA U17 C[z]	^-
-Afghanistan 🇦🇫 U17 vs Tajikistan 🇹🇯 U17	`*https://www.fctv77.live/football/ca-u17-c-match-4186768/afghanistan-u17-vs-tajikistan-u17-05-2025.html
-
-19:45 [g]International Club Friendly[z]	^-
-ASEAN All-Star vs Manchester United	`*https://www.fctv77.live/football/international-club-friendly-match-4167246/southeast-asia-all-star-vs-manchester-united-05-2025.html
-
-20:00 🇷🇺 RUS D3A	^-
-Torpedo Miass vs FK Chelyabinsk	`*https://www.fctv77.live/football/rus-d3a-match-4171444/torpedo-miass-vs-fk-chelyabinsk-05-2025.html
-
 21:00 🇷🇺 RUS D3A	^-
 Mashuk-KMV vs Kuban Krasnodar	`*https://www.fctv77.live/football/rus-d3a-match-4171443/mashuk-kmv-vs-kuban-krasnodar-05-2025.html
 Veles vs Volga Ulyanovsk	`*https://www.fctv77.live/football/rus-d3a-match-4171445/veles-vs-volga-ulyanovsk-05-2025.html
