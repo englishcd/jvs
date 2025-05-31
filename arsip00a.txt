@@ -28,10 +28,6 @@ Paris Saint Germain vs Inter Milan	`*https://www.fctv77.live/football/uefa-champ
 
 [w]31-05-2025[z]	^-
 
-21:00 [l]International Friendly[z]	^-
-Bangladesh 🇧🇩 vs Indonesia 🇮🇩 (w) 1	`*https://www.fctv77.live/football/fifa-womens-matchday-match-4188566/bangladesh-vs--indonesia-05-2025.html
-Bangladesh 🇧🇩 vs Indonesia 🇮🇩 (w) 2	`*https://live.samuraitv.biz.id/p/blog-page_11.html
-
 23:00 [l]International Friendly[z]	^-
 New Zealand 🇳🇿 (w) vs Venezuela 🇻🇪 (w)	`*https://www.fctv77.live/football/international-friendly-match-4187563/new-zealand-women-vs-venezuela-w-05-2025.html
 
@@ -1023,11 +1019,12 @@ Sky LaLiga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default
 
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
-^=[l]Huhu.To[z]	`0https://huhu.to/
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
+^=ch3 smtv	`*https://live.samuraitv.biz.id/p/blog-page_11.html
+^=ch2 smtv	`0https://live2samuraitv.blogspot.com/p/ch2.html
+^=[l]Huhu.To[z]	`0https://huhu.to/
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=[l]NetPlay Volleyball[z] Nonton Voli	`0https://nontonvoli.blogspot.com/
-^=ch2 smtv	`0https://live2samuraitv.blogspot.com/p/ch2.html
 ^=asportshd	`0https://stream.crichd.sc/update/asportshd.php
 	^-
