@@ -29,7 +29,8 @@ Paris Saint Germain vs Inter Milan	`*https://www.fctv77.live/football/uefa-champ
 [w]31-05-2025[z]	^-
 
 21:00 [l]International Friendly[z]	^-
-Bangladesh 🇧🇩 (w) vs Indonesia 🇮🇩 (w)	`*https://www.fctv77.live/football/fifa-womens-matchday-match-4188566/bangladesh-vs--indonesia-05-2025.html
+Bangladesh 🇧🇩 vs Indonesia 🇮🇩 (w) 1	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+Bangladesh 🇧🇩 vs Indonesia 🇮🇩 (w) 2	`*https://www.fctv77.live/football/fifa-womens-matchday-match-4188566/bangladesh-vs--indonesia-05-2025.html
 
 18:30 [l]International Friendly[z]	^-
 Ghana 🇬🇭 vs Trinidad Tobago 🇹🇹	`*https://www.fctv77.live/football/international-friendly-match-4188173/ghana-vs-trinidad---tobago-05-2025.html
@@ -76,7 +77,6 @@ Ziggo Sport 6 Golf	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_7576
 FIFA	https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 SPOTV 1	https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd!!ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 SPOTV 2	https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd!!7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-Premier Sports 1	https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Nzc0MmE3ZjMxNTMwLTNmYjktMzI3NC03NTkyLTMyNmM0YmI3/master.m3u8?md5=8M6ryuUEivB1VuvxsIKgrg&expires=1746922404
 TNT Sports 1	https://z.1UK_TNT_SPORTS_1/index.m3u8
 TNT Sports 2	https://z.1UK_TNT_SPORTS_2/index.m3u8
 TNT Sports 3	https://z.1UK_TNT_SPORTS_3/index.m3u8
