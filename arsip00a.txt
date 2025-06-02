@@ -1,11 +1,5 @@
 [g]{s} Ⓗa0 Live Sports Events[z]	^-
 
-GolTV	00!0!0/9595?zyy
-👉[y]Sports & TV[z] [l]PlayList[z] #1👈	^^h10
-
-🇺🇸 USA Network	00!0!1/3089?zyy
-👉[y]Sports & TV[z] [l]PlayList[z] #2👈	^^h11
-
 🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
 👉[l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]👈	^^h1
 👉[l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]👈	^^hb0
@@ -15,6 +9,12 @@ Sport 1 🇩🇪	!zy.513346178/7!z
 👉[l]{h} Ⓕb2[z] Fun [y]Sports & TV[z]👈	^^hb2
 
 👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
+
+GolTV	00!0!0/9595?zyy
+👉[y]Sports & TV[z] [l]PlayList[z] #1👈	^^h10
+
+🇺🇸 USA Network	00!0!1/3089?zyy
+👉[y]Sports & TV[z] [l]PlayList[z] #2👈	^^h11
 
 [w]Live Sport TV Channels[z]	^-
 
@@ -982,7 +982,7 @@ Sky LaLiga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
-^=ch3 smtv	`*https://live.samuraitv.biz.id/p/blog-page_11.html
+^=ch3 smtv	https://live.samuraitv.biz.id/p/blog-page_11.html
 ^=ch2 smtv	`0https://live2samuraitv.blogspot.com/p/ch2.html
 ^=[l]Huhu.To[z]	`0https://huhu.to/
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
