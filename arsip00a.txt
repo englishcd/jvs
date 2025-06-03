@@ -23,12 +23,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]03-06-2025[z]	^-
 
-19:00 [l]French Toulon Tournament[z]	^-
-Mali 🇲🇱 U20 vs Panama 🇵🇦 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4188724/mali-u20-vs-panama-u20-06-2025.html
-
-19:00 [l]International (w) Friendly[z]	^-
-Bhutan 🇧🇹 (w) vs Malaysia 🇲🇾 (w)	`*https://www.fctv77.live/football/international-friendly-match-4188698/bhutan-w-vs-malaysia-w-06-2025.html
-
 20:00 [l]International (w) Friendly[z]	^-
 South Africa 🇿🇦 (w) vs Zambia 🇿🇲 (w)	`*https://www.fctv77.live/football/international-friendly-match-4188596/south-africa-women-vs-zambia-women-06-2025.html
 
@@ -106,7 +100,7 @@ Congo 🇨🇬 U20 vs Japan 🇯🇵 U20	`*https://www.fctv77.live/football/fren
 19:30 [l]International Friendly[z]	^-
 Thailand 🇹🇭 vs India 🇮🇳	`*https://www.fctv77.live/football/international-friendly-match-4188922/thailand-vs-india-06-2025.html
 
-20:00 [l]CAF South Africa Confederations Cup	^-
+20:00 [l]CAF South Africa Confederations Cup[z]	^-
 South Africa 🇿🇦 vs Mozambique 🇲🇿	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4188536/south-africa-vs-mozambique-06-2025.html
 
 []👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4123988/brisbane-wolves-vs-brisbane-city-06-2025.html
