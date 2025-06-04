@@ -39,9 +39,6 @@ Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
 
 [w]04-06-2025[z]	^-
 
-22:00 [l]International Friendly[z]	^-
-Colombia 🇨🇴 U20 vs Saudi Arabia 🇸🇦 U20	`*https://www.fctv77.live/football/international-friendly-match-4188918/colombia-u20-vs-saudi-arabia-u20-06-2025.html
-
 22:30 [l]French Toulon Tournament[z]	^-
 Mexico 🇲🇽 U20 vs Denmark 🇩🇰 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4189001/mexico-u20-vs-denmark-u20-06-2025.html
 
@@ -89,13 +86,10 @@ Malawi 🇲🇼 vs Lesotho 🇱🇸	`*https://www.fctv77.live/football/caf-south
 20:00 [l]International Friendly[z]	^-
 Uzbekistan 🇺🇿 U20 vs Russia 🇷🇺 U21	`*https://www.fctv77.live/football/international-friendly-match-4188910/uzbekistan-u20-vs-russia-u21-06-2025.html
 
-20:45 [l]World Cup qualification (AFC)[z]	^
-Indonesia 🇮🇩 vs China 🇨🇳	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050604/indonesia-vs-china-06-2025.html
-
 23:00 [l]World Cup qualification (AFC)[z]	^
 Oman 🇴🇲 vs Jordan 🇯🇴	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4015496/oman-vs-jordan-06-2025.html
 UAE 🇦🇪 vs Uzbekistan 🇺🇿 `*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4046222/united-arab-emirates-vs-uzbekistan-06-2025.html
-Bahrain 🇧🇭 vs Saudi Arabia	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050601/bahrain-vs-saudi-arabia-06-2025.html
+Bahrain 🇧🇭 vs Saudi Arabia 🇸🇦	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050601/bahrain-vs-saudi-arabia-06-2025.html
 
 23:00 [l]International Friendly[z]	^-
 Georgia 🇬🇪 vs Faroe Islands 🇫🇴	`*https://www.fctv77.live/football/international-friendly-match-4188908/georgia-vs-faroe-islands-06-2025.html
