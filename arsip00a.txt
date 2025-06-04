@@ -29,6 +29,9 @@ Germany 🇩🇪 vs Portugal 🇵🇹	`*https://www.fctv77.live/football/uefa-na
 20:45 [l]World Cup qualification (AFC)[z]	^
 Indonesia 🇮🇩 vs China 🇨🇳	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050604/indonesia-vs-china-06-2025.html
 
+ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
+
 [w]04-06-2025[z]	^-
 
 20:00 [l]CAF South Africa Confederations Cup[z]	^-
