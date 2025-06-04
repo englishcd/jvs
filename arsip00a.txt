@@ -39,15 +39,6 @@ Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
 
 [w]04-06-2025[z]	^-
 
-20:00 [l]CAF South Africa Confederations Cup[z]	^-
-South Africa 🇿🇦 vs Mozambique 🇲🇿	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4188536/south-africa-vs-mozambique-06-2025.html
-
-20:30 [l]International Friendly[z]	^-
-France 🇫🇷 U18 vs Australia 🇦🇺 U18	`*https://www.fctv77.live/football/international-friendly-match-4188869/france-u18-vs-australia-u18-06-2025.html
-
-21:00 [l]International Friendly[z]	^-
-Japan 🇯🇵 U18 vs Senegal 🇸🇳 U18	`*https://www.fctv77.live/football/international-friendly-match-4188920/japan-u18-vs-senegal-u18-06-2025.html
-
 22:00 [l]International Friendly[z]	^-
 Colombia 🇨🇴 U20 vs Saudi Arabia 🇸🇦 U20	`*https://www.fctv77.live/football/international-friendly-match-4188918/colombia-u20-vs-saudi-arabia-u20-06-2025.html
 
