@@ -28,9 +28,6 @@ Germany 🇩🇪 vs Portugal 🇵🇹	`*https://www.fctv77.live/football/uefa-na
 
 [w]04-06-2025[z]	^-
 
-16:00 [l]International Friendly[z]	^-
-Thailand 🇹🇭 U23 vs Hong Kong 🇭🇰 U23	`*https://www.fctv77.live/football/international-friendly-match-4188923/thailand-u23-vs-hong-kong-u23-06-2025.html
-
 19:00 [l]French Toulon Tournament[z]	^-
 Congo 🇨🇬 U20 vs Japan 🇯🇵 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4188993/congo-u20-vs-japan-u20-06-2025.html
 
@@ -38,7 +35,14 @@ Congo 🇨🇬 U20 vs Japan 🇯🇵 U20	`*https://www.fctv77.live/football/fren
 Thailand 🇹🇭 vs India 🇮🇳	`*https://www.fctv77.live/football/international-friendly-match-4188922/thailand-vs-india-06-2025.html
 
 20:00 [l]CAF South Africa Confederations Cup[z]	^-
+Mauritius 🇲🇷 vs Zimbabwe 🇿🇼	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4188162/mauritius-vs-zimbabwe-06-2025.html
 South Africa 🇿🇦 vs Mozambique 🇲🇿	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4188536/south-africa-vs-mozambique-06-2025.html
+
+20:30 [l]International Friendly[z]	^-
+France 🇫🇷 U18 vs Australia 🇦🇺 U18	`*https://www.fctv77.live/football/international-friendly-match-4188869/france-u18-vs-australia-u18-06-2025.html
+
+21:00 [l]International Friendly[z]	^-
+Japan 🇯🇵 U18 vs Senegal 🇸🇳 U18	`*https://www.fctv77.live/football/international-friendly-match-4188920/japan-u18-vs-senegal-u18-06-2025.html
 
 22:00 [l]International Friendly[z]	^-
 Colombia 🇨🇴 U20 vs Saudi Arabia 🇸🇦 U20	`*https://www.fctv77.live/football/international-friendly-match-4188918/colombia-u20-vs-saudi-arabia-u20-06-2025.html
@@ -46,22 +50,22 @@ Colombia 🇨🇴 U20 vs Saudi Arabia 🇸🇦 U20	`*https://www.fctv77.live/foo
 22:30 [l]French Toulon Tournament[z]	^-
 Mexico 🇲🇽 U20 vs Denmark 🇩🇰 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4189001/mexico-u20-vs-denmark-u20-06-2025.html
 
-23:00 [l]CAF South Africa Confederations Cup[z]	^-
-Mauritius 🇲🇷 vs Zimbabwe 🇿🇼	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4188162/mauritius-vs-zimbabwe-06-2025.html
-
 23:00 [l]International Friendly[z]	^-
 Serbia 🇷🇸 U21 vs Greece 🇬🇷 U21	`*https://www.fctv77.live/football/international-friendly-match-4188921/serbia-u21-vs-greece-u21-06-2025.html
 Belarus 🇧🇾 U21 vs Azerbaijan 🇦🇿 U21	`*https://www.fctv77.live/football/international-friendly-match-4189530/belarus-u21-vs-azerbaijan-u21-06-2025.html
 Algeria 🇩🇿 U20 vs Tunisia 🇹🇳 U20	`*https://www.fctv77.live/football/international-friendly-match-4189531/algeria-u20-vs-tunisia-u20-06-2025.html
 San Marino 🇸🇲 U21 vs Malta 🇲🇹 U21	`*https://www.fctv77.live/football/international-friendly-match-4189532/san-marino-u21-vs-malta-u21-06-2025.html
 
+23:30 [l]International Friendly[z]	^-
+Romania 🇷🇴 U21 vs Georgia 🇬🇪 U21	`*https://www.fctv77.live/football/international-friendly-match-4188917/romania-u21-vs-georgia-u21-06-2025.html
+
 23:45 [l]International Friendly[z]	^-
 France 🇫🇷 U21 vs Uzbekistan 🇺🇿 U21	`*https://www.fctv77.live/football/international-friendly-match-4188916/france-u21-vs-uzbekistanu21-06-2025.html
 
 [w]05-06-2025[z]	^-
 
-01:00 [l]International Friendly[z]	^-
-Egypt 🇪🇬 U20 vs Brazil 🇧🇷 U20	`*https://www.fctv77.live/football/international-friendly-match-4189529/egypt-u20-vs-brazil-u20-06-2025.html
+00:00 [l]UEFA European U17 Championship[z]	^
+Estonia 🇪🇪 U17 vs Montenegro 🇲🇪 U17	`*https://www.fctv77.live/football/uefa-european-u17-football-championship-match-4148137/estonia-u17-vs-montenegro-u17-06-2025.html
 
 02:00 [l]World Cup qualification (CONCACAF)[z]	^
 Dominica 🇩🇲 vs British Virgin Islands 🇻🇬	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3975495/dominica-vs-british-virgin-islands-06-2025.html
@@ -74,6 +78,9 @@ Barbados 🇧🇧 vs Aruba 🇦🇼	`*https://www.fctv77.live/football/fifa-worl
 Grenada 🇬🇩 vs Bahamas 🇧🇸	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3974221/grenada-vs-bahamas-06-2025.html
 Bermuda 🇧🇲 vs Cayman Islands 🇰🇾	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3975403/bermuda-vs-cayman-islands-06-2025.html
 St. Vincent Grenadines 🇻🇨 vs Anguilla 🇦🇮	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3975415/st-vincent---grenadines-vs-anguilla-06-2025.html
+
+18:10 [l]World Cup qualification (AFC)[z]	^
+Australia 🇦🇺 vs Japan 🇯🇵	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050804/australia-vs-japan-06-2025.html
 
 []👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/categoria-primera-a-match-4188105/america-de-cali-vs-atletico-junior-barranquilla-06-2025.html
 []** Follow the redirected page until Verification!	^-
