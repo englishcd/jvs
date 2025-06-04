@@ -31,14 +31,7 @@ Indonesia 🇮🇩 vs China 🇨🇳	`*https://www.fctv77.live/football/fifa-wor
 
 [w]04-06-2025[z]	^-
 
-19:00 [l]French Toulon Tournament[z]	^-
-Congo 🇨🇬 U20 vs Japan 🇯🇵 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4188993/congo-u20-vs-japan-u20-06-2025.html
-
-19:30 [l]International Friendly[z]	^-
-Thailand 🇹🇭 vs India 🇮🇳	`*https://www.fctv77.live/football/international-friendly-match-4188922/thailand-vs-india-06-2025.html
-
 20:00 [l]CAF South Africa Confederations Cup[z]	^-
-Mauritius 🇲🇷 vs Zimbabwe 🇿🇼	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4188162/mauritius-vs-zimbabwe-06-2025.html
 South Africa 🇿🇦 vs Mozambique 🇲🇿	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4188536/south-africa-vs-mozambique-06-2025.html
 
 20:30 [l]International Friendly[z]	^-
@@ -52,6 +45,9 @@ Colombia 🇨🇴 U20 vs Saudi Arabia 🇸🇦 U20	`*https://www.fctv77.live/foo
 
 22:30 [l]French Toulon Tournament[z]	^-
 Mexico 🇲🇽 U20 vs Denmark 🇩🇰 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4189001/mexico-u20-vs-denmark-u20-06-2025.html
+
+23:00 [l]CAF South Africa Confederations Cup[z]	^-
+Mauritius 🇲🇺 vs Zimbabwe 🇿🇼	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4188162/mauritius-vs-zimbabwe-06-2025.html
 
 23:00 [l]International Friendly[z]	^-
 Serbia 🇷🇸 U21 vs Greece 🇬🇷 U21	`*https://www.fctv77.live/football/international-friendly-match-4188921/serbia-u21-vs-greece-u21-06-2025.html
