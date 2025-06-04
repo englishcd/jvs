@@ -18,13 +18,16 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/international-friendly-match-4188913/singapore-vs-maldives-06-2025.html
+[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/international-friendly-match-4188910/uzbekistan-u20-vs-russia-u21-06-2025.html
 []** Follow the redirected page until Verification!	^-
 
 [w]05-06-2025[z]	^-
 
 02:00 [l]UEFA Nations League[z]	^
 Germany 🇩🇪 vs Portugal 🇵🇹	`*https://www.fctv77.live/football/uefa-nations-league-match-4159122/germany-vs-portugal-06-2025.html
+
+20:45 [l]World Cup qualification (AFC)[z]	^
+Indonesia 🇮🇩 vs China 🇨🇳	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050604/indonesia-vs-china-06-2025.html
 
 [w]04-06-2025[z]	^-
 
@@ -85,7 +88,16 @@ Australia 🇦🇺 vs Japan 🇯🇵	`*https://www.fctv77.live/football/fifa-wor
 18:30 [l]World Cup qualification (AFC)[z]	^
 Singapore 🇸🇬 vs Maldives 🇲🇻	`*https://www.fctv77.live/football/international-friendly-match-4188913/singapore-vs-maldives-06-2025.html
 
-[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/international-friendly-match-4188913/singapore-vs-maldives-06-2025.html
+20:00 [l]CAF South Africa Confederations Cup[z]	^-
+Malawi 🇲🇼 vs Lesotho 🇱🇸	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4188892/malawi-vs-lesotho-06-2025.html
+
+20:00 [l]International Friendly[z]	^-
+Uzbekistan 🇺🇿 U20 vs Russia 🇷🇺 U21	`*https://www.fctv77.live/football/international-friendly-match-4188910/uzbekistan-u20-vs-russia-u21-06-2025.html
+
+20:45 [l]World Cup qualification (AFC)[z]	^
+Indonesia 🇮🇩 vs China 🇨🇳	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050604/indonesia-vs-china-06-2025.html
+
+[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/international-friendly-match-4188910/uzbekistan-u20-vs-russia-u21-06-2025.html
 []** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
