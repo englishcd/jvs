@@ -23,8 +23,14 @@ GolTV	00!0!0/9595?zyy
 
 [w]05-06-2025[z]	^-
 
+18:10 [l]World Cup qualification (AFC)[z]	^-
+Australia 🇦🇺 vs Japan 🇯🇵	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050804/australia-vs-japan-06-2025.html
+
 20:45 [l]World Cup qualification (AFC)[z]	^-
 Indonesia 🇮🇩 vs China 🇨🇳	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050604/indonesia-vs-china-06-2025.html
+
+23:00 [l]World Cup qualification (AFC)[z]	^-
+Bahrain 🇧🇭 vs Saudi Arabia 🇸🇦	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050601/bahrain-vs-saudi-arabia-06-2025.html
 
 [w]06-06-2025[z]	^-
 
@@ -48,9 +54,6 @@ Grenada 🇬🇩 vs Bahamas 🇧🇸	`*https://www.fctv77.live/football/fifa-wor
 Bermuda 🇧🇲 vs Cayman Islands 🇰🇾	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3975403/bermuda-vs-cayman-islands-06-2025.html
 St. Vincent Grenadines 🇻🇨 vs Anguilla 🇦🇮	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3975415/st-vincent---grenadines-vs-anguilla-06-2025.html
 
-18:10 [l]World Cup qualification (AFC)[z]	^-
-Australia 🇦🇺 vs Japan 🇯🇵	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050804/australia-vs-japan-06-2025.html
-
 18:30 [l]World Cup qualification (AFC)[z]	^-
 Singapore 🇸🇬 vs Maldives 🇲🇻	`*https://www.fctv77.live/football/international-friendly-match-4188913/singapore-vs-maldives-06-2025.html
 
@@ -63,7 +66,6 @@ Uzbekistan 🇺🇿 U20 vs Russia 🇷🇺 U21	`*https://www.fctv77.live/footbal
 23:00 [l]World Cup qualification (AFC)[z]	^-
 Oman 🇴🇲 vs Jordan 🇯🇴	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4015496/oman-vs-jordan-06-2025.html
 UAE 🇦🇪 vs Uzbekistan 🇺🇿 `*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4046222/united-arab-emirates-vs-uzbekistan-06-2025.html
-Bahrain 🇧🇭 vs Saudi Arabia 🇸🇦	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050601/bahrain-vs-saudi-arabia-06-2025.html
 
 23:00 [l]International Friendly[z]	^-
 Georgia 🇬🇪 vs Faroe Islands 🇫🇴	`*https://www.fctv77.live/football/international-friendly-match-4188908/georgia-vs-faroe-islands-06-2025.html
