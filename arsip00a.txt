@@ -23,15 +23,15 @@ GolTV	00!0!0/9595?zyy
 
 [w]05-06-2025[z]	^-
 
-02:00 [l]UEFA Nations League[z]	^
+02:00 [l]UEFA Nations League[z]	^-
 Germany 🇩🇪 vs Portugal 🇵🇹	`*https://www.fctv77.live/football/uefa-nations-league-match-4159122/germany-vs-portugal-06-2025.html
 
-20:45 [l]World Cup qualification (AFC)[z]	^
+20:45 [l]World Cup qualification (AFC)[z]	^-
 Indonesia 🇮🇩 vs China 🇨🇳	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050604/indonesia-vs-china-06-2025.html
 
 [w]06-06-2025[z]	^-
 
-02:00 [l]UEFA Nations League[z]	^
+02:00 [l]UEFA Nations League[z]	^-
 Spain 🇪🇸 vs France 🇫🇷	`*https://www.fctv77.live/football/uefa-nations-league-match-4188930/spain-vs-france-06-2025.html
 
 DigiSport 1	https://soldoutbudokan-tv.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAwL21vbm8ubTN1OA==.m3u8
@@ -42,22 +42,22 @@ Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-62
 
 [w]05-06-2025[z]	^-
 
-02:00 [l]World Cup qualification (CONCACAF)[z]	^
+02:00 [l]World Cup qualification (CONCACAF)[z]	^-
 Dominica 🇩🇲 vs British Virgin Islands 🇻🇬	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3975495/dominica-vs-british-virgin-islands-06-2025.html
 
-04:00 [l]World Cup qualification (CONCACAF)[z]	^
+04:00 [l]World Cup qualification (CONCACAF)[z]	^-
 Montserrat 🇲🇸 vs Belize 🇧🇿	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3974193/montserrat-vs-belize-06-2025.html
 Barbados 🇧🇧 vs Aruba 🇦🇼	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3975447/barbados-vs-aruba-06-2025.html
 
-06:00 [l]World Cup qualification (CONCACAF)[z]	^
+06:00 [l]World Cup qualification (CONCACAF)[z]	^-
 Grenada 🇬🇩 vs Bahamas 🇧🇸	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3974221/grenada-vs-bahamas-06-2025.html
 Bermuda 🇧🇲 vs Cayman Islands 🇰🇾	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3975403/bermuda-vs-cayman-islands-06-2025.html
 St. Vincent Grenadines 🇻🇨 vs Anguilla 🇦🇮	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3975415/st-vincent---grenadines-vs-anguilla-06-2025.html
 
-18:10 [l]World Cup qualification (AFC)[z]	^
+18:10 [l]World Cup qualification (AFC)[z]	^-
 Australia 🇦🇺 vs Japan 🇯🇵	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050804/australia-vs-japan-06-2025.html
 
-18:30 [l]World Cup qualification (AFC)[z]	^
+18:30 [l]World Cup qualification (AFC)[z]	^-
 Singapore 🇸🇬 vs Maldives 🇲🇻	`*https://www.fctv77.live/football/international-friendly-match-4188913/singapore-vs-maldives-06-2025.html
 
 20:00 [l]CAF South Africa Confederations Cup[z]	^-
@@ -66,7 +66,7 @@ Malawi 🇲🇼 vs Lesotho 🇱🇸	`*https://www.fctv77.live/football/caf-south
 20:00 [l]International Friendly[z]	^-
 Uzbekistan 🇺🇿 U20 vs Russia 🇷🇺 U21	`*https://www.fctv77.live/football/international-friendly-match-4188910/uzbekistan-u20-vs-russia-u21-06-2025.html
 
-23:00 [l]World Cup qualification (AFC)[z]	^
+23:00 [l]World Cup qualification (AFC)[z]	^-
 Oman 🇴🇲 vs Jordan 🇯🇴	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4015496/oman-vs-jordan-06-2025.html
 UAE 🇦🇪 vs Uzbekistan 🇺🇿 `*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4046222/united-arab-emirates-vs-uzbekistan-06-2025.html
 Bahrain 🇧🇭 vs Saudi Arabia 🇸🇦	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050601/bahrain-vs-saudi-arabia-06-2025.html
@@ -86,7 +86,7 @@ Turkiye 🇹🇷 U21 vs Montenegro 🇲🇪 U21	`*https://www.fctv77.live/footba
 01:00 [l]International Friendly[z]	^-
 Democratic Rep Congo 🇨🇩 vs Mali 🇲🇱	`*https://www.fctv77.live/football/international-friendly-match-4188905/democratic-republic-of-the-congo-vs-mali-06-2025.html
 
-01:15 [l]World Cup qualification (AFC)[z]	^
+01:15 [l]World Cup qualification (AFC)[z]	^-
 Kuwait 🇰🇼 vs Palestine 🇵🇸	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4015495/kuwait-vs-palestine-06-2025.html
 Iraq 🇮🇶 vs South Korea 🇰🇷	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4015513/iraq-vs-south-korea-06-2025.html
 Qatar 🇶🇦 vs Iran 🇮🇷	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4046236/qatar-vs-iran-06-2025.html
