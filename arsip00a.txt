@@ -18,7 +18,7 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4188929/angola-vs-namibia-06-2025.html
+[]👇 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4189544/korea-dpr-vs-kyrgyzstan-06-2025.html
 []** Follow the redirected page until Verification!	^-
 
 [w]05-06-2025[z]	^-
@@ -36,31 +36,6 @@ Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!
 DAZN 1 🇩🇪	https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd!!0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
 Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
-
-[w]04-06-2025[z]	^-
-
-22:30 [l]French Toulon Tournament[z]	^-
-Mexico 🇲🇽 U20 vs Denmark 🇩🇰 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4189001/mexico-u20-vs-denmark-u20-06-2025.html
-
-23:00 [l]CAF South Africa Confederations Cup[z]	^-
-Mauritius 🇲🇺 vs Zimbabwe 🇿🇼	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4188162/mauritius-vs-zimbabwe-06-2025.html
-
-23:00 [l]International Friendly[z]	^-
-Serbia 🇷🇸 U21 vs Greece 🇬🇷 U21	`*https://www.fctv77.live/football/international-friendly-match-4188921/serbia-u21-vs-greece-u21-06-2025.html
-Belarus 🇧🇾 U21 vs Azerbaijan 🇦🇿 U21	`*https://www.fctv77.live/football/international-friendly-match-4189530/belarus-u21-vs-azerbaijan-u21-06-2025.html
-Algeria 🇩🇿 U20 vs Tunisia 🇹🇳 U20	`*https://www.fctv77.live/football/international-friendly-match-4189531/algeria-u20-vs-tunisia-u20-06-2025.html
-San Marino 🇸🇲 U21 vs Malta 🇲🇹 U21	`*https://www.fctv77.live/football/international-friendly-match-4189532/san-marino-u21-vs-malta-u21-06-2025.html
-
-23:30 [l]International Friendly[z]	^-
-Romania 🇷🇴 U21 vs Georgia 🇬🇪 U21	`*https://www.fctv77.live/football/international-friendly-match-4188917/romania-u21-vs-georgia-u21-06-2025.html
-
-23:45 [l]International Friendly[z]	^-
-France 🇫🇷 U21 vs Uzbekistan 🇺🇿 U21	`*https://www.fctv77.live/football/international-friendly-match-4188916/france-u21-vs-uzbekistanu21-06-2025.html
-
-[w]05-06-2025[z]	^-
-
-00:00 [l]UEFA European U17 Championship[z]	^
-Estonia 🇪🇪 U17 vs Montenegro 🇲🇪 U17	`*https://www.fctv77.live/football/uefa-european-u17-football-championship-match-4148137/estonia-u17-vs-montenegro-u17-06-2025.html
 
 02:00 [l]World Cup qualification (CONCACAF)[z]	^
 Dominica 🇩🇲 vs British Virgin Islands 🇻🇬	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3975495/dominica-vs-british-virgin-islands-06-2025.html
@@ -97,7 +72,22 @@ Georgia 🇬🇪 vs Faroe Islands 🇫🇴	`*https://www.fctv77.live/football/in
 23:00 [l]CAF South Africa Confederations Cup[z]	^-
 Angola 🇦🇴 vs Namibia 🇳🇦	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4188929/angola-vs-namibia-06-2025.html
 
-[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4188929/angola-vs-namibia-06-2025.html
+[w]06-06-2025[z]	^-
+
+00:00 [l]International Friendly[z]	^-
+Belarus 🇧🇾 vs Kazakhstan 🇰🇿	`*https://www.fctv77.live/football/international-friendly-match-4188907/belarus-vs-kazakhstan-06-2025.html
+Turkiye 🇹🇷 U21 vs Montenegro 🇲🇪 U21	`*https://www.fctv77.live/football/international-friendly-match-4189526/turkey-u21-vs-montenegro-u21-06-2025.html
+
+01:00 [l]International Friendly[z]	^-
+Democratic Rep Congo 🇨🇩 vs Mali 🇲🇱	`*https://www.fctv77.live/football/international-friendly-match-4188905/democratic-republic-of-the-congo-vs-mali-06-2025.html
+
+01:15 [l]World Cup qualification (AFC)[z]	^
+Kuwait 🇰🇼 vs Palestine 🇵🇸	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4015495/kuwait-vs-palestine-06-2025.html
+Iraq 🇮🇶 vs South Korea 🇰🇷	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4015513/iraq-vs-south-korea-06-2025.html
+Qatar 🇶🇦 vs Iran 🇮🇷	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4046236/qatar-vs-iran-06-2025.html
+Korea DPR 🇰🇵 vs Kyrgyzstan 🇰🇬	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4189544/korea-dpr-vs-kyrgyzstan-06-2025.html
+
+[]👆 [y]Need Human Verification?[z] 👉 Click Here!	[]^+https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4189544/korea-dpr-vs-kyrgyzstan-06-2025.html
 []** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
