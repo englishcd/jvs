@@ -711,6 +711,11 @@ Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6
 Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 Sports ID 3	https://fta4!vfc!63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 Sports ID 4	https://fta4!vfc!2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+beIN Sports ID 1	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+beIN Sports ID 2	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
 iNews	`0https://embed.rctiplus.com/live/inews/inewsid
@@ -1010,11 +1015,6 @@ Sony Sports 3	https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 Sony Sports 4	https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 Sony Sports 5	https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 Sony Pix	https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-beIN Sports 1	https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-beIN Sports 2	https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-beIN Sports 3	https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-beIN Sports 4	https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-beIN Sports 5	https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 
 Arena Sport 1	`0https://streaming.sportsnews.id/p/arena1cro.html
 Arena Sport 2	`0https://streaming.sportsnews.id/p/arena2cro.html
