@@ -29,6 +29,12 @@ Australia 🇦🇺 vs Japan 🇯🇵	`*https://www.fctv77.live/football/fifa-wor
 20:45 [l]World Cup qualification (AFC)[z]	^-
 Indonesia 🇮🇩 vs China 🇨🇳	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050604/indonesia-vs-china-06-2025.html
 
+Indonesia 🇮🇩 vs China 🇨🇳 1	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+Indonesia 🇮🇩 vs China 🇨🇳 2	https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+Indonesia 🇮🇩 vs China 🇨🇳 3	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
+Indonesia 🇮🇩 vs China 🇨🇳 4	https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
+Indonesia 🇮🇩 vs China 🇨🇳 5	https://spstr.abntv.live/hls/psstream.m3u8
+
 23:00 [l]World Cup qualification (AFC)[z]	^-
 Bahrain 🇧🇭 vs Saudi Arabia 🇸🇦	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050601/bahrain-vs-saudi-arabia-06-2025.html
 
