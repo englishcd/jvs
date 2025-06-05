@@ -390,7 +390,7 @@ Match! TV 🇷🇺	https://video.beeline.tv/live/d/channel317.isml/manifest-stb.
 	^-
 [g]YouTube Favorite Streaming[z]	^-
 
-Makkah Live	https://www.youtube.com/watch?v=jV67vOZJCf8
+Makkah Live	https://www.youtube.com/watch?v=mvvwu8iAD8k
 Madinah Live	https://www.youtube.com/watch?v=rHWSRMcGGBQ
 The World Live. EarthTV	https://www.youtube.com/watch?v=HfgIFGbdGJ0
 Angry Birds 1	https://www.youtube.com/watch?v=vnqWVuU0sns
@@ -410,13 +410,13 @@ Cartoon Network 2	https://www.youtube.com/watch?v=uUCTOHriQCg
 Cartoonito	https://www.youtube.com/watch?v=p5l3ZS1jVUE
 Masha and The Bear	https://www.youtube.com/watch?v=ajK6TflcuBc
 Nicktoons	https://www.youtube.com/watch?v=5-6_PVhnZ0g
-Om Nom Stories	https://www.youtube.com/watch?v=Uqju_Rd2-Do
+Om Nom Stories	https://www.youtube.com/watch?v=Kh0ooK7g8oo
 SpongeBob 🇮🇩	https://www.youtube.com/watch?v=1Q6qVdiCA6Y
 Shaun the Sheep	https://www.youtube.com/watch?v=EZsmbpdjHRc
 Timmy & Friends	https://www.youtube.com/watch?v=MSXaxnnDOvY
 Muse Indonesia	https://www.youtube.com/watch?v=zI6anm6WXrE
 Mr. Bean Classic	https://www.youtube.com/watch?v=NOCisq9ASyM
-Mr. Bean Cartoon	https://www.youtube.com/watch?v=CzWq54WESp8
+Mr. Bean Cartoon	https://www.youtube.com/watch?v=WL3a8k-9o88
 RailCowGirl	https://www.youtube.com/watch?v=czoEAKX9aaM
 Japan 4K	https://www.youtube.com/watch?v=cH7VBI4QQzA
 iQIYI Indonesia 1	https://www.youtube.com/watch?v=05aVrCzBlLE
