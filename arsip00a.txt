@@ -259,6 +259,7 @@ ESPN NL 2	!zz.espn2_nl?zwz
 ESPN NL 3	!zz.espn3_nl?zwz
 Caliente TV	!zz.calientetv?zwz
 ^=TSN 1	!zz.tsn1?zwz?7
+TSN 1	https://ott.udptv.net/stream/iptv/tsn1/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 TSN 2	!zz.tsn2?zwz
 TSN 3	!zz.tsn3?zwz
 TSN 4	!zz.tsn4?zwz
@@ -1050,8 +1051,9 @@ Sky LaLiga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
-^=ch3 smtv	https://live.samuraitv.biz.id/p/blog-page_11.html
-^=ch2 smtv	`0https://live2samuraitv.blogspot.com/p/ch2.html
+^=ch1 smtv	https://live.samuraitv.biz.id/p/ch1.html?zwz
+^=ch2 smtv	https://live2samuraitv.blogspot.com/p/ch2.html?zwz
+^=ch3 smtv	https://live.samuraitv.biz.id/p/blog-page_11.html?zwz
 ^=[l]Huhu.To[z]	`0https://huhu.to/
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
