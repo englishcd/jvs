@@ -707,6 +707,10 @@ VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
 	^-
 Sport Channels from [l]Ⓧa2 eXtra[z] 🆔	^-
 
+Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+Sports ID 3	https://fta4!vfc!63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+Sports ID 4	https://fta4!vfc!2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
 iNews	`0https://embed.rctiplus.com/live/inews/inewsid
