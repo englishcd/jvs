@@ -200,6 +200,24 @@ FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8
 FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8
 
 	^-
+[g]Schedule & Info[z]	^-
+Schedule Live Score	`0https://www.scorebat.com/embed/livescore/
+Live Soccer TV Guide	`0https://www.livesoccertv.com/
+
+	^-
+[g]Live Table, Stats & Live Scores[z]	^-
+League Tables	`0https://m.tablesleague.com/
+England 🇬🇧 Premier League	`0https://www.scorebat.com/embed/competition/england-premier-league/
+Spain 🇪🇸 LaLiga	`0https://www.scorebat.com/embed/competition/spain-la-liga/
+Italy 🇮🇹 Serie A	`0https://www.scorebat.com/embed/competition/italy-serie-a/
+Germany 🇩🇪 Bundesliga	`0https://www.scorebat.com/embed/competition/germany-bundesliga/
+France 🇫🇷 Ligue 1	`0https://www.scorebat.com/embed/competition/france-ligue-1/
+Netherlands 🇳🇱 Eredivisie	`0https://www.scorebat.com/embed/competition/netherlands-eredivisie/
+UEFA Champions League	`0https://www.scorebat.com/embed/league/uefa-champions-league/
+UEFA Europa League	`0https://www.scorebat.com/embed/league/uefa-europa-league/
+UEFA Conference League	`0https://www.scorebat.com/embed/league/uefa-conference-league/
+
+	^-
 [w]Live Sport TV Channels[z] [l]for Desktop[z]	^-
 
 ESPN 1	!zz.espn?zwz
@@ -444,24 +462,6 @@ Asian Football Confederation	`0https://xstalk.com/profile/theafcdotcom
 FIFA World Cup	`0https://xstalk.com/profile/FIFAWorldCup
 UEFA Champions League	`0https://xstalk.com/profile/ChampionsLeague
 UEFA Europa League	`0https://xstalk.com/profile/EuropaLeague
-
-	^-
-[g]Schedule & Info[z]	^-
-Live Soccer TV Guide	`0https://www.livesoccertv.com/
-Schedule Live Score	`0https://www.scorebat.com/embed/livescore/
-
-	^-
-[g]Live Table, Stats & Live Scores[z]	^-
-League Tables	`0https://m.tablesleague.com/
-England 🇬🇧 Premier League	`0https://www.scorebat.com/embed/competition/england-premier-league/
-Spain 🇪🇸 LaLiga	`0https://www.scorebat.com/embed/competition/spain-la-liga/
-Italy 🇮🇹 Serie A	`0https://www.scorebat.com/embed/competition/italy-serie-a/
-Germany 🇩🇪 Bundesliga	`0https://www.scorebat.com/embed/competition/germany-bundesliga/
-France 🇫🇷 Ligue 1	`0https://www.scorebat.com/embed/competition/france-ligue-1/
-Netherlands 🇳🇱 Eredivisie	`0https://www.scorebat.com/embed/competition/netherlands-eredivisie/
-UEFA Champions League	`0https://www.scorebat.com/embed/league/uefa-champions-league/
-UEFA Europa League	`0https://www.scorebat.com/embed/league/uefa-europa-league/
-UEFA Conference League	`0https://www.scorebat.com/embed/league/uefa-conference-league/
 
 	^-
 [w]Relax Channels[z]	^-
