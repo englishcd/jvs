@@ -18,7 +18,7 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4190159/comoros-vs-botswana-06-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4156398/estonia-vs-norway-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]09-06-2025[z]	^-
@@ -26,14 +26,44 @@ GolTV	00!0!0/9595?zyy
 02:00 [l]UEFA Nations League[z]	^-
 Portugal 🇵🇹 vs Spain 🇪🇸	`*https://www.fctv77.live/football/uefa-nations-league-match-4190482/portugal-vs-spain-06-2025.html
 
+19:00 [l]French Toulon Tournament[z]	^-
+Saudi Arabia 🇸🇦 U23 vs Mali 🇲🇱 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4189381/saudi-arabia-u23-vs-mali-u20-06-2025.html
+
+20:00 [l]CAF South Africa Confederations Cup[z]	^-
+Madagascar 🇲🇬 vs Eswatini 🇸🇿	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4189959/madagascar-vs-eswatini-06-2025.html
+
+21:00 [l]World Cup qualification (UEFA)[z]	^-
+Kazakhstan 🇰🇿 vs North Macedonia 🇲🇰	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4135659/kazakhstan-vs-north-macedonia-06-2025.html
+
+22:30 [l]French Toulon Tournament[z]	^-
+Panama 🇵🇦 U20 vs France 🇫🇷 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4189380/panama-u20-vs-france-u20-06-2025.html
+
+23:00 [l]International Friendly[z]	^-
+Liechtenstein 🇱🇮 vs Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿	`*https://www.fctv77.live/football/international-friendly-match-4189665/liechtenstein-vs-scotland-06-2025.html
+
+23:00 [l]CAF South Africa Confederations Cup[z]	^-
+Comoros 🇰🇲 vs Botswana 🇧🇼	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4190159/comoros-vs-botswana-06-2025.html
+
+[w]10-06-2025[z]	^-
+
+01:00 [l]International Friendly[z]	^-
+Montenegro 🇲🇪 vs Armenia 🇦🇲	`*https://www.fctv77.live/football/international-friendly-match-4189664/montenegro-vs-armenia-06-2025.html
+
+01:45 [l]World Cup qualification (UEFA)[z]	^-
+Belgium 🇧🇪 vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4135671/belgium-vs-wales-06-2025.html
+Faroe Islands 🇫🇴 vs Gibraltar 🇬🇮	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4155966/faroe-islands-vs-gibraltar-06-2025.html
+Croatia 🇭🇷 vs Czech 🇨🇿	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4155967/croatia-vs-czech-06-2025.html
+Italy 🇮🇹 vs Moldova 🇲🇩	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4156240/italy-vs-moldova-06-2025.html
+Estonia 🇪🇪 vs Norway 🇳🇴	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4156398/estonia-vs-norway-06-2025.html
+
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4156398/estonia-vs-norway-06-2025.html
+** Follow the redirected page until Verification!	^-
+
 DAZN 1 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium426/mono.m3u8
 RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 ITV 1	https://z.1UK_ITV_1/index.m3u8
-
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4190159/comoros-vs-botswana-06-2025.html
-** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
 
