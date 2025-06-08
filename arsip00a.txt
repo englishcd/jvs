@@ -23,15 +23,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]08-06-2025[z]	^-
 
-06:00 [l]World Cup qualification (CONCACAF)[z]	^-
-Bahamas 🇧🇸 vs Costa Rica 🇨🇷	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3974222/bahamas-vs-costa-rica-06-2025.html
-
-06:00 [l]International Friendly[z]	^-
-New Zealand 🇳🇿 vs Ivory Coast 🇨🇮	`*https://www.fctv77.live/football/international-friendly-match-4189385/new-zealand-vs-cote-divoire-06-2025.html
-
-08:00 [l]World Cup qualification (CONCACAF)[z]	^-
-Belize 🇧🇿 vs Panama 🇵🇦	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3974197/belize-vs-panama-06-2025.html
-
 17:00 [l]CAF South Africa Confederations Cup[z]	^-
 Angola 🇦🇴 vs Lesotho 🇱🇸	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4189506/angola-vs-lesotho-06-2025.html
 
@@ -40,6 +31,9 @@ Germany 🇩🇪 vs France 🇫🇷	`*https://www.fctv77.live/football/uefa-nati
 
 20:00 [l]CAF South Africa Confederations Cup[z]	^-
 Namibia 🇳🇦 vs Malawi 🇲🇼	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4189507/namibia-vs-malawi-06-2025.html
+
+21:00 [l]International Friendly[z]	^-
+Demo Rep Congo 🇨🇩 vs Madagascar 🇲🇬	`*https://www.fctv77.live/football/international-friendly-match-4189671/democratic-republic-of-the-congo-vs-madagascar-06-2025.html
 
 22:00 [l]International Friendly[z]	^-
 Colombia 🇨🇴 U20 vs Iceland 🇮🇸 U21	`*https://www.fctv77.live/football/international-friendly-match-4189977/colombia-u20-vs-iceland-u21-06-2025.html
