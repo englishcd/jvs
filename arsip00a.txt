@@ -23,9 +23,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]09-06-2025[z]	^-
 
-02:00 [l]UEFA Nations League[z]	^-
-Portugal 🇵🇹 vs Spain 🇪🇸	`*https://www.fctv77.live/football/uefa-nations-league-match-4190482/portugal-vs-spain-06-2025.html
-
 19:00 [l]French Toulon Tournament[z]	^-
 Saudi Arabia 🇸🇦 U23 vs Mali 🇲🇱 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4189381/saudi-arabia-u23-vs-mali-u20-06-2025.html
 
@@ -93,7 +90,6 @@ Fox Sports 🇲🇽 1	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/c
 Fox Sports 🇲🇽 2	i3!16/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd!!8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 Fox Sports 🇲🇽 3	i3!16/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd!!11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 Fox Sports 🇲🇽 Premium	i3!16/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd!!9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-DAZN 1 🇩🇪	https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd!!0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
 DAZN 1 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium426/mono.m3u8
 DAZN 2 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 DAZN 1 🇪🇸	i3!16/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd!!44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
