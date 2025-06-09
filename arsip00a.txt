@@ -18,13 +18,10 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4156398/estonia-vs-norway-06-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/international-friendly-match-4190028/croatia-u21-vs-sweden-u21-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]09-06-2025[z]	^-
-
-19:00 [l]French Toulon Tournament[z]	^-
-Saudi Arabia 🇸🇦 U23 vs Mali 🇲🇱 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4189381/saudi-arabia-u23-vs-mali-u20-06-2025.html
 
 20:00 [l]CAF South Africa Confederations Cup[z]	^-
 Madagascar 🇲🇬 vs Eswatini 🇸🇿	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4189959/madagascar-vs-eswatini-06-2025.html
@@ -56,7 +53,40 @@ Croatia 🇭🇷 vs Czech 🇨🇿	`*https://www.fctv77.live/football/fifa-world
 Italy 🇮🇹 vs Moldova 🇲🇩	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4156240/italy-vs-moldova-06-2025.html
 Estonia 🇪🇪 vs Norway 🇳🇴	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4156398/estonia-vs-norway-06-2025.html
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4156398/estonia-vs-norway-06-2025.html
+17:35 [l]World Cup qualification (AFC)[z]	^-
+Japan 🇯🇵 vs Indonesia 🇮🇩	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050600/japan-vs-indonesia-06-2025.html
+
+18:00 [l]World Cup qualification (AFC)[z]	^-
+South Korea 🇰🇷 vs Kuwait 🇰🇼	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4015509/south-korea-vs-kuwait-06-2025.html
+China 🇨🇳 vs Bahrain 🇧🇭	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050603/china-vs-bahrain-06-2025.html
+
+18:00 [l]International Friendly[z]	^-
+Thailand 🇹🇭 U23 vs UAE 🇦🇪 U23	`*https://www.fctv77.live/football/international-friendly-match-4190049/thailand-u23-vs-united-arab-emirates-u23-06-2025.html
+
+19:00 [l]AFC Asian Cup[z]	^-
+Hong Kong 🇭🇰 vs India 🇮🇳	`*https://www.fctv77.live/football/afc-asian-cup-match-4099601/hong-kong-vs-india-06-2025.html
+Laos 🇱🇦 vs Nepal 🇳🇵	`*https://www.fctv77.live/football/afc-asian-cup-match-4099635/laos-vs-nepal-06-2025.html
+
+19:00 [l]French Toulon Tournament[z]	^-
+Denmark 🇩🇰 U20 vs Japan 🇯🇵 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4189342/denmark-u20-vs-japan-u20-06-2025.html
+
+20:00 [l]AFC Asian Cup[z]	^-
+Bangladesh 🇧🇩 vs Singapore 🇸🇬	`*https://www.fctv77.live/football/afc-asian-cup-match-4099613/bangladesh-vs-singapore-06-2025.html
+Malaysia 🇲🇾 vs Vietnam 🇻🇳	`*https://www.fctv77.live/football/afc-asian-cup-match-4099636/malaysia-vs-vietnam-06-2025.html
+
+20:00 [l]CAF South Africa Confederations Cup[z]	^-
+Mozambique 🇲🇿 vs Zimbabwe 🇿🇼	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4189383/mozambique-vs-zimbabwe-06-2025.html
+South Africa 🇿🇦 vs Mauritius 🇲🇺	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4189384/south-africa-vs-mauritius-06-2025.html
+
+20:45 [l]World Cup qualification (AFC)[z]	^-
+Kyrgyzstan 🇰🇬 vs UAE 🇦🇪	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4046233/kyrgyzstan-vs-united-arab-emirates-06-2025.html
+Uzbekistan 🇺🇿 vs Qatar 🇶🇦	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4046235/uzbekistan-vs-qatar-06-2025.html
+
+21:00 [l]International Friendly[z]	^-
+Colombia 🇨🇴 U20 vs USA 🇺🇸 U20	`*https://www.fctv77.live/football/international-friendly-match-4189602/colombia-u20-vs-usa-u20-06-2025.html
+Croatia 🇭🇷 U21 vs Sweden 🇸🇪 U21	`*https://www.fctv77.live/football/international-friendly-match-4190028/croatia-u21-vs-sweden-u21-06-2025.html
+
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/international-friendly-match-4190028/croatia-u21-vs-sweden-u21-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
@@ -69,6 +99,9 @@ ITV 1	https://z.1UK_ITV_1/index.m3u8
 RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+🇳🇱 ESPN 1 HD	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+🇳🇱 ESPN 1	https://z.1live_event_nl_espn_1_fhd/index.m3u8
+Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 Ziggo Sport 2 Football	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 Ziggo Sport 3 F1	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 Ziggo Sport 5 Football	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,!!3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
