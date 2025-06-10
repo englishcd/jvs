@@ -23,14 +23,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]10-06-2025[z]	^-
 
-20:00 [l]AFC Asian Cup[z]	^-
-Bangladesh 🇧🇩 vs Singapore 🇸🇬	`*https://www.fctv77.live/football/afc-asian-cup-match-4099613/bangladesh-vs-singapore-06-2025.html
-Malaysia 🇲🇾 vs Vietnam 🇻🇳	`*https://www.fctv77.live/football/afc-asian-cup-match-4099636/malaysia-vs-vietnam-06-2025.html
-
-20:00 [l]CAF South Africa Confederations Cup[z]	^-
-Mozambique 🇲🇿 vs Zimbabwe 🇿🇼	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4189383/mozambique-vs-zimbabwe-06-2025.html
-South Africa 🇿🇦 vs Mauritius 🇲🇺	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4189384/south-africa-vs-mauritius-06-2025.html
-
 20:45 [l]World Cup qualification (AFC)[z]	^-
 Kyrgyzstan 🇰🇬 vs UAE 🇦🇪	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4046233/kyrgyzstan-vs-united-arab-emirates-06-2025.html
 Uzbekistan 🇺🇿 vs Qatar 🇶🇦	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4046235/uzbekistan-vs-qatar-06-2025.html
