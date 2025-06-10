@@ -23,16 +23,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]10-06-2025[z]	^-
 
-18:00 [l]World Cup qualification (AFC)[z]	^-
-South Korea 🇰🇷 vs Kuwait 🇰🇼	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4015509/south-korea-vs-kuwait-06-2025.html
-China 🇨🇳 vs Bahrain 🇧🇭	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050603/china-vs-bahrain-06-2025.html
-
-18:00 [l]AFC Asian Cup[z]	^-
-Philippines 🇵🇭 vs Tajikistan 🇹🇯	`*https://www.fctv77.live/football/afc-asian-cup-match-4099590/philippines-vs-tajikistan-06-2025.html
-
-18:00 [l]International Friendly[z]	^-
-Thailand 🇹🇭 U23 vs UAE 🇦🇪 U23	`*https://www.fctv77.live/football/international-friendly-match-4190049/thailand-u23-vs-united-arab-emirates-u23-06-2025.html
-
 19:00 [l]AFC Asian Cup[z]	^-
 Hong Kong 🇭🇰 vs India 🇮🇳	`*https://www.fctv77.live/football/afc-asian-cup-match-4099601/hong-kong-vs-india-06-2025.html
 Laos 🇱🇦 vs Nepal 🇳🇵	`*https://www.fctv77.live/football/afc-asian-cup-match-4099635/laos-vs-nepal-06-2025.html
