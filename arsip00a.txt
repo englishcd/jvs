@@ -23,57 +23,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]11-06-2025[z]	^-
 
-00:00 [l]UEFA European U17 Championship[z]	^-
-Montenegro 🇲🇪 U17 vs Latvia 🇱🇻 U17	`*https://www.fctv77.live/football/uefa-european-u17-football-championship-match-4148139/montenegro-u17-vs-latvia-u17-06-2025.html
-
-00:00 [l]UEFA European U21 Champ qualification[z]	^-
-Moldova U21 vs Andorra 🇦🇩 U21	`*https://www.fctv77.live/football/uefa-european-u21-championship-qualification-match-4189577/moldova-u21-vs-andorra-u21-06-2025.html
-
-00:00 [l]International Friendly[z]	^-
-Sweden 🇸🇪 vs Algeria 🇩🇿	`*https://www.fctv77.live/football/international-friendly-match-4190060/sweden-vs-algeria-06-2025.html
-Belarus 🇧🇾 vs Russia 🇷🇺	`*https://www.fctv77.live/football/international-friendly-match-4190061/belarus-vs-russia-06-2025.html
-Denmark 🇩🇰 vs Lithuania 🇱🇹	`*https://www.fctv77.live/football/international-friendly-match-4190070/denmark-vs-lithuania-06-2025.html
-
-00:15 [l]AFC Asian Cup[z]	^-
-Afghanistan 🇦🇫 vs Syrian 🇸🇾	`*https://www.fctv77.live/football/afc-asian-cup-match-4099870/afghanistan-vs-syria-06-2025.html
-
-00:30 [l]International Friendly[z]	^-
-South Africa 🇿🇦 vs Mozambique 🇲🇿	`*https://www.fctv77.live/football/international-friendly-match-4191532/south-africa-vs-mozambique-06-2025.html
-
-01:15 [l]World Cup qualification (AFC)[z]	^-
-Palestine 🇵🇸 vs Oman 🇴🇲	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4015508/palestine-vs-oman-06-2025.html
-Jordan 🇯🇴 vs Iraq 🇮🇶	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4015511/jordan-vs-iraq-06-2025.html
-Saudi Arabia 🇸🇦 vs Australia 🇦🇺	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4050602/saudi-arabia-vs-australia-06-2025.html
-
-01:45 [l]World Cup qualification (UEFA)[z]	^-
-San Marino 🇸🇲 vs Austria 🇦🇹	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4155530/san-marino-vs-austria-06-2025.html
-Serbia 🇷🇸 vs Andorra 🇦🇩	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4155532/serbia-vs-andorra-06-2025.html
-Latvia 🇱🇻 vs Albania 🇦🇱	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4155533/latvia-vs-albania-06-2025.html
-Romania 🇷🇴 vs Cyprus 🇨🇾	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4155541/romania-vs-cyprus-06-2025.html
-Finland 🇫🇮 vs Poland 🇵🇱	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4155866/finland-vs-poland-06-2025.html
-Netherlands 🇳🇱 vs Malta 🇲🇹	`*https://www.fctv77.live/football/fifa-world-cup-qualification-uefa-match-4155957/netherlands-vs-malta-06-2025.html
-
-01:45 [l]International Friendly[z]	^-
-Greece 🇬🇷 vs Bulgaria 🇧🇬	`*https://www.fctv77.live/football/international-friendly-match-4190053/greece-vs-bulgaria-06-2025.html
-Luxembourg 🇱🇺 vs Ireland 🇮🇪	`*https://www.fctv77.live/football/international-friendly-match-4190063/luxembourg-vs-ireland-06-2025.html
-England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Senegal 🇸🇳	`*https://www.fctv77.live/football/international-friendly-match-4190067/england-vs-senegal-06-2025.html
-Northern Ireland 🇯🇪 vs Iceland 🇮🇸	`*https://www.fctv77.live/football/international-friendly-match-4190068/northern-ireland-vs-iceland-06-2025.html
-
-02:00 [l]World Cup qualification (CONCACAF)[z]	^-
-St. Kitts and Nevis 🇰🇳 vs Grenada 🇬🇩	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3974223/st-kitts-and-nevis-vs-grenada-06-2025.html
-
-02:00 [l]International Friendly[z]	^-
-Burundi 🇧🇮 vs Mauritania 🇲🇷	`*https://www.fctv77.live/football/international-friendly-match-4190837/burundi-vs-mauritania-06-2025.html
-
-03:00 [l]World Cup qualification (CONMEBOL)[z]	^-
-Bolivia 🇧🇴 vs Chile 🇨🇱	`*https://www.fctv77.live/football/fifa-world-cup-qualification-conmebol-match-3834713/bolivia-vs-chile-06-2025.html
-
-03:00 [l]World Cup qualification (CONCACAF)[z]	^-
-Cuba 🇨🇺 vs Bermuda 🇧🇲	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3975400/cuba-vs-bermuda-06-2025.html
-
-03:00 [l]International Friendly[z]	^-
-New Zealand 🇳🇿 vs Ukraine 🇺🇦	`*https://www.fctv77.live/football/international-friendly-match-4190066/new-zealand-vs-ukraine-06-2025.html
-
 05:00 [l]World Cup qualification (CONCACAF)[z]	^-
 St. Lucia 🇱🇨 vs Barbados 🇧🇧	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3975449/st-lucia-vs-barbados-06-2025.html
 Haiti 🇭🇹 vs Curacao 🇨🇼	`*https://www.fctv77.live/football/fifa-world-cup-qualification-concacaf-match-3975451/haiti-vs-curacao-06-2025.html
