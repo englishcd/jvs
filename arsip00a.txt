@@ -23,16 +23,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]10-06-2025[z]	^-
 
-19:00 [l]AFC Asian Cup[z]	^-
-Hong Kong 🇭🇰 vs India 🇮🇳	`*https://www.fctv77.live/football/afc-asian-cup-match-4099601/hong-kong-vs-india-06-2025.html
-Laos 🇱🇦 vs Nepal 🇳🇵	`*https://www.fctv77.live/football/afc-asian-cup-match-4099635/laos-vs-nepal-06-2025.html
-
-19:00 [l]French Toulon Tournament[z]	^-
-Denmark 🇩🇰 U20 vs Japan 🇯🇵 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4189342/denmark-u20-vs-japan-u20-06-2025.html
-
-19:00 [l]International Friendly[z]	^-
-France 🇫🇷 U18 vs Japan 🇯🇵 U18	`*https://www.fctv77.live/football/international-friendly-match-4191529/france-u18-vs-japan-u18-06-2025.html
-
 20:00 [l]AFC Asian Cup[z]	^-
 Bangladesh 🇧🇩 vs Singapore 🇸🇬	`*https://www.fctv77.live/football/afc-asian-cup-match-4099613/bangladesh-vs-singapore-06-2025.html
 Malaysia 🇲🇾 vs Vietnam 🇻🇳	`*https://www.fctv77.live/football/afc-asian-cup-match-4099636/malaysia-vs-vietnam-06-2025.html
