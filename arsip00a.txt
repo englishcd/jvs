@@ -23,24 +23,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]10-06-2025[z]	^-
 
-21:00 [l]International Friendly[z]	^-
-Croatia 🇭🇷 U21 vs Sweden 🇸🇪 U21	`*https://www.fctv77.live/football/international-friendly-match-4190028/croatia-u21-vs-sweden-u21-06-2025.html
-
-21:30 [l]International Friendly[z]	^-
-USA 🇺🇸 U18 vs Portugal 🇵🇹 U18	`*https://www.fctv77.live/football/international-friendly-match-4191530/usa-u18-vs-portugal-u18-06-2025.html
-
-22:00 [l]International Friendly[z]	^-
-Colombia 🇨🇴 U20 vs USA 🇺🇸 U20	`*https://www.fctv77.live/football/international-friendly-match-4189602/colombia-u20-vs-usa-u20-06-2025.html
-
-22:00 [l]AFC Asian Cup[z]	^-
-Turkmenistan 🇹🇲 vs Thailand 🇹🇭	`*https://www.fctv77.live/football/afc-asian-cup-match-4099618/turkmenistan-vs-thailand-06-2025.html
-
-22:00 [l]European Baltic Cup[z]	^-
-Estonia 🇪🇪 U19 vs Latvia 🇱🇻 U19	`*https://www.fctv77.live/football/european-baltic-cup-match-4190209/estonia-u19-vs-latvia-u19-06-2025.html
-
-22:00 [l]International Friendly[z]	^-
-Kenya 🇰🇪 vs Chad 🇹🇩	`*https://www.fctv77.live/football/international-friendly-match-4190934/kenya-vs-chad-06-2025.html
-
 22:30 [l]French Toulon Tournament[z]	^-
 Mexico 🇲🇽 U20 vs Congo 🇨🇬 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4189341/mexico-u20-vs-congo-u20-06-2025.html
 
