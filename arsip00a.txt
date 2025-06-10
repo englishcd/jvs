@@ -23,16 +23,14 @@ GolTV	00!0!0/9595?zyy
 
 [w]10-06-2025[z]	^-
 
-20:45 [l]World Cup qualification (AFC)[z]	^-
-Kyrgyzstan 🇰🇬 vs UAE 🇦🇪	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4046233/kyrgyzstan-vs-united-arab-emirates-06-2025.html
-Uzbekistan 🇺🇿 vs Qatar 🇶🇦	`*https://www.fctv77.live/football/fifa-world-cup-qualification-afc-match-4046235/uzbekistan-vs-qatar-06-2025.html
-
 21:00 [l]International Friendly[z]	^-
-Colombia 🇨🇴 U20 vs USA 🇺🇸 U20	`*https://www.fctv77.live/football/international-friendly-match-4189602/colombia-u20-vs-usa-u20-06-2025.html
 Croatia 🇭🇷 U21 vs Sweden 🇸🇪 U21	`*https://www.fctv77.live/football/international-friendly-match-4190028/croatia-u21-vs-sweden-u21-06-2025.html
 
 21:30 [l]International Friendly[z]	^-
 USA 🇺🇸 U18 vs Portugal 🇵🇹 U18	`*https://www.fctv77.live/football/international-friendly-match-4191530/usa-u18-vs-portugal-u18-06-2025.html
+
+22:00 [l]International Friendly[z]	^-
+Colombia 🇨🇴 U20 vs USA 🇺🇸 U20	`*https://www.fctv77.live/football/international-friendly-match-4189602/colombia-u20-vs-usa-u20-06-2025.html
 
 22:00 [l]AFC Asian Cup[z]	^-
 Turkmenistan 🇹🇲 vs Thailand 🇹🇭	`*https://www.fctv77.live/football/afc-asian-cup-match-4099618/turkmenistan-vs-thailand-06-2025.html
