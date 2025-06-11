@@ -23,11 +23,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]11-06-2025[z]	^-
 
-15:00 [l]ASEAN U-19 Women's Championship[z]	^-
-Indonesia (w) 🇮🇩 vs Cambodia (w) 🇰🇭	`*https://www.fctv77.live/football/asean-u-19-womens-championship-match-4191626/indonesia-w-u19-vs-cambodia-w-u19-06-2025.html
-Thailand (w) 🇹🇭 vs Malaysia (w) 🇲🇾	`*https://www.fctv77.live/football/asean-u-19-womens-championship-match-4191627/thailand-w-u19-vs-malaysia-u19w-06-2025.html
-Myanmar (w) 🇲🇲 vs Laos (w) 🇱🇦	`*https://www.fctv77.live/football/asean-u-19-womens-championship-match-4191625/myanmar-w-u19-vs-laos-w-u19-06-2025.html
-
 18:30 [l]ASEAN U-19 Women's Championship[z]	^-
 Vietnam (w) 🇻🇳 vs Timor Leste (w) 🇹🇱	`*https://www.fctv77.live/football/asean-u-19-womens-championship-match-4191628/vietnam-w-u19-vs-timor-leste-w-u19-06-2025.html
 
@@ -189,6 +184,77 @@ Netherlands 🇳🇱 Eredivisie	`0https://www.scorebat.com/embed/competition/net
 UEFA Champions League	`0https://www.scorebat.com/embed/league/uefa-champions-league/
 UEFA Europa League	`0https://www.scorebat.com/embed/league/uefa-europa-league/
 UEFA Conference League	`0https://www.scorebat.com/embed/league/uefa-conference-league/
+
+	^-
+Sport Channels from [l]Ⓧa2 eXtra[z] 🆔	^-
+
+Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+Sports ID 3	https://fta4!vfc!63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+Sports ID 4	https://fta4!vfc!2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+beIN Sports ID 1	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+beIN Sports ID 2	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
+iNews	`0https://embed.rctiplus.com/live/inews/inewsid
+GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
+GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
+MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
+MNC SindoNews	01!02aMNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd!!26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
+ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+ID TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8[]01!01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8?7
+
+	^-
+[w]24/7 Action Movies Channels[z]	^-
+
+Action Hollywood	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?zxz
+Movies KR	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p6Ph7ybs-ExykQE-Zz78&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+ID Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+ID AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
+ID K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
+ID K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
+ID My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+ID Cartoonito	01!01dstreaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
+ID Warner	01!01dstreaming.indihometv.com/atm/DASH/warner/manifest.mpd
+[l]{s} Ⓧa2 🤺eXtra Movies/Film 🆔[z]	^^sa2
+Action Movies A	i3!062793084?zxz
+Action Movies B	i3!061226741?zxz
+Action Movies C	i3!064246519?zxz
+Action Movies D	i3!06747764?zxz
+Action Movies E	i3!0620415?zxz
+
+	^-
+[w]ID Live Sport TV[z]	^-
+
+ID MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+ID MNC TV	01!02aMNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd!!828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+ID RCTI	01!02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd!!9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+ID RCTI	https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
+ID GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+ID GTV	01!02aGTV-HD/sa_dash_vmx/GTV-HD.mpd!!88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+ID Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+ID iNews	01!02aiNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd!!a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+ID SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+ID Trans7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
+ID Trans TV	https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8
+ID Net TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=NET.
+ID RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+ID BTV	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+ID DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+ID ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+ID CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
+ID Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+ID Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
+ID tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
+ANTV	`0https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWn7B5RNPyFgfmBZEZWzBIU0euPvyhNjZzzZ32TdKYw0iN+szaquGwW/g3oNsxpwBRw2ag9SQ+wDniU4C5uCk6ZDujeewfkjcDn+94Vl8QVyhNiMXHTY1JGVnOP7dkldc1/xxNQCVy1CR68tpfvcbEChQdH2ecv8izmjEDDRkmlC7NO78hum5x5JuWsMrlMI5WmRihZKQiBr1NoPjlUHIziHn3ECsAlkA3dp6nbQz/nePOhk4mBIpsetJjZc2opjyuVuVfQD+5yOV3Zg1PRuFfupDoWECbntCG3uJosv9YKBtAdR9mBazJWYIYU9NvTQ4cSt2J24D
 
 	^-
 [w]Live Sport TV Channels[z] [l]for Desktop[z]	^-
@@ -686,75 +752,7 @@ USA Network	!yz~594edb0c-896e-4853-b97b-26c3a4f05156.m3u8
 VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
 
 	^-
-Sport Channels from [l]Ⓧa2 eXtra[z] 🆔	^-
-
-Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-Sports ID 3	https://fta4!vfc!63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-Sports ID 4	https://fta4!vfc!2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-beIN Sports ID 1	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-beIN Sports ID 2	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
-iNews	`0https://embed.rctiplus.com/live/inews/inewsid
-GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
-GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
-MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
-MNC SindoNews	01!02aMNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd!!26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-ID TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8[]01!01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8?7
-
-	^-
-[w]24/7 Action Movies Channels[z]	^-
-
-Action Hollywood	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?zxz
-Movies KR	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p6Ph7ybs-ExykQE-Zz78&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-ID Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-ID AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
-ID K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
-ID K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
-ID My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-ID Cartoonito	01!01dstreaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
-ID Warner	01!01dstreaming.indihometv.com/atm/DASH/warner/manifest.mpd
-[l]{s} Ⓧa2 🤺eXtra Movies/Film 🆔[z]	^^sa2
-Action Movies A	i3!062793084?zxz
-Action Movies B	i3!061226741?zxz
-Action Movies C	i3!064246519?zxz
-Action Movies D	i3!06747764?zxz
-Action Movies E	i3!0620415?zxz
-
-	^-
-[w]ID Live Sport TV and News[z]	^-
-
-ID MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-ID MNC TV	01!02aMNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd!!828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-ID RCTI	01!02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd!!9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-ID RCTI	https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
-ID GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-ID GTV	01!02aGTV-HD/sa_dash_vmx/GTV-HD.mpd!!88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-ID Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-ID iNews	01!02aiNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd!!a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-ID SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-ID Trans7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
-ID Trans TV	https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8
-ID Net TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=NET.
-ID RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-ID BTV	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-ID DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
-ID ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
-ID CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
-ID Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
-ID Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
-ID tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
-ANTV	`0https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWn7B5RNPyFgfmBZEZWzBIU0euPvyhNjZzzZ32TdKYw0iN+szaquGwW/g3oNsxpwBRw2ag9SQ+wDniU4C5uCk6ZDujeewfkjcDn+94Vl8QVyhNiMXHTY1JGVnOP7dkldc1/xxNQCVy1CR68tpfvcbEChQdH2ecv8izmjEDDRkmlC7NO78hum5x5JuWsMrlMI5WmRihZKQiBr1NoPjlUHIziHn3ECsAlkA3dp6nbQz/nePOhk4mBIpsetJjZc2opjyuVuVfQD+5yOV3Zg1PRuFfupDoWECbntCG3uJosv9YKBtAdR9mBazJWYIYU9NvTQ4cSt2J24D
+[w]ID Live TV and News[z]	^-
 
 Celestial Classic Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
 Celestial Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
