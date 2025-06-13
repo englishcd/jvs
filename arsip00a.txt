@@ -19,16 +19,10 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/norwegian-1-divisjon-match-4114443/kongsvinger-vs-sogndal-06-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/chilean-primera-division-match-4124371/palestino-vs-deportes-la-serena-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]13-06-2025[z]	^-
-
-22:00 [l]UEFA European U19 Championship[z]	^-
-Spain 🇪🇸 U19 vs Denmark 🇩🇰 U19	`*https://www.fctv77.live/football/uefa-european-u19-football-championship-match-4190765/spain-u19-vs-denmark-u19-06-2025.html
-
-22:30 [l]French Toulon Tournament[z]	^-
-France 🇫🇷 U20 vs Mexico 🇲🇽 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4191765/france-u20-vs-mexico-u20-06-2025.html
 
 23:00 [l]CAF South Africa Confederations Cup[z]	^-
 South Africa 🇿🇦 vs Comoros 🇰🇲	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4192130/south-africa-vs-comoros-06-2025.html
@@ -41,7 +35,15 @@ Romania 🇷🇴 U19 vs Montenegro 🇲🇪 U19	`*https://www.fctv77.live/footba
 21:00 [l]UEFA European U19 Championship[z]	^-
 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 U19 vs Norway 🇳🇴 U19	`*https://www.fctv77.live/football/uefa-european-u19-football-championship-match-4190554/england-u19-vs-norway-u19-06-2025.html
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/norwegian-1-divisjon-match-4114443/kongsvinger-vs-sogndal-06-2025.html
+23:00 [l]UEFA European U21 Championship[z]	^-
+Spain 🇪🇸 U21 vs Romania 🇷🇴 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4156896/spain-u21-vs-romania-u21-06-2025.html
+
+[w]15-06-2025[z]	^-
+
+00:00 [l]UEFA European U19 Championship[z]	^-
+Germany 🇩🇪 U19 vs Netherlands 🇳🇱 U19	`*https://www.fctv77.live/football/uefa-european-u19-football-championship-match-4191552/germany-u19-vs-netherlands-u19-06-2025.html
+
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/chilean-primera-division-match-4124371/palestino-vs-deportes-la-serena-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
