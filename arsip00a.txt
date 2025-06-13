@@ -14,21 +14,15 @@
 GolTV	00!0!0/9595?zyy
 👉[y]Sports & TV[z] [l]PlayList[z] #1👈	^^h10
 
-🇺🇸 USA Network	00!0!1/3089?zyy
+🇺🇸 Fox Soccer Plus	00!0!1/29695?zyy
 👉[y]Sports & TV[z] [l]PlayList[z] #2👈	^^h11
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127812/western-sydney-wanderers-am-vs-sydney-united-58-fc-06-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/korean-k-league-2-match-4137134/chungbuk-cheongju-fc-vs-seongnam-fc-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]13-06-2025[z]	^-
-
-15:00 [l]ASEAN U-19 Women's Championship[z]	^-
-Indonesia 🇮🇩 U19 vs Malaysia 🇲🇾 U19	`*https://www.fctv77.live/football/asean-u-19-womens-championship-match-4191652/indonesia-w-u19-vs-malaysia-u19w-06-2025.html
-Cambodia 🇰🇭 U19 vs Thailand 🇹🇭 U19	`*https://www.fctv77.live/football/asean-u-19-womens-championship-match-4191651/cambodia-w-u19-vs-thailand-w-u19-06-2025.html
-Vietnam 🇻🇳 U19 vs Laos 🇱🇦 U19	`*https://www.fctv77.live/football/asean-u-19-womens-championship-match-4191650/vietnam-w-u19-vs-laos-w-u19-06-2025.html
-Myanmar 🇲🇲 U19 vs Timor Leste 🇹🇱 U19	`*https://www.fctv77.live/football/asean-u-19-womens-championship-match-4191649/myanmar-w-u19-vs-timor-leste-w-u19-06-2025.html
 
 19:00 [l]French Toulon Tournament[z]	^-
 Denmark 🇩🇰 U20 vs Saudi Arabia 🇸🇦 U23	`*https://www.fctv77.live/football/french-toulon-tournament-match-4191764/denmark-u20-vs-saudi-arabia-u23-06-2025.html
@@ -50,7 +44,7 @@ South Africa 🇿🇦 vs Comoros 🇰🇲	`*https://www.fctv77.live/football/caf
 01:00 [l]UEFA European U19 Championship[z]	^-
 Romania 🇷🇴 U19 vs Montenegro 🇲🇪 U19	`*https://www.fctv77.live/football/uefa-european-u19-football-championship-match-4191337/romania-u19-vs-montenegro--u19-06-2025.html
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/australia-new-south-wales-premier-league-match-4127812/western-sydney-wanderers-am-vs-sydney-united-58-fc-06-2025.html
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/korean-k-league-2-match-4137134/chungbuk-cheongju-fc-vs-seongnam-fc-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
@@ -213,7 +207,6 @@ iNews	`0https://embed.rctiplus.com/live/inews/inewsid
 GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
 GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
 MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
-MNC SindoNews	01!02aMNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd!!26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
 ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 ID TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -242,15 +235,11 @@ Action Movies E	i3!0620415?zxz
 [w]ID Live Sport TV[z]	^-
 
 ID MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-ID MNC TV	01!02aMNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd!!828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-ID RCTI	01!02aRCTI-DD/sa_dash_vmx/RCTI-DD.mpd!!9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 ID RCTI	https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 ID GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-ID GTV	01!02aGTV-HD/sa_dash_vmx/GTV-HD.mpd!!88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 ID Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-ID iNews	01!02aiNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd!!a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 ID SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 ID Trans7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
