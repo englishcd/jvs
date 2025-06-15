@@ -19,18 +19,65 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/norwegian-1-divisjon-match-4114447/start-kristiansand-vs-lyn-oslo-06-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/concacaf-gold-cup-match-4191507/costa-rica-vs-suriname-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]15-06-2025[z]	^-
 
-07:00 [g]Club World Cup[z]	^-
-Al Ahly SC vs Inter Miami CF	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4106232/al-ahly-fc-vs-inter-miami-cf-06-2025.html
-
 09:15 [l]CONCACAF Gold Cup[z]	^-
 Mexico 🇲🇽 vs Dominican Republic 🇩🇴	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191461/mexico-vs-dominican-republic-06-2025.html
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/norwegian-1-divisjon-match-4114447/start-kristiansand-vs-lyn-oslo-06-2025.html
+17:00 [l]CAF South Africa Confederations Cup[z]	^-
+Madagascar 🇲🇬 vs Comoros 🇰🇲	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4192722/madagascar-vs-comoros-06-2025.html
+
+19:30 [l]French Toulon Tournament[z]	^-
+Mexico 🇲🇽 U20 vs Denmark 🇩🇰 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4192723/mexico-u20-vs-denmark-u20-06-2025.html
+
+20:00 [l]CAF South Africa Confederations Cup[z]	^-
+Angola 🇦🇴 vs South Africa 🇿🇦	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4192724/angola-vs-south-africa-06-2025.html
+
+22:00 [l]UEFA European U19 Women's Championship[z]	^-
+England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Netherlands 🇳🇱 U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188142/england-w-u19-vs-netherlands-w-u19-06-2025.html
+Portugal 🇵🇹 U19 vs Spain 🇪🇸 U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4191611/portugal-w-u19-vs-spain-w--u19-06-2025.html
+
+23:00 [g]Club World Cup[z]	^-
+Bayern Munchen vs Auckland City	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4154628/fc-bayern-munich-vs-auckland-city-06-2025.html
+
+23:00 [l]UEFA European U21 Championship[z]	^-
+Finland 🇫🇮 U21 vs Ukraine 🇺🇦 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4156891/finland-u21-vs-ukraine-u21-06-2025.html
+England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 U21 vs Slovenia 🇸🇮 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4157063/england-u21-vs-slovenia-u21-06-2025.html
+
+23:00 [l]UEFA European U19 Women's Championship[z]	^-
+Poland (w) 🇵🇱 U19 vs Italy (w) 🇮🇹 U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188155/poland-w-u19-vs-italy-w-u19-06-2025.html
+
+23:00 [l]French Toulon Tournament[z]	^-
+France 🇫🇷 U20 vs Saudi Arabia 🇸🇦 U23	`*https://www.fctv77.live/football/french-toulon-tournament-match-4192741/france-u20-vs-saudi-arabia-u23-06-2025.html
+
+[w]16-06-2025[z]	^-
+
+00:00 [l]UEFA European U19 Women's Championship[z]	^-
+France (w) 🇫🇷 U19 vs Sweden (w) 🇸🇪 U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188902/france-w-u19-vs-sweden-w-u19-06-2025.html
+
+02:00 [l]UEFA European U21 Championship[z]	^-
+Netherlands 🇳🇱 U21 vs Denmark 🇩🇰 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4156885/netherlands-u21-vs-denmark-u21-06-2025.html
+Czech Rep 🇨🇿 U21 vs Germany 🇩🇪 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4157064/czechia-republic-u21-vs-germany-u21-06-2025.html
+
+02:00 [g]Club World Cup[z]	^-
+Paris Saint Germain vs Atletico Madrid	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4180673/paris-saint-germain-vs-atletico-madrid-06-2025.html
+
+05:00 [g]Club World Cup[z]	^-
+Palmeiras vs FC Porto	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4105101/palmeiras-vs-fc-porto-06-2025.html
+
+05:00 [l]CONCACAF Gold Cup[z]	^-
+USA 🇺🇸 vs Trinidad Tobago 🇹🇹	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191500/usa-vs-trinidad-tobago-06-2025.html
+
+07:15 [l]CONCACAF Gold Cup[z]	^-
+Haiti 🇭🇹 vs Saudi Arabia 🇸🇦	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191411/haiti-vs-saudi-arabia-06-2025.html
+
+10:00 [l]CONCACAF Gold Cup[z]	^-
+Costa Rica 🇨🇷 vs Suriname 🇸🇷	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191507/costa-rica-vs-suriname-06-2025.html
+
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/concacaf-gold-cup-match-4191507/costa-rica-vs-suriname-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
