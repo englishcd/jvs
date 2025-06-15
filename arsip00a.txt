@@ -24,16 +24,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]16-06-2025[z]	^-
 
-00:00 [l]UEFA European U19 Women's Championship[z]	^-
-France (w) 🇫🇷 U19 vs Sweden (w) 🇸🇪 U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188902/france-w-u19-vs-sweden-w-u19-06-2025.html
-
-02:00 [l]UEFA European U21 Championship[z]	^-
-Netherlands 🇳🇱 U21 vs Denmark 🇩🇰 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4156885/netherlands-u21-vs-denmark-u21-06-2025.html
-Czech Rep 🇨🇿 U21 vs Germany 🇩🇪 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4157064/czechia-republic-u21-vs-germany-u21-06-2025.html
-
-02:00 [g]Club World Cup[z]	^-
-Paris Saint Germain vs Atletico Madrid	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4180673/paris-saint-germain-vs-atletico-madrid-06-2025.html
-
 05:00 [g]Club World Cup[z]	^-
 Palmeiras vs FC Porto	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4105101/palmeiras-vs-fc-porto-06-2025.html
 
