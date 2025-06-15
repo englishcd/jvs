@@ -37,15 +37,15 @@ Angola 🇦🇴 vs South Africa 🇿🇦	`*https://www.fctv77.live/football/caf-
 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Netherlands 🇳🇱 U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188142/england-w-u19-vs-netherlands-w-u19-06-2025.html
 Portugal 🇵🇹 U19 vs Spain 🇪🇸 U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4191611/portugal-w-u19-vs-spain-w--u19-06-2025.html
 
+23:00 [l]UEFA European U19 Women's Championship[z]	^-
+Poland (w) 🇵🇱 U19 vs Italy (w) 🇮🇹 U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188155/poland-w-u19-vs-italy-w-u19-06-2025.html
+
 23:00 [g]Club World Cup[z]	^-
 Bayern Munchen vs Auckland City	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4154628/fc-bayern-munich-vs-auckland-city-06-2025.html
 
 23:00 [l]UEFA European U21 Championship[z]	^-
 Finland 🇫🇮 U21 vs Ukraine 🇺🇦 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4156891/finland-u21-vs-ukraine-u21-06-2025.html
 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 U21 vs Slovenia 🇸🇮 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4157063/england-u21-vs-slovenia-u21-06-2025.html
-
-23:00 [l]UEFA European U19 Women's Championship[z]	^-
-Poland (w) 🇵🇱 U19 vs Italy (w) 🇮🇹 U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188155/poland-w-u19-vs-italy-w-u19-06-2025.html
 
 23:00 [l]French Toulon Tournament[z]	^-
 France 🇫🇷 U20 vs Saudi Arabia 🇸🇦 U23	`*https://www.fctv77.live/football/french-toulon-tournament-match-4192741/france-u20-vs-saudi-arabia-u23-06-2025.html
@@ -70,6 +70,9 @@ USA 🇺🇸 vs Trinidad Tobago 🇹🇹	`*https://www.fctv77.live/football/conc
 
 07:15 [l]CONCACAF Gold Cup[z]	^-
 Haiti 🇭🇹 vs Saudi Arabia 🇸🇦	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191411/haiti-vs-saudi-arabia-06-2025.html
+
+09:00 [g]Club World Cup[z]	^-
+Botafogo RJ vs Seattle Sounders	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4106227/botafogo-rj-vs-seattle-sounders-06-2025.html
 
 10:00 [l]CONCACAF Gold Cup[z]	^-
 Costa Rica 🇨🇷 vs Suriname 🇸🇷	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191507/costa-rica-vs-suriname-06-2025.html
@@ -204,24 +207,6 @@ FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8
 FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8
 
 	^-
-[g]Schedule & Info[z]	^-
-Schedule Live Score	`0https://www.scorebat.com/embed/livescore/
-Live Soccer TV Guide	`0https://www.livesoccertv.com/
-
-	^-
-[g]Live Table, Stats & Live Scores[z]	^-
-League Tables	`0https://m.tablesleague.com/
-England 🇬🇧 Premier League	`0https://www.scorebat.com/embed/competition/england-premier-league/
-Spain 🇪🇸 LaLiga	`0https://www.scorebat.com/embed/competition/spain-la-liga/
-Italy 🇮🇹 Serie A	`0https://www.scorebat.com/embed/competition/italy-serie-a/
-Germany 🇩🇪 Bundesliga	`0https://www.scorebat.com/embed/competition/germany-bundesliga/
-France 🇫🇷 Ligue 1	`0https://www.scorebat.com/embed/competition/france-ligue-1/
-Netherlands 🇳🇱 Eredivisie	`0https://www.scorebat.com/embed/competition/netherlands-eredivisie/
-UEFA Champions League	`0https://www.scorebat.com/embed/league/uefa-champions-league/
-UEFA Europa League	`0https://www.scorebat.com/embed/league/uefa-europa-league/
-UEFA Conference League	`0https://www.scorebat.com/embed/league/uefa-conference-league/
-
-	^-
 Sport Channels from [l]Ⓧa2 eXtra[z] 🆔	^-
 
 Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
@@ -286,6 +271,24 @@ ID Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 ID Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 ID tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 ANTV	`0https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWn7B5RNPyFgfmBZEZWzBIU0euPvyhNjZzzZ32TdKYw0iN+szaquGwW/g3oNsxpwBRw2ag9SQ+wDniU4C5uCk6ZDujeewfkjcDn+94Vl8QVyhNiMXHTY1JGVnOP7dkldc1/xxNQCVy1CR68tpfvcbEChQdH2ecv8izmjEDDRkmlC7NO78hum5x5JuWsMrlMI5WmRihZKQiBr1NoPjlUHIziHn3ECsAlkA3dp6nbQz/nePOhk4mBIpsetJjZc2opjyuVuVfQD+5yOV3Zg1PRuFfupDoWECbntCG3uJosv9YKBtAdR9mBazJWYIYU9NvTQ4cSt2J24D
+
+	^-
+[g]Schedule & Info[z]	^-
+Schedule Live Score	`0https://www.scorebat.com/embed/livescore/
+Live Soccer TV Guide	`0https://www.livesoccertv.com/
+
+	^-
+[g]Live Table, Stats & Live Scores[z]	^-
+League Tables	`0https://m.tablesleague.com/
+England 🇬🇧 Premier League	`0https://www.scorebat.com/embed/competition/england-premier-league/
+Spain 🇪🇸 LaLiga	`0https://www.scorebat.com/embed/competition/spain-la-liga/
+Italy 🇮🇹 Serie A	`0https://www.scorebat.com/embed/competition/italy-serie-a/
+Germany 🇩🇪 Bundesliga	`0https://www.scorebat.com/embed/competition/germany-bundesliga/
+France 🇫🇷 Ligue 1	`0https://www.scorebat.com/embed/competition/france-ligue-1/
+Netherlands 🇳🇱 Eredivisie	`0https://www.scorebat.com/embed/competition/netherlands-eredivisie/
+UEFA Champions League	`0https://www.scorebat.com/embed/league/uefa-champions-league/
+UEFA Europa League	`0https://www.scorebat.com/embed/league/uefa-europa-league/
+UEFA Conference League	`0https://www.scorebat.com/embed/league/uefa-conference-league/
 
 	^-
 [w]Live Sport TV Channels[z] [l]for Desktop[z]	^-
