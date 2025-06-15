@@ -24,9 +24,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]15-06-2025[z]	^-
 
-19:30 [l]French Toulon Tournament[z]	^-
-Mexico 🇲🇽 U20 vs Denmark 🇩🇰 U20	`*https://www.fctv77.live/football/french-toulon-tournament-match-4192723/mexico-u20-vs-denmark-u20-06-2025.html
-
 20:00 [l]CAF South Africa Confederations Cup[z]	^-
 Angola 🇦🇴 vs South Africa 🇿🇦	`*https://www.fctv77.live/football/caf-south-africa-confederations-cup-match-4192724/angola-vs-south-africa-06-2025.html
 
@@ -81,8 +78,6 @@ Costa Rica 🇨🇷 vs Suriname 🇸🇷	`*https://www.fctv77.live/football/conc
 
 🇳🇱 ESPN 1 HD	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 🇳🇱 ESPN 1	https://z.1live_event_nl_espn_1_fhd/index.m3u8
-ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 DigiSport 1	01!00cnfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
 DigiSport 2	01!00cnfsnew.newkso.ru/nfs/premium401/mono.m3u8?7
 SporTV 1 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium78/mono.m3u8?7
