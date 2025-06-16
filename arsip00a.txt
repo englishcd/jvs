@@ -24,14 +24,11 @@ GolTV	00!0!0/9595?zyy
 
 [w]16-06-2025[z]	^-
 
-07:15 [l]CONCACAF Gold Cup[z]	^-
-Haiti 🇭🇹 vs Saudi Arabia 🇸🇦	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191411/haiti-vs-saudi-arabia-06-2025.html
+15:00 [l]International (w) U19 Friendly[z]	^-
+Thailand 🇹🇭 vs Myanmar 🇲🇲	`*https://www.fctv77.live/football/international-friendly-match-4192744/thailand-w-u19-vs-myanmar-w-u19-06-2025.html
 
-09:00 [g]Club World Cup[z]	^-
-Botafogo RJ vs Seattle Sounders	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4106227/botafogo-rj-vs-seattle-sounders-06-2025.html
-
-10:00 [l]CONCACAF Gold Cup[z]	^-
-Costa Rica 🇨🇷 vs Suriname 🇸🇷	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191507/costa-rica-vs-suriname-06-2025.html
+18:30 [l]International (w) U19 Friendly[z]	^-
+Vietnam 🇻🇳 vs Indonesia 🇮🇩	`*https://www.fctv77.live/football/international-friendly-match-4192743/vietnam-w-u19-vs-indonesia-w-u19-06-2025.html
 
 22:00 [l]UEFA European U19 Championship[z]	^-
 Denmark 🇩🇰 U19 vs Montenegro 🇲🇪 U19	`*https://www.fctv77.live/football/uefa-european-u19-football-championship-match-4190769/denmark-u19-vs-montenegro--u19-06-2025.html
@@ -58,6 +55,8 @@ Panama 🇵🇦 vs Guadeloupe 🇬🇵	`*https://www.fctv77.live/football/concac
 
 [w]Live Sport TV Channels[z]	^-
 
+Moji ID	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 🇳🇱 ESPN 1 HD	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 🇳🇱 ESPN 1	https://z.1live_event_nl_espn_1_fhd/index.m3u8
 DigiSport 1	01!00cnfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
