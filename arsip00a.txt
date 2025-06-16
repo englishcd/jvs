@@ -28,7 +28,10 @@ GolTV	00!0!0/9595?zyy
 Thailand 🇹🇭 vs Myanmar 🇲🇲	`*https://www.fctv77.live/football/international-friendly-match-4192744/thailand-w-u19-vs-myanmar-w-u19-06-2025.html
 
 18:30 [l]International (w) U19 Friendly[z]	^-
-Vietnam 🇻🇳 vs Indonesia 🇮🇩	`*https://www.fctv77.live/football/international-friendly-match-4192743/vietnam-w-u19-vs-indonesia-w-u19-06-2025.html
+Vietnam 🇻🇳 vs Indonesia 🇮🇩	`*https://www.fctv77.live/football/categoria-primera-a-match-4190222/atletico-nacional-medellin-vs-millonarios-06-2025.html
+
+19:00[l]CAFA U-20[z]	^-
+Afghanistan 🇦🇫 vs Turkmenistan 🇹🇲	`*https://www.fctv77.live/football/cafa-u-20-match-4192952/afghanistan-u20-vs-turkmenistan-u20-06-2025.html
 
 22:00 [l]UEFA European U19 Championship[z]	^-
 Denmark 🇩🇰 U19 vs Montenegro 🇲🇪 U19	`*https://www.fctv77.live/football/uefa-european-u19-football-championship-match-4190769/denmark-u19-vs-montenegro--u19-06-2025.html
@@ -36,7 +39,7 @@ Denmark 🇩🇰 U19 vs Montenegro 🇲🇪 U19	`*https://www.fctv77.live/footba
 23:00[l]CAFA U-20[z]	^-
 Tajikistan 🇹🇯 U20 vs Uzbekistan 🇺🇿 U20	`*https://www.fctv77.live/football/cafa-u-20-match-4192961/tajikistan-u20-vs-uzbekistan-u20-06-2025.html
 
-[w]16-06-2025[z]	^-
+[w]17-06-2025[z]	^-
 
 01:00 [l]UEFA European U19 Championship[z]	^-
 Romania 🇷🇴 U19 vs Spain 🇪🇸 U19	`*https://www.fctv77.live/football/uefa-european-u19-football-championship-match-4190766/romania-u19-vs-spain-u19-06-2025.html
@@ -50,7 +53,13 @@ Boca Juniors vs Benfica	`*https://www.fctv77.live/football/fifa-club-world-cup-m
 06:00 [l]CONCACAF Gold Cup[z]	^-
 Panama 🇵🇦 vs Guadeloupe 🇬🇵	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191499/panama-vs-guadeloupe-06-2025.html
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/bra-campeonato-mineiro-2-match-4192056/ec-mamore-mg-vs-ca-patrocinense-06-2025.html
+08:00 [g]Club World Cup[z]	^-
+Flamengo vs Esperance Sportive de Tunis	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4134565/cr-flamengo-vs-esperance-sportive-de-tunis-06-2025.html
+
+09:00 [l]CONCACAF Gold Cup[z]	^-
+Jamaica 🇯🇲 vs Guatemala 🇬🇹	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191466/jamaica-vs-guatemala-06-2025.html
+
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/categoria-primera-a-match-4190222/atletico-nacional-medellin-vs-millonarios-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
@@ -197,7 +206,7 @@ iNews	`0https://embed.rctiplus.com/live/inews/inewsid
 GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
 GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
 MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
-ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+Moji ID	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 ID TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8[]01!01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8?7
