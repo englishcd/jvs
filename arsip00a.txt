@@ -24,13 +24,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]18-06-2025[z]	^-
 
-02:00 [g]Club World Cup[z]	^-
-River Plate vs Urawa Red Diamonds	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4096886/river-plate-vs-urawa-red-diamonds-06-2025.html
-
-02:00 [l]UEFA European U21 Championship[z]	^-
-Spain 🇪🇸 U21 vs Italy 🇮🇹 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4156894/spain-u21-vs-italy-u21-06-2025.html
-Romania 🇷🇴 U21 vs Slovakia 🇸🇰 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4156895/romania-u21-vs-slovakia-u21-06-2025.html
-
 05:00 [g]Club World Cup[z]	^-
 Ulsan Hyundai FC vs Mamelodi Sundowns	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4109512/ulsan-hd-fc-vs-mamelodi-sundowns-06-2025.html
 
