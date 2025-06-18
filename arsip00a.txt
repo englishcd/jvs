@@ -24,10 +24,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]18-06-2025[z]	^-
 
-22:00 [l]UEFA European U19 Women's Championship[z]	^-
-Portugal 🇵🇹 (w) U19 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w) U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188143/portugal-w-u19-vs-england-w-u19-06-2025.html
-Netherlands 🇳🇱 (w) vs Spain 🇪🇸 (w) U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188146/netherlands-w-u19-vs-spain-w--u19-06-2025.html
-
 23:00 [l]UEFA European U19 Women's Championship[z]	^-
 Poland 🇵🇱 (w) U19 vs France 🇫🇷 (w) U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188154/poland-w-u19-vs-france-w-u19-06-2025.html
 
@@ -61,6 +57,15 @@ Al Ain vs Juventus	`*https://www.fctv77.live/football/fifa-club-world-cup-match-
 
 09:00 [l]CONCACAF Gold Cup[z]	^-
 Suriname 🇸🇷 vs Mexico 🇲🇽	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191465/suriname-vs-mexico-06-2025.html
+
+23:00 [g]Club World Cup[z]	^-
+Palmeiras vs Al Ahly SC	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4105119/palmeiras-vs-al-ahly-fc-06-2025.html
+
+[w]20-06-2025[z]	^-
+
+00:00 [l]UEFA European U19 Championship[z]	^-
+Denmark 🇩🇰 U19 vs Romania 🇷🇴 U19	`*https://www.fctv77.live/football/uefa-european-u19-football-championship-match-4190767/denmark-u19-vs-romania-u19-06-2025.html
+Montenegro 🇲🇪 U19 vs Spain 🇪🇸 U19	`*https://www.fctv77.live/football/uefa-european-u19-football-championship-match-4190768/montenegro--u19-vs-spain-u19-06-2025.html
 
 👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/uzbekistan-super-league-match-4147821/sogdiana-jizak-vs-xorazm-urganch-06-2025.html
 ** Follow the redirected page until Verification!	^-
