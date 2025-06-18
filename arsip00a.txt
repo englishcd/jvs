@@ -60,6 +60,8 @@ Montenegro 🇲🇪 U19 vs Spain 🇪🇸 U19	`*https://www.fctv77.live/football
 
 [w]Live Sport TV Channels[z]	^-
 
+beIN Sports 1	https://tv.sainaertebat.com/hls2/bein1.m3u8
+beIN Sports 2	https://tv.sainaertebat.com/hls2/bein2.m3u8
 🇳🇱 ESPN 1 HD	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 🇳🇱 ESPN 1	https://z.1live_event_nl_espn_1_fhd/index.m3u8
 DigiSport 1	01!00cnfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
