@@ -24,9 +24,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]20-06-2025[z]	^-
 
-02:00 [g]Club World Cup[z]	^-
-Inter Miami CF vs FC Porto	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4105118/inter-miami-cf-vs-fc-porto-06-2025.html
-
 05:00 [g]Club World Cup[z]	^-
 Seattle Sounders vs Atletico Madrid	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4106304/seattle-sounders-vs-atletico-madrid-06-2025.html
 
