@@ -177,7 +177,6 @@ DigiSport 1	01!00cnfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
 DigiSport 2	01!00cnfsnew.newkso.ru/nfs/premium401/mono.m3u8?7
 DigiSport 3	01!00cnfsnew.newkso.ru/nfs/premium402/mono.m3u8?7
 DigiSport 4	01!00cnfsnew.newkso.ru/nfs/premium403/mono.m3u8?7
-DAZN 1 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium426/mono.m3u8?7
 SporTV 1 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium78/mono.m3u8?7
 SporTV 2 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium79/mono.m3u8?7
 SporTV 3 🇧🇷	01!00cwindnew.newkso.ru/wind/premium80/mono.m3u8?7
