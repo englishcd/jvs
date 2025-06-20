@@ -24,18 +24,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]20-06-2025[z]	^-
 
-05:00 [g]Club World Cup[z]	^-
-Seattle Sounders vs Atletico Madrid	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4106304/seattle-sounders-vs-atletico-madrid-06-2025.html
-
-05:45 [l]CONCACAF Gold Cup[z]	^-
-Trinidad Tobago 🇹🇹 vs Haiti 🇭🇹	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191415/trinidad-tobago-vs-haiti-06-2025.html
-
-08:00 [g]Club World Cup[z]	^-
-Paris Saint Germain vs Botafogo RJ	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4106306/paris-saint-germain-vs-botafogo-rj-06-2025.html
-
-08:15 [l]CONCACAF Gold Cup[z]	^-
-Saudi Arabia 🇸🇦 vs USA 🇺🇸	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191412/saudi-arabia-vs-usa-06-2025.html
-
 23:00 [g]Club World Cup[z]	^-
 Benfica vs Auckland City	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4097429/benfica-vs-auckland-city-06-2025.html
 
