@@ -19,13 +19,8 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4123864/gold-coast-knights-vs-brisbane-city-06-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188145/netherlands-w-u19-vs-portugal-w-u19-06-2025.html
 ** Follow the redirected page until Verification!	^-
-
-[w]20-06-2025[z]	^-
-
-23:00 [g]Club World Cup[z]	^-
-Benfica vs Auckland City	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4097429/benfica-vs-auckland-city-06-2025.html
 
 [w]21-06-2025[z]	^-
 
@@ -51,27 +46,32 @@ Bayern Munchen vs Boca Juniors	`*https://www.fctv77.live/football/fifa-club-worl
 09:00 [l]CONCACAF Gold Cup[z]	^-
 Guatemala 🇬🇹 vs Panama 🇵🇦	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191468/guatemala-vs-panama-06-2025.html
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4123864/gold-coast-knights-vs-brisbane-city-06-2025.html
+21:00 [l]UEFA European U19 Women's Championship[z]	^-
+Italy 🇮🇹 (w) U19 vs France 🇫🇷 (w) U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188156/italy-w-u19-vs-france-w-u19-06-2025.html
+Sweden 🇸🇪 (w) U19 vs Poland 🇵🇱 (w) U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188157/sweden-w-u19-vs-poland-w-u19-06-2025.html
+
+23:00 [g]Club World Cup[z]	^-
+Mamelodi Sundowns vs Borussia Dortmund	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4109596/mamelodi-sundowns-vs-borussia-dortmund-06-2025.html
+
+23:00 [l]UEFA European U21 Championship[z]	^-
+Portugal 🇵🇹 U21 vs Netherlands 🇳🇱 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4194427/portugal-u21-vs-netherlands-u21-06-2025.html
+
+[w]22-06-2025[z]	^-
+
+00:00 [l]UEFA European U19 Women's Championship[z]	^-
+Spain 🇪🇸 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w) U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188144/spain-w--u19-vs-england-w-u19-06-2025.html
+Netherlands 🇳🇱 vs Portugal 🇵🇹 (w) U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188145/netherlands-w-u19-vs-portugal-w-u19-06-2025.html
+
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188145/netherlands-w-u19-vs-portugal-w-u19-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
 
-Diema 1	01!00cddy6new.newkso.ru/ddy6/premium482/mono.m3u8?7
-Diema 2	01!00cwindnew.newkso.ru/wind/premium466/mono.m3u8?7
-Diema 3	01!00cwindnew.newkso.ru/wind/premium467/mono.m3u8?7
-DigiSport 1	01!00cnfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
-DigiSport 2	01!00cnfsnew.newkso.ru/nfs/premium401/mono.m3u8?7
-DigiSport 3	01!00cnfsnew.newkso.ru/nfs/premium402/mono.m3u8?7
-DigiSport 4	01!00cnfsnew.newkso.ru/nfs/premium403/mono.m3u8?7
-DAZN 1 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium426/mono.m3u8?7
 ESPN 1 HD 🇳🇱	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
 ITV 1	https://z.1UK_ITV_1/index.m3u8
 RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-SporTV 1 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium78/mono.m3u8?7
-SporTV 2 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium79/mono.m3u8?7
-SporTV 3 🇧🇷	01!00cwindnew.newkso.ru/wind/premium80/mono.m3u8?7
 Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Ziggo Sport 2 Football	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 Ziggo Sport 3 F1	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
@@ -96,8 +96,6 @@ Fox Sports 🇲🇽 1	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/c
 Fox Sports 🇲🇽 2	i3!16/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd!!8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 Fox Sports 🇲🇽 3	i3!16/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd!!11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 Fox Sports 🇲🇽 Premium	i3!16/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd!!9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-DAZN 1 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium426/mono.m3u8?7
-DAZN 2 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium427/mono.m3u8?7
 DAZN 1 🇪🇸	i3!16/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd!!44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 DAZN 2 🇪🇸	i3!16/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd!!0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 DAZN LaLiga 🇪🇸	i3!16/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd!!43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
@@ -172,6 +170,20 @@ NBC Sports	https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef
 NBC TV	i3`06fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 NFL Channel	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd!!002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
+
+Diema 1	01!00cddy6new.newkso.ru/ddy6/premium482/mono.m3u8?7
+Diema 2	01!00cwindnew.newkso.ru/wind/premium466/mono.m3u8?7
+Diema 3	01!00cwindnew.newkso.ru/wind/premium467/mono.m3u8?7
+DigiSport 1	01!00cnfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
+DigiSport 2	01!00cnfsnew.newkso.ru/nfs/premium401/mono.m3u8?7
+DigiSport 3	01!00cnfsnew.newkso.ru/nfs/premium402/mono.m3u8?7
+DigiSport 4	01!00cnfsnew.newkso.ru/nfs/premium403/mono.m3u8?7
+DAZN 1 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium426/mono.m3u8?7
+SporTV 1 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium78/mono.m3u8?7
+SporTV 2 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium79/mono.m3u8?7
+SporTV 3 🇧🇷	01!00cwindnew.newkso.ru/wind/premium80/mono.m3u8?7
+DAZN 1 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium426/mono.m3u8?7
+DAZN 2 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium427/mono.m3u8?7
 
 FIFA+ 🇦🇹	https://jmp2.uk/sam-ATBA3300007PT.m3u8
 FIFA+ 🇨🇦	https://jmp2.uk/sam-CABD1200008JG.m3u8
