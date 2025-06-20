@@ -19,7 +19,7 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/japanese-j3-league-match-4111932/kochi-united-vs-giravanz-kitakyushu-06-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4123864/gold-coast-knights-vs-brisbane-city-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]20-06-2025[z]	^-
@@ -36,6 +36,9 @@ Norway 🇳🇴 U19 vs Germany 🇩🇪 U19	`*https://www.fctv77.live/football/u
 01:00 [g]Club World Cup[z]	^-
 Flamengo vs Chelsea	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4101283/cr-flamengo-vs-chelsea-06-2025.html
 
+02:10 [l]International Friendly[z]	^-
+France 🇫🇷 (w) vs Belgium 🇧🇪 (w)	`*https://www.fctv77.live/football/international-friendly-match-4193462/france-women-vs-belgium-w-06-2025.html
+
 05:00 [g]Club World Cup[z]	^-
 Los Angeles vs Esperance Sportive Tunis	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4101281/los-angeles-fc-vs-esperance-sportive-de-tunis-06-2025.html
 
@@ -48,7 +51,7 @@ Bayern Munchen vs Boca Juniors	`*https://www.fctv77.live/football/fifa-club-worl
 09:00 [l]CONCACAF Gold Cup[z]	^-
 Guatemala 🇬🇹 vs Panama 🇵🇦	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191468/guatemala-vs-panama-06-2025.html
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/japanese-j3-league-match-4111932/kochi-united-vs-giravanz-kitakyushu-06-2025.html
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/australia-national-premier-leagues-queensland-match-4123864/gold-coast-knights-vs-brisbane-city-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
@@ -56,6 +59,7 @@ Guatemala 🇬🇹 vs Panama 🇵🇦	`*https://www.fctv77.live/football/concaca
 🇳🇱 ESPN 1 HD	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 DigiSport 1	01!00cnfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
 DigiSport 2	01!00cnfsnew.newkso.ru/nfs/premium401/mono.m3u8?7
+DigiSport 3	01!00cnfsnew.newkso.ru/nfs/premium402/mono.m3u8?7
 DAZN 1 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium426/mono.m3u8?7
 Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
 ITV 1	https://z.1UK_ITV_1/index.m3u8
@@ -63,6 +67,7 @@ RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 SporTV 1 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium78/mono.m3u8?7
 SporTV 2 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium79/mono.m3u8?7
+SporTV 3 🇧🇷	01!00cwindnew.newkso.ru/wind/premium80/mono.m3u8?7
 Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Ziggo Sport 2 Football	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 Ziggo Sport 3 F1	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
