@@ -19,19 +19,10 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131927/gotham-fc-w-vs-bay-fc-w-06-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/japanese-j3-league-match-4111926/fc-osaka-vs-fukushima-united-fc-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]21-06-2025[z]	^-
-
-06:45 [l]CONCACAF Gold Cup[z]	^-
-Jamaica 🇯🇲 vs Guadeloupe 🇬🇵	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191467/jamaica-vs-guadeloupe-06-2025.html
-
-08:00 [g]Club World Cup[z]	^-
-Bayern Munchen vs Boca Juniors	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4097431/fc-bayern-munich-vs-boca-juniors-06-2025.html
-
-09:00 [l]CONCACAF Gold Cup[z]	^-
-Guatemala 🇬🇹 vs Panama 🇵🇦	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191468/guatemala-vs-panama-06-2025.html
 
 21:00 [l]UEFA European U19 Women's Championship[z]	^-
 Italy 🇮🇹 (w) U19 vs France 🇫🇷 (w) U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188156/italy-w-u19-vs-france-w-u19-06-2025.html
@@ -61,7 +52,13 @@ Fluminense RJ vs Ulsan Hyundai FC	`*https://www.fctv77.live/football/fifa-club-w
 06:00 [g]Club World Cup[z]	^-
 Curacao 🇨🇼 vs Canada 🇨🇦	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191451/curacao-vs-canada-06-2025.html
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/united-states-womens-national-soccer-league-match-4131927/gotham-fc-w-vs-bay-fc-w-06-2025.html
+08:00 [g]Club World Cup[z]	^-
+River Plate vs Monterrey	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4096889/river-plate-vs-monterrey-06-2025.html
+
+09:00 [l]CONCACAF Gold Cup[z]	^-
+Honduras 🇭🇳 vs El Salvador 🇸🇻	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191454/honduras-vs-el-salvador-06-2025.html
+
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/japanese-j3-league-match-4111926/fc-osaka-vs-fukushima-united-fc-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
@@ -171,6 +168,16 @@ NBC TV	i3`06fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnu
 NFL Channel	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd!!002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
 
+FIFA+ 🇦🇹	https://jmp2.uk/sam-ATBA3300007PT.m3u8
+FIFA+ 🇨🇦	https://jmp2.uk/sam-CABD1200008JG.m3u8
+FIFA+ 🇨🇭	https://jmp2.uk/sam-CHBA3300010UC.m3u8
+FIFA+ 🇩🇪	https://jmp2.uk/sam-DEBA3300019EB.m3u8
+FIFA+ 🇪🇸	https://jmp2.uk/sam-ESBC2700009B4.m3u8
+FIFA+ 🇫🇷	https://jmp2.uk/sam-FRBA3300037Y7.m3u8
+FIFA+ 🇬🇧	https://jmp2.uk/sam-GBBD1100008YW.m3u8
+FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8
+FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8
+
 Diema 1	01!00cddy6new.newkso.ru/ddy6/premium482/mono.m3u8?7
 Diema 2	01!00cwindnew.newkso.ru/wind/premium466/mono.m3u8?7
 Diema 3	01!00cwindnew.newkso.ru/wind/premium467/mono.m3u8?7
@@ -183,16 +190,6 @@ SporTV 2 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium79/mono.m3u8?7
 SporTV 3 🇧🇷	01!00cwindnew.newkso.ru/wind/premium80/mono.m3u8?7
 DAZN 1 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium426/mono.m3u8?7
 DAZN 2 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium427/mono.m3u8?7
-
-FIFA+ 🇦🇹	https://jmp2.uk/sam-ATBA3300007PT.m3u8
-FIFA+ 🇨🇦	https://jmp2.uk/sam-CABD1200008JG.m3u8
-FIFA+ 🇨🇭	https://jmp2.uk/sam-CHBA3300010UC.m3u8
-FIFA+ 🇩🇪	https://jmp2.uk/sam-DEBA3300019EB.m3u8
-FIFA+ 🇪🇸	https://jmp2.uk/sam-ESBC2700009B4.m3u8
-FIFA+ 🇫🇷	https://jmp2.uk/sam-FRBA3300037Y7.m3u8
-FIFA+ 🇬🇧	https://jmp2.uk/sam-GBBD1100008YW.m3u8
-FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8
-FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8
 
 	^-
 Sport Channels from [l]Ⓧa2 eXtra[z] 🆔	^-
