@@ -19,20 +19,8 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/japanese-j3-league-match-4111926/fc-osaka-vs-fukushima-united-fc-06-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/norwegian-eliteserien-match-4112214/viking-vs-fredrikstad-06-2025.html
 ** Follow the redirected page until Verification!	^-
-
-[w]21-06-2025[z]	^-
-
-21:00 [l]UEFA European U19 Women's Championship[z]	^-
-Italy 🇮🇹 (w) U19 vs France 🇫🇷 (w) U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188156/italy-w-u19-vs-france-w-u19-06-2025.html
-Sweden 🇸🇪 (w) U19 vs Poland 🇵🇱 (w) U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4188157/sweden-w-u19-vs-poland-w-u19-06-2025.html
-
-23:00 [g]Club World Cup[z]	^-
-Mamelodi Sundowns vs Borussia Dortmund	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4109596/mamelodi-sundowns-vs-borussia-dortmund-06-2025.html
-
-23:00 [l]UEFA European U21 Championship[z]	^-
-Portugal 🇵🇹 U21 vs Netherlands 🇳🇱 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4194427/portugal-u21-vs-netherlands-u21-06-2025.html
 
 [w]22-06-2025[z]	^-
 
@@ -58,7 +46,13 @@ River Plate vs Monterrey	`*https://www.fctv77.live/football/fifa-club-world-cup-
 09:00 [l]CONCACAF Gold Cup[z]	^-
 Honduras 🇭🇳 vs El Salvador 🇸🇻	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191454/honduras-vs-el-salvador-06-2025.html
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/japanese-j3-league-match-4111926/fc-osaka-vs-fukushima-united-fc-06-2025.html
+23:00 [g]Club World Cup[z]	^-
+Juventus vs Wydad Casablanca	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4100741/juventus-vs-wydad-casablanca-06-2025.html
+
+23:00 [l]UEFA European U21 Championship[z]	^-
+Denmark 🇩🇰 U21 vs France 🇫🇷 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4194357/denmark-u21-vs-france-u21-06-2025.html
+
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/norwegian-eliteserien-match-4112214/viking-vs-fredrikstad-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
