@@ -69,6 +69,7 @@ Curacao 🇨🇼 vs Canada 🇨🇦	`*https://www.fctv77.live/football/concacaf-
 
 [w]Live Sport TV Channels[z]	^-
 
+SporTV 1 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 ESPN 1 HD 🇳🇱	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
 ITV 1	https://z.1UK_ITV_1/index.m3u8
