@@ -24,12 +24,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]22-06-2025[z]	^-
 
-02:00 [g]Club World Cup[z]	^-
-Inter Milan vs Urawa Red Diamonds	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4096885/inter-milan-vs-urawa-red-diamonds-06-2025.html
-
-02:00 [l]UEFA European U21 Championship[z]	^-
-Spain 🇪🇸 U21 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4194432/spain-u21-vs-england-u21-06-2025.html
-
 05:00 [g]Club World Cup[z]	^-
 Fluminense RJ vs Ulsan Hyundai FC	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4109479/fluminense-rj-vs-ulsan-hd-fc-06-2025.html
 
