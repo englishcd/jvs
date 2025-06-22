@@ -19,22 +19,13 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/fifa-club-world-cup-match-4098248/red-bull-salzburg-vs-al-hilal-06-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/concacaf-gold-cup-match-4191464/mexico-vs-costa-rica-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]22-06-2025[z]	^-
 
-05:00 [g]Club World Cup[z]	^-
-Fluminense RJ vs Ulsan Hyundai FC	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4109479/fluminense-rj-vs-ulsan-hd-fc-06-2025.html
-
-06:00 [l]CONCACAF Gold Cup[z]	^-
-Curacao 🇨🇼 vs Canada 🇨🇦	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191451/curacao-vs-canada-06-2025.html
-
-08:00 [g]Club World Cup[z]	^-
-River Plate vs Monterrey	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4096889/river-plate-vs-monterrey-06-2025.html
-
-09:00 [l]CONCACAF Gold Cup[z]	^-
-Honduras 🇭🇳 vs El Salvador 🇸🇻	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191454/honduras-vs-el-salvador-06-2025.html
+22:45 [g]International Friendly[z]	^-
+UAE 🇦🇪 (w) vs Malaysia 🇲🇾 (w)	`*https://www.fctv77.live/football/international-friendly-match-4194443/united-arab-emirates-w-vs-malaysia-w-06-2025.html
 
 23:00 [g]Club World Cup[z]	^-
 Juventus vs Wydad Casablanca	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4100741/juventus-vs-wydad-casablanca-06-2025.html
@@ -53,7 +44,18 @@ Germany 🇩🇪 U21 vs Italy 🇮🇹 U21	`*https://www.fctv77.live/football/ue
 05:00 [g]Club World Cup[z]	^-
 Red Bull Salzburg vs Al Hilal SFC	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4098248/red-bull-salzburg-vs-al-hilal-06-2025.html
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/fifa-club-world-cup-match-4098248/red-bull-salzburg-vs-al-hilal-06-2025.html
+06:00 [l]CONCACAF Gold Cup[z]	^-
+Saudi Arabia 🇸🇦 vs Trinidad Tobago 🇹🇹	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191413/saudi-arabia-vs-trinidad-tobago-06-2025.html
+USA 🇺🇸 vs Haiti 🇭🇹	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191414/usa-vs-haiti-06-2025.html
+
+08:00 [g]Club World Cup[z]	^-
+Manchester City vs Al Ain	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4100739/manchester-city-vs-al-ain-fc-06-2025.html
+
+09:00 [l]CONCACAF Gold Cup[z]	^-
+Dominican Rep 🇩🇴 vs Suriname 🇸🇷	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191463/dominican-republic-vs-suriname-06-2025.html
+Mexico 🇲🇽 vs Costa Rica 🇨🇷	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191464/mexico-vs-costa-rica-06-2025.html
+
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/concacaf-gold-cup-match-4191464/mexico-vs-costa-rica-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
@@ -173,6 +175,8 @@ FIFA+ 🇬🇧	https://jmp2.uk/sam-GBBD1100008YW.m3u8
 FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8
 FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8
 
+DAZN 1 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium426/mono.m3u8?7
+DAZN 2 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium427/mono.m3u8?7
 Diema 1	01!00cddy6new.newkso.ru/ddy6/premium482/mono.m3u8?7
 Diema 2	01!00cwindnew.newkso.ru/wind/premium466/mono.m3u8?7
 Diema 3	01!00cwindnew.newkso.ru/wind/premium467/mono.m3u8?7
@@ -180,11 +184,10 @@ DigiSport 1	01!00cnfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
 DigiSport 2	01!00cnfsnew.newkso.ru/nfs/premium401/mono.m3u8?7
 DigiSport 3	01!00cnfsnew.newkso.ru/nfs/premium402/mono.m3u8?7
 DigiSport 4	01!00cnfsnew.newkso.ru/nfs/premium403/mono.m3u8?7
+SportDigital Fussball 🇩🇪	01!00cdokko1new.newkso.ru/dokko1/premium571/mono.m3u8?7
 SporTV 1 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium78/mono.m3u8?7
 SporTV 2 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium79/mono.m3u8?7
 SporTV 3 🇧🇷	01!00cwindnew.newkso.ru/wind/premium80/mono.m3u8?7
-DAZN 1 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium426/mono.m3u8?7
-DAZN 2 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium427/mono.m3u8?7
 
 	^-
 Sport Channels from [l]Ⓧa2 eXtra[z] 🆔	^-
