@@ -166,20 +166,6 @@ FIFA+ 🇬🇧	https://jmp2.uk/sam-GBBD1100008YW.m3u8
 FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8
 FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8
 
-DAZN 1 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium426/mono.m3u8?7
-DAZN 2 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium427/mono.m3u8?7
-Diema 1	01!00cddy6new.newkso.ru/ddy6/premium482/mono.m3u8?7
-Diema 2	01!00cwindnew.newkso.ru/wind/premium466/mono.m3u8?7
-Diema 3	01!00cwindnew.newkso.ru/wind/premium467/mono.m3u8?7
-DigiSport 1	01!00cnfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
-DigiSport 2	01!00cnfsnew.newkso.ru/nfs/premium401/mono.m3u8?7
-DigiSport 3	01!00cnfsnew.newkso.ru/nfs/premium402/mono.m3u8?7
-DigiSport 4	01!00cnfsnew.newkso.ru/nfs/premium403/mono.m3u8?7
-SportDigital Fussball 🇩🇪	01!00cdokko1new.newkso.ru/dokko1/premium571/mono.m3u8?7
-SporTV 1 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium78/mono.m3u8?7
-SporTV 2 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium79/mono.m3u8?7
-SporTV 3 🇧🇷	01!00cwindnew.newkso.ru/wind/premium80/mono.m3u8?7
-
 	^-
 Sport Channels from [l]Ⓧa2 eXtra[z] 🆔	^-
 
@@ -263,6 +249,23 @@ Netherlands 🇳🇱 Eredivisie	`0https://www.scorebat.com/embed/competition/net
 UEFA Champions League	`0https://www.scorebat.com/embed/league/uefa-champions-league/
 UEFA Europa League	`0https://www.scorebat.com/embed/league/uefa-europa-league/
 UEFA Conference League	`0https://www.scorebat.com/embed/league/uefa-conference-league/
+
+	^-
+[w]Testing Live Sport TV Channels[z]	^-
+
+DAZN 1 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium426/mono.m3u8?7
+DAZN 2 🇩🇪	01!00cddy6new.newkso.ru/ddy6/premium427/mono.m3u8?7
+Diema 1	01!00cddy6new.newkso.ru/ddy6/premium482/mono.m3u8?7
+Diema 2	01!00cwindnew.newkso.ru/wind/premium466/mono.m3u8?7
+Diema 3	01!00cwindnew.newkso.ru/wind/premium467/mono.m3u8?7
+DigiSport 1	01!00cnfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
+DigiSport 2	01!00cnfsnew.newkso.ru/nfs/premium401/mono.m3u8?7
+DigiSport 3	01!00cnfsnew.newkso.ru/nfs/premium402/mono.m3u8?7
+DigiSport 4	01!00cnfsnew.newkso.ru/nfs/premium403/mono.m3u8?7
+SportDigital Fussball 🇩🇪	01!00cdokko1new.newkso.ru/dokko1/premium571/mono.m3u8?7
+SporTV 1 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium78/mono.m3u8?7
+SporTV 2 🇧🇷	01!00cddy6new.newkso.ru/ddy6/premium79/mono.m3u8?7
+SporTV 3 🇧🇷	01!00cwindnew.newkso.ru/wind/premium80/mono.m3u8?7
 
 	^-
 [w]Live Sport TV Channels[z] [l]for Desktop[z]	^-
