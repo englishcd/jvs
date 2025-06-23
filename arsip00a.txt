@@ -24,9 +24,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]23-06-2025[z]	^-
 
-19:30 [l]Women’s Asian Cup[z]	^-
-Iraq 🇮🇶 (w) vs Timor Leste 🇹🇱 (w)	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4193662/iraq-w-vs-timor-leste-w-06-2025.html
-
 22:00 [l]UEFA European U19 Championship[z]	^-
 Spain 🇪🇸 U19 vs Germany 🇩🇪 U19	`*https://www.fctv77.live/football/uefa-european-u19-football-championship-match-4196241/spain-u19-vs-germany-u19-06-2025.html
 
@@ -45,6 +42,9 @@ Seattle Sounders vs Paris Saint Germain	`*https://www.fctv77.live/football/fifa-
 08:00 [g]Club World Cup[z]	^-
 Inter Miami CF vs Palmeiras	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4105120/inter-miami-cf-vs-palmeiras-06-2025.html
 FC Porto vs Al Ahly SC	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4105121/fc-porto-vs-al-ahly-fc-06-2025.html
+
+22:00 [l]UEFA European U19 Women's Championship[z]	^-
+France 🇫🇷 (w) U19 vs Portugal 🇵🇹 (w) U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4196481/france-w-u19-vs-portugal-w-u19-06-2025.html
 
 👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/finland-suomen-cup-match-4193729/klubi-04-helsinki-vs-hjk-helsinki-06-2025.html
 ** Follow the redirected page until Verification!	^-
