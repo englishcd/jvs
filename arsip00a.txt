@@ -19,21 +19,16 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/uruguay-primera-division-match-4186229/cerro-largo-vs-plaza-colonia-06-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/fifa-club-world-cup-match-4105121/fc-porto-vs-al-ahly-fc-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]23-06-2025[z]	^-
 
-06:00 [l]CONCACAF Gold Cup[z]	^-
-Saudi Arabia 🇸🇦 vs Trinidad Tobago 🇹🇹	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191413/saudi-arabia-vs-trinidad-tobago-06-2025.html
-USA 🇺🇸 vs Haiti 🇭🇹	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191414/usa-vs-haiti-06-2025.html
+16:00 [l]Women’s Asian Cup[z]	^-
+Mongolia 🇲🇳 (w) vs India 🇮🇳 (w)	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4193661/mongolia-w-vs-india-w-06-2025.html
 
-08:00 [g]Club World Cup[z]	^-
-Manchester City vs Al Ain	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4100739/manchester-city-vs-al-ain-fc-06-2025.html
-
-09:00 [l]CONCACAF Gold Cup[z]	^-
-Dominican Rep 🇩🇴 vs Suriname 🇸🇷	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191463/dominican-republic-vs-suriname-06-2025.html
-Mexico 🇲🇽 vs Costa Rica 🇨🇷	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191464/mexico-vs-costa-rica-06-2025.html
+19:30 [l]Women’s Asian Cup[z]	^-
+Iraq 🇮🇶 (w) vs Timor Leste 🇹🇱 (w)	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4193662/iraq-w-vs-timor-leste-w-06-2025.html
 
 22:00 [l]UEFA European U19 Championship[z]	^-
 Spain 🇪🇸 U19 vs Germany 🇩🇪 U19	`*https://www.fctv77.live/football/uefa-european-u19-football-championship-match-4196241/spain-u19-vs-germany-u19-06-2025.html
@@ -47,7 +42,11 @@ Netherlands 🇳🇱 U19 vs Romania 🇷🇴 U19	`*https://www.fctv77.live/footb
 Atletico Madrid vs Botafogo RJ	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4106307/atletico-madrid-vs-botafogo-rj-06-2025.html
 Seattle Sounders vs Paris Saint Germain	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4106309/seattle-sounders-vs-paris-saint-germain-06-2025.html
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/uruguay-primera-division-match-4186229/cerro-largo-vs-plaza-colonia-06-2025.html
+08:00 [g]Club World Cup[z]	^-
+Inter Miami CF vs Palmeiras	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4105120/inter-miami-cf-vs-palmeiras-06-2025.html
+FC Porto vs Al Ahly SC	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4105121/fc-porto-vs-al-ahly-fc-06-2025.html
+
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/fifa-club-world-cup-match-4105121/fc-porto-vs-al-ahly-fc-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]Live Sport TV Channels[z]	^-
