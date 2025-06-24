@@ -19,13 +19,10 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/sierra-leone-premier-league-match-4102190/abacha-city-vs-old-edwardians-06-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4196576/germany-u21-vs-france-u21-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]25-06-2025[z]	^-
-
-01:00 [l]UEFA European U19 Women's Championship[z]	^-
-France 🇫🇷 U19 vs Portugal 🇵🇹 (w) U19	`*https://www.fctv77.live/football/uefa-european-u19-womens-championship-match-4196481/france-w-u19-vs-portugal-w-u19-06-2025.html
 
 02:00 [g]Club World Cup[z]	^-
 Auckland City vs Boca Juniors	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4097428/auckland-city-vs-boca-juniors-06-2025.html
@@ -46,8 +43,38 @@ Canada 🇨🇦 vs El Salvador 🇸🇻	`*https://www.fctv77.live/football/conca
 23:00 [l]UEFA European U21 Championship[z]	^-
 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Netherlands 🇳🇱 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4196400/england-u21-vs-netherlands-u21-06-2025.html
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/sierra-leone-premier-league-match-4102190/abacha-city-vs-old-edwardians-06-2025.html
+02:00 [g]Club World Cup[z]	^-
+Borussia Dortmund vs Ulsan Hyundai FC	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4109528/borussia-dortmund-vs-ulsan-hd-fc-06-2025.html
+Mamelodi Sundowns vs Fluminense RJ	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4109535/mamelodi-sundowns-vs-fluminense-rj-06-2025.html
+
+02:00 [l]UEFA European U21 Championship[z]	^-
+Germany 🇩🇪 U21 vs France 🇫🇷 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4196576/germany-u21-vs-france-u21-06-2025.html
+
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4196576/germany-u21-vs-france-u21-06-2025.html
 ** Follow the redirected page until Verification!	^-
+
+	^-
+Sport Channels ID	^-
+
+Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+Sports ID 3	https://fta4!vfc!63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+Sports ID 4	https://fta4!vfc!2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+beIN Sports ID 1	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+beIN Sports ID 2	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
+iNews	`0https://embed.rctiplus.com/live/inews/inewsid
+GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
+GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
+MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
+Moji ID	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+ID TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8[]01!01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8?7
 
 [w]Live Sport TV Channels[z]	^-
 
@@ -169,32 +196,8 @@ FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8
 FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8
 
 	^-
-Sport Channels from [l]Ⓧa2 eXtra[z] 🆔	^-
-
-Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-Sports ID 3	https://fta4!vfc!63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-Sports ID 4	https://fta4!vfc!2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-beIN Sports ID 1	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-beIN Sports ID 2	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
-iNews	`0https://embed.rctiplus.com/live/inews/inewsid
-GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
-GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
-MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
-Moji ID	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-ID TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8[]01!01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8?7
-
-	^-
 [w]24/7 Action Movies Channels[z]	^-
 
-Action Hollywood	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?zxz
 Movies KR	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p6Ph7ybs-ExykQE-Zz78&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 ID Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 ID AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
@@ -520,7 +523,6 @@ UEFA Europa League	`0https://xstalk.com/profile/EuropaLeague
 
 Drone TV	https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 Just for Laughs	PlutoTV/60d32888e31a0300073d9f08?7
-Kartoon TV	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8?zxz
 KidsFlix	https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 Kidoodle	https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
 Band 🇧🇷	https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/3361/3361.mpd!!3b43a1fbcf57cfe04109fbc1b381ac79:a23de064124dfddeaf3c23490d96328b
