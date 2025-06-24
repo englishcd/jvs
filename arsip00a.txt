@@ -24,10 +24,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]25-06-2025[z]	^-
 
-02:00 [g]Club World Cup[z]	^-
-Auckland City vs Boca Juniors	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4097428/auckland-city-vs-boca-juniors-06-2025.html
-Benfica vs Bayern Munchen	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4097430/benfica-vs-fc-bayern-munich-06-2025.html
-
 06:00 [l]CONCACAF Gold Cup[z]	^-
 Guadeloupe 🇬🇵 vs Guatemala 🇬🇹	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191469/guadeloupe-vs-guatemala-06-2025.html
 Panama 🇵🇦 vs Jamaica 🇯🇲	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191470/panama-vs-jamaica-06-2025.html
@@ -69,6 +65,7 @@ beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!ae
 beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
+ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 iNews	`0https://embed.rctiplus.com/live/inews/inewsid
 GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
 GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
@@ -223,7 +220,6 @@ ID RCTI	https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 ID GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 ID Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 ID SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 ID Trans7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
