@@ -62,17 +62,11 @@ beIN Sports ID 2	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d
 beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
 beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
-ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-iNews	`0https://embed.rctiplus.com/live/inews/inewsid
-GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
-GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
-MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
-Moji ID	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-ID TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-ID PSJ TV	https://play.accolamedia.id/accola/psj.stream/playlist.m3u8[]01!01fplay.accolamedia.id/accola/psj.stream/playlist.m3u8?7
+ID Moji https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+ID GTV https://allcutv.rctiplus.id/gtv2023.m3u8
+ID iNews https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+ID MNC TV https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+ID RCTI https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 [w]Live Sport TV Channels[z]	^-
 
@@ -214,25 +208,30 @@ Action Movies E	i3!0620415?zxz
 	^-
 [w]ID Live Sport TV[z]	^-
 
-ID MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-ID RCTI	https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
-ID GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-ID Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-ID SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-ID Trans7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
-ID Trans TV	https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8
-ID Net TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=NET.
-ID RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-ID BTV	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-ID DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+ID ANTV	`0https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWn7B5RNPyFgfmBZEZWzBIU0euPvyhNjZzzZ32TdKYw0iN+szaquGwW/g3oNsxpwBRw2ag9SQ+wDniU4C5uCk6ZDujeewfkjcDn+94Vl8QVyhNiMXHTY1JGVnOP7dkldc1/xxNQCVy1CR68tpfvcbEChQdH2ecv8izmjEDDRkmlC7NO78hum5x5JuWsMrlMI5WmRihZKQiBr1NoPjlUHIziHn3ECsAlkA3dp6nbQz/nePOhk4mBIpsetJjZc2opjyuVuVfQD+5yOV3Zg1PRuFfupDoWECbntCG3uJosv9YKBtAdR9mBazJWYIYU9NvTQ4cSt2J24D
 ID ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+ID BTV	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 ID CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
+ID DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+ID GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
+ID GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+ID Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+ID iNews	`0https://embed.rctiplus.com/live/inews/inewsid
 ID Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 ID Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
+ID MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
+ID Net TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=NET.
+ID RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
+ID RCTI	https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
+ID RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+ID SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+ID Trans TV	https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8
+ID Trans7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
 ID tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
-ANTV	`0https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWn7B5RNPyFgfmBZEZWzBIU0euPvyhNjZzzZ32TdKYw0iN+szaquGwW/g3oNsxpwBRw2ag9SQ+wDniU4C5uCk6ZDujeewfkjcDn+94Vl8QVyhNiMXHTY1JGVnOP7dkldc1/xxNQCVy1CR68tpfvcbEChQdH2ecv8izmjEDDRkmlC7NO78hum5x5JuWsMrlMI5WmRihZKQiBr1NoPjlUHIziHn3ECsAlkA3dp6nbQz/nePOhk4mBIpsetJjZc2opjyuVuVfQD+5yOV3Zg1PRuFfupDoWECbntCG3uJosv9YKBtAdR9mBazJWYIYU9NvTQ4cSt2J24D
+ID TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 	^-
 [g]Schedule & Info[z]	^-
