@@ -19,22 +19,10 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4196576/germany-u21-vs-france-u21-06-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/united-states-major-league-soccer-match-4106233/vancouver-whitecaps-vs-san-diego-fc-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]25-06-2025[z]	^-
-
-06:00 [l]CONCACAF Gold Cup[z]	^-
-Guadeloupe 🇬🇵 vs Guatemala 🇬🇹	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191469/guadeloupe-vs-guatemala-06-2025.html
-Panama 🇵🇦 vs Jamaica 🇯🇲	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191470/panama-vs-jamaica-06-2025.html
-
-08:00 [g]Club World Cup[z]	^-
-Esperance Sportive de Tunis vs Chelsea	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4101282/esperance-sportive-de-tunis-vs-chelsea-06-2025.html
-Los Angeles FC vs Flamengo	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4101284/los-angeles-fc-vs-cr-flamengo-06-2025.html
-
-09:00 [l]CONCACAF Gold Cup[z]	^-
-Honduras 🇭🇳 vs Curacao 🇨🇼	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191452/honduras-vs-curacao-06-2025.html
-Canada 🇨🇦 vs El Salvador 🇸🇻	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4191453/canada-vs-el-salvador-06-2025.html
 
 23:00 [l]UEFA European U21 Championship[z]	^-
 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Netherlands 🇳🇱 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4196400/england-u21-vs-netherlands-u21-06-2025.html
@@ -48,7 +36,11 @@ Mamelodi Sundowns vs Fluminense RJ	`*https://www.fctv77.live/football/fifa-club-
 02:00 [l]UEFA European U21 Championship[z]	^-
 Germany 🇩🇪 U21 vs France 🇫🇷 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4196576/germany-u21-vs-france-u21-06-2025.html
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4196576/germany-u21-vs-france-u21-06-2025.html
+08:00 [g]Club World Cup[z]	^-
+Urawa Red Diamonds vs Monterrey	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4096887/urawa-red-diamonds-vs-monterrey-06-2025.html
+Inter Milan vs River Plate	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4096888/inter-milan-vs-river-plate-06-2025.html
+
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/united-states-major-league-soccer-match-4106233/vancouver-whitecaps-vs-san-diego-fc-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
 Sport Channels TV ID	^-
