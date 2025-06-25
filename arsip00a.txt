@@ -26,7 +26,7 @@ GolTV	00!0!0/9595?zyy
 
 02:00 [l]UEFA European U21 Championship[z]	^-
 Germany 🇩🇪 U21 vs France 🇫🇷 U21	`*https://www.fctv77.live/football/uefa-european-u21-football-championship-match-4196576/germany-u21-vs-france-u21-06-2025.html
-Germany 🇩🇪 U21 vs France 🇫🇷 U21	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Germany 🇩🇪 U21 vs France 🇫🇷 U21	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
 
 02:00 [g]Club World Cup[z]	^-
 Borussia Dortmund vs Ulsan Hyundai FC	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4109528/borussia-dortmund-vs-ulsan-hd-fc-06-2025.html
