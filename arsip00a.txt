@@ -45,7 +45,10 @@ Al Hilal SFC vs Pachuca	https://otte-azion.live.pv-cdn.net/gru-nitro/live/client
 
 Canale 5	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 ČT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+DSports 1	https://ernestorustv-teststream.hf.space/proxy/hls/manifest.m3u8?api_password=pistols011&d=http%3A%2F%2Fotakon.bemtv.cn%2FSTREAM%2F22645%2Fchunks.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxbemtv.cn%2F&h_origin=https%3A%2F%2Fxbemtv.cn
+DSports 2	https://tiroalpalo-tiralpalo.hf.space/proxy/hls/manifest.m3u8?api_password=pistols011&d=http%3A%2F%2F104.238.205.28%3A8989%2F278757_.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxbemtv.cn%2F&h_origin=https%3A%2F%2Fxbemtv.cn
 ESPN 1 🇳🇱	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
 ITV 1	https://z.1UK_ITV_1/index.m3u8
 RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
@@ -617,6 +620,7 @@ Grit TV	https://1.0!GRIT_TV!.z?7
 Hallmark Channel	https://1.0!HALLMARK_CHANNEL!.z?7
 Hallmark Drama	https://1.0!HALLMARK_DRAMA!.z?7
 Hallmark Movies Mysteries	https://1.0!HALLMARK_MOVIES_MYSTERIES!.z?7
+HBO Cinemax	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd!!b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 HBO Hits	https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd!!b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 HBO 1	https://1.0!HBO!.z?7
 HBO 2	https://1.0!HBO_2!.z?7
