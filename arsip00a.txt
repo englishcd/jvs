@@ -116,10 +116,8 @@ True Premier Football 3	https://shrill-lake-bb62.wirdytv.workers.dev/02_PremierH
 True Premier Football 4	https://truepremier.wirdytv.workers.dev/02_PremierHD4_720p/chunklist.m3u8
 EuroSport 1	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 EuroSport 2	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Tigo Sports 🇵🇪	https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 Real Madrid TV EN	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 Real Madrid TV ES	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-MU TV	https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 BBC One	https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
 BBC Three	https://livetvde.net/bbcthree/index.m3u8
 BBC Four	https://livetvde.net/bbcfour/index.m3u8
