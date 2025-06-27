@@ -17,24 +17,70 @@ GolTV	00!0!0/9595?zyy
 🇺🇸 Fox Soccer Plus	00!0!1/29695?zyy
 👉[y]Sports & TV[z] [l]PlayList[z] #2👈	^^h11
 
-[g]Live Football Events[z]	^-
+[w]Sport Channels TV ID[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/iceland-besta-deild-karla-match-4113789/stjarnan-gardabaer-vs-breidablik-06-2025.html
-** Follow the redirected page until Verification!	^-
+Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+Sports ID 3	https://fta4!vfc!63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+Sports ID 4	https://fta4!vfc!2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+beIN Sports ID 1	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+beIN Sports ID 2	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+ID GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
+ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+ID MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-[w]27-06-2025[z]	^-
+	^-
+[w]24/7 Action Movies Channels[z]	^-
 
-08:00 [g]Club World Cup[z]	^-
-Red Bull Salzburg vs Real Madrid	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4098246/red-bull-salzburg-vs-real-madrid-06-2025.html
-Red Bull Salzburg vs Real Madrid	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+Movies KR	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p6Ph7ybs-ExykQE-Zz78&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+ID Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+ID AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
+ID K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
+ID K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
+ID My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+ID Cartoonito	01!01dstreaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
+ID Warner	01!01dstreaming.indihometv.com/atm/DASH/warner/manifest.mpd
+Action Movies A	i3!062793084?zxz
+Action Movies B	i3!061226741?zxz
+Action Movies C	i3!064246519?zxz
+Action Movies D	i3!06747764?zxz
+Action Movies E	i3!0620415?zxz
 
-Al Hilal SFC vs Pachuca	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4098245/al-hilal-vs-pachuca-06-2025.html
-Al Hilal SFC vs Pachuca	https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd!!cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
+	^-
+[w]ID Live Sport TV[z]	^-
 
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/iceland-besta-deild-karla-match-4113789/stjarnan-gardabaer-vs-breidablik-06-2025.html
-** Follow the redirected page until Verification!	^-
+ID ANTV	`0https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWn7B5RNPyFgfmBZEZWzBIU0euPvyhNjZzzZ32TdKYw0iN+szaquGwW/g3oNsxpwBRw2ag9SQ+wDniU4C5uCk6ZDujeewfkjcDn+94Vl8QVyhNiMXHTY1JGVnOP7dkldc1/xxNQCVy1CR68tpfvcbEChQdH2ecv8izmjEDDRkmlC7NO78hum5x5JuWsMrlMI5WmRihZKQiBr1NoPjlUHIziHn3ECsAlkA3dp6nbQz/nePOhk4mBIpsetJjZc2opjyuVuVfQD+5yOV3Zg1PRuFfupDoWECbntCG3uJosv9YKBtAdR9mBazJWYIYU9NvTQ4cSt2J24D
+ID ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+ID BTV	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+ID CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
+ID DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+ID GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
+ID GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+ID Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+ID iNews	`0https://embed.rctiplus.com/live/inews/inewsid
+ID Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+ID Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
+ID MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
+ID Net TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=NET.
+ID RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
+ID RCTI	https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
+ID RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+ID SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+ID Trans TV	https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8
+ID Trans7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
+ID tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
+ID TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-[w]Live Sport TV Channels[z]	^-
+	^-
+[w]Sport Channels TV ID[z]	^-
 
 Canale 5	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 ČT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -153,70 +199,6 @@ FIFA+ 🇫🇷	https://jmp2.uk/sam-FRBA3300037Y7.m3u8
 FIFA+ 🇬🇧	https://jmp2.uk/sam-GBBD1100008YW.m3u8
 FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8
 FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8
-
-	^-
-[w]Sport Channels TV ID[z]	^-
-
-Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-Sports ID 3	https://fta4!vfc!63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-Sports ID 4	https://fta4!vfc!2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-beIN Sports ID 1	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-beIN Sports ID 2	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-ID GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
-ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-ID MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-
-	^-
-[w]24/7 Action Movies Channels[z]	^-
-
-Movies KR	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p6Ph7ybs-ExykQE-Zz78&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-ID Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-ID AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
-ID K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
-ID K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
-ID My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-ID Cartoonito	01!01dstreaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
-ID Warner	01!01dstreaming.indihometv.com/atm/DASH/warner/manifest.mpd
-[l]{s} Ⓧa2 🤺eXtra Movies/Film 🆔[z]	^^sa2
-Action Movies A	i3!062793084?zxz
-Action Movies B	i3!061226741?zxz
-Action Movies C	i3!064246519?zxz
-Action Movies D	i3!06747764?zxz
-Action Movies E	i3!0620415?zxz
-
-	^-
-[w]ID Live Sport TV[z]	^-
-
-ID ANTV	`0https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWn7B5RNPyFgfmBZEZWzBIU0euPvyhNjZzzZ32TdKYw0iN+szaquGwW/g3oNsxpwBRw2ag9SQ+wDniU4C5uCk6ZDujeewfkjcDn+94Vl8QVyhNiMXHTY1JGVnOP7dkldc1/xxNQCVy1CR68tpfvcbEChQdH2ecv8izmjEDDRkmlC7NO78hum5x5JuWsMrlMI5WmRihZKQiBr1NoPjlUHIziHn3ECsAlkA3dp6nbQz/nePOhk4mBIpsetJjZc2opjyuVuVfQD+5yOV3Zg1PRuFfupDoWECbntCG3uJosv9YKBtAdR9mBazJWYIYU9NvTQ4cSt2J24D
-ID ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
-ID BTV	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-ID CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
-ID DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
-ID GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
-ID GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-ID iNews	`0https://embed.rctiplus.com/live/inews/inewsid
-ID Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
-ID Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
-ID MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
-ID Net TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=NET.
-ID RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
-ID RCTI	https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
-ID RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-ID SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-ID Trans TV	https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8
-ID Trans7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
-ID tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
-ID TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-ID TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 	^-
 [g]Schedule & Info[z]	^-
