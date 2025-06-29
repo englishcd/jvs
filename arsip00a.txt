@@ -64,6 +64,9 @@ Flamengo vs Bayern Munchen	`*https://www.fctv77.live/football/fifa-club-world-cu
 03:00 [l]CONCACAF Gold Cup[z]	^-
 Canada 🇨🇦 vs Guatemala 🇬🇹	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4197644/canada-vs-guatemala-06-2025.html
 
+06:00 [l]CONCACAF Gold Cup[z]	^-
+USA 🇺🇸 vs Costa Rica 🇨🇷	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4197642/usa-vs-costa-rica-06-2025.html
+
 👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/united-states-major-league-soccer-match-4106208/los-angeles-fc-vs-vancouver-whitecaps-06-2025.html
 ** Follow the redirected page until Verification!	^-
 
@@ -219,8 +222,8 @@ ID CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 ID DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 ID GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
 ID GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 ID Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 ID iNews	`0https://embed.rctiplus.com/live/inews/inewsid
 ID Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 ID Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
