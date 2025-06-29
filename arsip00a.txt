@@ -90,6 +90,7 @@ ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 	^-
 [w]Sport Channels TV ID[z]	^-
 
+W Sport	https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 Canale 5	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 Caze TV 1	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 Caze TV 2	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/out/v1/74eba8f71bf14154ac3a9491371a6628/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!d1cc74a5123cb29f0ec0bc40d6c2f270:a5ed8184ee98c3f0a3c261129c8d6e8b
@@ -333,7 +334,6 @@ Dubai Sport 3 🇦🇪	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:
 RTA Sports	https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 Thairath 🇹🇭	https://cnt1-streamer13.cdn.3bbtv.com:8443/3bb/live/32/32.mpd!!4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 Afro Sport	01!01dnewproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
-W Sport	https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=lite&chname=W-Sport
 Match! Arena 🇷🇺	https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd!!9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09
 Match! Fight 🇷🇺	https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd!!660a37a91aa00b7e2e0bc7dca349b982:3593a4a2bfbd7d9585efff083b769cf5
 Match! Futbol 1 🇷🇺	https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd!!9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
