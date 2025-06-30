@@ -21,6 +21,8 @@ GolTV	00!0!0/9595?zyy
 
 👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/mls-next-pro-match-4197834/chicago-flame-b-vs-crown-legacy-fc-07-2025.html
 ** Follow the redirected page until Verification!	^-
+^=	^-
+^=	^-
 
 [w]01-06-2025[z]	^-
 
@@ -30,10 +32,12 @@ Inter Milan vs Fluminense RJ	`*https://www.fctv77.live/football/fifa-club-world-
 08:00 [g]Club World Cup[z]	^-
 Manchester City vs Al Hilal SFC	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4189039/manchester-city-vs-al-hilal-07-2025.html
 
+^=	^-
+^=	^-
 👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv77.live/football/mls-next-pro-match-4197834/chicago-flame-b-vs-crown-legacy-fc-07-2025.html
 ** Follow the redirected page until Verification!	^-
 
-[w]Sport Channels TV ID[z]	^-
+[w]Sport TV Channels ID[z]	^-
 
 Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
@@ -49,8 +53,9 @@ ID GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
 ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 ID MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+
 	^-
-[w]Sport Channels TV ID[z]	^-
+[w]Live Sport TV Channels[z]	^-
 
 Canale 5	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 Caze TV 1	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
