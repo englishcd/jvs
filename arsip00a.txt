@@ -26,11 +26,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]02-07-2025[z]	^-
 
-02:00 [g]Club World Cup[z]	^-
-Real Madrid vs Juventus	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4189038/real-madrid-vs-juventus-07-2025.html
-Real Madrid vs Juventus	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-Real Madrid vs Juventus	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-
 08:00 [g]Club World Cup[z]	^-
 Borussia Dortmund vs Monterrey	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4189037/borussia-dortmund-vs-monterrey-07-2025.html
 Borussia Dortmund vs Monterrey	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
