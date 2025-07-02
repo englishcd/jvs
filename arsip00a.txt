@@ -26,9 +26,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]03-07-2025[z]	^-
 
-00:00 [l]AFC Women’s Asian Cup[z]	^-
-Tajikistan 🇹🇯 vs Malaysia 🇲🇾	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4193732/tajikistan-w-vs-malaysia-w-07-2025.html
-
 06:00 [l]CONCACAF Gold Cup[z]	^-
 USA 🇺🇸 vs Guatemala 🇬🇹	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4200708/usa-vs-guatemala-07-2025.html
 USA 🇺🇸 vs Guatemala 🇬🇹	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
