@@ -26,14 +26,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]02-07-2025[z]	^-
 
-15:30 [l]AFC Women’s Asian Cup[z]	^-
-Kyrgyzstan 🇰🇬 vs Taipei 🇹🇼	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4196685/kyrgyzstan-w-vs-chinese-taipei-w-07-2025.html
-
-16:00 [l]AFC Women’s Asian Cup[z]	^-
-Saudi Arabia 🇸🇦 vs Hong Kong 🇭🇰	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4191980/saudi-arabia-w-vs-china-hong-kong-w-07-2025.html
-Maldives 🇲🇻 vs Guam 🇬🇺	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4193740/maldives-w-vs-guam-w-07-2025.html
-India 🇮🇳 vs Iraq 🇮🇶	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4196130/india-w-vs-iraq-w-07-2025.html
-
 16:30 [l]AFC Women’s Asian Cup[z]	^-
 Bangladesh 🇧🇩 vs Myanmar 🇲🇲	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4192077/bangladesh-w-vs-myanmar-w-07-2025.html
 
