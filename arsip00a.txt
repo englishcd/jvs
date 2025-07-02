@@ -26,9 +26,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]02-07-2025[z]	^-
 
-21:00 [l]AFC Women’s Asian Cup[z]	^-
-Palestine 🇵🇸 vs North Korea 🇰🇵	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4193736/palestine-w-vs-north-korea-w-07-2025.html
-
 22:00 [l]AFC Women’s Asian Cup[z]	^-
 Laos 🇱🇦 vs Uzbekistan 🇺🇿	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4196682/laos-w-vs-uzbekistan-women-07-2025.html
 
@@ -39,9 +36,12 @@ Tajikistan 🇹🇯 vs Malaysia 🇲🇾	`*https://www.fctv77.live/football/afc-
 
 06:00 [l]CONCACAF Gold Cup[z]	^-
 USA 🇺🇸 vs Guatemala 🇬🇹	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4200708/usa-vs-guatemala-07-2025.html
+USA 🇺🇸 vs Guatemala 🇬🇹	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+USA 🇺🇸 vs Guatemala 🇬🇹	https://ernestorustv-teststream.hf.space/proxy/hls/manifest.m3u8?api_password=pistols011&d=http%3A%2F%2Fotakon.bemtv.cn%2FSTREAM%2F22645%2Fchunks.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxbemtv.cn%2F&h_origin=https%3A%2F%2Fxbemtv.cn
 
 09:00 [l]CONCACAF Gold Cup[z]	^-
 Mexico 🇲🇽 vs Honduras 🇭🇳	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4200659/mexico-vs-honduras-07-2025.html
+Mexico 🇲🇽 vs Honduras 🇭🇳	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 
 ^=	^-
 ^=	^-
@@ -123,10 +123,19 @@ Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channe
 Universo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd!!a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
 USA Network East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd!!78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
 USA Network West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd!!333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-TUDN USA	https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 Telemundo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 RTP Madeira 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 RTP 3 🇵🇹	https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+
+ESPN	https://zap-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+TUDN USA	https://zap-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+Sky LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+Sky Live Event 1	https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+Sky Live Event 2	https://zap-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
+Sky Live Event 3	https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
+Sky Live Event 4	https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd!!a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
+Sky Live Event 5	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd!!6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
+Sky Live Event 6	https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
 
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 Arena Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -898,15 +907,6 @@ Sportsnet Pacific	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-
 Sportsnet One	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-ch-05-prd-r-hd/index.mpd!!dbad1672b1bf3d0abd1c1c2161057f99:e1100c4e24f028d47a36ead37f0fd55f
 Sportsnet 360	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-prd-r-v2/dash-ch-06-prd-r-hd/index.mpd!!27c0df9fa2e9314b8c49f824e1ff9d82:ff57bd34fde4c6022385879fe394dd6d
 Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
-
-Sky Live Event 1	https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
-Sky Live Event 2	https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
-Sky Live Event 3	https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
-Sky Live Event 4	https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd!!a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
-Sky Live Event 5	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd!!6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
-Sky Live Event 6	https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
-ESPN	https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-Sky LaLiga	https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
