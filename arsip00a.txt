@@ -26,10 +26,8 @@ GolTV	00!0!0/9595?zyy
 
 [w]02-07-2025[z]	^-
 
-08:00 [g]Club World Cup[z]	^-
-Borussia Dortmund vs Monterrey	`*https://www.fctv77.live/football/fifa-club-world-cup-match-4189037/borussia-dortmund-vs-monterrey-07-2025.html
-Borussia Dortmund vs Monterrey	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-Borussia Dortmund vs Monterrey	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
+15:30 [l]AFC Women’s Asian Cup[z]	^-
+Kyrgyzstan 🇰🇬 vs Taipei 🇹🇼	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4196685/kyrgyzstan-w-vs-chinese-taipei-w-07-2025.html
 
 16:00 [l]AFC Women’s Asian Cup[z]	^-
 Saudi Arabia 🇸🇦 vs Hong Kong 🇭🇰	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4191980/saudi-arabia-w-vs-china-hong-kong-w-07-2025.html
@@ -61,6 +59,12 @@ Laos 🇱🇦 vs Uzbekistan 🇺🇿	`*https://www.fctv77.live/football/afc-wome
 
 00:00 [l]AFC Women’s Asian Cup[z]	^-
 Tajikistan 🇹🇯 vs Malaysia 🇲🇾	`*https://www.fctv77.live/football/afc-womens-asian-cup-match-4193732/tajikistan-w-vs-malaysia-w-07-2025.html
+
+06:00 [l]CONCACAF Gold Cup[z]	^-
+USA 🇺🇸 vs Guatemala 🇬🇹	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4200708/usa-vs-guatemala-07-2025.html
+
+09:00 [l]CONCACAF Gold Cup[z]	^-
+Mexico 🇲🇽 vs Honduras 🇭🇳	`*https://www.fctv77.live/football/concacaf-gold-cup-match-4200659/mexico-vs-honduras-07-2025.html
 
 ^=	^-
 ^=	^-
