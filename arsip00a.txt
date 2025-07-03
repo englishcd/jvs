@@ -26,11 +26,6 @@ GolTV	00!0!0/9595?zyy
 
 [w]04-07-2025[z]	^-
 
-02:00 [l]UEFA European Women's Championship[z]	^-
-Spain 🇪🇸 (w) vs Portugal 🇵🇹 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138344/spain-women-vs-portugal-women-07-2025.html
-Spain 🇪🇸 (w) vs Portugal 🇵🇹 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Spain 🇪🇸 (w) vs Portugal 🇵🇹 (w)	https://1.0!TSN_4!.z?7
-
 23:00 [l]UEFA European Women's Championship[z]	^-
 Denmark 🇩🇰 (w) vs Sweden 🇸🇪 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138337/denmark-women-vs-sweden-women-07-2025.html
 
