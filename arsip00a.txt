@@ -66,8 +66,6 @@ Canale 5	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.is
 Caze TV 1	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 Caze TV 2	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/out/v1/74eba8f71bf14154ac3a9491371a6628/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!d1cc74a5123cb29f0ec0bc40d6c2f270:a5ed8184ee98c3f0a3c261129c8d6e8b
 ČT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-DSports 1	https://ernestorustv-teststream.hf.space/proxy/hls/manifest.m3u8?api_password=pistols011&d=http%3A%2F%2Fotakon.bemtv.cn%2FSTREAM%2F22645%2Fchunks.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxbemtv.cn%2F&h_origin=https%3A%2F%2Fxbemtv.cn
-DSports 2	https://tiroalpalo-tiralpalo.hf.space/proxy/hls/manifest.m3u8?api_password=pistols011&d=http%3A%2F%2F104.238.205.28%3A8989%2F278757_.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxbemtv.cn%2F&h_origin=https%3A%2F%2Fxbemtv.cn
 ESPN 1 🇳🇱	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 Fox Deportes	PlutoTV/63d0269d60bc8f000890facc?7
@@ -82,7 +80,6 @@ SporTV 2 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/da
 SporTV 3 🇧🇷	https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd!!cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
 SSport 1	https://bs.arectv33.sbs/static/ss11.m3u8
 SSport 2	https://bs.arectv33.sbs/static/ss2.m3u8
-TUDN Wix	https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 W Sport	https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Ziggo Sport 2 Football	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
@@ -901,6 +898,10 @@ Sportsnet Pacific	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-
 Sportsnet One	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-ch-05-prd-r-hd/index.mpd!!dbad1672b1bf3d0abd1c1c2161057f99:e1100c4e24f028d47a36ead37f0fd55f
 Sportsnet 360	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-prd-r-v2/dash-ch-06-prd-r-hd/index.mpd!!27c0df9fa2e9314b8c49f824e1ff9d82:ff57bd34fde4c6022385879fe394dd6d
 Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
+
+DSports 1	https://ernestorustv-teststream.hf.space/proxy/hls/manifest.m3u8?api_password=pistols011&d=http%3A%2F%2Fotakon.bemtv.cn%2FSTREAM%2F22645%2Fchunks.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxbemtv.cn%2F&h_origin=https%3A%2F%2Fxbemtv.cn
+DSports 2	https://tiroalpalo-tiralpalo.hf.space/proxy/hls/manifest.m3u8?api_password=pistols011&d=http%3A%2F%2F104.238.205.28%3A8989%2F278757_.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxbemtv.cn%2F&h_origin=https%3A%2F%2Fxbemtv.cn
+TUDN Wix	https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
