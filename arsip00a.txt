@@ -26,7 +26,7 @@ GolTV	00!0!0/9595?zyy
 23:00 [l]UEFA European Women's Championship[z]	^-
 Denmark 🇩🇰 (w) vs Sweden 🇸🇪 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138337/denmark-women-vs-sweden-women-07-2025.html
 Denmark 🇩🇰 (w) vs Sweden 🇸🇪 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Denmark 🇩🇰 (w) vs Sweden 🇸🇪 (w)	https://1.0!TSN_4!.z?7
+Denmark 🇩🇰 (w) vs Sweden 🇸🇪 (w)	https://5.0!TSN_4!.z?7
 
 [w]05-07-2025[z]	^-
 
@@ -591,7 +591,7 @@ TRU TV	https://1.0!TRU_TV!.z?7
 TSN 1	https://1.0!TSN_1!.z?7
 TSN 2	https://1.0!TSN_2!.z?7
 TSN 3	https://1.0!TSN_3!.z?7
-TSN 4	https://1.0!TSN_4!.z?7
+TSN 4	https://5.0!TSN_4!.z?7
 TSN 5	https://1.0!TSN_5!.z?7
 TV Land	https://1.0!TV_Land!.z?7
 TV One	https://1.0!TV_ONE!.z?7
