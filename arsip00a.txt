@@ -31,12 +31,12 @@ Germany 🇩🇪 (w) vs Poland 🇵🇱 (w)	https://z.1UK_ITV_1/index.m3u8
 02:00 [g]Club World Cup[z]	^-
 Fluminense RJ vs Al Hilal SFC	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189036/fluminense-rj-vs-al-hilal-07-2025.html
 Fluminense RJ vs Al Hilal SFC	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-Fluminense RJ vs Al Hilal SFC	https://zap-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+Fluminense RJ vs Al Hilal SFC	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 
 08:00 [g]Club World Cup[z]	^-
 Palmeiras vs Chelsea	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189035/palmeiras-vs-chelsea-07-2025.html
 Palmeiras vs Chelsea	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-Palmeiras vs Chelsea	https://zap-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+Palmeiras vs Chelsea	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 
 15:30 [l]AFC Women’s Asian Cup[z]	^-
 Kyrgyzstan 🇰🇬 vs Pakistan 🇵🇰	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4196681/kyrgyzstan-w-vs-pakistanw-07-2025.html
@@ -941,7 +941,6 @@ TUDN Wix	https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.m
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
 ^=Sportv 1a	`0https://live.samuraitv.biz.id/p/sportv1br.html
-^=Sportv 1b	^+https://dgply.blogspot.com/2001/02/?m=12&ewu~06&zy=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 ^=DSports 1a	09!09aotakon.bemtv.cn/STREAM/22645/chunks.m3u8
 ^=DSports 1b	09!09botakon.bemtv.cn/STREAM/22645/chunks.m3u8
 ^=DSports 1c	09!09cotakon.bemtv.cn/STREAM/22645/chunks.m3u8
