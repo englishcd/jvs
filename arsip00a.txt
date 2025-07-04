@@ -16,8 +16,10 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv33.com/football/finnish-ykkosliiga-match-4124536/klubi-04-helsinki-vs-ekenas-if-fotboll-07-2025.html
-** Follow the redirected page until Verification!	^-
+⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[]⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈	^-
+
+^=👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv33.com/football/finnish-ykkosliiga-match-4124536/klubi-04-helsinki-vs-ekenas-if-fotboll-07-2025.html
+^=** Follow the redirected page until Verification!	^-
 ^=	^-
 ^=	^-
 
@@ -65,8 +67,8 @@ Palestine 🇵🇸 vs Tajikistan 🇹🇯	`*https://www.fctv33.com/football/afc-
 
 ^=	^-
 ^=	^-
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv33.com/football/finnish-ykkosliiga-match-4124536/klubi-04-helsinki-vs-ekenas-if-fotboll-07-2025.html
-** Follow the redirected page until Verification!	^-
+^=👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv33.com/football/finnish-ykkosliiga-match-4124536/klubi-04-helsinki-vs-ekenas-if-fotboll-07-2025.html
+^=** Follow the redirected page until Verification!	^-
 
 [w]Sport TV Channels ID[z]	^-
 
@@ -930,12 +932,7 @@ TUDN Wix	https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.m
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
-^=a7	`7https://www.fctv33.com/football/fifa-club-world-cup-match-4189035/palmeiras-vs-chelsea-07-2025.html
-^=a9	`9https://www.fctv33.com/football/fifa-club-world-cup-match-4189035/palmeiras-vs-chelsea-07-2025.html
 ^=Sportv 1a	`0https://live.samuraitv.biz.id/p/sportv1br.html
-^=DSports 1a	09!09aotakon.bemtv.cn/STREAM/22645/chunks.m3u8
-^=DSports 1b	09!09botakon.bemtv.cn/STREAM/22645/chunks.m3u8
-^=DSports 1c	09!09cotakon.bemtv.cn/STREAM/22645/chunks.m3u8
 ^=soccerdoge.com	`0https://soccerdoge.com/
 ^=soccer-100.net	`0https://soccer-100.net/
 ^=[l]Huhu.To[z]	`0https://huhu.to/
