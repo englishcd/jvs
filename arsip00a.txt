@@ -16,7 +16,7 @@ GolTV	00!0!0/9595?zyy
 
 [g]Live Football Events[z]	^-
 
-👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv33.com/football/sweden-allsvenskan-match-4116453/gais-vs-malmo-ff-07-2025.html
+👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv33.com/football/finnish-ykkosliiga-match-4124536/klubi-04-helsinki-vs-ekenas-if-fotboll-07-2025.html
 ** Follow the redirected page until Verification!	^-
 ^=	^-
 ^=	^-
@@ -32,17 +32,24 @@ Denmark 🇩🇰 (w) vs Sweden 🇸🇪 (w)	https://5.0!TSN_4!.z?7
 
 02:00 [l]UEFA European Women's Championship[z]	^-
 Germany 🇩🇪 (w) vs Poland 🇵🇱 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138242/germany-women-vs-poland-women-07-2025.html
+Germany 🇩🇪 (w) vs Poland 🇵🇱 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Germany 🇩🇪 (w) vs Poland 🇵🇱 (w)	https://z.1UK_ITV_1/index.m3u8
 
 02:00 [g]Club World Cup[z]	^-
 Fluminense RJ vs Al Hilal SFC	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189036/fluminense-rj-vs-al-hilal-07-2025.html
+Fluminense RJ vs Al Hilal SFC	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+Fluminense RJ vs Al Hilal SFC	https://zap-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 
 08:00 [g]Club World Cup[z]	^-
 Palmeiras vs Chelsea	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189035/palmeiras-vs-chelsea-07-2025.html
+Palmeiras vs Chelsea	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+Palmeiras vs Chelsea	https://zap-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 
 15:30 [l]AFC Women’s Asian Cup[z]	^-
 Kyrgyzstan 🇰🇬 vs Pakistan 🇵🇰	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4196681/kyrgyzstan-w-vs-pakistanw-07-2025.html
 
 16:00 [l]AFC Women’s Asian Cup[z]	^-
+Philippines 🇵🇭 vs Hong Kong 🇭🇰	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4191975/philippines-women-vs-china-hong-kong-w-07-2025.html
 UAE 🇦🇪 vs Maldives 🇲🇻	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4193739/united-arab-emirates-w-vs-maldives-w-07-2025.html
 Timor Leste 🇹🇱 vs Mongolia 🇲🇳	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4196131/timor-leste-w-vs-mongolia-w-07-2025.html
 
@@ -52,6 +59,7 @@ Myanmar 🇲🇲 vs Bahrain 🇧🇭	`*https://www.fctv33.com/football/afc-women
 19:00 [l]AFC Women’s Asian Cup[z]	^-
 Cambodia 🇰🇭 vs Saudi Arabia 🇸🇦	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4191976/cambodia-w-vs-saudi-arabia-w-07-2025.html
 Vietnam 🇻🇳 vs Guam 🇬🇺	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4193737/vietnam-women-vs-guam-w-07-2025.html
+Laos 🇱🇦 vs Sri Lanka 🇱🇰	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4196680/laos-w-vs-sri-lanka-w-07-2025.html
 
 19:30 [l]AFC Women’s Asian Cup[z]	^-
 Bangladesh 🇧🇩 vs Turkmenistan 🇹🇲	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4192079/bangladesh-w-vs-turkmenistan-w-07-2025.html
@@ -60,9 +68,21 @@ Thailand 🇹🇭 vs India 🇮🇳	`*https://www.fctv33.com/football/afc-womens
 20:00 [l]AFC Women’s Asian Cup[z]	^-
 Chinese Taipei 🇹🇼 vs Indonesia 🇮🇩	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4196679/chinese-taipei-w-vs-indonesia-w-07-2025.html
 
+21:00 [l]AFC Women’s Asian Cup[z]	^-
+North Korea 🇰🇵 vs Malaysia 🇲🇾	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4193735/north-korea-w-vs-malaysia-w-07-2025.html
+
+23:00 [l]UEFA European Women's Championship[z]	^-
+Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w) vs Netherland 🇳🇱 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138328/wales-women-vs-netherlands-women-07-2025.html
+
+23:00 [g]Club World Cup[z]	^-
+Paris Saint Germain vs Bayern Munchen	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189034/paris-saint-germain-vs-fc-bayern-munich-07-2025.html
+
+00:00 [l]AFC Women’s Asian Cup[z]	^-
+Palestine 🇵🇸 vs Tajikistan 🇹🇯	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4193738/palestine-w-vs-tajikistan-w-07-2025.html
+
 ^=	^-
 ^=	^-
-👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv33.com/football/sweden-allsvenskan-match-4116453/gais-vs-malmo-ff-07-2025.html
+👆 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv33.com/football/finnish-ykkosliiga-match-4124536/klubi-04-helsinki-vs-ekenas-if-fotboll-07-2025.html
 ** Follow the redirected page until Verification!	^-
 
 [w]Sport TV Channels ID[z]	^-
@@ -205,6 +225,7 @@ NBC TV	i3`06fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnu
 NFL Channel	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd!!002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 SportDigital Fussball Free	https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung
 VolleyBall Nations League	https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xC2qSlW7/live.isml/.m3u8
+Persiana	https://spstr.abntv.live/hls/psstream.m3u8
 
 FIFA+ 🇦🇹	https://jmp2.uk/sam-ATBA3300007PT.m3u8
 FIFA+ 🇨🇦	https://jmp2.uk/sam-CABD1200008JG.m3u8
@@ -588,11 +609,11 @@ TLC	https://1.0!TLC!.z?7
 TNT	https://1.0!TNT!.z?7
 Travel Channel	https://1.0!Travel_Channel!.z?7
 TRU TV	https://1.0!TRU_TV!.z?7
-TSN 1	https://1.0!TSN_1!.z?7
-TSN 2	https://1.0!TSN_2!.z?7
-TSN 3	https://1.0!TSN_3!.z?7
+TSN 1	https://5.0!TSN_1!.z?7
+TSN 2	https://5.0!TSN_2!.z?7
+TSN 3	https://5.0!TSN_3!.z?7
 TSN 4	https://5.0!TSN_4!.z?7
-TSN 5	https://1.0!TSN_5!.z?7
+TSN 5	https://5.0!TSN_5!.z?7
 TV Land	https://1.0!TV_Land!.z?7
 TV One	https://1.0!TV_ONE!.z?7
 USA Network	https://1.0!USA_Network!.z?7
