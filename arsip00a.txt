@@ -28,19 +28,6 @@ GolTV	00!0!0/9595?zyy
 
 [y]05-07-2025[z]	^-
 
-19:00 [l]AFC Women’s Asian Cup[z]	^-
-Cambodia 🇰🇭 vs Saudi Arabia 🇸🇦	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4191976/cambodia-w-vs-saudi-arabia-w-07-2025.html
-Vietnam 🇻🇳 vs Guam 🇬🇺	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4193737/vietnam-women-vs-guam-w-07-2025.html
-Laos 🇱🇦 vs Sri Lanka 🇱🇰	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4196680/laos-w-vs-sri-lanka-w-07-2025.html
-
-19:30 [l]AFC Women’s Asian Cup[z]	^-
-Bangladesh 🇧🇩 vs Turkmenistan 🇹🇲	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4192079/bangladesh-w-vs-turkmenistan-w-07-2025.html
-Thailand 🇹🇭 vs India 🇮🇳	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4196132/thailand-w-vs-india-w-07-2025.html
-
-20:00 [l]AFC Women’s Asian Cup[z]	^-
-Chinese Taipei 🇹🇼 vs Indonesia 🇮🇩	https://geogersr.itilstrem.workers.dev/https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=b4037aa38c2ce30cb4cdcf84d885535d&wsABSTime=1751766200
-Chinese Taipei 🇹🇼 vs Indonesia 🇮🇩	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4196679/chinese-taipei-w-vs-indonesia-w-07-2025.html
-
 21:00 [l]AFC Women’s Asian Cup[z]	^-
 North Korea 🇰🇵 vs Malaysia 🇲🇾	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4193735/north-korea-w-vs-malaysia-w-07-2025.html
 
