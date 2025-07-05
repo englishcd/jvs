@@ -2,35 +2,31 @@
 [g]{s} Ⓗa0 Live Sports Events[z]	^-
 
 🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
-👉[l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]👈	^^h1
-👉[l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]👈	^^hb0
-👉[l]{h} Ⓒb1[z] America [y]Sports & TV[z]👈	^^hb1
+[l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
+[l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
+[l]{h} Ⓒb1[z] America [y]Sports & TV[z]	^^hb1
 
-👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
+[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]	^^hb3
 
 GolTV	00!0!0/9595?zyy
-👉[y]Sports & TV[z] [l]PlayList[z] #1👈	^^h10
+[y]Sports & TV[z] [l]PlayList[z] #1	^^h10
 
 🇺🇸 Fox Soccer Plus	00!0!1/29695?zyy
-👉[y]Sports & TV[z] [l]PlayList[z] #2👈	^^h11
+[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
+	^-
 [g]Live Football Events[z]	^-
-
-	^-
-[w]⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z][][w]⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]	^-
-	^-
 
 ^=👇 [y]Need Human Verification?[z] 👉 Click Here!	^+https://www.fctv33.com/football/usl-championship-match-4127225/indy-eleven-vs-monterey-bay-fc-07-2025.html
 ^=** Follow the redirected page until Verification!	^-
 ^=	^-
 ^=	^-
 
-[y]05-07-2025[z]	^-
+	^-
+[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z][][w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]	^-
+	^-
 
-08:00 [g]Club World Cup[z]	^-
-Palmeiras vs Chelsea	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189035/palmeiras-vs-chelsea-07-2025.html
-Palmeiras vs Chelsea	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-Palmeiras vs Chelsea	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/out/v1/74eba8f71bf14154ac3a9491371a6628/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!d1cc74a5123cb29f0ec0bc40d6c2f270:a5ed8184ee98c3f0a3c261129c8d6e8b
+[y]05-07-2025[z]	^-
 
 15:30 [l]AFC Women’s Asian Cup[z]	^-
 Kyrgyzstan 🇰🇬 vs Pakistan 🇵🇰	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4196681/kyrgyzstan-w-vs-pakistanw-07-2025.html
@@ -77,6 +73,10 @@ France 🇫🇷 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	`*https://www.fc
 
 03:00 [g]Club World Cup[z]	^-
 Real Madrid vs Borussia Dortmund	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189033/real-madrid-vs-borussia-dortmund-07-2025.html
+
+	^-
+[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z][][w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]	^-
+	^-
 
 ^=	^-
 ^=	^-
