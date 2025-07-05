@@ -30,7 +30,7 @@ GolTV	00!0!0/9595?zyy
 08:00 [g]Club World Cup[z]	^-
 Palmeiras vs Chelsea	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189035/palmeiras-vs-chelsea-07-2025.html
 Palmeiras vs Chelsea	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-Palmeiras vs Chelsea	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+Palmeiras vs Chelsea	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/out/v1/74eba8f71bf14154ac3a9491371a6628/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!d1cc74a5123cb29f0ec0bc40d6c2f270:a5ed8184ee98c3f0a3c261129c8d6e8b
 
 15:30 [l]AFC Women’s Asian Cup[z]	^-
 Kyrgyzstan 🇰🇬 vs Pakistan 🇵🇰	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4196681/kyrgyzstan-w-vs-pakistanw-07-2025.html
