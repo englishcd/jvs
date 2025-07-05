@@ -32,8 +32,8 @@ GolTV	00!0!0/9595?zyy
 Palestine 🇵🇸 vs Tajikistan 🇹🇯	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4193738/palestine-w-vs-tajikistan-w-07-2025.html
 
 02:00 [l]UEFA European Women's Championship[z]	^-
+France 🇫🇷 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 France 🇫🇷 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-France 🇫🇷 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	https://z.1UK_BBC_1/index.m3u8
 France 🇫🇷 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138380/france-women-vs-england-women-07-2025.html
 
 03:00 [g]Club World Cup[z]	^-
