@@ -35,9 +35,12 @@ North Korea 🇰🇵 vs Malaysia 🇲🇾	`*https://www.fctv33.com/football/afc-
 Uzbekistan 🇺🇿 vs Nepal 🇳🇵	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4196678/uzbekistan-women-vs-nepal-w-07-2025.html
 
 23:00 [l]UEFA European Women's Championship[z]	^-
+Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w) vs Netherland 🇳🇱 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w) vs Netherland 🇳🇱 (w)	https://z.1UK_BBC_1/index.m3u8
 Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w) vs Netherland 🇳🇱 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138328/wales-women-vs-netherlands-women-07-2025.html
 
 23:00 [g]Club World Cup[z]	^-
+Paris Saint Germain vs Bayern Munchen	https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
 Paris Saint Germain vs Bayern Munchen	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 Paris Saint Germain vs Bayern Munchen	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
 Paris Saint Germain vs Bayern Munchen	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189034/paris-saint-germain-vs-fc-bayern-munich-07-2025.html
@@ -98,6 +101,7 @@ Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!
 SporTV 1 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 SporTV 2 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd!!9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 SporTV 3 🇧🇷	https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd!!cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
+Telefe	https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
 W Sport	https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Ziggo Sport 2 Football	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
@@ -174,10 +178,9 @@ EuroSport 1	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!1
 EuroSport 2	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Real Madrid TV EN	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 Real Madrid TV ES	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-BBC One	https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
 BBC Three	https://livetvde.net/bbcthree/index.m3u8
 BBC Four	https://livetvde.net/bbcfour/index.m3u8
-BBC 1	https://z.1UK_BBC_1/index.m3u8
+BBC One	https://z.1UK_BBC_1/index.m3u8
 Channel 4	https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd!!0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 Channel 5	https://cachehsi1a.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 beIN Sports US	https://z.1US_BEIN_SPORTS/index.m3u8
