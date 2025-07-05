@@ -181,6 +181,36 @@ FIFA+ 🇬🇧	https://jmp2.uk/sam-GBBD1100008YW.m3u8
 FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8
 FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8
 
+Sport TV 1 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv1.php
+Sport TV 2 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv2.php
+Sport TV 3 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv3.php
+Sport TV 4 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv4.php
+Sport TV 5 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv5.php
+Eleven Sports 1 🇵🇹	`0https://sportsonline.si/channels/pt/eleven1.php
+Eleven Sports 2 🇵🇹	`0https://sportsonline.si/channels/pt/eleven2.php
+Eleven Sports 3 🇵🇹	`0https://sportsonline.si/channels/pt/eleven3.php
+
+Sports 1 🇬🇧	`0https://sportzonline.si/channels/hd/hd1.php
+Sports 2 🇬🇧	`0https://sportzonline.si/channels/hd/hd2.php
+Sports 3 🇩🇪	`0https://sportzonline.si/channels/hd/hd3.php
+Sports 4 🇬🇧	`0https://sportzonline.si/channels/hd/hd4.php
+Sports 5 🇬🇧	`0https://sportzonline.si/channels/hd/hd5.php
+Sports 6 🇪🇸	`0https://sportzonline.si/channels/hd/hd6.php
+Sports 7 🇮🇹	`0https://sportzonline.si/channels/hd/hd7.php
+Sports 8 🇬🇧	`0https://sportzonline.si/channels/hd/hd8.php
+Sports 9 🇬🇧	`0https://sportzonline.si/channels/hd/hd9.php
+Sports 10 🇫🇷	`0https://sportzonline.si/channels/hd/hd10.php
+Sports 11 🇬🇧	`0https://sportzonline.si/channels/hd/hd11.php
+
+Sports 1 🇧🇷	`0https://sportzonline.si/channels/bra/br1.php
+Sports 2 🇧🇷	`0https://sportzonline.si/channels/bra/br2.php
+Sports 3 🇧🇷	`0https://sportzonline.si/channels/bra/br3.php
+Sports 4 🇧🇷	`0https://sportzonline.si/channels/bra/br4.php
+Sports 5 🇧🇷	`0https://sportzonline.si/channels/bra/br5.php
+Sports 6 🇧🇷	`0https://sportzonline.si/channels/bra/br6.php
+Sports 7 🇧🇷	`0https://sportzonline.si/channels/bra/br7.php
+Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
+
 	^-
 [w]ID Live Sport TV[z]	^-
 
@@ -873,26 +903,9 @@ Arena Sport 8	`0https://streaming.sportsnews.id/p/arena8cro.html
 Arena Sport 9	`0https://streaming.sportsnews.id/p/arena9cro.html
 Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 
-Sportsnet East	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd!!f0407787b4d83e5db9dbcd760aec17ce:0f7c2736f496c2d2eccc9ebbe27799b9
-Sportsnet Ontario	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-02-prd-r-v2/dash-ch-02-prd-r-hd/index.mpd!!620814bb9cc23732994f4cdd85716b6f:b9e3a3412749e7f9fbb87b1a6b4bbcdd
-Sportsnet West	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-ch-03-prd-r-hd/index.mpd!!7503babdb1ee31999583342eb1729f26:6a07fa37f91dbaab8aadbe2307af739f
-Sportsnet Pacific	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-04-prd-r-v2/dash-ch-04-prd-r-hd/index.mpd!!7a565810c9cb35aca05476af10bffe05:b6759d6505a377dcec768a3ecb1cbad0
-Sportsnet One	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-ch-05-prd-r-hd/index.mpd!!dbad1672b1bf3d0abd1c1c2161057f99:e1100c4e24f028d47a36ead37f0fd55f
-Sportsnet 360	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-prd-r-v2/dash-ch-06-prd-r-hd/index.mpd!!27c0df9fa2e9314b8c49f824e1ff9d82:ff57bd34fde4c6022385879fe394dd6d
-Sportsnet World	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
-
-DSports 1	https://ernestorustv-teststream.hf.space/proxy/hls/manifest.m3u8?api_password=pistols011&d=http%3A%2F%2Fotakon.bemtv.cn%2FSTREAM%2F22645%2Fchunks.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxbemtv.cn%2F&h_origin=https%3A%2F%2Fxbemtv.cn
-DSports 2	https://tiroalpalo-tiralpalo.hf.space/proxy/hls/manifest.m3u8?api_password=pistols011&d=http%3A%2F%2F104.238.205.28%3A8989%2F278757_.m3u8&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2Fxbemtv.cn%2F&h_origin=https%3A%2F%2Fxbemtv.cn
-TUDN Wix	https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
-
-🇫🇷 Amazon Prime 1 `	!zy.1921753814/7!z
-👉[l]{h} Ⓕb2[z] Fun [y]Sports & TV[z]👈	^^hb2
-
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
-^=eleven2	`0https://v1.sportsonline.ps/channels/pt/eleven2.php
-^=Sportv 1a	`0https://live.samuraitv.biz.id/p/sportv1br.html
 ^=soccerdoge.com	`0https://soccerdoge.com/
 ^=soccer-100.net	`0https://soccer-100.net/
 ^=[l]Huhu.To[z]	`0https://huhu.to/
