@@ -891,6 +891,7 @@ TUDN Wix	https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.m
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
+^=eleven2	`0https://v1.sportsonline.ps/channels/pt/eleven2.php
 ^=Sportv 1a	`0https://live.samuraitv.biz.id/p/sportv1br.html
 ^=soccerdoge.com	`0https://soccerdoge.com/
 ^=soccer-100.net	`0https://soccer-100.net/
