@@ -39,7 +39,6 @@ Thailand 🇹🇭 vs India 🇮🇳	`*https://www.fctv33.com/football/afc-womens
 
 20:00 [l]AFC Women’s Asian Cup[z]	^-
 Chinese Taipei 🇹🇼 vs Indonesia 🇮🇩	https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=b26a814e8aca53df275be29ef28bc62e&wsABSTime=1751765249
-Chinese Taipei 🇹🇼 vs Indonesia 🇮🇩	https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=b26a814e8aca53df275be29ef28bc62e&wsABSTime=1751765249?zyy
 Chinese Taipei 🇹🇼 vs Indonesia 🇮🇩	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4196679/chinese-taipei-w-vs-indonesia-w-07-2025.html
 
 21:00 [l]AFC Women’s Asian Cup[z]	^-
@@ -935,10 +934,6 @@ TUDN Wix	https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.m
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
-^=ch15y	https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=b26a814e8aca53df275be29ef28bc62e&wsABSTime=1751765249?zyy
-^=ch15	`0https://live.samuraitv.biz.id/p/ch15.html
-^=ch2	`0https://live.samuraitv.biz.id/p/ch2.html
-^=ch3	`0https://live.samuraitv.biz.id/p/blog-page_11.html
 ^=Sportv 1a	`0https://live.samuraitv.biz.id/p/sportv1br.html
 ^=soccerdoge.com	`0https://soccerdoge.com/
 ^=soccer-100.net	`0https://soccer-100.net/
