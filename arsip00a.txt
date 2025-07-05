@@ -28,12 +28,6 @@ GolTV	00!0!0/9595?zyy
 
 [y]05-07-2025[z]	^-
 
-21:00 [l]AFC Women’s Asian Cup[z]	^-
-North Korea 🇰🇵 vs Malaysia 🇲🇾	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4193735/north-korea-w-vs-malaysia-w-07-2025.html
-
-22:00 [l]AFC Women’s Asian Cup[z]	^-
-Uzbekistan 🇺🇿 vs Nepal 🇳🇵	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4196678/uzbekistan-women-vs-nepal-w-07-2025.html
-
 23:00 [l]UEFA European Women's Championship[z]	^-
 Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w) vs Netherland 🇳🇱 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w) vs Netherland 🇳🇱 (w)	https://z.1UK_BBC_1/index.m3u8
@@ -55,6 +49,9 @@ France 🇫🇷 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	`*https://www.fc
 
 03:00 [g]Club World Cup[z]	^-
 Real Madrid vs Borussia Dortmund	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189033/real-madrid-vs-borussia-dortmund-07-2025.html
+
+23:00 [l]UEFA European Women's Championship[z]	^-
+Norway 🇳🇴 (w) vs Finland 🇫🇮 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138381/norway-women-vs-finland-women-07-2025.html
 
 ^=	^-
 ^=	^-
