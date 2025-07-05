@@ -26,28 +26,19 @@ GolTV	00!0!0/9595?zyy
 ^=	^-
 ^=	^-
 
-[y]05-07-2025[z]	^-
-
-23:00 [l]UEFA European Women's Championship[z]	^-
-Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w) vs Netherland 🇳🇱 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w) vs Netherland 🇳🇱 (w)	https://z.1UK_BBC_1/index.m3u8
-Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w) vs Netherland 🇳🇱 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138328/wales-women-vs-netherlands-women-07-2025.html
-
-23:00 [g]Club World Cup[z]	^-
-Paris Saint Germain vs Bayern Munchen	https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
-Paris Saint Germain vs Bayern Munchen	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-Paris Saint Germain vs Bayern Munchen	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
-Paris Saint Germain vs Bayern Munchen	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189034/paris-saint-germain-vs-fc-bayern-munich-07-2025.html
-
 [y]06-07-2025[z]	^-
 
 00:00 [l]AFC Women’s Asian Cup[z]	^-
 Palestine 🇵🇸 vs Tajikistan 🇹🇯	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4193738/palestine-w-vs-tajikistan-w-07-2025.html
 
 02:00 [l]UEFA European Women's Championship[z]	^-
+France 🇫🇷 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+France 🇫🇷 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	https://z.1UK_BBC_1/index.m3u8
 France 🇫🇷 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138380/france-women-vs-england-women-07-2025.html
 
 03:00 [g]Club World Cup[z]	^-
+Real Madrid vs Borussia Dortmund	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+Real Madrid vs Borussia Dortmund	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
 Real Madrid vs Borussia Dortmund	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189033/real-madrid-vs-borussia-dortmund-07-2025.html
 
 23:00 [l]UEFA European Women's Championship[z]	^-
