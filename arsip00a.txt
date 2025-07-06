@@ -24,6 +24,12 @@ GolTV	00!0!0/9595?zyy
 
 [y]06-07-2025[z]	^-
 
+15:30 🇮🇩 [y]Indonesian President Cup[z]	^-
+Persib Bandung vs Port FC	`*https://www.fctv33.com/football/indonesian-president-cup-match-4208902/persib-bandung-vs-port-fc-07-2025.html
+
+19:30 🇮🇩 [y]Indonesian President Cup[z]	^-
+Oxford United vs ISL All Star	`*https://www.fctv33.com/football/indonesian-president-cup-match-4208901/oxford-united-vs-indonesia-super-league-all-star-07-2025.html
+
 23:00 [l]UEFA European Women's Championship[z]	^-
 Norway 🇳🇴 (w) vs Finland 🇫🇮 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138381/norway-women-vs-finland-women-07-2025.html
 
@@ -31,6 +37,9 @@ Norway 🇳🇴 (w) vs Finland 🇫🇮 (w)	`*https://www.fctv33.com/football/ue
 
 02:00 [l]UEFA European Women's Championship[z]	^-
 Switzerland 🇨🇭 (w) vs Iceland 🇮🇸 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138383/switzerland-women-vs-iceland-women-07-2025.html
+
+06:00 [l]CONCACAF Gold Cup[z]	^-
+USA 🇺🇸 vs Mexico 🇲🇽	`*https://www.fctv33.com/football/concacaf-gold-cup-match-4209009/usa-vs-mexico-07-2025.html
 
 ^=	^-
 	^-
