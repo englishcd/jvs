@@ -24,14 +24,6 @@ GolTV	00!0!0/9595?zyy
 
 07-07-2025	^-
 
-02:00 [l]UEFA European Women's Championship[z]	^-
-Switzerland 🇨🇭 (w) vs Iceland 🇮🇸 (w)	https://z.1UK_ITV_1/index.m3u8
-Switzerland 🇨🇭 (w) vs Iceland 🇮🇸 (w)	`0https://sportzonline.si/channels/hd/hd11.php
-Switzerland 🇨🇭 (w) vs Iceland 🇮🇸 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138383/switzerland-women-vs-iceland-women-07-2025.html
-
-02:00 [l]CAF Women's African Cup of Nations[z]	^-
-Algeria 🇩🇿 (w) vs Botswana 🇧🇼 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4207048/algeria-w-vs-botswana--w-07-2025.html
-
 06:00 [l]CONCACAF Gold Cup[z]	^-
 USA 🇺🇸 vs Mexico 🇲🇽	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 USA 🇺🇸 vs Mexico 🇲🇽	https://5.0!TSN_5!.z?7
