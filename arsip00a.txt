@@ -22,20 +22,6 @@ GolTV	00!0!0/9595?zyy
 	^-
 ^=	^-
 
-07-07-2025	^-
-
-23:00 [l]AFC Women’s Asian Cup[z]	^-
-Lebanon 🇱🇧 (w) vs Jordan 🇯🇴 (w)	`*https://www.fctv33.com/football/afc-womens-asian-cup-match-4194385/lebanon-w-vs-jordan-w-07-2025.html
-
-23:00 [l]CAF Women's African Cup of Nations[z]	^-
-South Africa 🇿🇦 (w) vs Ghana 🇬🇭 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4207087/south-africa-women-vs-ghana-w-07-2025.html
-
-23:00 [l]UEFA European Women's Championship[z]	^-
-Spain 🇪🇸 (w) vs Belgium 🇧🇪 (w)	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8?7
-Spain 🇪🇸 (w) vs Belgium 🇧🇪 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Spain 🇪🇸 (w) vs Belgium 🇧🇪 (w)	https://z.1UK_ITV_1/index.m3u8
-Spain 🇪🇸 (w) vs Belgium 🇧🇪 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138340/spain-women-vs-belgium-women-07-2025.html
-
 08-07-2025	^-
 
 02:00 [l]UEFA European Women's Championship[z]	^-
@@ -68,6 +54,11 @@ FC Saburtalo Tbilisi vs Malmo FF	`*https://www.fctv33.com/football/uefa-champion
 
 23:30 [g]UEFA Champions League[z]	^-
 Levadia Tallinn vs Rigas Futbola skola	`*https://www.fctv33.com/football/uefa-champions-league-match-4197753/levadia-tallinn-vs-rigas-futbola-skola-07-2025.html
+
+09-07-2025	^-
+
+00:00 [g]UEFA Champions League[z]	^-
+Olimpija Ljubljana vs Kairat Almaty	`*https://www.fctv33.com/football/uefa-champions-league-match-4196916/nk-olimpija-ljubljana-vs-fc-kairat-almaty-07-2025.html
 
 ^=	^-
 	^-
