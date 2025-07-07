@@ -25,9 +25,10 @@ GolTV	00!0!0/9595?zyy
 08-07-2025	^-
 
 02:00 [l]UEFA European Women's Championship[z]	^-
-Portugal 🇵🇹 (w) vs Italy 🇮🇹 (w)	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8?7
 Portugal 🇵🇹 (w) vs Italy 🇮🇹 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Portugal 🇵🇹 (w) vs Italy 🇮🇹 (w)	https://z.1UK_ITV_1/index.m3u8
+Portugal 🇵🇹 (w) vs Italy 🇮🇹 (w)	`0https://sportzonline.si/channels/pt/sporttv1.php
+Portugal 🇵🇹 (w) vs Italy 🇮🇹 (w)	`0https://sportzonline.si/channels/hd/hd7.php
 Portugal 🇵🇹 (w) vs Italy 🇮🇹 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138332/portugal-women-vs-italy-women-07-2025.html
 
 02:00 [l]CAF Women's African Cup of Nations[z]	^-
