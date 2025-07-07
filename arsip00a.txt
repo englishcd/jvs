@@ -31,7 +31,7 @@ Lebanon 🇱🇧 (w) vs Jordan 🇯🇴 (w)	`*https://www.fctv33.com/football/af
 South Africa 🇿🇦 (w) vs Ghana 🇬🇭 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4207087/south-africa-women-vs-ghana-w-07-2025.html
 
 23:00 [l]UEFA European Women's Championship[z]	^-
-Spain 🇪🇸 (w) vs Belgium 🇧🇪 (w)	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
+Spain 🇪🇸 (w) vs Belgium 🇧🇪 (w)	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8?7
 Spain 🇪🇸 (w) vs Belgium 🇧🇪 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Spain 🇪🇸 (w) vs Belgium 🇧🇪 (w)	https://z.1UK_ITV_1/index.m3u8
 Spain 🇪🇸 (w) vs Belgium 🇧🇪 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138340/spain-women-vs-belgium-women-07-2025.html
@@ -39,7 +39,7 @@ Spain 🇪🇸 (w) vs Belgium 🇧🇪 (w)	`*https://www.fctv33.com/football/uef
 08-07-2025	^-
 
 02:00 [l]UEFA European Women's Championship[z]	^-
-Portugal 🇵🇹 (w) vs Italy 🇮🇹 (w)	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
+Portugal 🇵🇹 (w) vs Italy 🇮🇹 (w)	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8?7
 Portugal 🇵🇹 (w) vs Italy 🇮🇹 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Portugal 🇵🇹 (w) vs Italy 🇮🇹 (w)	https://z.1UK_ITV_1/index.m3u8
 Portugal 🇵🇹 (w) vs Italy 🇮🇹 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138332/portugal-women-vs-italy-women-07-2025.html
@@ -100,7 +100,7 @@ Caze TV 2	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jg
 ČT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 ESPN 1 🇳🇱	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
+Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8?7
 Fox Sports Espanol	01!01dlive-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 ITV 1	https://z.1UK_ITV_1/index.m3u8
 RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
