@@ -22,26 +22,6 @@ GolTV	00!0!0/9595?zyy
 	^-
 ^=	^-
 
-08-07-2025	^-
-
-22:00 [g]UEFA Champions League[z]	^-
-KuPs vs FC Milsami	`*https://www.fctv33.com/football/uefa-champions-league-match-4198292/kups-vs-fc-milsami-07-2025.html
-
-23:00 [l]UEFA European Women's Championship[z]	^-
-Germany 🇩🇪 (w) vs Denmark 🇩🇰 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Germany 🇩🇪 (w) vs Denmark 🇩🇰 (w)	`0https://sportsonline.si/channels/pt/sporttv1.php
-Germany 🇩🇪 (w) vs Denmark 🇩🇰 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138247/germany-women-vs-denmark-women-07-2025.html
-
-23:00 [y]UEFA Europa Conference League[z]	^-
-St Joseph's FC vs Cliftonville	`*https://www.fctv33.com/football/uefa-europa-conference-league-match-4198863/st-josephs-fc-vs-cliftonville-07-2025.html
-
-23:00 [g]UEFA Champions League[z]	^-
-FC Noah vs FK Buducnost Podgorica	`*https://www.fctv33.com/football/uefa-champions-league-match-4197173/fc-noah-vs-fk-buducnost-podgorica-07-2025.html
-FC Saburtalo Tbilisi vs Malmo FF	`*https://www.fctv33.com/football/uefa-champions-league-match-4197712/fc-iberia-1999-tbilisi-vs-malmo-ff-07-2025.html
-
-23:30 [g]UEFA Champions League[z]	^-
-Levadia Tallinn vs Rigas Futbola skola	`*https://www.fctv33.com/football/uefa-champions-league-match-4197753/levadia-tallinn-vs-rigas-futbola-skola-07-2025.html
-
 09-07-2025	^-
 
 00:00 [g]UEFA Champions League[z]	^-
@@ -66,6 +46,9 @@ Poland 🇵🇱 (w) vs Sweden 🇸🇪 (w)	`*https://www.fctv33.com/football/uef
 
 02:00 [g]Club World Cup[z]	^-
 Fluminense RJ vs Chelsea	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+Fluminense RJ vs Chelsea	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+Fluminense RJ vs Chelsea	https://spstr.abntv.live/hls/psstream.m3u8
+Fluminense RJ vs Chelsea	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
 Fluminense RJ vs Chelsea	`0https://sportzonline.si/channels/hd/hd2.php
 Fluminense RJ vs Chelsea	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189032/fluminense-rj-vs-chelsea-07-2025.html
 
