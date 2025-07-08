@@ -28,6 +28,10 @@ GolTV	00!0!0/9595?zyy
 ISL All Star vs Arema FC	https://geogersr.itilstrem.workers.dev/https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=ba98210cca1b16a4bee0e5ae871af1a1&wsABSTime=1752011388
 ISL All Star vs Arema FC	`*https://www.fctv33.com/football/indonesian-president-cup-match-4215295/indonesia-super-league-all-star-vs-arema-fc-07-2025.html
 
+17:00 [l]International Friendly[z]	^-
+Australia 🇦🇺 (w) vs Panama 🇵🇦 (w)	https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd!!ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+Australia 🇦🇺 (w) vs Panama 🇵🇦 (w)	`*https://www.fctv33.com/football/international-friendly-match-4211866/australia-women-vs-panama-women-07-2025.html
+
 17:24 [l]EAFF East Asian Cup[z]	^-
 Japan 🇯🇵 vs Hong Kong 🇭🇰	`*https://www.fctv33.com/football/eaff-east-asian-cup-match-4187949/japan-vs-hong-kong-07-2025.html
 
