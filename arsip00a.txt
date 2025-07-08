@@ -24,10 +24,6 @@ GolTV	00!0!0/9595?zyy
 
 08-07-2025	^-
 
-19:30 [y]Indonesian President Cup[z]	^-
-Persib Bandung vs Dewa United FC	https://bf.jabflive.com/live/5004429_hd01.m3u8?txSecret=201fb525a9b22a182647216f3877aade&txTime=686d100f
-Persib Bandung vs Dewa United FC	`*https://www.fctv33.com/football/indonesian-president-cup-match-4215296/persib-bandung-vs-dewa-united-fc-07-2025.html
-
 22:00 [g]UEFA Champions League[z]	^-
 KuPs vs FC Milsami	`*https://www.fctv33.com/football/uefa-champions-league-match-4198292/kups-vs-fc-milsami-07-2025.html
 
@@ -84,10 +80,10 @@ beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!34
 beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
 beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-ID GTV	https://allcutv.rctiplus.id/gtv2023.m3u8
-ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-ID MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+ID GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
+ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8?7
+ID MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8?7
+ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8?7
 
 	^-
 [w]Live Sport TV Channels[z]	^-
