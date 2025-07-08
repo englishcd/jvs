@@ -24,17 +24,6 @@ GolTV	00!0!0/9595?zyy
 
 09-07-2025	^-
 
-00:00 [g]UEFA Champions League[z]	^-
-Olimpija Ljubljana vs Kairat Almaty	`*https://www.fctv33.com/football/uefa-champions-league-match-4196916/nk-olimpija-ljubljana-vs-fc-kairat-almaty-07-2025.html
-
-00:30 [y]UEFA Europa Conference League[z]	^-
-Floriana FC vs Haverfordwest County	`*https://www.fctv33.com/football/uefa-europa-conference-league-match-4196670/floriana-fc-vs-haverfordwest-county-07-2025.html
-
-01:00 [g]UEFA Champions League[z]	^-
-The New Saints vs FK Shkendija 79	`*https://www.fctv33.com/football/uefa-champions-league-match-4197171/the-new-saints-vs-shkendija-tetovo-07-2025.html
-Drita Gjilan vs Red Boys Differdange	`*https://www.fctv33.com/football/uefa-champions-league-match-4198525/fc-drita-vs-fc-differdange-03-07-2025.html
-Vikingur Gotu vs Lincoln Red Imps FC	`*https://www.fctv33.com/football/uefa-champions-league-match-4199420/vkingur-gta-vs-lincoln-red-imps-fc-07-2025.html
-
 02:00 [g]UEFA Champions League[z]	^-
 Egnatia vs Breidablik	`*https://www.fctv33.com/football/uefa-champions-league-match-4196815/egnatia-vs-breidablik-07-2025.html
 SS Virtus vs HSK Zrinjski Mostar	`*https://www.fctv33.com/football/uefa-champions-league-match-4208330/ss-virtus-vs-hsk-zrinjski-mostar-07-2025.html
