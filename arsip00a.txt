@@ -939,6 +939,19 @@ Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
+
+^=🇩🇪 SportDigital Fussball a	09!09aodm391.xyz:80/443432469215731/4362020837/278409?zyy
+^=🇩🇪 SportDigital Fussball b	09!09bodm391.xyz:80/443432469215731/4362020837/278409?zyy
+^=🇩🇪 SportDigital Fussball c	09!09codm391.xyz:80/443432469215731/4362020837/278409?zyy
+
+^=GolTV a	09!09atv.masterplaytv.club:8080/userrith1/gP8NaAB9fE/9595?zyy
+^=GolTV b	09!09btv.masterplaytv.club:8080/userrith1/gP8NaAB9fE/9595?zyy
+^=GolTV c	09!09ctv.masterplaytv.club:8080/userrith1/gP8NaAB9fE/9595?zyy
+
+^=🇺🇸 Fox Soccer Plus a	09!09amu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/29695?zyy
+^=🇺🇸 Fox Soccer Plus b	09!09bmu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/29695?zyy
+^=🇺🇸 Fox Soccer Plus c	09!09cmu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/29695?zyy
+
 ^=soccerdoge.com	`0https://soccerdoge.com/
 ^=soccer-100.net	`0https://soccer-100.net/
 ^=[l]Huhu.To[z]	`0https://huhu.to/
