@@ -31,7 +31,7 @@ Congo DR 🇨🇩 (w) vs Morocco 🇲🇦 (w)	`*https://www.fctv33.com/football/
 
 02:00 [l]UEFA European Women's Championship[z]	^-
 France 🇫🇷 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-France 🇫🇷 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	ITV 1	https://z.1UK_ITV_1/index.m3u8
+France 🇫🇷 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	https://z.1UK_ITV_1/index.m3u8
 France 🇫🇷 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138338/france-women-vs-wales-women-07-2025.html
 
 02:00 [g]Club World Cup[z]	^-
