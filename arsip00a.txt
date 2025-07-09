@@ -1,8 +1,7 @@
 🌐 [y]Join Our Telegram Channel:[z] [w]blogtv.pages.dev[z]	^+https://t.me/s/ontvr_blogspot_com
-[y]{s} Ⓗa0 Live Sports Events[z]	^-
+[g]{s} Ⓗa0 Live Sports Events[z]	^-
 
-	^-
-[g]Live Football Events[z]	^-
+[y]Live Football Events[z]	^-
 
 	^-
 [w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z][][w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]	^-
@@ -226,11 +225,13 @@ Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
 
 [l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]	^^hb3
 
+	^-
 GolTV	00!0!0/9595?zyy
 [y]Sports & TV[z] [l]PlayList[z] #1	^^h10
 
-🇺🇸 Fox Soccer Plus	00!0!1/29695?zyy
-[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
+^=	^-
+^=🇺🇸 Fox Soccer Plus	00!0!1/29695?zyy
+^=[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 	^-
 [w]ID Live Sport TV[z]	^-
