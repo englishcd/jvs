@@ -26,21 +26,20 @@ GolTV	00!0!0/9595?zyy
 
 10-07-2025	^-
 
-02:00 [l]CAF Women's African Cup of Nations[z]	^-
-Congo DR 🇨🇩 (w) vs Morocco 🇲🇦 (w)	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-Congo DR 🇨🇩 (w) vs Morocco 🇲🇦 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4212607/dr-congo-w-vs-morocco-women-07-2025.html
+15:30 [y]Indonesian President Cup[z]	^-
+Dewa United vs Port MTI FC	`*
+
+19:30 [y]Indonesian President Cup[z]	^-
+Arema FC vs Oxford United	`*https://www.fctv33.com/football/indonesian-president-cup-match-4210674/arema-fc-vs-oxford-united-07-2025.html
+
+23:00 [l]CAF Women's African Cup of Nations[z]	^-
+Tunisia 🇹🇳 (w) vs Algeria 🇩🇿 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214589/tunisia-w-vs-algeria-w-07-2025.html
+
+10-07-2025	^-
 
 02:00 [l]UEFA European Women's Championship[z]	^-
-France 🇫🇷 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-France 🇫🇷 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	https://z.1UK_ITV_1/index.m3u8
-France 🇫🇷 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138338/france-women-vs-wales-women-07-2025.html
-
-02:00 [g]Club World Cup[z]	^-
-Paris Saint Germain vs Real Madrid 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-Paris Saint Germain vs Real Madrid 🇮🇹	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-Paris Saint Germain vs Real Madrid 🇬🇧	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_channel_5_hd/index.m3u8
-Paris Saint Germain vs Real Madrid 🇪🇬	https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-Paris Saint Germain vs Real Madrid	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189031/paris-saint-germain-vs-real-madrid-07-2025.html
+Finland 🇫🇮 (w) vs Switzerland 🇨🇭 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138382/finland-women-vs-switzerland-women-07-2025.html
+Norway 🇳🇴 (w) vs Iceland 🇮🇸 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138385/norway-women-vs-iceland-women-07-2025.html
 
 ^=	^-
 	^-
