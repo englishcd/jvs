@@ -26,9 +26,6 @@ GolTV	00!0!0/9595?zyy
 
 09-07-2025	^-
 
-18:00 [l]EAFF Women’s Championship[z]	^-
-South Korea 🇰🇷 (w) vs China 🇨🇳 (w)	`*https://www.fctv33.com/football/eaff-womens-football-championship-match-4187651/south-korea-women-vs-china-women-07-2025.html
-
 23:00 [g]UEFA Champions League[z]	^-
 Zalgiris Vilnius vs Hamrun Spartans	`*https://www.fctv33.com/football/uefa-champions-league-match-4196828/fk-zalgiris-vilnius-vs-hamrun-spartans-07-2025.html
 
@@ -140,6 +137,24 @@ Sky Live Event 4	https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-H
 Sky Live Event 5	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd!!6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
 Sky Live Event 6	https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
 
+Channel 5 🇬🇧	09!08c00!00/1000030?zyy
+Sky Sports Main Event	09!08c00!00/2000001?zyy
+Sky Sports Premier League	09!08c00!00/2000002?zyy
+Sky Sports Football	09!08c00!00/2000003?zyy
+Sky Sports News	09!08c00!00/2000004?zyy
+Sky Sports Mix	09!08c00!00/2000008?zyy
+Sky Sports Action	09!08c00!00/2000011?zyy
+Sky Sports Tennis	09!08c00!00/2000013?zyy
+TNT Sports 1 🇬🇧	09!08c00!00/2000021?zyy
+TNT Sports 2 🇬🇧	09!08c00!00/2000022?zyy
+TNT Sports 3 🇬🇧	09!08c00!00/2000023?zyy
+TNT Sports 4 🇬🇧	09!08c00!00/2000024?zyy
+ABC Channel 7 🇺🇸	09!08c00!00/300003?zyy
+ESPN 🇺🇸	09!08c00!00/40000011?zyy
+NBA TV 🇺🇸	09!08c00!00/40000031?zyy
+TSN 1 🇨🇦	09!08c00!00/6000001?zyy
+TSN 3 🇨🇦	09!08c00!00/6000003?zyy
+
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 BandSports 🇧🇷	https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.mpd!!74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
@@ -172,7 +187,7 @@ Real Madrid TV ES	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master
 BBC Three	https://livetvde.net/bbcthree/index.m3u8
 BBC Four	https://livetvde.net/bbcfour/index.m3u8
 BBC One	https://z.1UK_BBC_1/index.m3u8
-Channel 4	https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd!!0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+Channel 4 🇬🇧	https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd!!0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 beIN Sports US	https://z.1US_BEIN_SPORTS/index.m3u8
 Fox Sports 2	https://z.1USA_FOX_SPORTS_2/index.m3u8
 ITV 1	https://z.1UK_ITV_1/index.m3u8
@@ -928,7 +943,6 @@ Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
-^=NBA	09!08a00!00/40000031?zyy
 
 ^=🇩🇪 SportDigital Fussball a	09!09aodm391.xyz:80/443432469215731/4362020837/278409?zyy
 ^=🇩🇪 SportDigital Fussball b	09!09bodm391.xyz:80/443432469215731/4362020837/278409?zyy
