@@ -928,7 +928,7 @@ Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
-^=NBA TV	09!08a00!00/40000031
+^=NBA	09!08a00!00/40000031?zyy
 
 ^=🇩🇪 SportDigital Fussball a	09!09aodm391.xyz:80/443432469215731/4362020837/278409?zyy
 ^=🇩🇪 SportDigital Fussball b	09!09bodm391.xyz:80/443432469215731/4362020837/278409?zyy
