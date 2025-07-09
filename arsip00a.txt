@@ -164,7 +164,7 @@ NBA TV 🇺🇸	09!08c00!00/40000031?zyy
 TSN 1 🇨🇦	09!08c00!00/6000001?zyy
 TSN 3 🇨🇦	09!08c00!00/6000003?zyy
 
-Canal Plus Sport 1	09!09c116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617bv
+Canal Plus Sport 1	09!09c116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
 Canal Plus Sport 2	09!09c116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
 Canal Plus Sport 3	09!09c116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
 Nova Sport 5	09!09c116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
