@@ -26,9 +26,6 @@ GolTV	00!0!0/9595?zyy
 
 09-07-2025	^-
 
-14:30 [l]EAFF Women’s Championship[z]	^-
-Japan 🇯🇵 (w) vs Chinese Taipei 🇹🇼 (w)	`*https://www.fctv33.com/football/eaff-womens-football-championship-match-4187939/japan-women-vs-chinese-taipei-w-07-2025.html
-
 18:00 [l]EAFF Women’s Championship[z]	^-
 South Korea 🇰🇷 (w) vs China 🇨🇳 (w)	`*https://www.fctv33.com/football/eaff-womens-football-championship-match-4187651/south-korea-women-vs-china-women-07-2025.html
 
@@ -157,8 +154,11 @@ Nova Sport 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!
 Nova Sport 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-HRT 1	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd!!edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
-HRT 2	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd!!994c79af863838109e7f3503bcd2aff9:d2c19650ad2a2ac77a95453b941a6f0e
+HRT 1 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt1_1200.m3u8
+HRT 2 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt2_1200.m3u8
+HRT 3 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt3_1200.m3u8
+HRT 1 🇭🇷	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd!!edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
+HRT 2 🇭🇷	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd!!994c79af863838109e7f3503bcd2aff9:d2c19650ad2a2ac77a95453b941a6f0e
 beIN Sports TV 1	https://spring-band-b889.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
 beIN Sports TV 3	https://spring-band-b889.wirdytv.workers.dev/02_epl2_720p/chunklist.m3u8
 True Premier Football 1	https://still-grass-cb06.wirdytv.workers.dev/02_PremierHD1_720p/chunklist.m3u8
@@ -928,6 +928,7 @@ Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
+^=NBA TV	09!08a00!00/40000031
 
 ^=🇩🇪 SportDigital Fussball a	09!09aodm391.xyz:80/443432469215731/4362020837/278409?zyy
 ^=🇩🇪 SportDigital Fussball b	09!09bodm391.xyz:80/443432469215731/4362020837/278409?zyy
