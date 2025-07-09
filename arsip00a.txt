@@ -4,6 +4,22 @@
 [y]Live Football Events[z]	^-
 
 	^-
+🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
+[l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
+[l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
+[l]{h} Ⓒb1[z] America [y]Sports & TV[z]	^^hb1
+
+[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]	^^hb3
+
+	^-
+GolTV	00!0!0/9595?zyy
+[y]Sports & TV[z] [l]PlayList[z] #1	^^h10
+
+^=	^-
+^=🇺🇸 Fox Soccer Plus	00!0!1/29695?zyy
+^=[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
+
+	^-
 [w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z][][w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]	^-
 	^-
 ^=	^-
@@ -216,22 +232,6 @@ Sports 5 🇧🇷	`0https://sportzonline.si/channels/bra/br5.php
 Sports 6 🇧🇷	`0https://sportzonline.si/channels/bra/br6.php
 Sports 7 🇧🇷	`0https://sportzonline.si/channels/bra/br7.php
 Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
-
-	^-
-🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
-[l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
-[l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
-[l]{h} Ⓒb1[z] America [y]Sports & TV[z]	^^hb1
-
-[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]	^^hb3
-
-	^-
-GolTV	00!0!0/9595?zyy
-[y]Sports & TV[z] [l]PlayList[z] #1	^^h10
-
-^=	^-
-^=🇺🇸 Fox Soccer Plus	00!0!1/29695?zyy
-^=[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 	^-
 [w]ID Live Sport TV[z]	^-
