@@ -24,35 +24,21 @@ GolTV	00!0!0/9595?zyy
 	^-
 ^=	^-
 
-09-07-2025	^-
-
-23:00 [g]UEFA Champions League[z]	^-
-Zalgiris Vilnius vs Hamrun Spartans	`*https://www.fctv33.com/football/uefa-champions-league-match-4196828/fk-zalgiris-vilnius-vs-hamrun-spartans-07-2025.html
-
-23:00 [l]CAF Women's African Cup of Nations[z]	^-
-Zambia 🇿🇲 (w) vs Senegal 🇸🇳 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4212593/zambia-women-vs-senegal-w-07-2025.html
-
-23:00 [l]UEFA European Women's Championship[z]	^-
-England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w) vs Netherland 🇳🇱 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w) vs Netherland 🇳🇱 (w)	https://z.1UK_BBC_1/index.m3u8
-England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w) vs Netherland 🇳🇱 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138335/england-women-vs-netherlands-women-07-2025.html
-
 10-07-2025	^-
-
-00:30 [g]UEFA Champions League[z]	^-
-Ludogorets Razgrad vs Dinamo Minsk	`*https://www.fctv33.com/football/uefa-champions-league-match-4197182/ludogorets-razgrad-vs-dinamo-minsk-07-2025.html
-Fotbal Club FCSB vs Inter C Escaldes	`*https://www.fctv33.com/football/uefa-champions-league-match-4198743/fotbal-club-fcsb-vs-inter-club-escaldes-07-2025.html
-
-01:45 [g]UEFA Champions League[z]	^-
-Shelbourne vs Linfield FC	`*https://www.fctv33.com/football/uefa-champions-league-match-4197800/shelbourne-vs-linfield-fc-07-2025.html
 
 02:00 [l]CAF Women's African Cup of Nations[z]	^-
 Congo DR 🇨🇩 (w) vs Morocco 🇲🇦 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4212607/dr-congo-w-vs-morocco-women-07-2025.html
 
 02:00 [l]UEFA European Women's Championship[z]	^-
+France 🇫🇷 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+France 🇫🇷 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	ITV 1	https://z.1UK_ITV_1/index.m3u8
 France 🇫🇷 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138338/france-women-vs-wales-women-07-2025.html
 
 02:00 [g]Club World Cup[z]	^-
+Paris Saint Germain vs Real Madrid 🇧🇷	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+Paris Saint Germain vs Real Madrid 🇮🇹	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+Paris Saint Germain vs Real Madrid 🇬🇧	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_channel_5_hd/index.m3u8
+Paris Saint Germain vs Real Madrid 🇪🇬	https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 Paris Saint Germain vs Real Madrid	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189031/paris-saint-germain-vs-real-madrid-07-2025.html
 
 ^=	^-
@@ -99,6 +85,7 @@ FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb
 Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8?7
 Fox Sports Espanol	01!01dlive-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 ITV 1	https://z.1UK_ITV_1/index.m3u8
+Channel 5 🇬🇧	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_channel_5_hd/index.m3u8
 RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 Sat 1 🇩🇪	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
