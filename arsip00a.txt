@@ -37,11 +37,14 @@ Arema FC vs Oxford United	`*https://www.fctv33.com/football/indonesian-president
 23:00 [l]CAF Women's African Cup of Nations[z]	^-
 Tunisia 🇹🇳 (w) vs Algeria 🇩🇿 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214589/tunisia-w-vs-algeria-w-07-2025.html
 
-10-07-2025	^-
+11-07-2025	^-
 
 02:00 [l]UEFA European Women's Championship[z]	^-
 Finland 🇫🇮 (w) vs Switzerland 🇨🇭 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138382/finland-women-vs-switzerland-women-07-2025.html
 Norway 🇳🇴 (w) vs Iceland 🇮🇸 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138385/norway-women-vs-iceland-women-07-2025.html
+
+02:00 [l]CAF Women's African Cup of Nations[z]	^-
+Botswana 🇧🇼 (w) vs Nigeria 🇳🇬 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214590/botswana--w-vs-nigeria-women-07-2025.html
 
 ^=	^-
 	^-
