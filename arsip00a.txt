@@ -85,7 +85,6 @@ FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb
 Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8?7
 Fox Sports Espanol	01!01dlive-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 ITV 1	https://z.1UK_ITV_1/index.m3u8
-Channel 5 🇬🇧	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_channel_5_hd/index.m3u8
 RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 Sat 1 🇩🇪	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -952,6 +951,8 @@ Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
+
+^=Channel 5 🇬🇧	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_channel_5_hd/index.m3u8
 
 ^=🇩🇪 SportDigital Fussball a	09!09aodm391.xyz:80/443432469215731/4362020837/278409?zyy
 ^=🇩🇪 SportDigital Fussball b	09!09bodm391.xyz:80/443432469215731/4362020837/278409?zyy
