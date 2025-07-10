@@ -56,6 +56,7 @@ beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!ae
 beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 
 ID Galaxy Premium	https://fta1!vfc!45c0752c6b6b4397b80243ac9fed96fd/index.mpd!!0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+ID tvN Movies	https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd!!50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 ID iNews	https://fta2!vfc!7b0404cd6a8a4a908123f10774854e46/index.mpd!!8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 ID Music TV	https://fta1!vfc!c20d75deb06f401aa89681a9e5054de7/index.mpd!!55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 ID Nick Jr	https://fta1!vfc!27163af9499b4bcca2da96677b158efe/index.mpd!!c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
@@ -248,6 +249,7 @@ Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
 	^-
 [w]ID Live Sport TV[z]	^-
 
+ID Animal Planet	https://atemeshield1-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd!!fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 ID ANTV	`0https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWn7B5RNPyFgfmBZEZWzBIU0euPvyhNjZzzZ32TdKYw0iN+szaquGwW/g3oNsxpwBRw2ag9SQ+wDniU4C5uCk6ZDujeewfkjcDn+94Vl8QVyhNiMXHTY1JGVnOP7dkldc1/xxNQCVy1CR68tpfvcbEChQdH2ecv8izmjEDDRkmlC7NO78hum5x5JuWsMrlMI5WmRihZKQiBr1NoPjlUHIziHn3ECsAlkA3dp6nbQz/nePOhk4mBIpsetJjZc2opjyuVuVfQD+5yOV3Zg1PRuFfupDoWECbntCG3uJosv9YKBtAdR9mBazJWYIYU9NvTQ4cSt2J24D
 ID ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 ID BTV	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
@@ -256,17 +258,20 @@ ID DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 ID GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
 ID GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 ID GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
+ID Horee	https://atemeshield1-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd!!0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 ID Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8?7
 ID iNews	`0https://embed.rctiplus.com/live/inews/inewsid
+ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8?7
 ID Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+ID Mentari TV	https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 ID Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 ID MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
 ID Net TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=NET.
 ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8?7
 ID RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
 ID RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+ID SCTV	https://atemeshield1-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd!!a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 ID SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 ID Trans TV	https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8
@@ -927,7 +932,7 @@ Sony Sports 3	https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 Sony Sports 4	https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 Sony Sports 5	https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 Sony Pix	https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-Sony Pix	https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
+Sony Pix	https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
 
 Canal Plus Sport 1	09!09a116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
 Canal Plus Sport 2	09!09a116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
@@ -950,6 +955,7 @@ Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
 
+^=ID Indosiar	09!09c103.172.71.153:9981/stream/channelid/1185426831?profile=pass?zyy
 ^=TSN 2 🇨🇦	09!08c00!00/6000002?zyy
 ^=Channel 5 🇬🇧	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_channel_5_hd/index.m3u8
 
