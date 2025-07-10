@@ -26,11 +26,6 @@ GolTV	00!0!0/9595?zyy
 
 10-07-2025	^-
 
-19:30 [y]Indonesian President Cup[z]	^-
-Arema FC vs Oxford United	https://hls.uouetrq19.com/live/sd-6MuSsYeZdSzinciVXD.m3u8?txSecret=c0ae7bb99ac86de511fede0ec59dfaba&txTime=68710166
-Arema FC vs Oxford United	https://bf.jabflive.com/live/5004240_hd01.m3u8?txSecret=b2367af177fa5d8292f31ad08b288fc1&txTime=686fb1fd
-Arema FC vs Oxford United	`*https://www.fctv33.com/football/indonesian-president-cup-match-4210674/arema-fc-vs-oxford-united-07-2025.html
-
 23:00 [l]CAF Women's African Cup of Nations[z]	^-
 Tunisia 🇹🇳 (w) vs Algeria 🇩🇿 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214589/tunisia-w-vs-algeria-w-07-2025.html
 
