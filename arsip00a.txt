@@ -26,11 +26,6 @@ GolTV	00!0!0/9595?zyy
 
 10-07-2025	^-
 
-15:30 [y]Indonesian President Cup[z]	^-
-Dewa United vs Port FC	https://hls.uouetrq19.com/live/sd-6MuSsYeZddz891r5Hh.m3u8?txSecret=b5131785d7fa92a587faa075770a9ea0&txTime=6870C922
-Dewa United vs Port FC	https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=5d82beb61ff819f93f432cf96b1176f9&wsABSTime=1752180529
-Dewa United vs Port FC	`*https://www.fctv33.com/football/indonesian-president-cup-match-4210675/dewa-united-fc-vs-port-fc-07-2025.html
-
 19:30 [y]Indonesian President Cup[z]	^-
 Arema FC vs Oxford United	`*https://www.fctv33.com/football/indonesian-president-cup-match-4210674/arema-fc-vs-oxford-united-07-2025.html
 
@@ -73,10 +68,8 @@ ID Hanacaraka	https://fta3!vfc!17c724036c5f4615bd0b8093126b5c44/index.mpd!!0de1f
 ID Entertainment	https://fta2!vfc!a90cb773466446b08595007bab12b920/index.mpd!!62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 
 ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-ID GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
 ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8?7
 ID MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8?7
-ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8?7
 
 	^-
 [w]Live Sport TV Channels[z]	^-
@@ -268,8 +261,9 @@ ID ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 ID BTV	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 ID CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 ID DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
-ID GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
+ID GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
 ID GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+ID GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
 ID Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 ID iNews	`0https://embed.rctiplus.com/live/inews/inewsid
@@ -277,11 +271,11 @@ ID Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 ID Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 ID MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
 ID Net TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=NET.
+ID RCTI	https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8?7
 ID RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
-ID RCTI	https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 ID RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-ID SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 ID SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+ID SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 ID Trans TV	https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8
 ID Trans7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
 ID tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
