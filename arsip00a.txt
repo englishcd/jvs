@@ -55,6 +55,7 @@ beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!ae
 beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 
 ID Galaxy Premium	https://fta1!vfc!45c0752c6b6b4397b80243ac9fed96fd/index.mpd!!0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+ID iNews	https://fta2!vfc!7b0404cd6a8a4a908123f10774854e46/index.mpd!!8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 ID Music TV	https://fta1!vfc!c20d75deb06f401aa89681a9e5054de7/index.mpd!!55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 ID Nick Jr	https://fta1!vfc!27163af9499b4bcca2da96677b158efe/index.mpd!!c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
 ID Kids TV	https://fta3!vfc!9041826689ae4f9c9619576d411fa989/index.mpd!!ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
@@ -64,7 +65,6 @@ ID Hanacaraka	https://fta3!vfc!17c724036c5f4615bd0b8093126b5c44/index.mpd!!0de1f
 ID Entertainment	https://fta2!vfc!a90cb773466446b08595007bab12b920/index.mpd!!62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 
 ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8?7
 ID MNC TV	https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8?7
 
 	^-
@@ -257,6 +257,7 @@ ID GTV	https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 ID GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
 ID Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 ID Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+ID iNews	https://inews-cutv.rctiplus.id/inews-sdi.m3u8?7
 ID iNews	`0https://embed.rctiplus.com/live/inews/inewsid
 ID Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 ID Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
