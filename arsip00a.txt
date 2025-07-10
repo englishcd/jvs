@@ -153,12 +153,6 @@ NBA TV 🇺🇸	09!08c00!00/40000031?zyy
 TSN 1 🇨🇦	09!08c00!00/6000001?zyy
 TSN 3 🇨🇦	09!08c00!00/6000003?zyy
 
-Canal Plus Sport 1	09!09c116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
-Canal Plus Sport 2	09!09c116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
-Canal Plus Sport 3	09!09c116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
-Nova Sport 5	09!09c116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
-Nova Sport 6	09!09c116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
-
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 BandSports 🇧🇷	https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.mpd!!74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
@@ -935,6 +929,12 @@ Sony Sports 4	https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 Sony Sports 5	https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 Sony Pix	https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 Sony Pix	https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
+
+Canal Plus Sport 1	09!09a116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
+Canal Plus Sport 2	09!09a116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
+Canal Plus Sport 3	09!09a116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
+Nova Sport 5	09!09a116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
+Nova Sport 6	09!09a116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
 
 Arena Sport 1	`0https://streaming.sportsnews.id/p/arena1cro.html
 Arena Sport 2	`0https://streaming.sportsnews.id/p/arena2cro.html
