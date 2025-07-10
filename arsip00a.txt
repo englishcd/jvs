@@ -27,7 +27,9 @@ GolTV	00!0!0/9595?zyy
 10-07-2025	^-
 
 15:30 [y]Indonesian President Cup[z]	^-
-Dewa United vs Port MTI FC	`*
+Dewa United vs Port FC	https://hls.uouetrq19.com/live/sd-6MuSsYeZddz891r5Hh.m3u8?txSecret=b5131785d7fa92a587faa075770a9ea0&txTime=6870C922
+Dewa United vs Port FC	https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=5d82beb61ff819f93f432cf96b1176f9&wsABSTime=1752180529
+Dewa United vs Port FC	`*https://www.fctv33.com/football/indonesian-president-cup-match-4210675/dewa-united-fc-vs-port-fc-07-2025.html
 
 19:30 [y]Indonesian President Cup[z]	^-
 Arema FC vs Oxford United	`*https://www.fctv33.com/football/indonesian-president-cup-match-4210674/arema-fc-vs-oxford-united-07-2025.html
