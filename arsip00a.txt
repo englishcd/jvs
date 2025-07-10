@@ -28,6 +28,7 @@ GolTV	00!0!0/9595?zyy
 
 02:00 [l]UEFA European Women's Championship[z]	^-
 Finland 🇫🇮 (w) vs Switzerland 🇨🇭 (w) 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Finland 🇫🇮 (w) vs Switzerland 🇨🇭 (w)	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 Finland 🇫🇮 (w) vs Switzerland 🇨🇭 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138382/finland-women-vs-switzerland-women-07-2025.html
 
 Norway 🇳🇴 (w) vs Iceland 🇮🇸 (w) 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
