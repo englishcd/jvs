@@ -131,6 +131,8 @@ Sky Live Event 4	https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-H
 Sky Live Event 5	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd!!6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
 Sky Live Event 6	https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
 
+Diema 1	https://ddy6new.newkso.ru/ddy6/premium482/mono.m3u8?7
+
 Channel 5 🇬🇧	09!08c00!00/1000030?zyy
 Sky Sports Main Event	09!08c00!00/2000001?zyy
 Sky Sports Premier League	09!08c00!00/2000002?zyy
