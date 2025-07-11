@@ -26,6 +26,9 @@ GolTV	00!0!0/9595?zyy
 
 11-07-2025	^-
 
+18:00 [l]EAFF E-1 Football Championship[z]	^-
+South Korea 🇰🇷 vs Hong Kong 🇭🇰	`*https://www.fctv33.com/football/eaff-e-1-football-championship-match-4187950/south-korea-vs-hong-kong-07-2025.html
+
 23:00 [l]CAF Women's African Cup of Nations[z]	^-
 Ghana 🇬🇭 (w) vs Mali 🇲🇱 (w)	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 Ghana 🇬🇭 (w) vs Mali 🇲🇱 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214662/ghana-w-vs-mali-w-07-2025.html
@@ -175,6 +178,9 @@ True Premier Football 1	https://still-grass-cb06.wirdytv.workers.dev/02_PremierH
 True Premier Football 2	https://summer-king-dc08.wirdytv.workers.dev/02_PremierHD2_720p/chunklist.m3u8
 True Premier Football 3	https://shrill-lake-bb62.wirdytv.workers.dev/02_PremierHD3_720p/chunklist.m3u8
 True Premier Football 4	https://truepremier.wirdytv.workers.dev/02_PremierHD4_720p/chunklist.m3u8
+True Sports 2	09!09dwww.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+True Sports 3	09!09dwww.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+True Tennis	09!09dwww.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 EuroSport 1	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 EuroSport 2	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Real Madrid TV EN	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
