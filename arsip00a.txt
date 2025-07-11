@@ -36,7 +36,7 @@ Italy 🇮🇹 (w) vs Spain 🇪🇸 (w)	https://a204aivottepl-a.akamaihd.net/si
 Italy 🇮🇹 (w) vs Spain 🇪🇸 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138333/italy-women-vs-spain-women-07-2025.html
 
 Portugal 🇵🇹 (w) vs Belgium 🇧🇪 (w)	https://5.0!TSN_2!.z?7
-Portugal 🇵🇹 (w) vs Belgium 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv1.php
+Portugal 🇵🇹 (w) vs Belgium 🇧🇪 (w) 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv1.php
 Portugal 🇵🇹 (w) vs Belgium 🇧🇪 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138339/portugal-women-vs-belgium-women-07-2025.html
 
 07:00 [l]CONMEBOL Women's Sudamericano[z]	^-
