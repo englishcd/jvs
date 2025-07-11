@@ -24,12 +24,6 @@ GolTV	00!0!0/9595?zyy
 	^-
 ^=	^-
 
-11-07-2025	^-
-
-23:00 [l]CAF Women's African Cup of Nations[z]	^-
-Ghana 🇬🇭 (w) vs Mali 🇲🇱 (w)	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-Ghana 🇬🇭 (w) vs Mali 🇲🇱 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214662/ghana-w-vs-mali-w-07-2025.html
-
 12-07-2025	^-
 
 02:00 [l]CAF Women's African Cup of Nations[z]	^-
@@ -47,6 +41,9 @@ Portugal 🇵🇹 (w) vs Belgium 🇧🇪 (w)	`*https://www.fctv33.com/football/
 
 07:00 [l]CONMEBOL Women's Sudamericano[z]	^-
 Ecuador 🇪🇨 (w) vs Uruguay 🇺🇾 (w)	`*https://www.fctv33.com/football/conmebol-womens-sudamericano-match-4217535/ecuador-w-vs-uruguay-w-07-2025.html
+
+17:24 [l]EAFF E-1 Football Championship[z]	^-
+Japan 🇯🇵 vs China 🇨🇳	`*https://www.fctv33.com/football/eaff-e-1-football-championship-match-4187951/japan-vs-china-07-2025.html
 
 ^=	^-
 	^-
