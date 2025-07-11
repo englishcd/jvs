@@ -26,9 +26,6 @@ GolTV	00!0!0/9595?zyy
 
 11-07-2025	^-
 
-18:00 [l]EAFF E-1 Football Championship[z]	^-
-South Korea 🇰🇷 vs Hong Kong 🇭🇰	`*https://www.fctv33.com/football/eaff-e-1-football-championship-match-4187950/south-korea-vs-hong-kong-07-2025.html
-
 23:00 [l]CAF Women's African Cup of Nations[z]	^-
 Ghana 🇬🇭 (w) vs Mali 🇲🇱 (w)	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 Ghana 🇬🇭 (w) vs Mali 🇲🇱 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214662/ghana-w-vs-mali-w-07-2025.html
@@ -319,7 +316,7 @@ Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 Lifestyle	https://l.0/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd!!c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
 Lifetime	https://l.0/LifetimeHD/mpd/LifetimeHD.mpd!!2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
 Love Nature	https://l.0/LoveNatureHD/mpd/LoveNatureHD.mpd!!8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
-Mentari TV	https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+Mentari TV	01!01dcdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd!!69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 Metro TV	https://l.0/MetroTVHD/mpd/MetroTVHD.mpd!!66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 MNC TV	https://allcutv.rctiplus.id/mnctv2023.m3u8?7
