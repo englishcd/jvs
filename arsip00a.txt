@@ -26,24 +26,17 @@ GolTV	00!0!0/9595?zyy
 
 12-07-2025	^-
 
-02:00 [l]CAF Women's African Cup of Nations[z]	^-
-Tanzania 🇹🇿 (w) vs South Africa 🇿🇦 (w)	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-Tanzania 🇹🇿 (w) vs South Africa 🇿🇦 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214664/tanzania-w-vs-south-africa-women-07-2025.html
-
-02:00 [l]UEFA European Women's Championship[z]	^-
-Italy 🇮🇹 (w) vs Spain 🇪🇸 (w) 🇦🇹	https://ac-003.live.p7s1video.net/c8f927b4/t_003/orf-sport-plus-at/cenc-default.mpd!!ba811cbf6c7afe35396453271437e013:b55a91719f41754015edb61f5cd2468c
-Italy 🇮🇹 (w) vs Spain 🇪🇸 (w)	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-Italy 🇮🇹 (w) vs Spain 🇪🇸 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138333/italy-women-vs-spain-women-07-2025.html
-
-Portugal 🇵🇹 (w) vs Belgium 🇧🇪 (w)	https://5.0!TSN_2!.z?7
-Portugal 🇵🇹 (w) vs Belgium 🇧🇪 (w) 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv1.php
-Portugal 🇵🇹 (w) vs Belgium 🇧🇪 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138339/portugal-women-vs-belgium-women-07-2025.html
-
 07:00 [l]CONMEBOL Women's Sudamericano[z]	^-
 Ecuador 🇪🇨 (w) vs Uruguay 🇺🇾 (w)	`*https://www.fctv33.com/football/conmebol-womens-sudamericano-match-4217535/ecuador-w-vs-uruguay-w-07-2025.html
 
 17:24 [l]EAFF E-1 Football Championship[z]	^-
 Japan 🇯🇵 vs China 🇨🇳	`*https://www.fctv33.com/football/eaff-e-1-football-championship-match-4187951/japan-vs-china-07-2025.html
+
+13-07-2025	^-
+
+02:00 [l]UEFA European Women's Championship[z]	^-
+Sweden 🇸🇪 (w) vs Germany 🇩🇪 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138245/sweden-women-vs-germany-women-07-2025.html
+Poland 🇵🇱 (w) vs Denmark 🇩🇰 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138246/poland-women-vs-denmark-women-07-2025.html
 
 ^=	^-
 	^-
