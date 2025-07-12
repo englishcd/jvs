@@ -11,30 +11,8 @@
 
 13-07-2025	^-
 
-02:00 [l]CAF Women's African Cup of Nations[z]	^-
-Morocco 🇲🇦 (w) vs Senegal 🇸🇳 (w)	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-Morocco 🇲🇦 (w) vs Senegal 🇸🇳 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4212658/morocco-women-vs-senegal-w-07-2025.html
-
-Zambia 🇿🇲 (w) vs Congo DR 🇨🇩 (w)	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-Zambia 🇿🇲 (w) vs Congo DR 🇨🇩 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4212659/zambia-women-vs-dr-congo-w-07-2025.html
-
-02:00 [l]UEFA European Women's Championship[z]	^-
-Sweden 🇸🇪 (w) vs Germany 🇩🇪 (w)	https://zap-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-Sweden 🇸🇪 (w) vs Germany 🇩🇪 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Sweden 🇸🇪 (w) vs Germany 🇩🇪 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138245/sweden-women-vs-germany-women-07-2025.html
-
-Poland 🇵🇱 (w) vs Denmark 🇩🇰 (w)	https://z.1UK_ITV_4/index.m3u8
-Poland 🇵🇱 (w) vs Denmark 🇩🇰 (w)	https://5.0!TSN_2!.z?7
-Poland 🇵🇱 (w) vs Denmark 🇩🇰 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138246/poland-women-vs-denmark-women-07-2025.html
-
 04:00 [l]Copa América Femenina[z]	^-
 Peru 🇵🇪 (w) vs Chile 🇨🇱 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4217672/peru-w-vs-chile-w-07-2025.html
-
-Cazé TV 1 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
-Fox Sports 2	!yz~b97d13a4-fd30-434e-9e23-2cbd03687c1f.m3u8
-ORF Sport Plus 🇦🇹	https://ac-003.live.p7s1video.net/c8f927b4/t_003/orf-sport-plus-at/cenc-default.mpd!!ba811cbf6c7afe35396453271437e013:b55a91719f41754015edb61f5cd2468c
-Sat 1 🇩🇪	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
 
 ^=	^-
 	^-
@@ -109,7 +87,7 @@ TSN 3 🇨🇦	09!08c00!00/6000003?zyy
 Anhui	https://l.0/AnhuiTV/mpd/AnhuiTV.mpd!!d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
 Animal Planet	https://l.0/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd!!fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 Animax	https://l.0/AnimaxHD/mpd/AnimaxHD.mpd!!ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-Aniplus	01!01fkhano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
+AniPlus	01!01fkhano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
 AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
 ANTV	https://l.0/ANTV/mpd/ANTV.mpd!!b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
