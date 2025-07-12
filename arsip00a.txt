@@ -12,7 +12,10 @@
 13-07-2025	^-
 
 02:00 [l]CAF Women's African Cup of Nations[z]	^-
+Morocco 🇲🇦 (w) vs Senegal 🇸🇳 (w)	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 Morocco 🇲🇦 (w) vs Senegal 🇸🇳 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4212658/morocco-women-vs-senegal-w-07-2025.html
+
+Zambia 🇿🇲 (w) vs Congo DR 🇨🇩 (w)	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 Zambia 🇿🇲 (w) vs Congo DR 🇨🇩 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4212659/zambia-women-vs-dr-congo-w-07-2025.html
 
 02:00 [l]UEFA European Women's Championship[z]	^-
