@@ -23,7 +23,12 @@ Morocco 🇲🇦 (w) vs Senegal 🇸🇳 (w)	`*https://www.fctv33.com/football/c
 Zambia 🇿🇲 (w) vs Congo DR 🇨🇩 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4212659/zambia-women-vs-dr-congo-w-07-2025.html
 
 02:00 [l]UEFA European Women's Championship[z]	^-
+Sweden 🇸🇪 (w) vs Germany 🇩🇪 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Sweden 🇸🇪 (w) vs Germany 🇩🇪 (w)	https://z.1UK_ITV_1/index.m3u8
 Sweden 🇸🇪 (w) vs Germany 🇩🇪 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138245/sweden-women-vs-germany-women-07-2025.html
+
+Poland 🇵🇱 (w) vs Denmark 🇩🇰 (w)	https://z.1UK_ITV_4/index.m3u8
+Poland 🇵🇱 (w) vs Denmark 🇩🇰 (w)	https://5.0!TSN_2!.z?7
 Poland 🇵🇱 (w) vs Denmark 🇩🇰 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138246/poland-women-vs-denmark-women-07-2025.html
 
 04:00 [l]Copa América Femenina[z]	^-
