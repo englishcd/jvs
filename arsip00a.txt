@@ -8,14 +8,6 @@
 	^-
 ^=	^-
 
-12-07-2025	^-
-
-19:30 [y]Indonesian President Cup[z]	^-
-Liga 1 All Star vs Dewa United FC	`0https://6wcp.github.io/p/?id=live
-Liga 1 All Star vs Dewa United FC	`0https://xlz.plcdn.xyz/ajax/chanel/type//1/link/qbzvlrc
-Liga 1 All Star vs Dewa United FC	https://bf.jabflive.com/live/5004240_hd01.m3u8?txSecret=530c81844fea2b374a49ea423e1020dd&txTime=687256cb
-Liga 1 All Star vs Dewa United FC	`*https://www.fctv33.com/football/indonesian-president-cup-match-4223202/indonesia-super-league-all-star-vs-dewa-united-fc-07-2025.html
-
 13-07-2025	^-
 
 02:00 [l]CAF Women's African Cup of Nations[z]	^-
@@ -112,17 +104,13 @@ Aniplus	01!01fkhano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
 AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
 ANTV	https://l.0/ANTV/mpd/ANTV.mpd!!b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
-ANTV	`0https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWn7B5RNPyFgfmBZEZWzBIU0euPvyhNjZzzZ32TdKYw0iN+szaquGwW/g3oNsxpwBRw2ag9SQ+wDniU4C5uCk6ZDujeewfkjcDn+94Vl8QVyhNiMXHTY1JGVnOP7dkldc1/xxNQCVy1CR68tpfvcbEChQdH2ecv8izmjEDDRkmlC7NO78hum5x5JuWsMrlMI5WmRihZKQiBr1NoPjlUHIziHn3ECsAlkA3dp6nbQz/nePOhk4mBIpsetJjZc2opjyuVuVfQD+5yOV3Zg1PRuFfupDoWECbntCG3uJosv9YKBtAdR9mBazJWYIYU9NvTQ4cSt2J24D
 Arirang	https://l.0/ArirangHD/mpd/ArirangHD.mpd!!ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
 Asian Food Network	https://l.0/AFNHD/mpd/AFNHD.mpd!!367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 AXN	https://l.0/AXNHD/mpd/AXNHD.mpd!!b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
 Bahana FM https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 BBC World News	https://l.0/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd!!975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
 Bloomberg	https://l.0/BloombergHD/mpd/BloombergHD.mpd!!aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
-BTV	https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-Cartoon Network	01!01fkhano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 Cartoon Network	https://l.0/CartoonNetWHD/mpd/CartoonNetWHD.mpd!!12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
-Cartoonito	01!01fkhano.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
 Cartoonito	https://l.0/CartoonitoHD/mpd/CartoonitoHD.mpd!!955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 Cartoonito	01!01dstreaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
 CCTV 4	https://l.0/CCTV4/mpd/CCTV4.mpd!!6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
@@ -182,8 +170,8 @@ K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 KBS World	https://l.0/KBSWorldHD/mpd/KBSWorldHD.mpd!!4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
 Kids TV	https://fta3!vfc!9041826689ae4f9c9619576d411fa989/index.mpd!!ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-KIX	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
 KiX	https://l.0/KIXHD/mpd/KIXHD.mpd!!6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
+KIX	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
 Kompas TV	https://l.0/KOMPASTVHD/mpd/KOMPASTVHD.mpd!!a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 Kompas TV https://s7.mbahnunungonline.net/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
@@ -203,13 +191,10 @@ Muhammadiyah TV	https://e.siar.us/live/tvmu.m3u8
 Music TV	https://fta1!vfc!c20d75deb06f401aa89681a9e5054de7/index.mpd!!55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 My Cinema Asia	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
 My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-My Cinema	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31D.m3u8
-My Family Channel	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31f.m3u8
 MyKidz	01!01fkhano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
 Net TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=NET.
 NHK World Japan	https://l.0/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd!!a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
 Nick Jr	https://fta1!vfc!27163af9499b4bcca2da96677b158efe/index.mpd!!c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
-Nusantara TV	https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 ONe	https://l.0/ONEHD/mpd/ONEHD.mpd!!a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 RAI Italia	https://l.0/RaiItalia/mpd/RaiItalia.mpd!!b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
 RCTI	https://fta4!vfc!997ce8767b604fae9fce05379b3b8b3a/index.mpd!!d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
