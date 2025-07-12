@@ -290,6 +290,7 @@ Travel Channel	!yz~c20312cb-10ba-47eb-9441-91d03ef3ef19.m3u8
 USA Network	!yz~594edb0c-896e-4853-b97b-26c3a4f05156.m3u8
 VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
 
+	^-
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 Abu Dhabi Sports 1	https://sps1.starzplayarabia.com/out/v1/41ff8fde1cd84ed5b30ab8198755356b/index.mpd!!b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
 Afro Sport	01!01dnewproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
@@ -1019,10 +1020,6 @@ Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
-
-^=ABC US 7	!yz~196a3d53-fe48-484c-b267-f3f326f8c9e7.m3u8?7
-^=ABC US 4	!yz~196a3d53-fe48-484c-b267-f3f326f8c9e7.m3u8?4
-^=ABC US e	!yz~196a3d53-fe48-484c-b267-f3f326f8c9e7.m3u8?zyy
 
 ^=ID Indosiar	09!09c103.172.71.153:9981/stream/channelid/1185426831?profile=pass?zyy
 ^=+Sport 360	09!09cmedotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/116506
