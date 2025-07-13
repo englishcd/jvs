@@ -11,14 +11,10 @@
 
 13-07-2025	^-
 
-19:30 [y]Indonesian President Cup[z]	^-
-Oxford United vs Port FC	https://hls.uouetrq19.com/live/sd-6MuTMySs1vgey4Pw2F.m3u8?txSecret=927a580585c6ebb71ebb8b3fc211c95d&txTime=6874F713
-Oxford United vs Port FC	`0https://xlz.plcdn.xyz/ajax/chanel/type/7/link/channel17
-Oxford United vs Port FC	`*https://www.fctv33.com/football/indonesian-president-cup-match-4223476/oxford-united-vs-port-fc-07-2025.html
-
 21:00 [y]International Club Friendly[z]	^-
+Preston North End vs Liverpool	https://live.bbapcall.com/live/sd-1-4342815.m3u8?txSecret=14303be107e7b615e30bff58c2af4f3b&txTime=687404C7
+Preston North End vs Liverpool	https://z.1UK_ITV_1/index.m3u8
 Preston North End vs Liverpool	`*https://www.fctv33.com/football/international-club-friendly-match-4193178/preston-north-end-vs-liverpool-07-2025.html
-ITV 1	https://z.1UK_ITV_1/index.m3u8
 
 14-07-2025	^-
 
