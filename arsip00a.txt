@@ -91,7 +91,7 @@ Sky Live Event 5	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-H
 Sky Live Event 6	https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
 
 Diema 1	https://ddy6new.newkso.ru/ddy6/premium482/mono.m3u8?7
-
+Tipik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 Sky Sports Main Event	09!08c00!00/2000001?zyy
 Sky Sports Premier League	09!08c00!00/2000002?zyy
 Sky Sports Football	09!08c00!00/2000003?zyy
@@ -440,6 +440,7 @@ Unifi Sports	https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 Universo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd!!a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
 USA Network East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd!!78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
 USA Network West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd!!333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+Varzesh	https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
 W Sport	https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 Willow Sports	https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd!!1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 XFC MMA	https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
