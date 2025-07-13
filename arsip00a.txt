@@ -19,16 +19,22 @@ Nigeria 🇳🇬 (w) vs Algeria 🇩🇿 (w)	https://fta3!vfc!a265695db5cb461095
 Nigeria 🇳🇬 (w) vs Algeria 🇩🇿 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214588/nigeria-women-vs-algeria-w-07-2025.html
 
 02:00 [l]UEFA European Women's Championship[z]	^-
-England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138334/england-women-vs-wales-women-07-2025.html
+England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	https://z.1UK_ITV_1/index.m3u8
+England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w) vs Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138334/england-women-vs-wales-women-07-2025.html
 
+Netherland 🇳🇱 (w) vs France 🇫🇷 (w)	https://1.0!TSN_1!.z?7
+Netherland 🇳🇱 (w) vs France 🇫🇷 (w)	09!08c00!00/6000001?zyy
 Netherland 🇳🇱 (w) vs France 🇫🇷 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4138336/netherlands-women-vs-france-women-07-2025.html
 
 02:00 [g]Club World Cup[z]	^-
-Chelsea vs Paris Saint Germain	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189030/chelsea-vs-paris-saint-germain-07-2025.html
 Chelsea vs Paris Saint Germain	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 Chelsea vs Paris Saint Germain	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
 Chelsea vs Paris Saint Germain	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+Chelsea vs Paris Saint Germain	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+Chelsea vs Paris Saint Germain	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/LIVE_US_TUDN/tracks-v1a1/mono.ts.m3u8
+Chelsea vs Paris Saint Germain	https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+Chelsea vs Paris Saint Germain	`*https://www.fctv33.com/football/fifa-club-world-cup-match-4189030/chelsea-vs-paris-saint-germain-07-2025.html
 
 04:00 [l]Copa América Femenina[z]	^-
 Bolivia 🇧🇴 (w) vs Paraguay 🇵🇾 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4217706/bolivia-w-vs-paraguay-w-07-2025.html
@@ -305,7 +311,6 @@ Al Arabiya News	https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playli
 Al Hadath News	https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 Bahrain Sports 1 🇧🇭	https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2 🇧🇭	https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-BandSports 🇧🇷	https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.mpd!!74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
 BBC Four	https://livetvde.net/bbcfour/index.m3u8
 BBC One	https://z.1UK_BBC_1/index.m3u8
 BBC Three	https://livetvde.net/bbcthree/index.m3u8
@@ -324,7 +329,8 @@ Cricket	`1https://me.webcric.com/frame1.htm[]`3https://me.webcric.com/frame1.htm
 ČT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 DAZN Combat	https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
 DAZN Women's Football	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
-DFB Play TV	https://jmp2.uk/sam-GB26000118T.m3u8?7
+DFB Play TV	https://d2t2ysriy83qdz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e8pyyaxy3l7mo/4946d50b-adff-4f14-8f27-d0d118c668c9/0.m3u8
+^=DFB Play TV	https://jmp2.uk/sam-GB26000118T.m3u8?7
 Dubai Sport 1 🇦🇪	https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 Dubai Sport 2 🇦🇪	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 Dubai Sport 3 🇦🇪	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
@@ -615,11 +621,11 @@ Action Movies E	i3!0620415?zxz
 	^-
 [l]USA 🇺🇸 Channels[z]	^-
 
-TSN 1	https://5.0!TSN_1!.z?7
-TSN 2	https://5.0!TSN_2!.z?7
-TSN 3	https://5.0!TSN_3!.z?7
+TSN 1	https://1.0!TSN_1!.z?7
+TSN 2	https://1.0!TSN_2!.z?7
+TSN 3	https://1.0!TSN_3!.z?7
 TSN 4	https://5.0!TSN_4!.z?7
-TSN 5	https://5.0!TSN_5!.z?7
+TSN 5	https://1.0!TSN_5!.z?7
 
 ABC East	https://1.0!ABC_EAST!.z?7
 ACC Network	https://1.0!ACC_NETWORK!.z?7
