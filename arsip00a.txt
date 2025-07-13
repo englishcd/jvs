@@ -19,6 +19,9 @@ GolTV	00!0!0/9595?zyy
 ^=[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 	^-
+Jala Live	`0https://m.jalazt54.cc
+
+	^-
 [g]Sport TV Channels ID[z]	^-
 
 Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
@@ -984,7 +987,6 @@ Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
 
-^=Jala Mobile	`0https://m.jalazt54.cc
 ^=ID Indosiar	09!09c103.172.71.153:9981/stream/channelid/1185426831?profile=pass?zyy
 ^=+Sport 360	09!09cmedotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/116506
 ^=TSN 2 🇨🇦	09!08c00!00/6000002?zyy
