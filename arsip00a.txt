@@ -1030,23 +1030,10 @@ Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gru
 ^=Live 17	`0https://xlz.plcdn.xyz/ajax/chanel/type/7/link/channel17
 ^=Live Ch2	`0https://6wcp.github.io/p/?id=live
 
-^=🇩🇪 SportDigital Fussball a	09!09aodm391.xyz:80/443432469215731/4362020837/278409?zyy
-^=🇩🇪 SportDigital Fussball b	09!09bodm391.xyz:80/443432469215731/4362020837/278409?zyy
-^=🇩🇪 SportDigital Fussball c	09!09codm391.xyz:80/443432469215731/4362020837/278409?zyy
-
-^=GolTV a	09!09atv.masterplaytv.club:8080/userrith1/gP8NaAB9fE/9595?zyy
-^=GolTV b	09!09btv.masterplaytv.club:8080/userrith1/gP8NaAB9fE/9595?zyy
-^=GolTV c	09!09ctv.masterplaytv.club:8080/userrith1/gP8NaAB9fE/9595?zyy
-
-^=🇺🇸 Fox Soccer Plus a	09!09amu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/29695?zyy
-^=🇺🇸 Fox Soccer Plus b	09!09bmu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/29695?zyy
-^=🇺🇸 Fox Soccer Plus c	09!09cmu3241218.oknirvana.club:8880/DAANM2992/XrC8FuVqHm/29695?zyy
-
 ^=soccerdoge.com	`0https://soccerdoge.com/
 ^=soccer-100.net	`0https://soccer-100.net/
 ^=[l]Huhu.To[z]	`0https://huhu.to/
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
-^=[l]NetPlay Volleyball[z] Nonton Voli	`0https://nontonvoli.blogspot.com/
 ^=asportshd	`0https://stream.crichd.sc/update/asportshd.php
 	^-
