@@ -19,6 +19,7 @@ GolTV	00!0!0/9595?zyy
 ^=[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 	^-
+Volleyball Live	https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jrb5L5Cr/live.isml/.m3u8
 Jala Live	`0https://m.jalazt54.cc
 
 	^-
