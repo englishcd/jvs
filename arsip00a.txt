@@ -2,6 +2,38 @@
 🌐 [y]Join Our Telegram Channel:[z] [g]ontvr.blogspot.com[z]	^+https://t.me/s/ontvr_blogspot_com
 [g]{s} Ⓗa0 Live Sports Events[z]	^-
 
+[y]Live Football Events[z]	^-
+
+	^-
+[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z][][w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]	^-
+	^-
+^=	^-
+
+15-07-2025	^-
+
+02:00 DAZN Transfer by Fabrizio Romano[z]	^-
+DAZN Transfer by Fabrizio Romano	`*https://www.fctv33.com/football/dazn-transfer-by-fabrizio-romano-match-4224837/dazn-transfer-by-fabrizio-romano-07-2025.html
+
+02:00 [l]CAF Women's African Cup of Nations[z]	^-
+Ghana 🇬🇭 (w) vs Tanzania 🇹🇿 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214663/ghana-w-vs-tanzania-w-07-2025.html
+South Africa 🇿🇦 (w) vs Mali 🇲🇱 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214665/south-africa-women-vs-mali-w-07-2025.html
+
+14:00 [l]EAFF E-1 Football Championship[z]	^-
+China 🇨🇳 vs Hong Kong 🇭🇰	`*https://www.fctv33.com/football/eaff-e-1-football-championship-match-4187953/china-vs-hong-kong-07-2025.html
+
+17:00 [l]AFF U22Youth Championship[z]	^-
+Malaysia 🇲🇾 U23 vs Philippines 🇵🇭 U23	`*https://www.fctv33.com/football/aff-u22youth-championship-match-4219005/malaysia-u23-vs-philippines-u23-07-2025.html
+
+17:24 [l]EAFF E-1 Football Championship[z]	^-
+South Korea 🇰🇷 vs Japan 🇯🇵	`*https://www.fctv33.com/football/eaff-e-1-football-championship-match-4187952/south-korea-vs-japan-07-2025.html
+
+20:00 [l]AFF U22Youth Championship[z]	^-
+Indonesia 🇮🇩 vs Brunei Darussalam 🇧🇳	`*https://www.fctv33.com/football/aff-u22youth-championship-match-4219007/indonesia-u23-vs-brunei-darussalam-u23-07-2025.html
+
+^=	^-
+	^-
+[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z][][w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]	^-
+
 	^-
 🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
 [l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
@@ -14,9 +46,9 @@
 GolTV	00!0!0/9595?zyy
 [y]Sports & TV[z] [l]PlayList[z] #1	^^h10
 
-^=	^-
-^=🇺🇸 Fox Soccer Plus	00!0!1/29695?zyy
-^=[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
+	^-
+🇺🇸 Fox Soccer Plus	00!0!1/50616?zyy
+[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 	^-
 Volleyball Live	https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jrb5L5Cr/live.isml/.m3u8
@@ -946,12 +978,12 @@ Playlist [y]Main Menu[z]	^^szz
 	^-
 [w]Live Sport OnTime Channels[z]	^-
 
-Sony Sports 1	https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-Sony Sports 2	https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-Sony Sports 3	https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-Sony Sports 4	https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-Sony Sports 5	https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-Sony Pix	https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+Sony Sports 1	09!08ctataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+Sony Sports 2	09!08ctataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+Sony Sports 3	09!08ctataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+Sony Sports 4	09!08ctataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+Sony Sports 5	09!08ctataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+Sony Pix	09!08ctataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 Sony Pix	https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
 
 Canal Plus Sport 1	09!09a116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
