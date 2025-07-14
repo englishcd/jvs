@@ -14,12 +14,11 @@
 02:00 DAZN Transfer by Fabrizio Romano[z]	^-
 DAZN Transfer by Fabrizio Romano	`*https://www.fctv33.com/football/dazn-transfer-by-fabrizio-romano-match-4224837/dazn-transfer-by-fabrizio-romano-07-2025.html
 
-02:00 [l]CAF Women's African Cup of Nations[z]	^-
-Ghana 🇬🇭 (w) vs Tanzania 🇹🇿 (w)	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-Ghana 🇬🇭 (w) vs Tanzania 🇹🇿 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214663/ghana-w-vs-tanzania-w-07-2025.html
-
-South Africa 🇿🇦 (w) vs Mali 🇲🇱 (w)	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+South Africa 🇿🇦 (w) vs Mali 🇲🇱 (w)	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 South Africa 🇿🇦 (w) vs Mali 🇲🇱 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214665/south-africa-women-vs-mali-w-07-2025.html
+
+02:00 [l]CAF Women's African Cup of Nations[z]	^-
+Ghana 🇬🇭 (w) vs Tanzania 🇹🇿 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4214663/ghana-w-vs-tanzania-w-07-2025.html
 
 14:00 [l]EAFF E-1 Football Championship[z]	^-
 China 🇨🇳 vs Hong Kong 🇭🇰	`*https://www.fctv33.com/football/eaff-e-1-football-championship-match-4187953/china-vs-hong-kong-07-2025.html
