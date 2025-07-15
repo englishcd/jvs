@@ -11,16 +11,9 @@
 
 15-07-2025	^-
 
-17:00 [l]AFF U22Youth Championship[z]	^-
-Malaysia 🇲🇾 U23 vs Philippines 🇵🇭 U23	https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd!!af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-Malaysia 🇲🇾 U23 vs Philippines 🇵🇭 U23	https://hls.uouetrq19.com/live/sd-6MuSNPUZhrda9HeUG7.m3u8?txSecret=293ab4807912a6393743dcb20b379fa0&txTime=687778E5
-Malaysia 🇲🇾 U23 vs Philippines 🇵🇭 U23	`0https://librani.govoet.my.id/?id=event1
-Malaysia 🇲🇾 U23 vs Philippines 🇵🇭 U23	09!08dlive1.pro2cdnlive.com/live/channel4.flv?wsSecret=2ea2cabbb3270144443bab781f050ef3&wsABSTime=1752617451
-Malaysia 🇲🇾 U23 vs Philippines 🇵🇭 U23	`*https://www.fctv33.com/football/aff-u22youth-championship-match-4219005/malaysia-u23-vs-philippines-u23-07-2025.html
-
 17:24 [l]EAFF E-1 Football Championship[z]	^-
-South Korea 🇰🇷 vs Japan 🇯🇵	https://mje1.dbcast.live/yyWMkPD0-oq11eGD5PsKmw/1752603869/323030313a343438613a313161313a313639653a323135623a353533383a616436643a62383064/ff803/playlist.m3u8?b=1
 South Korea 🇰🇷 vs Japan 🇯🇵	https://hls.uouetrq19.com/live/hd-en-6MuSNZCbqKRAhPeAes.m3u8?txSecret=f314916dddf872553376d20aefa704ba&txTime=68777D94
+South Korea 🇰🇷 vs Japan 🇯🇵	09!08bmje1.dbcast.live/yyWMkPD0-oq11eGD5PsKmw/1752603869/323030313a343438613a313161313a313639653a323135623a353533383a616436643a62383064/ff803/playlist.m3u8?b=1
 South Korea 🇰🇷 vs Japan 🇯🇵	`*https://www.fctv33.com/football/eaff-e-1-football-championship-match-4187952/south-korea-vs-japan-07-2025.html
 
 20:00 [l]AFF U22Youth Championship[z]	^-
