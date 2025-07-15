@@ -399,6 +399,7 @@ Shahid Movies Action	https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8
 Shahid Movies Thriller	https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 Shahid Shows	https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 Sky Sport F1	09!08clinear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/index_stereo.mpd!!000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
+
 Sky Sports Arena	https://z.1UK_SKY_SPORTS_ARENA/index.m3u8
 Sky Sports Main Event	https://z.1UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
 Sky Sports Mix	https://z.1UK_SKY_SPORTS_MIX/index.m3u8
@@ -438,6 +439,9 @@ TNT Sports 1	https://z.1UK_TNT_SPORTS_1/index.m3u8
 TNT Sports 2	https://z.1UK_TNT_SPORTS_2/index.m3u8
 TNT Sports 3	https://z.1UK_TNT_SPORTS_3/index.m3u8
 TNT Sports 4	https://z.1UK_TNT_SPORTS_4/index.m3u8
+Arena Sport 1	https://z.1LIVE_Arena_Sport_1_FHD/index.m3u8
+Live S4C 🇬🇧	https://z.1live_event_uk_s4c/index.m3u8
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_s4c/index.m3u8
 TV 5 Monde	https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 Unifi Sports	https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 Universo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd!!a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
