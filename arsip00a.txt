@@ -12,6 +12,8 @@
 15-07-2025	^-
 
 17:00 [l]AFF U22Youth Championship[z]	^-
+Malaysia 🇲🇾 U23 vs Philippines 🇵🇭 U23	https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd!!af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+Malaysia 🇲🇾 U23 vs Philippines 🇵🇭 U23	https://hls.uouetrq19.com/live/sd-6MuSNPUZhrda9HeUG7.m3u8?txSecret=293ab4807912a6393743dcb20b379fa0&txTime=687778E5
 Malaysia 🇲🇾 U23 vs Philippines 🇵🇭 U23	`0https://librani.govoet.my.id/?id=event1
 Malaysia 🇲🇾 U23 vs Philippines 🇵🇭 U23	https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=2ea2cabbb3270144443bab781f050ef3&wsABSTime=1752617451
 Malaysia 🇲🇾 U23 vs Philippines 🇵🇭 U23	`*https://www.fctv33.com/football/aff-u22youth-championship-match-4219005/malaysia-u23-vs-philippines-u23-07-2025.html
