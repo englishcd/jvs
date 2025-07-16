@@ -714,56 +714,11 @@ World Fishing Network	https://1.0!WORLD_FISHING_NETWORK!.z?7
 Yes Network	https://1.0!YES_NETWORK!.z?7
 
 	^-
-[w]AU 🇦🇺 & NZ 🇳🇿 Channels[z]	^-
-
-24/7 60 Minutes Australia	https://i.mjh.nz/.r/event-clt27ftj2001p0glt8zvyd8rb-FAST.m3u8
-24/7 Dance Moms (AU)	https://i.mjh.nz/.r/event-clso16reh001a0iqfl2app9rv-FAST.m3u8
-24/7 Deadliest Catch (NZ)	https://i.mjh.nz/.r/discovery-fast2.m3u8
-24/7 House Hunters (NZ)	https://i.mjh.nz/.r/discovery-fast6.m3u8
-24/7 Married At First Sight USA (AU)	https://i.mjh.nz/.r/event-clt2744p0001f0ipni1y6lkro-FAST.m3u8
-24/7 Motorheads (NZ)	https://i.mjh.nz/.r/discovery-fast1.m3u8
-24/7 Paranormal (NZ)	https://i.mjh.nz/.r/discovery-fast5.m3u8
-24/7 Seinfeld (AU)	https://i.mjh.nz/.r/event-cloq8wdbu000x0qqslcqipwhk-FAST.m3u8
-24/7 S D Presents The Joker's Wild (AU)	https://i.mjh.nz/.r/event-cljz0ychm00000jo17k66q6f5-FAST.m3u8
-24/7 The Graham Norton Show	https://i.mjh.nz/.r/10-grahamnorton.m3u8
-24/7 The Lake Erie Murders (AU)	https://i.mjh.nz/.r/event-clt26y7j1001d0go61g4sxw6u-FAST.m3u8
-24/7 True Crime (NZ)	https://i.mjh.nz/.r/discovery-fast4.m3u8
-24/7 West Family Sagas (NZ)	https://i.mjh.nz/.r/discovery-fast7.m3u8
-24/7 Prisoner (AU)	https://i.mjh.nz/.r/10-prisoner.m3u8
-24/7 The Block (AU)	https://i.mjh.nz/.r/event-clydot09500020ht6tnwdpbth-FAST.m3u8
-ABC Kids (AU)	https://c.mjh.nz/abc-kids.m3u8
-ABC Me	https://c.mjh.nz/abc-me.m3u8
-ABC News (AU)	https://c.mjh.nz/abc-news.m3u8
-ABC TV Adelaide	https://c.mjh.nz/abc-sa.m3u8
-ABC TV Brisbane	https://c.mjh.nz/abc-qld.m3u8
-ABC TV Canberra	https://c.mjh.nz/abc-act.m3u8
-ABC TV Hobart	https://c.mjh.nz/abc-tas.m3u8
-ABC TV Melbourne	https://c.mjh.nz/abc-vic.m3u8
-ABC TV Perth	https://c.mjh.nz/abc-wa.m3u8
-ABC TV Plus	https://c.mjh.nz/abc-tv-plus.m3u8
-ABC TV Sydney	https://c.mjh.nz/abc-nsw.m3u8
-Al Jazeera (NZ)	https://i.mjh.nz/.r/al-jazeera.m3u8
-AusBiz (AU)	https://i.mjh.nz/.r/ausbiz-FAST.m3u8
-Bloomberg TV (AU)	https://i.mjh.nz/.r/bloomberg-tv.m3u8
-CH200 (NZ)	https://i.mjh.nz/.r/ch200.m3u8
-Channel 31 Melbourne	https://i.mjh.nz/.r/c31.m3u8
-Channel 44 Adelaide	https://i.mjh.nz/.r/c44.m3u8
-Channel News Asia (CNA)	https://i.mjh.nz/.r/channel-news-asia.m3u8
-CNN Fast (NZ)	https://i.mjh.nz/.r/discovery-ptcn.m3u8
-HGTV (NZ)	https://i.mjh.nz/.r/discovery-hgtv.m3u8
-MovieSphere (NZ)	https://i.mjh.nz/.r/discovery-ptms.m3u8
-Parliament TV (NZ)	https://i.mjh.nz/.r/parliament-tv.m3u8
-Redbull TV	https://i.mjh.nz/.r/redbull-tv.m3u8
-Sky News Now (AU)	https://i.mjh.nz/.r/sky-news-now.m3u8
-TVSN Shopping (AU)	https://i.mjh.nz/.r/tvsn-shopping-au.m3u8
-
-	^-
 👉[l]{h} Ⓟc12[z] All Pluto TV Channels👈	^^h12
 
 	^-
 [w]Pluto TV[z]	^-
 
-16 & Pregnant	PlutoTV/62d556fe2888ce000764b3fa
 48 Hours	PlutoTV/6299e5afdd5833000727e795
 5 Britain at War	PlutoTV/625e8cb585ef320007806caf
 5 Cops	PlutoTV/5d2c571faeb3e2738ae27933
@@ -778,7 +733,6 @@ Arthur	PlutoTV/62556bfa3261a300076b0baa
 Auction Hunters	PlutoTV/62ac50e92c48f900071444c9
 Barney & Friends	PlutoTV/62ac405b3874370007419b7f
 BET Pluto TV	PlutoTV/604f8f8622166000071a929f
-Beverly Hillbillies	PlutoTV/5db81695a95186000941ee8b
 Beyond Belief: Fact or Fiction	PlutoTV/611f85396abc84000738417b
 Bloomberg TV	PlutoTV/61559552dd585f0007321eca
 Catfish	PlutoTV/625eaebc2a73a00007d3f855
@@ -793,11 +747,8 @@ Dog Whisperer	PlutoTV/60e453641239a700071f53a1
 Duck Dynasty	PlutoTV/5f6b54b9e67cf60007d4cef1
 Euronews	PlutoTV/5ca1da6c593a5d78f0e7edce
 FailArmy	PlutoTV/5ad8d883e738977e2c31096b
-Family Ties	PlutoTV/620bb260821a860007b2d3df
 FBI Files	PlutoTV/5cb6f6f9a461406ffe4022cf
-Fifth Gear	PlutoTV/5ca1de9208ee5378be82db3b
 Full Custom Garage	PlutoTV/5e78faa05a0e200007a6f487
-Garfield & Friends	PlutoTV/62a069bfd88ef000073f6775
 Get.factual	PlutoTV/5dc2a69bc928a600093a7976
 Ghost Hunters	PlutoTV/5f27bbe4779de70007a6d1c1
 Haunt TV	PlutoTV/6319f06067a3ee000708af95
@@ -829,11 +780,9 @@ On The Case	PlutoTV/615af74dfe3d8e0007524511
 Paranormal State	PlutoTV/60804d85858bd00007c5d591
 Pluto TV Action	PlutoTV/5dbfeb961b411c00090b52b3
 Pluto TV Action	PlutoTV/64b67593798def00088e506e
-Pluto TV Adventure	PlutoTV/623464d7185bef0007e337c0
 Pluto TV Alien Invasion	PlutoTV/6462190b7cb4b1000862dd60
 Pluto TV Animals	PlutoTV/5ddf8ea0d000120009bcad83
 Pluto TV Animation	PlutoTV/612f761008a9e50007984ba0
-Pluto TV Big Builds	PlutoTV/63d91cf54e83e7000881ca1c
 Pluto TV Classic TV	PlutoTV/5d134a74ca91eedee1630faa
 Pluto TV Comedy Movies	PlutoTV/5c363c2411c5ca053f198f97
 Pluto TV Conspiracy	PlutoTV/5d4ae94ef1a1bbb350ca41bb
@@ -842,14 +791,12 @@ Pluto TV Crime	PlutoTV/5d767790d0438aceb41d03ae
 Pluto TV Crime+	PlutoTV/5bd8371b1843b56328bac33d
 Pluto TV Cult Films	PlutoTV/5c5c31f2f21b553c1f673fb0
 Pluto TV Family Movie Club	PlutoTV/5dc3fc6b9133f500099c7d98
-Pluto TV Fishing	PlutoTV/5d4af39510fd17b31a528eda
 Pluto TV Food	PlutoTV/5ddf930548ff9b00090d5686
 Pluto TV History	PlutoTV/5d4af1803e7983b391d73b13
 Pluto TV Horror	PlutoTV/612cda102f5f18000705e0bf
 Pluto TV Inside+	PlutoTV/5bb5c137fd5928058cd3a21f
 Pluto TV Investigation	PlutoTV/63808dc806aa4700075f319a
 Pluto TV Kids	PlutoTV/5ad8d54be738977e2c310940
-Pluto TV Motor	PlutoTV/5db0510962948d000961d3c6
 Pluto TV Motor+	PlutoTV/5f3d26ac23a7c800073f128a
 Pluto TV Movies	PlutoTV/5ad8d3a31b95267e225e4e09
 Pluto TV Paranormal	PlutoTV/5d4af2ffa9506ab29cf38c38
@@ -881,7 +828,6 @@ Voyager Documentaries	PlutoTV/5ad8d1e9e738977e2c310925
 Wicked Tuna	PlutoTV/63693fa2bfa0690007ebc880
 Wild at Heart	PlutoTV/60817936fd2d70000763d2b2
 World War TV	PlutoTV/6319ee0cf78bb10007ee5e6b
-World's Greatest	PlutoTV/625567abd664ea0007605f34
 UKTV Play Full Throttle	PlutoTV/64c0d6765dc1660008a3e033
 UKTV Play Heroes	PlutoTV/64c0d6b424ade50008bc8883
 UKTV Play Laughs	PlutoTV/64c0d6f34096290008132d6b
