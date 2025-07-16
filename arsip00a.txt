@@ -12,16 +12,16 @@
 
 17-07-2025	^-
 
-02:00 [l]UEFA European Women's Championship[z]	^-
-Norway 🇳🇴 (w) vs Italy 🇮🇹 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Norway 🇳🇴 (w) vs Italy 🇮🇹 (w)	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-Norway 🇳🇴 (w) vs Italy 🇮🇹 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4224026/norway-women-vs-italy-women-07-2025.html
-
 04:00 [l]Copa América Femenina[z]	^-
 Bolivia 🇧🇴 (w) vs Brazil 🇧🇷 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4222862/bolivia-w-vs-brazil-women-07-2025.html
 
 07:00 [l]Copa América Femenina[z]	^-
 Venezuela 🇻🇪 (w) vs Colombia 🇨🇴 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4222895/venezuela-w-vs-colombia-women-07-2025.html
+
+18-07-2025	^-
+
+02:00 [l]UEFA European Women's Championship[z]	^-
+Sweden 🇸🇪 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4224637/sweden-women-vs-england-women-07-2025.html
 
 ^=	^-
 	^-
@@ -370,7 +370,7 @@ USA Network West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/
 Varzesh	https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
 W Sport	https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 Willow Sports	https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd!!1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-XFC MMA	https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+							//b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
 Ziggo Sport 1 Variety	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Ziggo Sport 2 Football	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 Ziggo Sport 3 F1	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
