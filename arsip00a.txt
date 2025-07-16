@@ -10,15 +10,11 @@
 	^-
 ^=	^-
 
-16-07-2025	^-
-
-20:00 [l]AFF U23Youth Championship[z]	^-
-Myanmar 🇲🇲 U23 vs Timor Leste 🇹🇱 U23	https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd!!af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-Myanmar 🇲🇲 U23 vs Timor Leste 🇹🇱 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4220506/myanmar-u23-vs-timor-leste-u23-07-2025.html
-
 17-07-2025	^-
 
 02:00 [l]UEFA European Women's Championship[z]	^-
+Norway 🇳🇴 (w) vs Italy 🇮🇹 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Norway 🇳🇴 (w) vs Italy 🇮🇹 (w)	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 Norway 🇳🇴 (w) vs Italy 🇮🇹 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4224026/norway-women-vs-italy-women-07-2025.html
 
 04:00 [l]Copa América Femenina[z]	^-
@@ -254,7 +250,7 @@ Cazé TV 1 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/d
 Cazé TV 2 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/out/v1/74eba8f71bf14154ac3a9491371a6628/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!d1cc74a5123cb29f0ec0bc40d6c2f270:a5ed8184ee98c3f0a3c261129c8d6e8b
 Channel 4 🇬🇧	https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd!!0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 Cricket	`1https://me.webcric.com/frame1.htm[]`3https://me.webcric.com/frame1.htm
-ČT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+CT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 DAZN Combat	https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
 DAZN Women's Football	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
 DFB Play TV	https://d2t2ysriy83qdz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e8pyyaxy3l7mo/4946d50b-adff-4f14-8f27-d0d118c668c9/0.m3u8
@@ -304,6 +300,7 @@ One Sports Plus	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesport
 One Sports	https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd!!53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 ORF Sport Plus 🇦🇹	https://ac-003.live.p7s1video.net/c8f927b4/t_003/orf-sport-plus-at/cenc-default.mpd!!ba811cbf6c7afe35396453271437e013:b55a91719f41754015edb61f5cd2468c
 Persiana	https://spstr.abntv.live/hls/psstream.m3u8
+Persiana	https://tv.sainaertebat.com/hls2/persiana.m3u8
 Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd!!002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 Premiere 🇧🇷	i3!16/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd!!d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 Racing TV	https://z.1UK_RACING_TV/index.m3u8
@@ -365,9 +362,6 @@ TNT Sports 1	https://z.1UK_TNT_SPORTS_1/index.m3u8
 TNT Sports 2	https://z.1UK_TNT_SPORTS_2/index.m3u8
 TNT Sports 3	https://z.1UK_TNT_SPORTS_3/index.m3u8
 TNT Sports 4	https://z.1UK_TNT_SPORTS_4/index.m3u8
-Arena Sport 1	https://z.1LIVE_Arena_Sport_1_FHD/index.m3u8
-Live S4C 🇬🇧	https://z.1live_event_uk_s4c/index.m3u8
-https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_s4c/index.m3u8
 TV 5 Monde	https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 Unifi Sports	https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 Universo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd!!a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
@@ -382,7 +376,13 @@ Ziggo Sport 2 Football	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-
 Ziggo Sport 3 F1	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 Ziggo Sport 5 Football	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,!!3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
 Ziggo Sport 6 Golf	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,!!1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
-
+beIN TV 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
+beIN 1 PL	https://wo.cma.footballii.ir/hls2/b1_src.m3u8
+^=Arena Sport 1	https://z.1LIVE_Arena_Sport_1_FHD/index.m3u8
+^=Live S4C 🇬🇧	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_s4c/index.m3u8
+^=Live ESPN 1 🇳🇱	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
+^=Live LaLiga	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_laliga_tv/index.m3u8
+^=Live Fox Deportes US	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/US_FOX_DEPORTES/index.m3u8
 FIFA+ 🇦🇹	https://jmp2.uk/sam-ATBA3300007PT.m3u8?7
 FIFA+ 🇨🇦	https://jmp2.uk/sam-CABD1200008JG.m3u8?7
 FIFA+ 🇨🇭	https://jmp2.uk/sam-CHBA3300010UC.m3u8?7
