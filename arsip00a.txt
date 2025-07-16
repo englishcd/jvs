@@ -13,12 +13,14 @@
 16-07-2025	^-
 
 17:00 [l]AFF U23Youth Championship[z]	^-
+Cambodia 🇰🇭 U23 vs Laos 🇱🇦 U23	https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd!!af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
 Cambodia 🇰🇭 U23 vs Laos 🇱🇦 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4220503/cambodia-u23-vs-laos-u23-07-2025.html
 
 17:30 [l]EAFF E-1 Women's Championship[z]	^-
 South Korea 🇰🇷 vs Chinese Taipei 🇹🇼	`*https://www.fctv33.com/football/eaff-e-1-womens-football-championship-match-4187655/south-korea-women-vs-chinese-taipei-women-07-2025.html
 
 20:00 [l]AFF U23Youth Championship[z]	^-
+Myanmar 🇲🇲 U23 vs Timor Leste 🇹🇱 U23	https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd!!af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
 Myanmar 🇲🇲 U23 vs Timor Leste 🇹🇱 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4220506/myanmar-u23-vs-timor-leste-u23-07-2025.html
 
 17-07-2025	^-
