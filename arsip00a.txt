@@ -12,9 +12,6 @@
 
 16-07-2025	^-
 
-04:00 [l]Copa América Femenina[z]	^-
-Uruguay 🇺🇾 (w) vs Argentina 🇦🇷 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4218804/uruguay-w-vs-argentina-women-07-2025.html
-
 07:00 [l]Copa América Femenina[z]	^-
 Peru 🇵🇪 (w) vs Ecuador 🇪🇨 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4218803/peru-w-vs-ecuador-w-07-2025.html
 
@@ -40,6 +37,12 @@ Myanmar 🇲🇲 U23 vs Timor Leste 🇹🇱 U23	`*https://www.fctv33.com/footba
 
 02:00 [l]UEFA European Women's Championship[z]	^-
 Norway 🇳🇴 (w) vs Italy 🇮🇹 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4224026/norway-women-vs-italy-women-07-2025.html
+
+04:00 [l]Copa América Femenina[z]	^-
+Bolivia 🇧🇴 (w) vs Brazil 🇧🇷 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4222862/bolivia-w-vs-brazil-women-07-2025.html
+
+07:00 [l]Copa América Femenina[z]	^-
+Venezuela 🇻🇪 (w) vs Colombia 🇨🇴 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4222895/venezuela-w-vs-colombia-women-07-2025.html
 
 ^=	^-
 	^-
