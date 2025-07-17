@@ -15,6 +15,12 @@
 02:00 [l]UEFA European Women's Championship[z]	^-
 Sweden 🇸🇪 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4224637/sweden-women-vs-england-women-07-2025.html
 
+17:00 [l]AFF U23 Youth Championship[z]	^-
+Brunei Darussalam 🇧🇳 vs Malaysia 🇲🇾	https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd!!af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+
+20:00 [l]AFF U23 Youth Championship[z]	^-
+Philippines 🇵🇭 vs Indonesia 🇮🇩	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+
 ^=	^-
 	^-
 **[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
@@ -51,7 +57,6 @@ beIN Sports ID 2	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d
 beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
 beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-ID Moji	https://l.0/MOJIOChannel/mpd/MOJIOChannel.mpd!!052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 	^-
@@ -945,6 +950,7 @@ Lifestyle	https://l.0/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd!!c45d2c72ab7e41f
 Lifetime	https://l.0/LifetimeHD/mpd/LifetimeHD.mpd!!2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
 Love Nature	https://l.0/LoveNatureHD/mpd/LoveNatureHD.mpd!!8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
 Metro TV	https://l.0/MetroTVHD/mpd/MetroTVHD.mpd!!66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+Moji	https://l.0/MOJIOChannel/mpd/MOJIOChannel.mpd!!052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 MTV 90's	https://l.0/MTV90sHD/mpd/MTV90sHD.mpd!!e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
 MTV Live	https://l.0/MTVLiveHD/mpd/MTVLiveHD.mpd!!fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 NHK World Japan	https://l.0/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd!!a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
