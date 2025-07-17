@@ -14,7 +14,7 @@
 
 02:00 [l]UEFA European Women's Championship[z]	^-
 Sweden 🇸🇪 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Sweden 🇸🇪 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+Sweden 🇸🇪 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	BBC One	https://z.1UK_BBC_1/index.m3u8
 Sweden 🇸🇪 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4224637/sweden-women-vs-england-women-07-2025.html
 
 17:00 [l]AFF U23 Youth Championship[z]	^-
@@ -23,6 +23,7 @@ Brunei Darussalam 🇧🇳 vs Malaysia 🇲🇾	`*https://www.fctv33.com/footbal
 
 20:00 [l]AFF U23 Youth Championship[z]	^-
 Philippines 🇵🇭 vs Indonesia 🇮🇩	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+Philippines 🇵🇭 vs Indonesia 🇮🇩	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4224080/philippines-u23-vs-indonesia-u23-07-2025.html
 
 ^=	^-
 	^-
@@ -235,9 +236,9 @@ Al Arabiya News	https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playli
 Al Hadath News	https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 Bahrain Sports 1 🇧🇭	https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2 🇧🇭	https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-BBC Four	https://livetvde.net/bbcfour/index.m3u8
 BBC One	https://z.1UK_BBC_1/index.m3u8
 BBC Three	https://livetvde.net/bbcthree/index.m3u8
+BBC Four	https://livetvde.net/bbcfour/index.m3u8
 beIN Sports 1 🇦🇺	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd!!f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
 beIN Sports 2 🇦🇺	https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd!!9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
 beIN Sports 3 🇦🇺	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
