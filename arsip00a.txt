@@ -10,14 +10,6 @@
 	^-
 ^=	^-
 
-17-07-2025	^-
-
-04:00 [l]Copa América Femenina[z]	^-
-Bolivia 🇧🇴 (w) vs Brazil 🇧🇷 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4222862/bolivia-w-vs-brazil-women-07-2025.html
-
-07:00 [l]Copa América Femenina[z]	^-
-Venezuela 🇻🇪 (w) vs Colombia 🇨🇴 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4222895/venezuela-w-vs-colombia-women-07-2025.html
-
 18-07-2025	^-
 
 02:00 [l]UEFA European Women's Championship[z]	^-
