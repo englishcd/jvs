@@ -14,7 +14,7 @@
 
 02:00 [l]UEFA European Women's Championship[z]	^-
 Sweden 🇸🇪 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Sweden 🇸🇪 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	BBC One	https://z.1UK_BBC_1/index.m3u8
+Sweden 🇸🇪 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	https://z.1UK_BBC_1/index.m3u8
 Sweden 🇸🇪 (w) vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4224637/sweden-women-vs-england-women-07-2025.html
 
 17:00 [l]AFF U23 Youth Championship[z]	^-
