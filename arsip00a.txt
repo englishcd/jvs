@@ -12,12 +12,8 @@
 
 18-07-2025	^-
 
-17:00 [l]AFF U23 Youth Championship[z]	^-
-Brunei Darussalam 🇧🇳 vs Malaysia 🇲🇾	https://pull.chaojiumq.com/live/sd-1-4337620.m3u8?txSecret=b354614036bc1b755b7b53d606d4e0b9&txTime=687a1b3a?7
-Brunei Darussalam 🇧🇳 vs Malaysia 🇲🇾	https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd!!af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-Brunei Darussalam 🇧🇳 vs Malaysia 🇲🇾	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4224079/brunei-darussalam-u23-vs-malaysia-u23-07-2025.html
-
 20:00 [l]AFF U23 Youth Championship[z]	^-
+Philippines 🇵🇭 vs Indonesia 🇮🇩	`0https://www.957001.tv/live/1572
 Philippines 🇵🇭 vs Indonesia 🇮🇩	`0https://live.samuraitv.biz.id/p/blog-page_11.html
 Philippines 🇵🇭 vs Indonesia 🇮🇩	`0https://streaming.sportsnews.id/p/ch6.html
 Philippines 🇵🇭 vs Indonesia 🇮🇩	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
