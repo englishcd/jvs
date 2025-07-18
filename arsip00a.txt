@@ -10,18 +10,7 @@
 	^-
 ^=	^-
 
-18-07-2025	^-
-
-23:00 [l]CAF Women's African Cup of Nations[z]	^-
-Nigeria 🇳🇬 (w) vs Zambia 🇿🇲 (w)	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-Nigeria 🇳🇬 (w) vs Zambia 🇿🇲 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4226938/nigeria-women-vs-zambia-women-07-2025.html
-
 19-07-2025	^-
-
-02:00 [l]UEFA European Women's Championship[z]	^-
-Spain 🇪🇸 (w) vs Switzerland 🇨🇭 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Spain 🇪🇸 (w) vs Switzerland 🇨🇭 (w)	https://zap-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-Spain 🇪🇸 (w) vs Switzerland 🇨🇭 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4224025/spain-women-vs-switzerland-women-07-2025.html
 
 04:00 [l]Copa América Femenina[z]	^-
 Uruguay 🇺🇾 (w) vs Peru 🇵🇪 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4218802/uruguay-w-vs-peru-w-07-2025.html
@@ -981,6 +970,7 @@ Zhejiang	https://l.0/ZhejiangTV/mpd/ZhejiangTV.mpd!!d397670017d94f648f4942d3f35b
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
 
+^=Test SB	`0https://masjid--nurul-iman.blogspot.com/
 ^=ID Indosiar	09!09c103.172.71.153:9981/stream/channelid/1185426831?profile=pass?zyy
 ^=+Sport 360	09!09cmedotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/116506
 ^=TSN 2 🇨🇦	09!08c00!00/6000002?zyy
