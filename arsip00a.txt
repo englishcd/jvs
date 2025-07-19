@@ -14,6 +14,7 @@
 
 02:00 [l]UEFA European Women's Championship[z]	^-
 France 🇫🇷 (w) vs Germany 🇩🇪 (w)	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+France 🇫🇷 (w) vs Germany 🇩🇪 (w) 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 France 🇫🇷 (w) vs Germany 🇩🇪 (w)	https://zap-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
 France 🇫🇷 (w) vs Germany 🇩🇪 (w) 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 France 🇫🇷 (w) vs Germany 🇩🇪 (w) 🇬🇧	https://z.1UK_ITV_1/index.m3u8
@@ -290,6 +291,7 @@ NBC Sports	https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef
 NBC Sports	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd!!0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 NBC TV	i3`06fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 NFL Channel	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd!!002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
+NHK World 🇯🇵	https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 Nova Sport 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Nova Sport 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Oman Sport 🇴🇲	https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
@@ -427,9 +429,6 @@ Sports 5 🇧🇷	`0https://sportzonline.si/channels/bra/br5.php
 Sports 6 🇧🇷	`0https://sportzonline.si/channels/bra/br6.php
 Sports 7 🇧🇷	`0https://sportzonline.si/channels/bra/br7.php
 Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
-
-	^-
-NHK World 🇯🇵	https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
 	^-
 [g]YouTube Favorite Streaming[z]	^-
@@ -991,11 +990,6 @@ DAZN Women's Football	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
 
-^=ABC 🇯🇵	`1i3`03abc/index.m3u8
-^=ABC 🇯🇵	`2i3`03abc/index.m3u8
-^=ABC 🇯🇵	`3i3`03abc/index.m3u8
-^=ABC 🇯🇵	`4i3`03abc/index.m3u8
-^=ABC 🇯🇵	`5i3`03abc/index.m3u8
 ^=ID Indosiar	09!09c103.172.71.153:9981/stream/channelid/1185426831?profile=pass?zyy
 ^=+Sport 360	09!09cmedotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/116506
 ^=TSN 2 🇨🇦	09!08c00!00/6000002?zyy
