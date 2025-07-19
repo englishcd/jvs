@@ -13,6 +13,7 @@
 19-07-2025	^-
 
 17:00 [l]AFF U23 Youth Championship[z]	^-
+Laos 🇱🇦 U23 vs Vietnam 🇻🇳 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 Laos 🇱🇦 U23 vs Vietnam 🇻🇳 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4224706/laos-u23-vs-vietnam-u23-07-2025.html
 
 19:00 [g]International Club Friendly[z]	^-
@@ -28,6 +29,7 @@ AFC Ajax vs Mechelen	`*https://www.fctv33.com/football/international-club-friend
 Manchester United vs Leeds United	`*https://www.fctv33.com/football/international-club-friendly-match-4176488/manchester-united-vs-leeds-united-07-2025.html
 
 20:00 [l]AFF U23 Youth Championship[z]	^-
+Timor Leste 🇹🇱 U23 vs Thailand 🇹🇭 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 Timor Leste 🇹🇱 U23 vs Thailand 🇹🇭 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4189472/timor-leste-u23-vs-thailand-u23-07-2025.html
 
 21:00 [y]International Club Friendly[z]	^-
