@@ -24,7 +24,7 @@ France 🇫🇷 (w) vs Germany 🇩🇪 (w) 🇩🇪	https://d2t2ysriy83qdz.clou
 France 🇫🇷 (w) vs Germany 🇩🇪 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4224636/france-women-vs-germany-women-07-2025.html
 
 02:00 [l]CAF Women's African Cup of Nations[z]	^-
-South Africa 🇿🇦 (w) vs Senegal 🇸🇳 (w)	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd!!f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
+South Africa 🇿🇦 (w) vs Senegal 🇸🇳 (w)	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 South Africa 🇿🇦 (w) vs Senegal 🇸🇳 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4227025/south-africa-women-vs-senegal-w-07-2025.html
 
 04:00 [l]Copa América Femenina[z]	^-
@@ -109,15 +109,14 @@ TSN 3 🇨🇦	09!08c00!00/6000003?zyy
 	^-
 [w]ID Live Sport & TV Channels[z]	^-
 
-AniPlus	01!01fkhano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
 AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
+AniPlus	01!01fkhano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
 ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 Bahana FM https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
-Cartoonito	01!01dstreaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
 CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 Celestial Classic Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
-Celestial Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
 Celestial Movies	https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
+Celestial Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
 DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 DeiKids TV	https://e.siar.us/live/deikidstv.m3u8
 Dhoho TV- Kediri	https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
@@ -126,15 +125,14 @@ Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.
 Entertainment	https://fta2!vfc!a90cb773466446b08595007bab12b920/index.mpd!!62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 Ficom TV	https://v3.siar.us/ficomchannel/live/playlist.m3u8
 Galaxy Premium	https://fta1!vfc!45c0752c6b6b4397b80243ac9fed96fd/index.mpd!!0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
-GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
-GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
 GTV	https://fta2!vfc!b8b9b1d5f80f45649b4a3619291551ab/index.mpd!!036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
+GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
 Hanacaraka	https://fta3!vfc!17c724036c5f4615bd0b8093126b5c44/index.mpd!!0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
-Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-iNews	`0https://embed.rctiplus.com/live/inews/inewsid
-iNews	https://allcutv.rctiplus.id/inews2023.m3u8?7
 iNews	https://fta2!vfc!7b0404cd6a8a4a908123f10774854e46/index.mpd!!8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
+iNews	https://allcutv.rctiplus.id/inews2023.m3u8?7
+iNews	`0https://embed.rctiplus.com/live/inews/inewsid
 InspiraTV	https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 Jawapos TV	https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
@@ -156,15 +154,14 @@ My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 MyKidz	01!01fkhano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
 Net TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=NET.
 Nick Jr	https://fta1!vfc!27163af9499b4bcca2da96677b158efe/index.mpd!!c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
-RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
-RCTI	https://allcutv.rctiplus.id/rcti2023.m3u8?7
 RCTI	https://fta4!vfc!997ce8767b604fae9fce05379b3b8b3a/index.mpd!!d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+RCTI	https://allcutv.rctiplus.id/rcti2023.m3u8?7
+RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
 RCTV Cirebon	https://v10.siar.us/rctv/live/playlist.m3u8
 Rock Entertainment	https://cdn.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
 RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
 Sampit TV	https://e.siar.us/live/sampit-tv.m3u8
-SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 Surabaya TV	https://e.siar.us/live/surabayatv.m3u8
 Thrill	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a.m3u8
@@ -174,7 +171,6 @@ tvN Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
 tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-Warner	01!01dstreaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
 	^-
 [w]Sport Channels & TV[z]	^-
@@ -439,27 +435,27 @@ Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
 
 	^-
 NHK World 🇯🇵	https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-ABC 🇯🇵	i3`03NHK_Eabc/index.m3u8
-BS TV 4K 🇯🇵	i3`03NHK_Ebstx4k/index.m3u8
-Fuji TV 🇯🇵	i3`03NHK_EFuji_TV/index.m3u8
-Kansai TV 🇯🇵	i3`03NHK_Ekansaitv/index.m3u8
-KBS 🇯🇵	i3`03NHK_Ekbs/index.m3u8
-MBS 🇯🇵	i3`03NHK_Embs/index.m3u8
-NHK BS 🇯🇵	i3`03NHK_ENHK_BS/index.m3u8
-NHK BSP 4K 🇯🇵	i3`03NHK_Ebsp4k/index.m3u8
-NHK E 🇯🇵	i3`03NHK_ENHK_E/index.m3u8
-Nippon TV 🇯🇵	i3`03NHK_ENippon_TV/index.m3u8
-Sun TV 🇯🇵	i3`03NHK_Esuntv/index.m3u8
-TBS 🇯🇵	i3`03NHK_ETBS/index.m3u8
-Tokyo MX1 🇯🇵	i3`03NHK_ETokyo_MX1/index.m3u8
-Tokyo MX2 🇯🇵	i3`03NHK_ETokyo_MX2/index.m3u8
-TV Asahi 🇯🇵	i3`03NHK_ETV_Asahi/index.m3u8
-TV Osaka 🇯🇵	i3`03NHK_Etvo/index.m3u8
-TV Tokyo 🇯🇵	i3`03NHK_ETV_Tokyo/index.m3u8
-Wowow Cinema 🇯🇵	i3`03NHK_Ewcinema/index.m3u8
-Wowow Live 🇯🇵	i3`03NHK_Ewlive/index.m3u8
-Wowow Prime 🇯🇵	i3`03NHK_Ewprime/index.m3u8
-Yomiuri TV 🇯🇵	i3`03NHK_Eytv/index.m3u8
+ABC 🇯🇵	`0i3`03NHK_Eabc/index.m3u8
+BS TV 4K 🇯🇵	`0i3`03NHK_Ebstx4k/index.m3u8
+Fuji TV 🇯🇵	`0i3`03NHK_EFuji_TV/index.m3u8
+Kansai TV 🇯🇵	`0i3`03NHK_Ekansaitv/index.m3u8
+KBS 🇯🇵	`0i3`03NHK_Ekbs/index.m3u8
+MBS 🇯🇵	`0i3`03NHK_Embs/index.m3u8
+NHK BS 🇯🇵	`0i3`03NHK_ENHK_BS/index.m3u8
+NHK BSP 4K 🇯🇵	`0i3`03NHK_Ebsp4k/index.m3u8
+NHK E 🇯🇵	`0i3`03NHK_ENHK_E/index.m3u8
+Nippon TV 🇯🇵	`0i3`03NHK_ENippon_TV/index.m3u8
+Sun TV 🇯🇵	`0i3`03NHK_Esuntv/index.m3u8
+TBS 🇯🇵	`0i3`03NHK_ETBS/index.m3u8
+Tokyo MX1 🇯🇵	`0i3`03NHK_ETokyo_MX1/index.m3u8
+Tokyo MX2 🇯🇵	`0i3`03NHK_ETokyo_MX2/index.m3u8
+TV Asahi 🇯🇵	`0i3`03NHK_ETV_Asahi/index.m3u8
+TV Osaka 🇯🇵	`0i3`03NHK_Etvo/index.m3u8
+TV Tokyo 🇯🇵	`0i3`03NHK_ETV_Tokyo/index.m3u8
+Wowow Cinema 🇯🇵	`0i3`03NHK_Ewcinema/index.m3u8
+Wowow Live 🇯🇵	`0i3`03NHK_Ewlive/index.m3u8
+Wowow Prime 🇯🇵	`0i3`03NHK_Ewprime/index.m3u8
+Yomiuri TV 🇯🇵	`0i3`03NHK_Eytv/index.m3u8
 
 	^-
 [g]YouTube Favorite Streaming[z]	^-
@@ -1011,6 +1007,10 @@ TVBS Asia	https://l.0/TVBSAsia/mpd/TVBSAsia.mpd!!f530cf9ab2244fdb935da69d9361418
 TVBS News	https://l.0/TVBSNews/mpd/TVBSNews.mpd!!b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
 tvN Movies	https://l.0/TvNMoviesHD/mpd/TvNMoviesHD.mpd!!50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 Zhejiang	https://l.0/ZhejiangTV/mpd/ZhejiangTV.mpd!!d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
+Cartoonito	01!01dstreaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
+Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+Warner	01!01dstreaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
@@ -1031,3 +1031,4 @@ Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gru
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=asportshd	`0https://stream.crichd.sc/update/asportshd.php
 	^-
+
