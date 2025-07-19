@@ -12,18 +12,6 @@
 
 20-07-2025	^-
 
-02:00 [l]UEFA European Women's Championship[z]	^-
-France 🇫🇷 (w) vs Germany 🇩🇪 (w)	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-France 🇫🇷 (w) vs Germany 🇩🇪 (w) 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-France 🇫🇷 (w) vs Germany 🇩🇪 (w)	https://zap-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-France 🇫🇷 (w) vs Germany 🇩🇪 (w) 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-France 🇫🇷 (w) vs Germany 🇩🇪 (w) 🇬🇧	https://z.1UK_ITV_1/index.m3u8
-France 🇫🇷 (w) vs Germany 🇩🇪 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4224636/france-women-vs-germany-women-07-2025.html
-
-02:00 [l]CAF Women's African Cup of Nations[z]	^-
-South Africa 🇿🇦 (w) vs Senegal 🇸🇳 (w)	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-South Africa 🇿🇦 (w) vs Senegal 🇸🇳 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4227025/south-africa-women-vs-senegal-w-07-2025.html
-
 04:00 [l]Copa América Femenina[z]	^-
 Venezuela 🇻🇪 (w) vs Bolivia 🇧🇴 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4222863/venezuela-w-vs-bolivia-w-07-2025.html
 
@@ -231,6 +219,43 @@ USA Network	!yz~594edb0c-896e-4853-b97b-26c3a4f05156.m3u8
 VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
 
 	^-
+Astro Football	https://windnew.newkso.ru/wind/premium124/mono.m3u8
+Astro Grandstand	https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+Astro Premier League 1	https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
+beIN Sports 2 En	https://zekonew.newkso.ru/zeko/premium90/mono.m3u8?7
+beIN Sports Au 1	https://ddy6new.newkso.ru/ddy6/premium491/mono.m3u8
+beIN Sports Au 2	https://ddy6new.newkso.ru/ddy6/premium492/mono.m3u8
+beIN Sports Au 3	https://ddy6new.newkso.ru/ddy6/premium493/mono.m3u8
+beIN Sports Fr 1	https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
+beIN Sports Fr 2	https://zekonew.newkso.ru/zeko/premium117/mono.m3u8
+beIN Sports MENA 1	https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
+beIN Sports MENA 2	https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
+beIN Sports MENA 3	https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8
+Canal 11 Pt	https://ddy6new.newkso.ru/ddy6/premium540/mono.m3u8
+Canal+ Foot Fr	https://windnew.newkso.ru/wind/premium463/mono.m3u8
+Canal+ Fr	https://windnew.newkso.ru/wind/premium121/mono.m3u8
+Canal+ Sport 1 Afr	https://ddy6new.newkso.ru/ddy6/premium486/mono.m3u8
+Canal+ Sport 360 Fr	https://windnew.newkso.ru/wind/premium464/mono.m3u8
+Canal+ Sports Fr	https://windnew.newkso.ru/wind/premium122/mono.m3u8
+Canal+ Sports Pl 1	https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8
+Canal+ Sports Pl 2	https://ddy6new.newkso.ru/ddy6/premium487/mono.m3u8
+Canal+ Sports Pl	https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8
+Diema 1	https://ddy6new.newkso.ru/ddy6/premium482/mono.m3u8?7
+Digi Sport 1	https://nfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
+Max Sport 3	https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8?7
+Nova Sport 1	https://windnew.newkso.ru/wind/premium76/mono.m3u8?7
+Polsat Sport 1	https://windnew.newkso.ru/wind/premium47/mono.m3u8?7
+Sportsnet 360	https://zekonew.newkso.ru/zeko/premium409/mono.m3u8
+SporTV 1	https://ddy6new.newkso.ru/ddy6/premium78/mono.m3u8
+TNT USA	https://zekonew.newkso.ru/zeko/premium338/mono.m3u8?7
+TSN 1	https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
+TSN 2	https://zekonew.newkso.ru/zeko/premium112/mono.m3u8
+TSN 3	https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
+TSN 4	https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
+TSN 5	https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
+TyC Sports	https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8?7
+
+	^-
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 Abu Dhabi Sports 1 Premium	https://pop1e3.cdn.intigral-ott.net/bpk-token/1ai@4zhlpzcp5m3flms2dpinkpw4svp4z0lw4da3p5aa/ADSP1/ADSP1.isml/manifest.mpd!!eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
 Abu Dhabi Sports 2 Premium	https://pop1e3.cdn.intigral-ott.net/bpk-token/1ai@4zhlpzcp5m3flms2dpinkpw4svp4z0lw4da3p5aa/ADSP2/ADSP2.isml/manifest.mpd!!efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
@@ -379,7 +404,7 @@ Ziggo Sport 5 Football	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-
 Ziggo Sport 6 Golf	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,!!1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 beIN TV 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
 beIN 1 PL	https://wo.cma.footballii.ir/hls2/b1_src.m3u8
-Diema 1	https://ddy6new.newkso.ru/ddy6/premium482/mono.m3u8?7
+
 MU TV	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_uk_mutv_fhd/index.m3u8
 ^=MU TV	https://stream2.aws-live-streaming.com/bbs/mutv/chunks.m3u8?nimblesessionid=64762209
 ^=Arena Sport 1	https://z.1LIVE_Arena_Sport_1_FHD/index.m3u8
