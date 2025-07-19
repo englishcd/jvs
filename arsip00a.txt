@@ -435,27 +435,27 @@ Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
 
 	^-
 NHK World 🇯🇵	https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-ABC 🇯🇵	`0i3`03NHK_Eabc/index.m3u8
-BS TV 4K 🇯🇵	`0i3`03NHK_Ebstx4k/index.m3u8
-Fuji TV 🇯🇵	`0i3`03NHK_EFuji_TV/index.m3u8
-Kansai TV 🇯🇵	`0i3`03NHK_Ekansaitv/index.m3u8
-KBS 🇯🇵	`0i3`03NHK_Ekbs/index.m3u8
-MBS 🇯🇵	`0i3`03NHK_Embs/index.m3u8
-NHK BS 🇯🇵	`0i3`03NHK_ENHK_BS/index.m3u8
-NHK BSP 4K 🇯🇵	`0i3`03NHK_Ebsp4k/index.m3u8
-NHK E 🇯🇵	`0i3`03NHK_ENHK_E/index.m3u8
-Nippon TV 🇯🇵	`0i3`03NHK_ENippon_TV/index.m3u8
-Sun TV 🇯🇵	`0i3`03NHK_Esuntv/index.m3u8
-TBS 🇯🇵	`0i3`03NHK_ETBS/index.m3u8
-Tokyo MX1 🇯🇵	`0i3`03NHK_ETokyo_MX1/index.m3u8
-Tokyo MX2 🇯🇵	`0i3`03NHK_ETokyo_MX2/index.m3u8
-TV Asahi 🇯🇵	`0i3`03NHK_ETV_Asahi/index.m3u8
-TV Osaka 🇯🇵	`0i3`03NHK_Etvo/index.m3u8
-TV Tokyo 🇯🇵	`0i3`03NHK_ETV_Tokyo/index.m3u8
-Wowow Cinema 🇯🇵	`0i3`03NHK_Ewcinema/index.m3u8
-Wowow Live 🇯🇵	`0i3`03NHK_Ewlive/index.m3u8
-Wowow Prime 🇯🇵	`0i3`03NHK_Ewprime/index.m3u8
-Yomiuri TV 🇯🇵	`0i3`03NHK_Eytv/index.m3u8
+ABC 🇯🇵	`0i3`03abc/index.m3u8
+BS TV 4K 🇯🇵	`0i3`03bstx4k/index.m3u8
+Fuji TV 🇯🇵	`0i3`03Fuji_TV/index.m3u8
+Kansai TV 🇯🇵	`0i3`03kansaitv/index.m3u8
+KBS 🇯🇵	`0i3`03kbs/index.m3u8
+MBS 🇯🇵	`0i3`03mbs/index.m3u8
+NHK BS 🇯🇵	`0i3`03NHK_BS/index.m3u8
+NHK BSP 4K 🇯🇵	`0i3`03bsp4k/index.m3u8
+NHK E 🇯🇵	`0i3`03NHK_E/index.m3u8
+Nippon TV 🇯🇵	`0i3`03Nippon_TV/index.m3u8
+Sun TV 🇯🇵	`0i3`03suntv/index.m3u8
+TBS 🇯🇵	`0i3`03TBS/index.m3u8
+Tokyo MX1 🇯🇵	`0i3`03Tokyo_MX1/index.m3u8
+Tokyo MX2 🇯🇵	`0i3`03Tokyo_MX2/index.m3u8
+TV Asahi 🇯🇵	`0i3`03TV_Asahi/index.m3u8
+TV Osaka 🇯🇵	`0i3`03tvo/index.m3u8
+TV Tokyo 🇯🇵	`0i3`03TV_Tokyo/index.m3u8
+Wowow Cinema 🇯🇵	`0i3`03wcinema/index.m3u8
+Wowow Live 🇯🇵	`0i3`03wlive/index.m3u8
+Wowow Prime 🇯🇵	`0i3`03wprime/index.m3u8
+Yomiuri TV 🇯🇵	`0i3`03ytv/index.m3u8
 
 	^-
 [g]YouTube Favorite Streaming[z]	^-
