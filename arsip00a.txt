@@ -383,8 +383,8 @@ Ziggo Sport 5 Football	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-
 Ziggo Sport 6 Golf	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,!!1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 beIN TV 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
 beIN 1 PL	https://wo.cma.footballii.ir/hls2/b1_src.m3u8
-MU TV	https://stream2.aws-live-streaming.com/bbs/mutv/chunks.m3u8?nimblesessionid=64762209
 MU TV	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_uk_mutv_fhd/index.m3u8
+^=MU TV	https://stream2.aws-live-streaming.com/bbs/mutv/chunks.m3u8?nimblesessionid=64762209
 ^=Arena Sport 1	https://z.1LIVE_Arena_Sport_1_FHD/index.m3u8
 ^=Live S4C 🇬🇧	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_s4c/index.m3u8
 ^=Live ESPN 1 🇳🇱	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
@@ -435,27 +435,6 @@ Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
 
 	^-
 NHK World 🇯🇵	https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-ABC 🇯🇵	`0i3`03abc/index.m3u8
-BS TV 4K 🇯🇵	`0i3`03bstx4k/index.m3u8
-Fuji TV 🇯🇵	`0i3`03Fuji_TV/index.m3u8
-Kansai TV 🇯🇵	`0i3`03kansaitv/index.m3u8
-KBS 🇯🇵	`0i3`03kbs/index.m3u8
-MBS 🇯🇵	`0i3`03mbs/index.m3u8
-NHK BS 🇯🇵	`0i3`03NHK_BS/index.m3u8
-NHK BSP 4K 🇯🇵	`0i3`03bsp4k/index.m3u8
-NHK E 🇯🇵	`0i3`03NHK_E/index.m3u8
-Nippon TV 🇯🇵	`0i3`03Nippon_TV/index.m3u8
-Sun TV 🇯🇵	`0i3`03suntv/index.m3u8
-TBS 🇯🇵	`0i3`03TBS/index.m3u8
-Tokyo MX1 🇯🇵	`0i3`03Tokyo_MX1/index.m3u8
-Tokyo MX2 🇯🇵	`0i3`03Tokyo_MX2/index.m3u8
-TV Asahi 🇯🇵	`0i3`03TV_Asahi/index.m3u8
-TV Osaka 🇯🇵	`0i3`03tvo/index.m3u8
-TV Tokyo 🇯🇵	`0i3`03TV_Tokyo/index.m3u8
-Wowow Cinema 🇯🇵	`0i3`03wcinema/index.m3u8
-Wowow Live 🇯🇵	`0i3`03wlive/index.m3u8
-Wowow Prime 🇯🇵	`0i3`03wprime/index.m3u8
-Yomiuri TV 🇯🇵	`0i3`03ytv/index.m3u8
 
 	^-
 [g]YouTube Favorite Streaming[z]	^-
@@ -1016,7 +995,11 @@ Warner	01!01dstreaming.indihometv.com/atm/DASH/warner/manifest.mpd
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
 
-^=Test SB	`0https://masjid--nurul-iman.blogspot.com/
+^=ABC 🇯🇵	`1i3`03abc/index.m3u8
+^=ABC 🇯🇵	`2i3`03abc/index.m3u8
+^=ABC 🇯🇵	`3i3`03abc/index.m3u8
+^=ABC 🇯🇵	`4i3`03abc/index.m3u8
+^=ABC 🇯🇵	`5i3`03abc/index.m3u8
 ^=ID Indosiar	09!09c103.172.71.153:9981/stream/channelid/1185426831?profile=pass?zyy
 ^=+Sport 360	09!09cmedotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/116506
 ^=TSN 2 🇨🇦	09!08c00!00/6000002?zyy
