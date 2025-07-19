@@ -20,7 +20,8 @@ Algeria 🇩🇿 (w) vs Ghana 🇬🇭 (w)	`*https://www.fctv33.com/football/caf
 
 02:00 [l]UEFA European Women's Championship[z]	^-
 France 🇫🇷 (w) vs Germany 🇩🇪 (w) 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-France 🇫🇷 (w) vs Germany 🇩🇪 (w) 🇩🇪	https://d2t2ysriy83qdz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e8pyyaxy3l7mo/4946d50b-adff-4f14-8f27-d0d118c668c9/0.m3u8
+France 🇫🇷 (w) vs Germany 🇩🇪 (w) 🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+France 🇫🇷 (w) vs Germany 🇩🇪 (w) 🇬🇧	https://z.1UK_ITV_1/index.m3u8
 France 🇫🇷 (w) vs Germany 🇩🇪 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4224636/france-women-vs-germany-women-07-2025.html
 
 02:00 [l]CAF Women's African Cup of Nations[z]	^-
@@ -175,6 +176,17 @@ TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 	^-
 [w]Sport Channels & TV[z]	^-
 
+HBO	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd!!d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+HBO Cinemax	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd!!b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+HBO Family	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd!!872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+HBO Hits	https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd!!b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+HBO Signature	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd!!a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+HBO Plus	https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd!!861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+HBO Pop	https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd!!bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+HBO Xtreme	https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+Film Rise Horror	https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u
+Horror Canada	https://apollo.production-public.tubi.io/live/ac-filmrise-horror-canada.m3u8
+
 ABC News	https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 ABC US	!yz~196a3d53-fe48-484c-b267-f3f326f8c9e7.m3u8
 AMC	!yz~c21d4225-12e5-4178-af0e-33711499d86e.m3u8
@@ -223,17 +235,6 @@ Travel Channel	!yz~c20312cb-10ba-47eb-9441-91d03ef3ef19.m3u8
 USA Network	!yz~594edb0c-896e-4853-b97b-26c3a4f05156.m3u8
 VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
 
-HBO	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd!!d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-HBO Cinemax	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd!!b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-HBO Family	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd!!872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-HBO Hits	https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd!!b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-HBO Signature	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd!!a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-HBO Plus	https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd!!861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
-HBO Pop	https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd!!bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
-HBO Xtreme	https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
-Film Rise Horror	https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u
-Horror Canada	https://apollo.production-public.tubi.io/live/ac-filmrise-horror-canada.m3u8
-
 	^-
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 Abu Dhabi Sports 1 Premium	https://pop1e3.cdn.intigral-ott.net/bpk-token/1ai@4zhlpzcp5m3flms2dpinkpw4svp4z0lw4da3p5aa/ADSP1/ADSP1.isml/manifest.mpd!!eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
@@ -257,7 +258,6 @@ Channel 4 🇬🇧	https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/chann
 Cricket	`1https://me.webcric.com/frame1.htm[]`3https://me.webcric.com/frame1.htm
 CT Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 DAZN Combat	https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
-DAZN Women's Football	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
 DFB Play TV	https://d2t2ysriy83qdz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e8pyyaxy3l7mo/4946d50b-adff-4f14-8f27-d0d118c668c9/0.m3u8
 ^=DFB Play TV	https://jmp2.uk/sam-GB26000118T.m3u8?7
 Dubai Sport 1 🇦🇪	https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
@@ -278,10 +278,10 @@ Fox Sports 🇲🇽 Premium	i3!16/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe5
 HRT 1 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt1_1200.m3u8
 HRT 2 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt2_1200.m3u8
 HRT 3 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt3_1200.m3u8
-ITV 1	https://z.1UK_ITV_1/index.m3u8
-ITV 2	https://z.1UK_ITV_2/index.m3u8
-ITV 3	https://z.1UK_ITV_3/index.m3u8
-ITV 4	https://z.1UK_ITV_4/index.m3u8
+ITV 1 🇬🇧	https://z.1UK_ITV_1/index.m3u8
+ITV 2 🇬🇧	https://z.1UK_ITV_2/index.m3u8
+ITV 3 🇬🇧	https://z.1UK_ITV_3/index.m3u8
+ITV 4 🇬🇧	https://z.1UK_ITV_4/index.m3u8
 Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Kuwait Sports 🇰🇼	https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
 L'Equipe Live 1 🇫🇷	https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
@@ -990,6 +990,7 @@ Cartoonito	01!01dstreaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
 Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 Warner	01!01dstreaming.indihometv.com/atm/DASH/warner/manifest.mpd
+DAZN Women's Football	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
 
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
