@@ -12,12 +12,6 @@
 
 20-07-2025	^-
 
-04:00 [l]Copa América Femenina[z]	^-
-Venezuela 🇻🇪 (w) vs Bolivia 🇧🇴 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4222863/venezuela-w-vs-bolivia-w-07-2025.html
-
-07:00 [l]Copa América Femenina[z]	^-
-Colombia 🇨🇴 (w) vs Paraguay 🇵🇾 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4222865/colombia-women-vs-paraguay-w-07-2025.html
-
 ^=	^-
 	^-
 **[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
@@ -217,43 +211,6 @@ TNT US	!yz~b8e3ff52-2d13-45a6-a3a0-9e64c1a0080c.m3u8
 Travel Channel	!yz~c20312cb-10ba-47eb-9441-91d03ef3ef19.m3u8
 USA Network	!yz~594edb0c-896e-4853-b97b-26c3a4f05156.m3u8
 VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
-
-	^-
-Astro Football	https://windnew.newkso.ru/wind/premium124/mono.m3u8?7
-Astro Grandstand	https://zekonew.newkso.ru/zeko/premium123/mono.m3u8?7
-Astro Premier League 1	https://zekonew.newkso.ru/zeko/premium125/mono.m3u8?7
-beIN Sports 2 En	https://zekonew.newkso.ru/zeko/premium90/mono.m3u8?7
-beIN Sports Au 1	https://ddy6new.newkso.ru/ddy6/premium491/mono.m3u8?7
-beIN Sports Au 2	https://ddy6new.newkso.ru/ddy6/premium492/mono.m3u8?7
-beIN Sports Au 3	https://ddy6new.newkso.ru/ddy6/premium493/mono.m3u8?7
-beIN Sports Fr 1	https://zekonew.newkso.ru/zeko/premium116/mono.m3u8?7
-beIN Sports Fr 2	https://zekonew.newkso.ru/zeko/premium117/mono.m3u8?7
-beIN Sports MENA 1	https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8?7
-beIN Sports MENA 2	https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8?7
-beIN Sports MENA 3	https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8?7
-Canal 11 Pt	https://ddy6new.newkso.ru/ddy6/premium540/mono.m3u8?7
-Canal+ Foot Fr	https://windnew.newkso.ru/wind/premium463/mono.m3u8?7
-Canal+ Fr	https://windnew.newkso.ru/wind/premium121/mono.m3u8?7
-Canal+ Sport 1 Afr	https://ddy6new.newkso.ru/ddy6/premium486/mono.m3u8?7
-Canal+ Sport 360 Fr	https://windnew.newkso.ru/wind/premium464/mono.m3u8?7
-Canal+ Sports Fr	https://windnew.newkso.ru/wind/premium122/mono.m3u8?7
-Canal+ Sports Pl 1	https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8?7
-Canal+ Sports Pl 2	https://ddy6new.newkso.ru/ddy6/premium487/mono.m3u8?7
-Canal+ Sports Pl	https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8?7
-Diema 1	https://ddy6new.newkso.ru/ddy6/premium482/mono.m3u8?7
-Digi Sport 1	https://nfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
-Max Sport 3	https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8?7
-Nova Sport 1	https://windnew.newkso.ru/wind/premium76/mono.m3u8?7
-Polsat Sport 1	https://windnew.newkso.ru/wind/premium47/mono.m3u8?7
-Sportsnet 360	https://zekonew.newkso.ru/zeko/premium409/mono.m3u8?7
-SporTV 1	https://ddy6new.newkso.ru/ddy6/premium78/mono.m3u8?7
-TNT USA	https://zekonew.newkso.ru/zeko/premium338/mono.m3u8?7
-TSN 1	https://zekonew.newkso.ru/zeko/premium111/mono.m3u8?7
-TSN 2	https://zekonew.newkso.ru/zeko/premium112/mono.m3u8?7
-TSN 3	https://zekonew.newkso.ru/zeko/premium113/mono.m3u8?7
-TSN 4	https://zekonew.newkso.ru/zeko/premium114/mono.m3u8?7
-TSN 5	https://zekonew.newkso.ru/zeko/premium115/mono.m3u8?7
-TyC Sports	https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8?7
 
 	^-
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
@@ -913,6 +870,48 @@ Canal Plus Sport 3	09!09a116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8
 Nova Sport 5	09!09a116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
 Nova Sport 6	09!09a116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
 
+	^-
+Astro Football	https://windnew.newkso.ru/wind/premium124/mono.m3u8?7
+Astro Grandstand	https://zekonew.newkso.ru/zeko/premium123/mono.m3u8?7
+Astro Premier League 1	https://zekonew.newkso.ru/zeko/premium125/mono.m3u8?7
+beIN Sports 2 En	https://zekonew.newkso.ru/zeko/premium90/mono.m3u8?7
+beIN Sports Au 1	https://ddy6new.newkso.ru/ddy6/premium491/mono.m3u8?7
+beIN Sports Au 2	https://ddy6new.newkso.ru/ddy6/premium492/mono.m3u8?7
+beIN Sports Au 3	https://ddy6new.newkso.ru/ddy6/premium493/mono.m3u8?7
+beIN Sports Fr 1	https://zekonew.newkso.ru/zeko/premium116/mono.m3u8?7
+beIN Sports Fr 2	https://zekonew.newkso.ru/zeko/premium117/mono.m3u8?7
+beIN Sports MENA 1	https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8?7
+beIN Sports MENA 2	https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8?7
+beIN Sports MENA 3	https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8?7
+Canal 11 Pt	https://ddy6new.newkso.ru/ddy6/premium540/mono.m3u8?7
+Canal+ Foot Fr	https://windnew.newkso.ru/wind/premium463/mono.m3u8?7
+Canal+ Fr	https://windnew.newkso.ru/wind/premium121/mono.m3u8?7
+Canal+ Sport 1 Afr	https://ddy6new.newkso.ru/ddy6/premium486/mono.m3u8?7
+Canal+ Sport 360 Fr	https://windnew.newkso.ru/wind/premium464/mono.m3u8?7
+Canal+ Sports Fr	https://windnew.newkso.ru/wind/premium122/mono.m3u8?7
+Canal+ Sports Pl 1	https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8?7
+Canal+ Sports Pl 2	https://ddy6new.newkso.ru/ddy6/premium487/mono.m3u8?7
+Canal+ Sports Pl	https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8?7
+Diema 1	https://ddy6new.newkso.ru/ddy6/premium482/mono.m3u8?7
+Digi Sport 1	https://nfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
+Max Sport 3	https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8?7
+Nova Sport 1	https://windnew.newkso.ru/wind/premium76/mono.m3u8?7
+Polsat Sport 1	https://windnew.newkso.ru/wind/premium47/mono.m3u8?7
+Sport Klub Rs 1	https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
+Sport Klub Rs 2	https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
+Sport Klub Rs 3	https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
+Sport Klub Rs 4	https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
+Sportsnet 360	https://zekonew.newkso.ru/zeko/premium409/mono.m3u8?7
+SporTV 1	https://ddy6new.newkso.ru/ddy6/premium78/mono.m3u8?7
+TNT USA	https://zekonew.newkso.ru/zeko/premium338/mono.m3u8?7
+TSN 1	https://zekonew.newkso.ru/zeko/premium111/mono.m3u8?7
+TSN 2	https://zekonew.newkso.ru/zeko/premium112/mono.m3u8?7
+TSN 3	https://zekonew.newkso.ru/zeko/premium113/mono.m3u8?7
+TSN 4	https://zekonew.newkso.ru/zeko/premium114/mono.m3u8?7
+TSN 5	https://zekonew.newkso.ru/zeko/premium115/mono.m3u8?7
+TyC Sports	https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8?7
+
+	^-
 HRT 1 🇭🇷	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd!!edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
 HRT 2 🇭🇷	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd!!994c79af863838109e7f3503bcd2aff9:d2c19650ad2a2ac77a95453b941a6f0e
 
@@ -1029,4 +1028,3 @@ Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gru
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=asportshd	`0https://stream.crichd.sc/update/asportshd.php
 	^-
-
