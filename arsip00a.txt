@@ -41,6 +41,7 @@ GolTV	00!0!0/9595?zyy
 ^=	^-
 ^=Volleyball Live	https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jrb5L5Cr/live.isml/.m3u8
 ^=Jala Live	`0https://m.jalazt54.cc
+^=[l]Huhu.To[z]	`0https://huhu.to/
 
 	^-
 [g]Sport TV Channels ID[z]	^-
@@ -1036,7 +1037,6 @@ Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gru
 ^=Live 17	`0https://xlz.plcdn.xyz/ajax/chanel/type/7/link/channel17
 ^=Live Ch2	`0https://6wcp.github.io/p/?id=live
 
-^=soccerdoge.com	`0https://soccerdoge.com/
 ^=soccer-100.net	`0https://soccer-100.net/
 ^=[l]Huhu.To[z]	`0https://huhu.to/
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
