@@ -13,8 +13,10 @@
 21-07-2025	^-
 
 20:00 [l]AFF U23Youth Championship[z]	^-
-Philippines 🇵🇭 vs Brunei Darussalam 🇧🇳	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4224078/philippines-u23-vs-brunei-darussalam-u23-07-2025.html
+Indonesia 🇮🇩 U23 vs Malaysia 🇲🇾 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 Indonesia 🇮🇩 U23 vs Malaysia 🇲🇾 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4224083/indonesia-u23-vs-malaysia-u23-07-2025.html
+Philippines 🇵🇭 vs Brunei Darussalam 🇧🇳	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+Philippines 🇵🇭 vs Brunei Darussalam 🇧🇳	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4224078/philippines-u23-vs-brunei-darussalam-u23-07-2025.html
 
 ^=	^-
 	^-
@@ -218,8 +220,6 @@ VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
 
 	^-
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-Abu Dhabi Sports 1 Premium	https://pop1e3.cdn.intigral-ott.net/bpk-token/1ai@4zhlpzcp5m3flms2dpinkpw4svp4z0lw4da3p5aa/ADSP1/ADSP1.isml/manifest.mpd!!eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-Abu Dhabi Sports 2 Premium	https://pop1e3.cdn.intigral-ott.net/bpk-token/1ai@4zhlpzcp5m3flms2dpinkpw4svp4z0lw4da3p5aa/ADSP2/ADSP2.isml/manifest.mpd!!efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 Afro Sport	01!01dnewproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 Al Arabiya News	https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 Al Hadath News	https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
@@ -244,7 +244,7 @@ DFB Play TV	https://d2t2ysriy83qdz.cloudfront.net/v1/manifest/3722c60a815c199d9c
 Dubai Sport 1 🇦🇪	https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 Dubai Sport 2 🇦🇪	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 Dubai Sport 3 🇦🇪	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-ESPN 1 🇳🇱	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+!ESPN 1 🇳🇱	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 TV 🇳🇱	https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd!!aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
 EuroSport 1	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 EuroSport 2	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -299,7 +299,7 @@ RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d
 RTP 3 🇵🇹	https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 RTP Madeira 🇵🇹	https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 Sat 1 🇩🇪	https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd!!540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
-Sat 1 🇩🇪	`0https://streaming.sportsnews.id/p/ch11.html
+^=Sat 1 🇩🇪	`0https://streaming.sportsnews.id/p/ch11.html
 Shahid Bab Al Hara	https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 Shahid Drama	https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
 Shahid Elkabeer	https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8
@@ -308,7 +308,6 @@ Shahid Masrh Masr	https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d6
 Shahid Movies Action	https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 Shahid Movies Thriller	https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 Shahid Shows	https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
-Sky Sport F1	09!08clinear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/index_stereo.mpd!!000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
 
 Sky Sports Arena	https://z.1UK_SKY_SPORTS_ARENA/index.m3u8
 Sky Sports Main Event	https://z.1UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
@@ -1013,6 +1012,10 @@ Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 Warner	01!01dstreaming.indihometv.com/atm/DASH/warner/manifest.mpd
 DAZN Women's Football	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
+
+Abu Dhabi Sports 1 Premium	https://pop1e3.cdn.intigral-ott.net/bpk-token/1ai@4zhlpzcp5m3flms2dpinkpw4svp4z0lw4da3p5aa/ADSP1/ADSP1.isml/manifest.mpd!!eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+Abu Dhabi Sports 2 Premium	https://pop1e3.cdn.intigral-ott.net/bpk-token/1ai@4zhlpzcp5m3flms2dpinkpw4svp4z0lw4da3p5aa/ADSP2/ADSP2.isml/manifest.mpd!!efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+Sky Sport F1	09!08clinear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/index_stereo.mpd!!000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
 
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
