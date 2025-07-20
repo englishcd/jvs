@@ -1021,6 +1021,14 @@ Sky Sport F1	09!08clinear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/ind
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
 
+^=gvc1	`0https://librani.govoet.my.id/?id=channel1
+^=gvc2	`0https://librani.govoet.my.id/?id=channel2
+^=gve1	`0https://librani.govoet.my.id/?id=event1
+^=gve2	`0https://librani.govoet.my.id/?id=event2
+^=gve3	`0https://librani.govoet.my.id/?id=event3
+^=gv95	`0https://librani.govoet.my.id/?id=957
+^=gvtn	`0https://librani.govoet.my.id/?id=timnas
+
 ^=ID Indosiar	09!09c103.172.71.153:9981/stream/channelid/1185426831?profile=pass?zyy
 ^=+Sport 360	09!09cmedotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/116506
 ^=TSN 2 🇨🇦	09!08c00!00/6000002?zyy
