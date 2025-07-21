@@ -1022,26 +1022,15 @@ Sky Sport F1	09!08clinear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/ind
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
 
-^=gvc1	`0https://librani.govoet.my.id/?id=channel1
-^=gvc2	`0https://librani.govoet.my.id/?id=channel2
-^=gve1	`0https://librani.govoet.my.id/?id=event1
-^=gve2	`0https://librani.govoet.my.id/?id=event2
-^=gve3	`0https://librani.govoet.my.id/?id=event3
-^=gv95	`0https://librani.govoet.my.id/?id=957
-^=gvtn	`0https://librani.govoet.my.id/?id=timnas
-
-^=ID Indosiar	09!09c103.172.71.153:9981/stream/channelid/1185426831?profile=pass?zyy
-^=+Sport 360	09!09cmedotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/116506
-^=TSN 2 🇨🇦	09!08c00!00/6000002?zyy
-^=Channel 5 🇬🇧	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_channel_5_hd/index.m3u8
-^=Live 17	`0https://xlz.plcdn.xyz/ajax/chanel/type/7/link/channel17
-^=Live Ch2	`0https://6wcp.github.io/p/?id=live
-
-^=referrer	`0https://wayaxaz.blogspot.com/
+^=referrer 1	`0https://wayaxaz.blogspot.com/
+^=referrer 2	`0https://wayaxaz.blogspot.com/
+^=referrer 3	`0https://wayaxaz.blogspot.com/
+^=referrer 4	`0https://wayaxaz.blogspot.com/
+^=referrer 5	`0https://wayaxaz.blogspot.com/
+^=referrer 7	`0https://wayaxaz.blogspot.com/
 ^=soccer-100.net	`0https://soccer-100.net/
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
-^=asportshd	`0https://stream.crichd.sc/update/asportshd.php
 ^=asahi	`0https://anym3u8player.com/tv/video-player.php?url=https://worker-damp-poetry-68b1.1doi3.workers.dev/http://vthanh.utako.moe/TV_Asahi/index.m3u8
   
 	^-
