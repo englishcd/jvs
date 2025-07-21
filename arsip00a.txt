@@ -10,16 +10,30 @@
 	^-
 ^=	^-
 
-21-07-2025	^-
+22-07-2025	^-
 
-20:00 [l]AFF U23Youth Championship[z]	^-
-Indonesia 🇮🇩 U23 vs Malaysia 🇲🇾 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-Indonesia 🇮🇩 U23 vs Malaysia 🇲🇾 U23	https://hls.uouetrq19.com/live/sd-6MuSNPUaDLdRGYPTbd.m3u8?txSecret=37cda33138d9a5ff1f694a1882230395&txTime=687F88EC
-Indonesia 🇮🇩 U23 vs Malaysia 🇲🇾 U23	09!09dwww.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-Indonesia 🇮🇩 U23 vs Malaysia 🇲🇾 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4224083/indonesia-u23-vs-malaysia-u23-07-2025.html
-Philippines 🇵🇭 vs Brunei Darussalam 🇧🇳	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-Philippines 🇵🇭 vs Brunei Darussalam 🇧🇳	https://live1.dktq4q.com/live/61816008_f16a2ae4850dd6336524009770a0196b_nsd.m3u8
-Philippines 🇵🇭 vs Brunei Darussalam 🇧🇳	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4224078/philippines-u23-vs-brunei-darussalam-u23-07-2025.html
+02:00 International Club Friendly	^-
+Sporting CP vs Sunderland A.F.C	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
+Sporting CP vs Sunderland A.F.C	`*https://www.fctv33.com/football/international-club-friendly-match-4229055/sporting-cp-vs-sunderland-07-2025.html
+
+02:00 [y]DAZN Transfer by Fabrizio Romano[z]	^-
+DAZN Transfer by Fabrizio Romano	`*https://www.fctv33.com/football/dazn-transfer-by-fabrizio-romano-match-4232862/dazn-transfer-by-fabrizio-romano-07-2025.html
+
+04:00 [l]Copa América Femenina[z]	^-
+Argentina 🇦🇷 (w) vs Peru 🇵🇪 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4218806/argentina-women-vs-peru-w-07-2025.html
+
+07:00 [l]Copa América Femenina[z]	^-
+Chile 🇨🇱 (w) vs Ecuador 🇪🇨 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4218801/chile-w-vs-ecuador-w-07-2025.html
+
+20:00 [l]AFF U23 Youth Championship[z]	^-
+Thailand 🇹🇭 U23 vs Myanmar 🇲🇲 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+Thailand 🇹🇭 U23 vs Myanmar 🇲🇲 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4189473/thailand-u23-vs-myanmar-u23-07-2025.html
+Vietnam 🇻🇳 U23 vs Cambodia 🇰🇭 U23	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+Vietnam 🇻🇳 U23 vs Cambodia 🇰🇭 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4225656/vietnam-u23-vs-cambodia-u23-07-2025.html
+
+23:00 [l]CAF Women's African Cup of Nations[z]	^-
+Nigeria 🇳🇬 (w) vs South Africa 🇿🇦 (w)	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
+Nigeria 🇳🇬 (w) vs South Africa 🇿🇦 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4232782/nigeria-women-vs-south-africa-women-07-2025.html
 
 ^=	^-
 	^-
