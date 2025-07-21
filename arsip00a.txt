@@ -1022,12 +1022,12 @@ Sky Sport F1	09!08clinear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/ind
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
 
-^=referrer 1	`0https://wayaxaz.blogspot.com/
-^=referrer 2	`0https://wayaxaz.blogspot.com/
-^=referrer 3	`0https://wayaxaz.blogspot.com/
-^=referrer 4	`0https://wayaxaz.blogspot.com/
-^=referrer 5	`0https://wayaxaz.blogspot.com/
-^=referrer 7	`0https://wayaxaz.blogspot.com/
+^=referrer 1	`1https://wayaxaz.blogspot.com/
+^=referrer 2	`2https://wayaxaz.blogspot.com/
+^=referrer 3	`3https://wayaxaz.blogspot.com/
+^=referrer 4	`4https://wayaxaz.blogspot.com/
+^=referrer 5	`5https://wayaxaz.blogspot.com/
+^=referrer 7	`7https://wayaxaz.blogspot.com/
 ^=soccer-100.net	`0https://soccer-100.net/
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
