@@ -16,9 +16,6 @@
 Sporting CP vs Sunderland A.F.C	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 Sporting CP vs Sunderland A.F.C	`*https://www.fctv33.com/football/international-club-friendly-match-4229055/sporting-cp-vs-sunderland-07-2025.html
 
-02:00 [y]DAZN Transfer by Fabrizio Romano[z]	^-
-DAZN Transfer by Fabrizio Romano	`*https://www.fctv33.com/football/dazn-transfer-by-fabrizio-romano-match-4232862/dazn-transfer-by-fabrizio-romano-07-2025.html
-
 04:00 [l]Copa América Femenina[z]	^-
 Argentina 🇦🇷 (w) vs Peru 🇵🇪 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4218806/argentina-women-vs-peru-w-07-2025.html
 
