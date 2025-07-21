@@ -1037,8 +1037,8 @@ Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gru
 ^=Live 17	`0https://xlz.plcdn.xyz/ajax/chanel/type/7/link/channel17
 ^=Live Ch2	`0https://6wcp.github.io/p/?id=live
 
+^=referrer	`0https://www.whatismybrowser.com/detect/what-is-my-referrer/
 ^=soccer-100.net	`0https://soccer-100.net/
-^=[l]Huhu.To[z]	`0https://huhu.to/
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=asportshd	`0https://stream.crichd.sc/update/asportshd.php
