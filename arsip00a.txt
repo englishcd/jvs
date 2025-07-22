@@ -74,17 +74,17 @@ ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 	^-
 [w]Live Sport TV Channels[z]	^-
 
-ESPN	https://zap-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-Sky LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-Sky Live Event 1	https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
-Sky Live Event 2	https://zap-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
-Sky Live Event 3	https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
-Sky Live Event 4	https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd!!a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
-Sky Live Event 5	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd!!6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
-Sky Live Event 6	https://zap-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
-Sky Sports 24	https://zap-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-Sky Sports Max	https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
-TUDN USA	https://zap-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+ESPN	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+Sky LaLiga	https://a.00/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+Sky Live Event 1	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+Sky Live Event 2	https://a.00/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
+Sky Live Event 3	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
+Sky Live Event 4	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd!!a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
+Sky Live Event 5	https://a.00/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd!!6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
+Sky Live Event 6	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
+Sky Sports 24	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+Sky Sports Max	https://a.00/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+TUDN USA	https://a.00/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 
 Tipik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 Sky Sports Main Event	09!08c00!00/2000001?zyy
@@ -174,9 +174,9 @@ TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 	^-
 [w]Sport Channels & TV[z]	^-
 
-HBO Plus	https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd!!861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
-HBO Pop	https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd!!bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
-HBO Xtreme	https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+HBO Plus	https://a.00/5/out/u/dash/HBO-PLUS-HD/default.mpd!!861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+HBO Pop	https://a.00/5/out/u/dash/HBO-POP-HD/default.mpd!!bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+HBO Xtreme	https://a.00/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 HBO	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd!!d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 HBO Cinemax	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd!!b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 HBO Family	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd!!872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
@@ -233,6 +233,7 @@ Travel Channel	!yz~c20312cb-10ba-47eb-9441-91d03ef3ef19.m3u8
 USA Network	!yz~594edb0c-896e-4853-b97b-26c3a4f05156.m3u8
 VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
 
+Arena Sport 1	https://z.1LIVE_Arena_Sport_1_FHD/index.m3u8
 BBC One	https://z.1UK_BBC_1/index.m3u8
 beIN Sports US	https://z.1US_BEIN_SPORTS/index.m3u8
 ESPN USA	https://z.1USA_ESPN/index.m3u8
@@ -241,6 +242,8 @@ ITV 1 🇬🇧	https://z.1UK_ITV_1/index.m3u8
 ITV 2 🇬🇧	https://z.1UK_ITV_2/index.m3u8
 ITV 3 🇬🇧	https://z.1UK_ITV_3/index.m3u8
 ITV 4 🇬🇧	https://z.1UK_ITV_4/index.m3u8
+Live Diema Sport	https://z.1live_event_bg_diema_sport/index.m3u8
+Live Event UEFA	https://z.1live_event_uefa_02/index.m3u8
 Racing TV	https://z.1UK_RACING_TV/index.m3u8
 Sky Sports Arena	https://z.1UK_SKY_SPORTS_ARENA/index.m3u8
 Sky Sports Main Event	https://z.1UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
