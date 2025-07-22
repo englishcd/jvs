@@ -19,6 +19,8 @@ Nigeria 🇳🇬 (w) vs South Africa 🇿🇦 (w)	`*https://www.fctv33.com/footb
 23-07-2025	^-
 
 02:00 [l]UEFA European Women's Championship[z]	^-
+England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w) vs Italy 🇮🇹 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w) vs Italy 🇮🇹 (w)	https://z.1UK_ITV_1/index.m3u8
 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (w) vs Italy 🇮🇹 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4226834/england-women-vs-italy-women-07-2025.html
 
 02:00 [l]CAF Women's African Cup of Nations[z]	^-
@@ -31,7 +33,7 @@ Colombia 🇨🇴 (w) vs Bolivia 🇧🇴 (w)	`*https://www.fctv33.com/football/
 07:00 [l]Copa América Femenina[z]	^-
 Paraguay 🇵🇾 (w) vs Brazil 🇧🇷 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4222864/paraguay-w-vs-brazil-women-07-2025.html
 
-	^-
+^=	^-
 	^-
 **[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 
