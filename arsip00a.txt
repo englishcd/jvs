@@ -12,12 +12,6 @@
 
 22-07-2025	^-
 
-20:00 [l]AFF U23 Youth Championship[z]	^-
-Vietnam 🇻🇳 U23 vs Cambodia 🇰🇭 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-Vietnam 🇻🇳 U23 vs Cambodia 🇰🇭 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4225656/vietnam-u23-vs-cambodia-u23-07-2025.html
-Thailand 🇹🇭 U23 vs Myanmar 🇲🇲 U23	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-Thailand 🇹🇭 U23 vs Myanmar 🇲🇲 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4189473/thailand-u23-vs-myanmar-u23-07-2025.html
-
 23:00 [l]CAF Women's African Cup of Nations[z]	^-
 Nigeria 🇳🇬 (w) vs South Africa 🇿🇦 (w)	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 Nigeria 🇳🇬 (w) vs South Africa 🇿🇦 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4232782/nigeria-women-vs-south-africa-women-07-2025.html
@@ -238,6 +232,27 @@ Travel Channel	!yz~c20312cb-10ba-47eb-9441-91d03ef3ef19.m3u8
 USA Network	!yz~594edb0c-896e-4853-b97b-26c3a4f05156.m3u8
 VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
 
+BBC One	https://z.1UK_BBC_1/index.m3u8
+beIN Sports US	https://z.1US_BEIN_SPORTS/index.m3u8
+ESPN USA	https://z.1USA_ESPN/index.m3u8
+Fox Sports 2	https://z.1USA_FOX_SPORTS_2/index.m3u8
+ITV 1 🇬🇧	https://z.1UK_ITV_1/index.m3u8
+ITV 2 🇬🇧	https://z.1UK_ITV_2/index.m3u8
+ITV 3 🇬🇧	https://z.1UK_ITV_3/index.m3u8
+ITV 4 🇬🇧	https://z.1UK_ITV_4/index.m3u8
+Racing TV	https://z.1UK_RACING_TV/index.m3u8
+Sky Sports Arena	https://z.1UK_SKY_SPORTS_ARENA/index.m3u8
+Sky Sports Main Event	https://z.1UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
+Sky Sports Mix	https://z.1UK_SKY_SPORTS_MIX/index.m3u8
+Sky Sports Premier League	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+Sky Sports Tennis	https://z.1UK_SKY_SPORTS_TENNIS/index.m3u8
+TNT Sports 1 🇬🇧	https://z.1UK_TNT_SPORTS_1/index.m3u8
+TNT Sports 2 🇬🇧	https://z.1UK_TNT_SPORTS_2/index.m3u8
+TNT Sports 3 🇬🇧	https://z.1UK_TNT_SPORTS_3/index.m3u8
+TNT Sports 4 🇬🇧	https://z.1UK_TNT_SPORTS_4/index.m3u8
+TNT Sports F1 🇮🇹	https://z.1IT_SKY_SPORTS_F1/index.m3u8
+TNT Sports Football 🇬🇧	https://z.1UK_SKY_SPORTS_FOOTBALL/index.m3u8
+
 	^-
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 Afro Sport	01!01dnewproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
@@ -245,14 +260,13 @@ Al Arabiya News	https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playli
 Al Hadath News	https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 Bahrain Sports 1 🇧🇭	https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2 🇧🇭	https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-BBC One	https://z.1UK_BBC_1/index.m3u8
 BBC Three	https://livetvde.net/bbcthree/index.m3u8
 BBC Four	https://livetvde.net/bbcfour/index.m3u8
-beIN Sports US	https://z.1US_BEIN_SPORTS/index.m3u8
 beIN Sports Xtra En Español 🇺🇸	https://bein-esp-xumo.amagi.tv/playlist.m3u8
 beIN Sports Xtra 🇺🇸	https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 BEK TV	https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-Canale 5 🇮🇹	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+Mediaset 1 🇮🇹	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+Mediaset 5 🇮🇹	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 Cazé TV 1 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 Cazé TV 2 🇧🇷	https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/out/v1/74eba8f71bf14154ac3a9491371a6628/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase!!d1cc74a5123cb29f0ec0bc40d6c2f270:a5ed8184ee98c3f0a3c261129c8d6e8b
 Channel 4 🇬🇧	https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd!!0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
@@ -271,7 +285,6 @@ EuroSport 1	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!1
 EuroSport 2	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 FIFA	https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
-Fox Sports 2	https://z.1USA_FOX_SPORTS_2/index.m3u8
 Fox Sports Espanol	01!01dlive-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 Fox Sports 🇲🇽 1	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd!!2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 Fox Sports 🇲🇽 2	i3!16/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd!!8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
@@ -280,10 +293,6 @@ Fox Sports 🇲🇽 Premium	i3!16/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe5
 HRT 1 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt1_1200.m3u8
 HRT 2 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt2_1200.m3u8
 HRT 3 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt3_1200.m3u8
-ITV 1 🇬🇧	https://z.1UK_ITV_1/index.m3u8
-ITV 2 🇬🇧	https://z.1UK_ITV_2/index.m3u8
-ITV 3 🇬🇧	https://z.1UK_ITV_3/index.m3u8
-ITV 4 🇬🇧	https://z.1UK_ITV_4/index.m3u8
 Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Kuwait Sports 🇰🇼	https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
 L'Equipe Live 1 🇫🇷	https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
@@ -293,7 +302,6 @@ MBC 5	https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160
 MBC Drama	https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 MBC Masr Drama 🇪🇬	https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 MBC Masr 🇪🇬	https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-Mediaset 1 🇮🇹 Italia https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 NBC Sports	https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v4tilgx2y7n7y/master.m3u8
 NBC Sports	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd!!0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 NBC TV	i3`06fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
@@ -309,9 +317,8 @@ One Sports	https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.
 ORF Sport Plus 🇦🇹	https://ac-003.live.p7s1video.net/c8f927b4/t_003/orf-sport-plus-at/cenc-default.mpd!!ba811cbf6c7afe35396453271437e013:b55a91719f41754015edb61f5cd2468c
 Persiana	https://spstr.abntv.live/hls/psstream.m3u8
 Persiana	https://tv.sainaertebat.com/hls2/persiana.m3u8
-Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd!!002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+Peacock Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd!!002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 Premiere 🇧🇷	i3!16/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd!!d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-Racing TV	https://z.1UK_RACING_TV/index.m3u8
 Real Madrid TV EN	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 Real Madrid TV ES	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 RTA Sports	https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
@@ -330,11 +337,6 @@ Shahid Movies Action	https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8
 Shahid Movies Thriller	https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 Shahid Shows	https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 
-Sky Sports Arena	https://z.1UK_SKY_SPORTS_ARENA/index.m3u8
-Sky Sports Main Event	https://z.1UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
-Sky Sports Mix	https://z.1UK_SKY_SPORTS_MIX/index.m3u8
-Sky Sports Premier League	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
-Sky Sports Tennis	https://z.1UK_SKY_SPORTS_TENNIS/index.m3u8
 SMC 4	01!01dsvs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -365,13 +367,10 @@ TNT Sports 2	i3!16/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!
 TNT Sports 3	i3!16/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 TNT Sports 4	i3!16/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 TNT Sports 5	i3!16/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd!!60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-TNT Sports 1	https://z.1UK_TNT_SPORTS_1/index.m3u8
-TNT Sports 2	https://z.1UK_TNT_SPORTS_2/index.m3u8
-TNT Sports 3	https://z.1UK_TNT_SPORTS_3/index.m3u8
-TNT Sports 4	https://z.1UK_TNT_SPORTS_4/index.m3u8
 TV 5 Monde	https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 Unifi Sports	https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-Universo	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd!!a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
+Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd!!a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
+Universo West	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-west)/master.mpd!!8af41461cac43b0791958320e60d821b:3590b4e7796f9ee6ac82e1a6ddca75b6
 USA Network East	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd!!78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
 USA Network West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd!!333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 Varzesh	https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
@@ -388,9 +387,10 @@ beIN 1 PL	https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 
 MU TV	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_uk_mutv_fhd/index.m3u8
 ^=MU TV	https://stream2.aws-live-streaming.com/bbs/mutv/chunks.m3u8?nimblesessionid=64762209
-^=Arena Sport 1	https://z.1LIVE_Arena_Sport_1_FHD/index.m3u8
+^=Arena Sport 1	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/LIVE_Arena_Sport_1_FHD/index.m3u8
 ^=Live S4C 🇬🇧	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_s4c/index.m3u8
 ^=Live ESPN 1 🇳🇱	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
+^=Live US ESPN Deportes	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_US_ESPN_DEPORTES/index.m3u8
 ^=Live LaLiga	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_laliga_tv/index.m3u8
 ^=Live Fox Deportes US	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/US_FOX_DEPORTES/index.m3u8
 ^=Channel 9 IR	https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
@@ -1042,7 +1042,6 @@ Sky Sport F1	09!08clinear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/ind
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
 ^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
 
-^=sky1	`0https://player30-ss.blogspot.com/#sky1
 ^=0dd-124	`0https://daddylivehd1.my/embed/stream-124.php
 ^=1dd-124	`1https://daddylivehd1.my/embed/stream-124.php
 ^=referrer 0	`0https://wayaxaz.blogspot.com/
