@@ -1,126 +1,754 @@
-ARENA 1 CROATIA	`0https://player30-ss.blogspot.com/#arena1cro
-ARENA 1 PREMIUM	`0https://player30-ss.blogspot.com/#arena1p
-ARENA 1 SPORT	`0https://player30-ss.blogspot.com/#arena1sp
-ARENA 10 CROATIA	`0https://player30-ss.blogspot.com/#arena10cro
-ARENA 2 CROATIA	`0https://player30-ss.blogspot.com/#arena2cro
-ARENA 2 PREMIUM	`0https://player30-ss.blogspot.com/#arena2p
-ARENA 2 SPORT	`0https://player30-ss.blogspot.com/#arena2sp
-ARENA 3 CROATIA	`0https://player30-ss.blogspot.com/#arena3cro
-ARENA 3 PREMIUM	`0https://player30-ss.blogspot.com/#arena3p
-ARENA 3 SPORT	`0https://player30-ss.blogspot.com/#arena3sp
-ARENA 4 CROATIA	`0https://player30-ss.blogspot.com/#arena4cro
-ARENA 4 SPORT	`0https://player30-ss.blogspot.com/#arena4sp
-ARENA 5 CROATIA	`0https://player30-ss.blogspot.com/#arena5cro
-ARENA 5 SPORT	`0https://player30-ss.blogspot.com/#arena5sp
-ARENA 6 CROATIA	`0https://player30-ss.blogspot.com/#arena6cro
-ARENA 6 SPORT	`0https://player30-ss.blogspot.com/#arena6sp
-ARENA 7 CROATIA	`0https://player30-ss.blogspot.com/#arena7cro
-ARENA 8 CROATIA	`0https://player30-ss.blogspot.com/#arena8cro
-ARENA 9 CROATIA	`0https://player30-ss.blogspot.com/#arena9cro
-BEIN 1	`0https://player30-ss.blogspot.com/#bein1
-BEIN 2	`0https://player30-ss.blogspot.com/#bein2
-BEIN 3	`0https://player30-ss.blogspot.com/#bein3
-BEIN 4	`0https://player30-ss.blogspot.com/#bein4
-BR1	`0https://player30-ss.blogspot.com/#br1
-BR2	`0https://player30-ss.blogspot.com/#br2
-BR3	`0https://player30-ss.blogspot.com/#br3
-BR4	`0https://player30-ss.blogspot.com/#br4
-BR5	`0https://player30-ss.blogspot.com/#br5
-BR6	`0https://player30-ss.blogspot.com/#br6
-BR7	`0https://player30-ss.blogspot.com/#br7
-BR8	`0https://player30-ss.blogspot.com/#br8
-Court1	`0https://player30-ss.blogspot.com/#a11
-Court2	`0https://player30-ss.blogspot.com/#a12
-Court3	`0https://player30-ss.blogspot.com/#a13
-DAZN DE 1	`0https://player30-ss.blogspot.com/#daznede1
-DAZN DE 2	`0https://player30-ss.blogspot.com/#daznede2
-DAZN ES 1	`0https://player30-ss.blogspot.com/#daznes1
-DAZN ES 2	`0https://player30-ss.blogspot.com/#daznes2
-DAZN ES 3	`0https://player30-ss.blogspot.com/#daznes3
-DAZN ES 4	`0https://player30-ss.blogspot.com/#daznes4
-DAZN La Liga	`0https://player30-ss.blogspot.com/#daznlaliga
-ESPN 1	`0https://player30-ss.blogspot.com/#espn1
-ESPN 2	`0https://player30-ss.blogspot.com/#espn2
-ESPN 3	`0https://player30-ss.blogspot.com/#espn3
-ESPN 4	`0https://player30-ss.blogspot.com/#espn4
-GTV	`0https://player30-ss.blogspot.com/#gtv
-HD1	`0https://player30-ss.blogspot.com/#hd1
-HD10	`0https://player30-ss.blogspot.com/#hd10
-HD11	`0https://player30-ss.blogspot.com/#hd11
-HD2	`0https://player30-ss.blogspot.com/#hd2
-HD3	`0https://player30-ss.blogspot.com/#hd3
-HD4	`0https://player30-ss.blogspot.com/#hd4
-HD5	`0https://player30-ss.blogspot.com/#hd5
-HD6	`0https://player30-ss.blogspot.com/#hd6
-HD7	`0https://player30-ss.blogspot.com/#hd7
-HD8	`0https://player30-ss.blogspot.com/#hd8
-HD9	`0https://player30-ss.blogspot.com/#hd9
-iNews	`0https://player30-ss.blogspot.com/#inews
-IOS	`0https://player30-ss.blogspot.com/#a1
-IOS	`0https://player30-ss.blogspot.com/#a2
-IOS	`0https://player30-ss.blogspot.com/#hd1
-Kompas TV	`0https://player30-ss.blogspot.com/#kompastv
-MNC Sport 1	`0https://player30-ss.blogspot.com/#mncsport1
-MNC Sport 2	`0https://player30-ss.blogspot.com/#mncsport2
-MNC Sport 3	`0https://player30-ss.blogspot.com/#mncsport3
-MNC Sport 4	`0https://player30-ss.blogspot.com/#mncsport4
-MNC TV	`0https://player30-ss.blogspot.com/#mnctv
-NBC USA	`0https://player30-ss.blogspot.com/#nbcusa
-Peacock 1	`0https://player30-ss.blogspot.com/#peacock1
-Peacock Premier League	`0https://player30-ss.blogspot.com/#peacockpl
-Play1	`0https://player30-ss.blogspot.com/#gtv
-Play1	`0https://player30-ss.blogspot.com/#hd1
-Play1	`0https://player30-ss.blogspot.com/#sky2
-Play2	`0https://player30-ss.blogspot.com/#hd7
-RCTI	`0https://player30-ss.blogspot.com/#rcti
-Sindo News	`0https://player30-ss.blogspot.com/#sindonews
-Sky Sports 1	`0https://player30-ss.blogspot.com/#sky1
-Sky Sports 2	`0https://player30-ss.blogspot.com/#sky2
-Sky Sports 3	`0https://player30-ss.blogspot.com/#sky3
-Sky Sports 4	`0https://player30-ss.blogspot.com/#sky4
-Sky Sports 5	`0https://player30-ss.blogspot.com/#sky5
-Sky Sports 6	`0https://player30-ss.blogspot.com/#sky6
-Sky Sports 7	`0https://player30-ss.blogspot.com/#sky7
-Sky Sports 8	`0https://player30-ss.blogspot.com/#sky8
-Sky Sports 9	`0https://player30-ss.blogspot.com/#sky9
-Sky Sports Arena	`0https://player30-ss.blogspot.com/#skyarena
-Sky Sports Football	`0https://player30-ss.blogspot.com/#skyfbl
-Sky Sports Main Event	`0https://player30-ss.blogspot.com/#skyme
-Sky Sports Premier League	`0https://player30-ss.blogspot.com/#skypl
-Soccer Channel 1	`0https://player30-ss.blogspot.com/#ssc1
-Soccer Channel 2	`0https://player30-ss.blogspot.com/#ssc2
-Soccer Channel 3	`0https://player30-ss.blogspot.com/#ssc3
-Soccer Channel 4	`0https://player30-ss.blogspot.com/#ssc4
-Soccer Channel 5	`0https://player30-ss.blogspot.com/#ssc5
-Soccer Channel Extra 1	`0https://player30-ss.blogspot.com/#sscextra1
-Soccer Channel Extra 2	`0https://player30-ss.blogspot.com/#sscextra2
-Soccer Channel Extra 3	`0https://player30-ss.blogspot.com/#sscextra3
-Soccer HD	`0https://player30-ss.blogspot.com/#soccerhd
-SP1	`0https://player30-ss.blogspot.com/#sp1
-SP2	`0https://player30-ss.blogspot.com/#sp2
-SP3	`0https://player30-ss.blogspot.com/#sp3
-SP4	`0https://player30-ss.blogspot.com/#sp4
-SP5	`0https://player30-ss.blogspot.com/#sp5
-Sports 1 SK	`0https://player30-ss.blogspot.com/#sports1sk
-Sports 2 SK	`0https://player30-ss.blogspot.com/#sports2sk
-SPOTV 1	`0https://player30-ss.blogspot.com/#spotv1
-SPOTV 2	`0https://player30-ss.blogspot.com/#spotv2
-Telemundo	`0https://player30-ss.blogspot.com/#telemundo
-TNT Sports 1	`0https://player30-ss.blogspot.com/#tnt1
-TNT Sports 2	`0https://player30-ss.blogspot.com/#tnt2
-TNT Sports 3	`0https://player30-ss.blogspot.com/#tnt3
-TUDN USA	`0https://player30-ss.blogspot.com/#tudnusa
-TVRI	`0https://player30-ss.blogspot.com/#tvri
-TVRI Sport	`0https://player30-ss.blogspot.com/#tvrisport
-Universo	`0https://player30-ss.blogspot.com/#universo
-Universo West	`0https://player30-ss.blogspot.com/#universow
-Ziggo 2 Football	`0https://player30-ss.blogspot.com/#ziggo2fbl
-Ziggo 3 Golf	`0https://player30-ss.blogspot.com/#ziggo3g
-Ziggo 4	`0https://player30-ss.blogspot.com/#ziggo4
-Ziggo 5	`0https://player30-ss.blogspot.com/#ziggo5
-Ziggo 6	`0https://player30-ss.blogspot.com/#ziggo6
-Ziggo Sport 1	`0https://player30-ss.blogspot.com/#vsport1
-Ziggo Sport Ball	`0https://player30-ss.blogspot.com/#vsportball
-Ziggo Sport Extra	`0https://player30-ss.blogspot.com/#vextra
-Ziggo Sport Premium	`0https://player30-ss.blogspot.com/#vprem
-Ziggo Sports	`0https://player30-ss.blogspot.com/#ziggos
+#0 Spain	`0https://daddylivehd1.my/embed/stream--437.php
+#Vamos Spain	`0https://daddylivehd1.my/embed/stream--521.php
+20 Mediaset Italy	`0https://daddylivehd1.my/embed/stream--857.php
+3sat DE	`0https://daddylivehd1.my/embed/stream--726.php
+5 USA	`0https://daddylivehd1.my/embed/stream--360.php
+6'eren Denmark	`0https://daddylivehd1.my/embed/stream--800.php
+8Sky Cinema Comedy Italy	`0https://daddylivehd1.my/embed/stream--862.php
+8Sky Cinema Suspense Italy	`0https://daddylivehd1.my/embed/stream--868.php
+A Sport PK	`0https://daddylivehd1.my/embed/stream--269.php
+A&E USA	`0https://daddylivehd1.my/embed/stream--302.php
+ABC USA	`0https://daddylivehd1.my/embed/stream--51.php
+ABCNY USA	`0https://daddylivehd1.my/embed/stream--766.php
+ABS-CBN	`0https://daddylivehd1.my/embed/stream--785.php
+Abu Dhabi Sports 1 Premium	`0https://daddylivehd1.my/embed/stream--609.php
+Abu Dhabi Sports 1 UAE	`0https://daddylivehd1.my/embed/stream--600.php
+Abu Dhabi Sports 2 Premium	`0https://daddylivehd1.my/embed/stream--610.php
+Abu Dhabi Sports 2 UAE	`0https://daddylivehd1.my/embed/stream--601.php
+ACC Network USA	`0https://daddylivehd1.my/embed/stream--664.php
+ACC Network USA	`0https://daddylivehd1.my/embed/stream--666.php
+Adult Swim	`0https://daddylivehd1.my/embed/stream--295.php
+Alkass Four	`0https://daddylivehd1.my/embed/stream--784.php
+Alkass One	`0https://daddylivehd1.my/embed/stream--781.php
+Alkass Three	`0https://daddylivehd1.my/embed/stream--783.php
+Alkass Two	`0https://daddylivehd1.my/embed/stream--782.php
+Altitude Sports	`0https://daddylivehd1.my/embed/stream--923.php
+AMC USA	`0https://daddylivehd1.my/embed/stream--303.php
+Animal Planet	`0https://daddylivehd1.my/embed/stream--304.php
+Antena 3 Spain	`0https://daddylivehd1.my/embed/stream--531.php
+Arena Sport 1 BiH	`0https://daddylivehd1.my/embed/stream--579.php
+Arena Sport 1 Croatia	`0https://daddylivehd1.my/embed/stream--432.php
+Arena Sport 1 Premium	`0https://daddylivehd1.my/embed/stream--134.php
+Arena Sport 1 Serbia	`0https://daddylivehd1.my/embed/stream--429.php
+Arena Sport 2 Croatia	`0https://daddylivehd1.my/embed/stream--433.php
+Arena Sport 2 Premium	`0https://daddylivehd1.my/embed/stream--135.php
+Arena Sport 2 Serbia	`0https://daddylivehd1.my/embed/stream--430.php
+Arena Sport 3 Croatia	`0https://daddylivehd1.my/embed/stream--434.php
+Arena Sport 3 Premium	`0https://daddylivehd1.my/embed/stream--139.php
+Arena Sport 3 Serbia	`0https://daddylivehd1.my/embed/stream--431.php
+Arena Sport 4 Croatia	`0https://daddylivehd1.my/embed/stream--580.php
+Arena Sport 4 Serbia	`0https://daddylivehd1.my/embed/stream--581.php
+Arte DE	`0https://daddylivehd1.my/embed/stream--725.php
+Astro Cricket	`0https://daddylivehd1.my/embed/stream--370.php
+Astro SuperSport 1	`0https://daddylivehd1.my/embed/stream--123.php
+Astro SuperSport 2	`0https://daddylivehd1.my/embed/stream--124.php
+Astro SuperSport 3	`0https://daddylivehd1.my/embed/stream--125.php
+Astro SuperSport 4	`0https://daddylivehd1.my/embed/stream--126.php
+AXN Movies Portugal	`0https://daddylivehd1.my/embed/stream--717.php
+AXS TV USA	`0https://daddylivehd1.my/embed/stream--742.php
+Azteca 7 MX	`0https://daddylivehd1.my/embed/stream--844.php
+Bally Sports Arizona	`0https://daddylivehd1.my/embed/stream--890.php
+Bally Sports Detroit	`0https://daddylivehd1.my/embed/stream--891.php
+Bally Sports Florida	`0https://daddylivehd1.my/embed/stream--892.php
+Bally Sports Great Lakes	`0https://daddylivehd1.my/embed/stream--893.php
+Bally Sports Indiana	`0https://daddylivehd1.my/embed/stream--894.php
+Bally Sports Kansas City	`0https://daddylivehd1.my/embed/stream--895.php
+Bally Sports Midwest	`0https://daddylivehd1.my/embed/stream--896.php
+Bally Sports New Orleans	`0https://daddylivehd1.my/embed/stream--897.php
+Bally Sports North	`0https://daddylivehd1.my/embed/stream--898.php
+Bally Sports Ohio	`0https://daddylivehd1.my/embed/stream--899.php
+Bally Sports Oklahoma	`0https://daddylivehd1.my/embed/stream--900.php
+Bally Sports San Diego	`0https://daddylivehd1.my/embed/stream--901.php
+Bally Sports SoCal	`0https://daddylivehd1.my/embed/stream--902.php
+Bally Sports South	`0https://daddylivehd1.my/embed/stream--903.php
+Bally Sports Southeast	`0https://daddylivehd1.my/embed/stream--904.php
+Bally Sports Sun	`0https://daddylivehd1.my/embed/stream--905.php
+Bally Sports West	`0https://daddylivehd1.my/embed/stream--906.php
+Bally Sports Wisconsin	`0https://daddylivehd1.my/embed/stream--907.php
+Bandsports Brasil	`0https://daddylivehd1.my/embed/stream--275.php
+Barca TV Spain	`0https://daddylivehd1.my/embed/stream--522.php
+BBC 1 DE	`0https://daddylivehd1.my/embed/stream--727.php
+BBC America (BBCA)	`0https://daddylivehd1.my/embed/stream--305.php
+BBC Four UK	`0https://daddylivehd1.my/embed/stream--359.php
+BBC News Channel HD	`0https://daddylivehd1.my/embed/stream--349.php
+BBC One UK	`0https://daddylivehd1.my/embed/stream--356.php
+BBC Three UK	`0https://daddylivehd1.my/embed/stream--358.php
+BBC Two UK	`0https://daddylivehd1.my/embed/stream--357.php
+beIN SPORTS 1 France	`0https://daddylivehd1.my/embed/stream--116.php
+beIN SPORTS 1 Turkey	`0https://daddylivehd1.my/embed/stream--62.php
+beIN SPORTS 2 France	`0https://daddylivehd1.my/embed/stream--117.php
+beIN SPORTS 2 Turkey	`0https://daddylivehd1.my/embed/stream--63.php
+beIN SPORTS 3 France	`0https://daddylivehd1.my/embed/stream--118.php
+beIN SPORTS 3 Turkey	`0https://daddylivehd1.my/embed/stream--64.php
+beIN SPORTS 4 Turkey	`0https://daddylivehd1.my/embed/stream--67.php
+beIN SPORTS Australia 1	`0https://daddylivehd1.my/embed/stream--491.php
+beIN SPORTS Australia 2	`0https://daddylivehd1.my/embed/stream--492.php
+beIN SPORTS Australia 3	`0https://daddylivehd1.my/embed/stream--493.php
+beIN SPORTS en Español	`0https://daddylivehd1.my/embed/stream--372.php
+BeIN Sports HD Qatar	`0https://daddylivehd1.my/embed/stream--578.php
+beIN Sports MAX 10 France	`0https://daddylivehd1.my/embed/stream--500.php
+beIN Sports MAX 4 France	`0https://daddylivehd1.my/embed/stream--494.php
+beIN Sports MAX 5 France	`0https://daddylivehd1.my/embed/stream--495.php
+beIN Sports MAX 6 France	`0https://daddylivehd1.my/embed/stream--496.php
+beIN Sports MAX 7 France	`0https://daddylivehd1.my/embed/stream--497.php
+beIN Sports MAX 8 France	`0https://daddylivehd1.my/embed/stream--498.php
+beIN Sports MAX 9 France	`0https://daddylivehd1.my/embed/stream--499.php
+beIN Sports MENA 1	`0https://daddylivehd1.my/embed/stream--91.php
+beIN Sports MENA 2	`0https://daddylivehd1.my/embed/stream--92.php
+beIN Sports MENA 3	`0https://daddylivehd1.my/embed/stream--93.php
+beIN Sports MENA 4	`0https://daddylivehd1.my/embed/stream--94.php
+beIN Sports MENA 5	`0https://daddylivehd1.my/embed/stream--95.php
+beIN Sports MENA 6	`0https://daddylivehd1.my/embed/stream--96.php
+beIN Sports MENA 7	`0https://daddylivehd1.my/embed/stream--97.php
+beIN Sports MENA English 1	`0https://daddylivehd1.my/embed/stream--61.php
+beIN Sports MENA English 2	`0https://daddylivehd1.my/embed/stream--90.php
+beIN Sports MENA English 3	`0https://daddylivehd1.my/embed/stream--46.php
+beIN Sports MENA Premium 1	`0https://daddylivehd1.my/embed/stream--98.php
+beIN Sports MENA Premium 2	`0https://daddylivehd1.my/embed/stream--99.php
+beIN Sports MENA Premium 3	`0https://daddylivehd1.my/embed/stream--100.php
+BeIN SPORTS USA	`0https://daddylivehd1.my/embed/stream--425.php
+Benfica TV PT	`0https://daddylivehd1.my/embed/stream--380.php
+BET USA	`0https://daddylivehd1.my/embed/stream--306.php
+BIG TEN Network (BTN USA)	`0https://daddylivehd1.my/embed/stream--397.php
+BNT 1 Bulgaria	`0https://daddylivehd1.my/embed/stream--476.php
+BNT 2 Bulgaria	`0https://daddylivehd1.my/embed/stream--477.php
+BNT 3 Bulgaria	`0https://daddylivehd1.my/embed/stream--478.php
+Boomerang	`0https://daddylivehd1.my/embed/stream--648.php
+BR Fernsehen DE	`0https://daddylivehd1.my/embed/stream--737.php
+Bravo USA	`0https://daddylivehd1.my/embed/stream--307.php
+bTV Action Bulgaria	`0https://daddylivehd1.my/embed/stream--481.php
+bTV Bulgaria	`0https://daddylivehd1.my/embed/stream--479.php
+bTV Lady Bulgaria	`0https://daddylivehd1.my/embed/stream--484.php
+C More First Sweden	`0https://daddylivehd1.my/embed/stream--812.php
+C More Football Sweden	`0https://daddylivehd1.my/embed/stream--747.php
+C More Hits Sweden	`0https://daddylivehd1.my/embed/stream--813.php
+C More Series Sweden	`0https://daddylivehd1.my/embed/stream--814.php
+C More Stars Sweden	`0https://daddylivehd1.my/embed/stream--8111.php
+C SPAN 1	`0https://daddylivehd1.my/embed/stream--750.php
+Canal 11 Portugal	`0https://daddylivehd1.my/embed/stream--540.php
+Canal+ Family Poland	`0https://daddylivehd1.my/embed/stream--567.php
+Canal+ Foot France	`0https://daddylivehd1.my/embed/stream--463.php
+Canal+ Formula 1	`0https://daddylivehd1.my/embed/stream--273.php
+Canal+ France	`0https://daddylivehd1.my/embed/stream--121.php
+CANAL+ MotoGP France	`0https://daddylivehd1.my/embed/stream--271.php
+Canal+ Premium Poland	`0https://daddylivehd1.my/embed/stream--566.php
+Canal+ Seriale Poland	`0https://daddylivehd1.my/embed/stream--570.php
+Canal+ Sport 1 Afrique	`0https://daddylivehd1.my/embed/stream--486.php
+Canal+ Sport 2 Afrique	`0https://daddylivehd1.my/embed/stream--487.php
+Canal+ Sport 2 Poland	`0https://daddylivehd1.my/embed/stream--73.php
+Canal+ Sport 3 Afrique	`0https://daddylivehd1.my/embed/stream--488.php
+Canal+ Sport 4 Afrique	`0https://daddylivehd1.my/embed/stream--489.php
+Canal+ Sport 5 Afrique	`0https://daddylivehd1.my/embed/stream--490.php
+CANAL+ SPORT 5 Poland	`0https://daddylivehd1.my/embed/stream--75.php
+Canal+ Sport France	`0https://daddylivehd1.my/embed/stream--122.php
+Canal+ Sport Poland	`0https://daddylivehd1.my/embed/stream--48.php
+Canal+ Sport360	`0https://daddylivehd1.my/embed/stream--464.php
+CANAL9 Denmark	`0https://daddylivehd1.my/embed/stream--805.php
+Cartoon Network	`0https://daddylivehd1.my/embed/stream--339.php
+CBC CA	`0https://daddylivehd1.my/embed/stream--699.php
+CBC CA	`0https://daddylivehd1.my/embed/stream--832.php
+CBS Sports Golazo	`0https://daddylivehd1.my/embed/stream--910.php
+CBS Sports Network (CBSSN)	`0https://daddylivehd1.my/embed/stream--308.php
+CBS USA	`0https://daddylivehd1.my/embed/stream--52.php
+CBSNY USA	`0https://daddylivehd1.my/embed/stream--767.php
+Channel 10 Israe	`0https://daddylivehd1.my/embed/stream--547.php
+Channel 11 Israel	`0https://daddylivehd1.my/embed/stream--548.php
+Channel 12 Israel	`0https://daddylivehd1.my/embed/stream--549.php
+Channel 13 Israel	`0https://daddylivehd1.my/embed/stream--551.php
+Channel 14 Israel	`0https://daddylivehd1.my/embed/stream--552.php
+Channel 4 UK	`0https://daddylivehd1.my/embed/stream--354.php
+Channel 5 UK	`0https://daddylivehd1.my/embed/stream--355.php
+Channel 9 Israel	`0https://daddylivehd1.my/embed/stream--546.php
+Cinemax USA	`0https://daddylivehd1.my/embed/stream--374.php
+Citytv	`0https://daddylivehd1.my/embed/stream--831.php
+Cleo TV	`0https://daddylivehd1.my/embed/stream--715.php
+CMT USA	`0https://daddylivehd1.my/embed/stream--647.php
+CMTV Portugal	`0https://daddylivehd1.my/embed/stream--790.php
+CNBC USA	`0https://daddylivehd1.my/embed/stream--309.php
+CNN USA	`0https://daddylivehd1.my/embed/stream--345.php
+Combate Brasil	`0https://daddylivehd1.my/embed/stream--89.php
+Comedy Central	`0https://daddylivehd1.my/embed/stream--310.php
+Comet USA	`0https://daddylivehd1.my/embed/stream--696.php
+Cooking Channel USA	`0https://daddylivehd1.my/embed/stream--697.php
+Cosmote Sport 1 HD	`0https://daddylivehd1.my/embed/stream--622.php
+Cosmote Sport 2 HD	`0https://daddylivehd1.my/embed/stream--623.php
+Cosmote Sport 3 HD	`0https://daddylivehd1.my/embed/stream--624.php
+Cosmote Sport 4 HD	`0https://daddylivehd1.my/embed/stream--625.php
+Cosmote Sport 5 HD	`0https://daddylivehd1.my/embed/stream--626.php
+Cosmote Sport 6 HD	`0https://daddylivehd1.my/embed/stream--627.php
+Cosmote Sport 7 HD	`0https://daddylivehd1.my/embed/stream--628.php
+Cosmote Sport 8 HD	`0https://daddylivehd1.my/embed/stream--629.php
+Cosmote Sport 9 HD	`0https://daddylivehd1.my/embed/stream--630.php
+Court TV USA	`0https://daddylivehd1.my/embed/stream--281.php
+COZI TV USA	`0https://daddylivehd1.my/embed/stream--748.php
+Crime+ Investigation USA	`0https://daddylivehd1.my/embed/stream--669.php
+CTV 2 Canada	`0https://daddylivehd1.my/embed/stream--838.php
+CTV Canada	`0https://daddylivehd1.my/embed/stream--602.php
+Cuatro Spain	`0https://daddylivehd1.my/embed/stream--535.php
+CW PIX 11 USA	`0https://daddylivehd1.my/embed/stream--280.php
+CW USA	`0https://daddylivehd1.my/embed/stream--300.php
+Cytavision Sports 1 Cyprus	`0https://daddylivehd1.my/embed/stream--911.php
+Cytavision Sports 2 Cyprus	`0https://daddylivehd1.my/embed/stream--912.php
+Cytavision Sports 3 Cyprus	`0https://daddylivehd1.my/embed/stream--913.php
+Cytavision Sports 4 Cyprus	`0https://daddylivehd1.my/embed/stream--914.php
+Cytavision Sports 5 Cyprus	`0https://daddylivehd1.my/embed/stream--915.php
+Cytavision Sports 6 Cyprus	`0https://daddylivehd1.my/embed/stream--916.php
+Cytavision Sports 7 Cyprus	`0https://daddylivehd1.my/embed/stream--917.php
+Dave	`0https://daddylivehd1.my/embed/stream--348.php
+DAZN 1 Bar DE	`0https://daddylivehd1.my/embed/stream--426.php
+DAZN 1 Spain	`0https://daddylivehd1.my/embed/stream--445.php
+DAZN 1 UK	`0https://daddylivehd1.my/embed/stream--230.php
+DAZN 2 Bar DE	`0https://daddylivehd1.my/embed/stream--427.php
+DAZN 2 Spain	`0https://daddylivehd1.my/embed/stream--446.php
+DAZN 3 Spain	`0https://daddylivehd1.my/embed/stream--447.php
+DAZN 4 Spain	`0https://daddylivehd1.my/embed/stream--448.php
+DAZN F1 ES	`0https://daddylivehd1.my/embed/stream--537.php
+DAZN LaLiga 2	`0https://daddylivehd1.my/embed/stream--43.php
+DAZN LaLiga	`0https://daddylivehd1.my/embed/stream--538.php
+Destination America	`0https://daddylivehd1.my/embed/stream--651.php
+Diema Bulgaria	`0https://daddylivehd1.my/embed/stream--482.php
+Diema Family Bulgaria	`0https://daddylivehd1.my/embed/stream--485.php
+Diema Sport 2 Bulgaria	`0https://daddylivehd1.my/embed/stream--466.php
+Diema Sport 3 Bulgaria	`0https://daddylivehd1.my/embed/stream--467.php
+Diema Sport Bulgaria	`0https://daddylivehd1.my/embed/stream--465.php
+Digi Sport 1 Romania	`0https://daddylivehd1.my/embed/stream--400.php
+Digi Sport 2 Romania	`0https://daddylivehd1.my/embed/stream--401.php
+Digi Sport 3 Romania	`0https://daddylivehd1.my/embed/stream--402.php
+Digi Sport 4 Romania	`0https://daddylivehd1.my/embed/stream--403.php
+Discovery Channel	`0https://daddylivehd1.my/embed/stream--313.php
+Discovery Family	`0https://daddylivehd1.my/embed/stream--657.php
+Discovery Life Channel	`0https://daddylivehd1.my/embed/stream--311.php
+Discovery Velocity CA	`0https://daddylivehd1.my/embed/stream--285.php
+Disney Channel	`0https://daddylivehd1.my/embed/stream--312.php
+Disney JR	`0https://daddylivehd1.my/embed/stream--652.php
+Disney XD	`0https://daddylivehd1.my/embed/stream--314.php
+DR1 Denmark	`0https://daddylivehd1.my/embed/stream--801.php
+DR2 Denmark	`0https://daddylivehd1.my/embed/stream--802.php
+DSTV kykNET & kie	`0https://daddylivehd1.my/embed/stream--828.php
+DSTV M-Net	`0https://daddylivehd1.my/embed/stream--827.php
+DSTV Mzansi Magic	`0https://daddylivehd1.my/embed/stream--786.php
+Dubai Racing 1 UAE	`0https://daddylivehd1.my/embed/stream--607.php
+Dubai Racing 2 UAE	`0https://daddylivehd1.my/embed/stream--608.php
+Dubai Sports 1 UAE	`0https://daddylivehd1.my/embed/stream--604.php
+Dubai Sports 2 UAE	`0https://daddylivehd1.my/embed/stream--605.php
+Dubai Sports 3 UAE	`0https://daddylivehd1.my/embed/stream--606.php
+E! Entertainment Television	`0https://daddylivehd1.my/embed/stream--315.php
+E4 Channel	`0https://daddylivehd1.my/embed/stream--363.php
+Eleven Sports 1 Poland	`0https://daddylivehd1.my/embed/stream--71.php
+Eleven Sports 1 Portugal	`0https://daddylivehd1.my/embed/stream--455.php
+Eleven Sports 2 Poland	`0https://daddylivehd1.my/embed/stream--72.php
+Eleven Sports 2 Portugal	`0https://daddylivehd1.my/embed/stream--456.php
+Eleven Sports 3 Poland	`0https://daddylivehd1.my/embed/stream--428.php
+Eleven Sports 3 Portugal	`0https://daddylivehd1.my/embed/stream--457.php
+Eleven Sports 4 Portugal	`0https://daddylivehd1.my/embed/stream--458.php
+Eleven Sports 5 Portugal	`0https://daddylivehd1.my/embed/stream--459.php
+ERT 1 Greece	`0https://daddylivehd1.my/embed/stream--774.php
+ESPN 1 NL	`0https://daddylivehd1.my/embed/stream--379.php
+ESPN 2 NL	`0https://daddylivehd1.my/embed/stream--386.php
+ESPN Brasil	`0https://daddylivehd1.my/embed/stream--81.php
+ESPN Deportes	`0https://daddylivehd1.my/embed/stream--375.php
+ESPN Extra Argentina	`0https://daddylivehd1.my/embed/stream--798.php
+ESPN Premium Argentina	`0https://daddylivehd1.my/embed/stream--387.php
+ESPN SUR	`0https://daddylivehd1.my/embed/stream--149.php
+ESPN USA	`0https://daddylivehd1.my/embed/stream--44.php
+ESPN2 Brasil	`0https://daddylivehd1.my/embed/stream--82.php
+ESPN2 SUR	`0https://daddylivehd1.my/embed/stream--150.php
+ESPN2 USA	`0https://daddylivehd1.my/embed/stream--45.php
+ESPN3 Brasil	`0https://daddylivehd1.my/embed/stream--83.php
+ESPN4 Brasil	`0https://daddylivehd1.my/embed/stream--85.php
+ESPNews	`0https://daddylivehd1.my/embed/stream--288.php
+ESPNU USA	`0https://daddylivehd1.my/embed/stream--316.php
+Eurosport 1 Bulgaria	`0https://daddylivehd1.my/embed/stream--469.php
+Eurosport 1 France	`0https://daddylivehd1.my/embed/stream--772.php
+EuroSport 1 Italy	`0https://daddylivehd1.my/embed/stream--878.php
+EuroSport 1 Poland	`0https://daddylivehd1.my/embed/stream--57.php
+EuroSport 1 Spain	`0https://daddylivehd1.my/embed/stream--524.php
+EuroSport 1 UK	`0https://daddylivehd1.my/embed/stream--41.php
+Eurosport 2 Bulgaria	`0https://daddylivehd1.my/embed/stream--470.php
+Eurosport 2 France	`0https://daddylivehd1.my/embed/stream--773.php
+EuroSport 2 Italy	`0https://daddylivehd1.my/embed/stream--879.php
+EuroSport 2 Poland	`0https://daddylivehd1.my/embed/stream--58.php
+EuroSport 2 Spain	`0https://daddylivehd1.my/embed/stream--525.php
+EuroSport 2 UK	`0https://daddylivehd1.my/embed/stream--42.php
+Fashion TV	`0https://daddylivehd1.my/embed/stream--744.php
+FETV - Family Entertainment Television	`0https://daddylivehd1.my/embed/stream--751.php
+Fight Network	`0https://daddylivehd1.my/embed/stream--757.php
+Film4 UK	`0https://daddylivehd1.my/embed/stream--688.php
+FilmBox Premium Poland	`0https://daddylivehd1.my/embed/stream--568.php
+Fox Business	`0https://daddylivehd1.my/embed/stream--297.php
+Fox Cricket	`0https://daddylivehd1.my/embed/stream--369.php
+FOX Deportes USA	`0https://daddylivehd1.my/embed/stream--643.php
+FOX HD Bulgaria	`0https://daddylivehd1.my/embed/stream--483.php
+Fox News	`0https://daddylivehd1.my/embed/stream--347.php
+FOX Soccer Plus	`0https://daddylivehd1.my/embed/stream--756.php
+Fox Sports 1 USA	`0https://daddylivehd1.my/embed/stream--39.php
+Fox Sports 2 Argentina	`0https://daddylivehd1.my/embed/stream--788.php
+Fox Sports 2 USA	`0https://daddylivehd1.my/embed/stream--758.php
+Fox Sports 3 Argentina	`0https://daddylivehd1.my/embed/stream--789.php
+FOX Sports 502 AU	`0https://daddylivehd1.my/embed/stream--820.php
+FOX Sports 503 AU	`0https://daddylivehd1.my/embed/stream--821.php
+FOX Sports 504 AU	`0https://daddylivehd1.my/embed/stream--822.php
+FOX Sports 505 AU	`0https://daddylivehd1.my/embed/stream--823.php
+FOX Sports 506 AU	`0https://daddylivehd1.my/embed/stream--824.php
+FOX Sports 507 AU	`0https://daddylivehd1.my/embed/stream--825.php
+Fox Sports Argentina	`0https://daddylivehd1.my/embed/stream--787.php
+Fox Sports Premium MX	`0https://daddylivehd1.my/embed/stream--830.php
+FOX USA	`0https://daddylivehd1.my/embed/stream--54.php
+Fox Weather Channel	`0https://daddylivehd1.my/embed/stream--775.php
+FOXNY USA	`0https://daddylivehd1.my/embed/stream--768.php
+Freeform	`0https://daddylivehd1.my/embed/stream--301.php
+FUSE TV USA	`0https://daddylivehd1.my/embed/stream--279.php
+FX Movie Channel	`0https://daddylivehd1.my/embed/stream--381.php
+FX USA	`0https://daddylivehd1.my/embed/stream--317.php
+FXX USA	`0https://daddylivehd1.my/embed/stream--298.php
+FYI	`0https://daddylivehd1.my/embed/stream--665.php
+Galavisión USA	`0https://daddylivehd1.my/embed/stream--743.php
+Game Show Network	`0https://daddylivehd1.my/embed/stream--319.php
+Global CA	`0https://daddylivehd1.my/embed/stream--836.php
+Globo RIO	`0https://daddylivehd1.my/embed/stream--761.php
+Globo SP	`0https://daddylivehd1.my/embed/stream--760.php
+Gol Mundial 1	`0https://daddylivehd1.my/embed/stream--292.php
+GOL PLAY Spain	`0https://daddylivehd1.my/embed/stream--530.php
+Gold UK	`0https://daddylivehd1.my/embed/stream--687.php
+GOLF Channel USA	`0https://daddylivehd1.my/embed/stream--318.php
+Grit Channel	`0https://daddylivehd1.my/embed/stream--752.php
+Hallmark Movies & Mysterie	`0https://daddylivehd1.my/embed/stream--296.php
+HBO Comedy USA	`0https://daddylivehd1.my/embed/stream--690.php
+HBO Family USA	`0https://daddylivehd1.my/embed/stream--691.php
+HBO Latino USA	`0https://daddylivehd1.my/embed/stream--692.php
+HBO Poland	`0https://daddylivehd1.my/embed/stream--569.php
+HBO Signature USA	`0https://daddylivehd1.my/embed/stream--693.php
+HBO USA	`0https://daddylivehd1.my/embed/stream--321.php
+HBO Zone USA	`0https://daddylivehd1.my/embed/stream--694.php
+HBO2 USA	`0https://daddylivehd1.my/embed/stream--689.php
+Headline News	`0https://daddylivehd1.my/embed/stream--323.php
+HGTV	`0https://daddylivehd1.my/embed/stream--382.php
+History USA	`0https://daddylivehd1.my/embed/stream--322.php
+HOT3 Israel	`0https://daddylivehd1.my/embed/stream--553.php
+HR Fernsehen DE	`0https://daddylivehd1.my/embed/stream--740.php
+IFC TV USA	`0https://daddylivehd1.my/embed/stream--656.php
+Investigation Discovery (ID USA)	`0https://daddylivehd1.my/embed/stream--324.php
+ION USA	`0https://daddylivehd1.my/embed/stream--325.php
+Italia 1 Italy	`0https://daddylivehd1.my/embed/stream--854.php
+ITV 1 UK	`0https://daddylivehd1.my/embed/stream--350.php
+ITV 2 UK	`0https://daddylivehd1.my/embed/stream--351.php
+ITV 3 UK	`0https://daddylivehd1.my/embed/stream--352.php
+ITV 4 UK	`0https://daddylivehd1.my/embed/stream--353.php
+Kabel Eins (Kabel 1) DE	`0https://daddylivehd1.my/embed/stream--731.php
+Kanal 4 Denmark	`0https://daddylivehd1.my/embed/stream--803.php
+Kanal 5 Denmark	`0https://daddylivehd1.my/embed/stream--804.php
+La Sexta Spain	`0https://daddylivehd1.my/embed/stream--534.php
+La7 Italy	`0https://daddylivehd1.my/embed/stream--855.php
+LA7d HD+ Italy	`0https://daddylivehd1.my/embed/stream--856.php
+LaLiga SmartBank TV	`0https://daddylivehd1.my/embed/stream--539.php
+LaLigaTV UK	`0https://daddylivehd1.my/embed/stream--276.php
+Law & Crime Network	`0https://daddylivehd1.my/embed/stream--278.php
+L'Equipe France	`0https://daddylivehd1.my/embed/stream--645.php
+Lifetime Movies Network	`0https://daddylivehd1.my/embed/stream--389.php
+Lifetime Network	`0https://daddylivehd1.my/embed/stream--326.php
+Liverpool TV (LFC TV)	`0https://daddylivehd1.my/embed/stream--826.php
+Longhorn Network USA	`0https://daddylivehd1.my/embed/stream--667.php
+Magnolia Network	`0https://daddylivehd1.my/embed/stream--299.php
+Marquee Sports Network	`0https://daddylivehd1.my/embed/stream--770.php
+MASN USA	`0https://daddylivehd1.my/embed/stream--829.php
+Match Football 1 Russia	`0https://daddylivehd1.my/embed/stream--136.php
+Match Football 2 Russia	`0https://daddylivehd1.my/embed/stream--137.php
+Match Football 3 Russia	`0https://daddylivehd1.my/embed/stream--138.php
+Match Premier Russia	`0https://daddylivehd1.my/embed/stream--573.php
+Match TV Russia	`0https://daddylivehd1.my/embed/stream--127.php
+MAVTV USA	`0https://daddylivehd1.my/embed/stream--646.php
+Max Sport 1 Bulgaria	`0https://daddylivehd1.my/embed/stream--472.php
+Max Sport 1 Croatia	`0https://daddylivehd1.my/embed/stream--779.php
+Max Sport 2 Bulgaria	`0https://daddylivehd1.my/embed/stream--473.php
+Max Sport 2 Croatia	`0https://daddylivehd1.my/embed/stream--780.php
+Max Sport 3 Bulgaria	`0https://daddylivehd1.my/embed/stream--474.php
+Max Sport 4 Bulgaria	`0https://daddylivehd1.my/embed/stream--475.php
+MDR DE	`0https://daddylivehd1.my/embed/stream--733.php
+METV USA	`0https://daddylivehd1.my/embed/stream--662.php
+MGM+ USA / Epix	`0https://daddylivehd1.my/embed/stream--791.php
+MLB Network USA	`0https://daddylivehd1.my/embed/stream--399.php
+Monumental Sports Network	`0https://daddylivehd1.my/embed/stream--924.php
+Motor Trend	`0https://daddylivehd1.my/embed/stream--661.php
+Motowizja Poland	`0https://daddylivehd1.my/embed/stream--563.php
+Movistar Deportes 2 Spain	`0https://daddylivehd1.my/embed/stream--438.php
+Movistar Deportes 3 Spain	`0https://daddylivehd1.my/embed/stream--526.php
+Movistar Deportes 4 Spain	`0https://daddylivehd1.my/embed/stream--527.php
+Movistar Deportes Spain	`0https://daddylivehd1.my/embed/stream--436.php
+Movistar Golf Spain	`0https://daddylivehd1.my/embed/stream--528.php
+Movistar Laliga	`0https://daddylivehd1.my/embed/stream--84.php
+Movistar Liga de Campeones	`0https://daddylivehd1.my/embed/stream--435.php
+MSG USA	`0https://daddylivehd1.my/embed/stream--765.php
+MSNBC	`0https://daddylivehd1.my/embed/stream--327.php
+MTV Denmark	`0https://daddylivehd1.my/embed/stream--806.php
+MTV UK	`0https://daddylivehd1.my/embed/stream--367.php
+MTV USA	`0https://daddylivehd1.my/embed/stream--371.php
+Mundotoro TV Spain	`0https://daddylivehd1.my/embed/stream--749.php
+MUTV UK	`0https://daddylivehd1.my/embed/stream--377.php
+MY9TV USA	`0https://daddylivehd1.my/embed/stream--654.php
+Nat Geo Wild USA	`0https://daddylivehd1.my/embed/stream--745.php
+National Geographic (NGC)	`0https://daddylivehd1.my/embed/stream--328.php
+NBA TV USA	`0https://daddylivehd1.my/embed/stream--404.php
+NBC Sports Bay Area	`0https://daddylivehd1.my/embed/stream--753.php
+NBC Sports Boston	`0https://daddylivehd1.my/embed/stream--754.php
+NBC Sports California	`0https://daddylivehd1.my/embed/stream--755.php
+NBC Sports Chicago	`0https://daddylivehd1.my/embed/stream--776.php
+NBC Sports Philadelphia	`0https://daddylivehd1.my/embed/stream--777.php
+NBC Sports Washington	`0https://daddylivehd1.my/embed/stream--778.php
+NBC USA	`0https://daddylivehd1.my/embed/stream--53.php
+NBC10 Philadelphia	`0https://daddylivehd1.my/embed/stream--277.php
+NBCNY USA	`0https://daddylivehd1.my/embed/stream--769.php
+NDR DE	`0https://daddylivehd1.my/embed/stream--736.php
+NESN USA	`0https://daddylivehd1.my/embed/stream--762.php
+New! CWPIX 11	`0https://daddylivehd1.my/embed/stream--771.php
+Newsmax USA	`0https://daddylivehd1.my/embed/stream--613.php
+NFL Network	`0https://daddylivehd1.my/embed/stream--405.php
+NHL Network USA	`0https://daddylivehd1.my/embed/stream--663.php
+NICK JR	`0https://daddylivehd1.my/embed/stream--329.php
+NICK	`0https://daddylivehd1.my/embed/stream--330.php
+Nicktoons	`0https://daddylivehd1.my/embed/stream--649.php
+Noovo CA	`0https://daddylivehd1.my/embed/stream--835.php
+Nova Sport Bulgaria	`0https://daddylivehd1.my/embed/stream--468.php
+Nova Sport Serbia	`0https://daddylivehd1.my/embed/stream--582.php
+Nova Sports 1 Greece	`0https://daddylivehd1.my/embed/stream--631.php
+Nova Sports 2 Greece	`0https://daddylivehd1.my/embed/stream--632.php
+Nova Sports 3 Greece	`0https://daddylivehd1.my/embed/stream--633.php
+Nova Sports 4 Greece	`0https://daddylivehd1.my/embed/stream--634.php
+Nova Sports 5 Greece	`0https://daddylivehd1.my/embed/stream--635.php
+Nova Sports 6 Greece	`0https://daddylivehd1.my/embed/stream--636.php
+Nova Sports News Greece	`0https://daddylivehd1.my/embed/stream--639.php
+Nova Sports Premier League Greece	`0https://daddylivehd1.my/embed/stream--599.php
+Nova Sports Prime Greece	`0https://daddylivehd1.my/embed/stream--638.php
+Nova Sports Start Greece	`0https://daddylivehd1.my/embed/stream--637.php
+Nova TV Bulgaria	`0https://daddylivehd1.my/embed/stream--480.php
+ONE 1 HD Israel	`0https://daddylivehd1.my/embed/stream--541.php
+ONE 2 HD Israel	`0https://daddylivehd1.my/embed/stream--542.php
+OnTime Sports 2	`0https://daddylivehd1.my/embed/stream--612.php
+OnTime Sports	`0https://daddylivehd1.my/embed/stream--611.php
+Oprah Winfrey Network (OWN)	`0https://daddylivehd1.my/embed/stream--331.php
+Orange Sport 1 Romania	`0https://daddylivehd1.my/embed/stream--439.php
+Orange Sport 2 Romania	`0https://daddylivehd1.my/embed/stream--440.php
+Orange Sport 3 Romania	`0https://daddylivehd1.my/embed/stream--441.php
+Orange Sport 4 Romania	`0https://daddylivehd1.my/embed/stream--442.php
+Oxygen True Crime	`0https://daddylivehd1.my/embed/stream--332.php
+Pac-12 Network USA	`0https://daddylivehd1.my/embed/stream--287.php
+Paramount Network	`0https://daddylivehd1.my/embed/stream--334.php
+PBS USA USA	`0https://daddylivehd1.my/embed/stream--210.php
+Polsat Film Poland	`0https://daddylivehd1.my/embed/stream--564.php
+Polsat News Poland	`0https://daddylivehd1.my/embed/stream--443.php
+Polsat Poland	`0https://daddylivehd1.my/embed/stream--562.php
+Polsat Sport Extra Poland	`0https://daddylivehd1.my/embed/stream--50.php
+Polsat Sport News Poland	`0https://daddylivehd1.my/embed/stream--129.php
+Polsat Sport Poland	`0https://daddylivehd1.my/embed/stream--47.php
+POP TV USA	`0https://daddylivehd1.my/embed/stream--653.php
+Porto Canal Portugal	`0https://daddylivehd1.my/embed/stream--718.php
+Premier Brasil	`0https://daddylivehd1.my/embed/stream--88.php
+Premier Sports Ireland 2	`0https://daddylivehd1.my/embed/stream--799.php
+Prima Sport 1	`0https://daddylivehd1.my/embed/stream--583.php
+Prima Sport 2	`0https://daddylivehd1.my/embed/stream--584.php
+Prima Sport 3	`0https://daddylivehd1.my/embed/stream--585.php
+Prima Sport 4	`0https://daddylivehd1.my/embed/stream--586.php
+Prima TV RO	`0https://daddylivehd1.my/embed/stream--843.php
+ProSieben (PRO7) DE	`0https://daddylivehd1.my/embed/stream--730.php
+PTV Sports	`0https://daddylivehd1.my/embed/stream--450.php
+Racing Tv UK	`0https://daddylivehd1.my/embed/stream--555.php
+Rai 1 Italy	`0https://daddylivehd1.my/embed/stream--850.php
+Rai 2 Italy	`0https://daddylivehd1.my/embed/stream--851.php
+Rai 3 Italy	`0https://daddylivehd1.my/embed/stream--852.php
+Rai 3 Italy	`0https://daddylivehd1.my/embed/stream--853.php
+Rai Premium Italy	`0https://daddylivehd1.my/embed/stream--858.php
+Rai Sport Italy	`0https://daddylivehd1.my/embed/stream--882.php
+RDS 2 CA	`0https://daddylivehd1.my/embed/stream--840.php
+RDS CA	`0https://daddylivehd1.my/embed/stream--839.php
+RDS Info CA	`0https://daddylivehd1.my/embed/stream--841.php
+Real Madrid TV Spain	`0https://daddylivehd1.my/embed/stream--523.php
+Reelz Channel	`0https://daddylivehd1.my/embed/stream--293.php
+Ring Bulgaria	`0https://daddylivehd1.my/embed/stream--471.php
+RMC Sport 1 France	`0https://daddylivehd1.my/embed/stream--119.php
+RMC Sport 2 France	`0https://daddylivehd1.my/embed/stream--120.php
+Root Sports Northwest	`0https://daddylivehd1.my/embed/stream--920.php
+RTE 1	`0https://daddylivehd1.my/embed/stream--364.php
+RTE 2	`0https://daddylivehd1.my/embed/stream--365.php
+RTL7 Netherland	`0https://daddylivehd1.my/embed/stream--390.php
+RTP 1 Portugal	`0https://daddylivehd1.my/embed/stream--719.php
+RTP 2 Portugal	`0https://daddylivehd1.my/embed/stream--720.php
+RTP 3 Portugal	`0https://daddylivehd1.my/embed/stream--721.php
+S4C UK	`0https://daddylivehd1.my/embed/stream--670.php
+SAT.1 DE	`0https://daddylivehd1.my/embed/stream--729.php
+SBS6 NL	`0https://daddylivehd1.my/embed/stream--883.php
+Science Channel	`0https://daddylivehd1.my/embed/stream--294.php
+SEC Network USA	`0https://daddylivehd1.my/embed/stream--385.php
+SEE Denmark	`0https://daddylivehd1.my/embed/stream--811.php
+Showtime 2 USA (SHO2) USA	`0https://daddylivehd1.my/embed/stream--792.php
+Showtime Extreme USA	`0https://daddylivehd1.my/embed/stream--794.php
+Showtime Family Zone (SHO Family Zone) USA	`0https://daddylivehd1.my/embed/stream--795.php
+Showtime Next (SHO Next) USA	`0https://daddylivehd1.my/embed/stream--796.php
+Showtime Showcase USA	`0https://daddylivehd1.my/embed/stream--793.php
+Showtime USA	`0https://daddylivehd1.my/embed/stream--333.php
+Showtime Women USA	`0https://daddylivehd1.my/embed/stream--797.php
+SIC Portugal	`0https://daddylivehd1.my/embed/stream--722.php
+Sixx DE	`0https://daddylivehd1.my/embed/stream--732.php
+Sky Arts UK	`0https://daddylivehd1.my/embed/stream--683.php
+Sky Atlantic	`0https://daddylivehd1.my/embed/stream--362.php
+Sky Calcio 1 (251) Italy	`0https://daddylivehd1.my/embed/stream--871.php
+Sky Calcio 2 (252) Italy	`0https://daddylivehd1.my/embed/stream--872.php
+Sky Calcio 3 (253) Italy	`0https://daddylivehd1.my/embed/stream--873.php
+Sky Calcio 4 (254) Italy	`0https://daddylivehd1.my/embed/stream--874.php
+Sky Calcio 5 (255) Italy	`0https://daddylivehd1.my/embed/stream--875.php
+Sky Calcio 6 (256) Italy	`0https://daddylivehd1.my/embed/stream--876.php
+Sky Calcio 7 (257) Italy	`0https://daddylivehd1.my/embed/stream--877.php
+Sky Cinema Action Italy	`0https://daddylivehd1.my/embed/stream--861.php
+Sky Cinema Action UK	`0https://daddylivehd1.my/embed/stream--677.php
+Sky Cinema Animation UK	`0https://daddylivehd1.my/embed/stream--675.php
+Sky Cinema Collection Italy	`0https://daddylivehd1.my/embed/stream--859.php
+Sky Cinema Drama Italy	`0https://daddylivehd1.my/embed/stream--867.php
+Sky Cinema Due +24 Italy	`0https://daddylivehd1.my/embed/stream--866.php
+Sky Cinema Family Italy	`0https://daddylivehd1.my/embed/stream--865.php
+Sky Cinema Family UK	`0https://daddylivehd1.my/embed/stream--676.php
+Sky Cinema Greats UK	`0https://daddylivehd1.my/embed/stream--674.php
+Sky Cinema Hits UK	`0https://daddylivehd1.my/embed/stream--673.php
+Sky Cinema Premiere UK	`0https://daddylivehd1.my/embed/stream--671.php
+Sky Cinema Romance Italy	`0https://daddylivehd1.my/embed/stream--864.php
+Sky Cinema Sci-Fi Horror UK	`0https://daddylivehd1.my/embed/stream--681.php
+Sky Cinema Select UK	`0https://daddylivehd1.my/embed/stream--672.php
+Sky Cinema Thriller UK	`0https://daddylivehd1.my/embed/stream--679.php
+Sky Cinema Uno +24 Italy	`0https://daddylivehd1.my/embed/stream--863.php
+Sky Cinema Uno Italy	`0https://daddylivehd1.my/embed/stream--860.php
+Sky Comedy UK	`0https://daddylivehd1.my/embed/stream--684.php
+Sky Crime	`0https://daddylivehd1.my/embed/stream--685.php
+Sky History	`0https://daddylivehd1.my/embed/stream--686.php
+Sky Serie Italy	`0https://daddylivehd1.my/embed/stream--880.php
+Sky Showcase UK	`0https://daddylivehd1.my/embed/stream--682.php
+Sky Sport 1 NZ	`0https://daddylivehd1.my/embed/stream--588.php
+Sky Sport 2 NZ	`0https://daddylivehd1.my/embed/stream--589.php
+Sky Sport 24 Italy	`0https://daddylivehd1.my/embed/stream--869.php
+Sky Sport 3 NZ	`0https://daddylivehd1.my/embed/stream--590.php
+Sky Sport 4 NZ	`0https://daddylivehd1.my/embed/stream--591.php
+Sky Sport 5 NZ	`0https://daddylivehd1.my/embed/stream--592.php
+Sky Sport 6 NZ	`0https://daddylivehd1.my/embed/stream--593.php
+Sky Sport 7 NZ	`0https://daddylivehd1.my/embed/stream--594.php
+Sky Sport 8 NZ	`0https://daddylivehd1.my/embed/stream--595.php
+Sky Sport 9 NZ	`0https://daddylivehd1.my/embed/stream--596.php
+Sky Sport Arena Italy	`0https://daddylivehd1.my/embed/stream--462.php
+Sky Sport Austria 1 HD	`0https://daddylivehd1.my/embed/stream--559.php
+Sky Sport Bundesliga 1 HD	`0https://daddylivehd1.my/embed/stream--558.php
+Sky Sport Calcio Italy	`0https://daddylivehd1.my/embed/stream--870.php
+Sky Sport F1 Italy	`0https://daddylivehd1.my/embed/stream--577.php
+Sky Sport Football Italy	`0https://daddylivehd1.my/embed/stream--460.php
+Sky Sport Mix DE	`0https://daddylivehd1.my/embed/stream--557.php
+Sky Sport MotoGP Italy	`0https://daddylivehd1.my/embed/stream--575.php
+Sky Sport Select NZ	`0https://daddylivehd1.my/embed/stream--587.php
+Sky Sport Tennis Italy	`0https://daddylivehd1.my/embed/stream--576.php
+Sky Sport Top Event DE	`0https://daddylivehd1.my/embed/stream--556.php
+Sky Sport UNO Italy	`0https://daddylivehd1.my/embed/stream--461.php
+Sky Sports Action UK	`0https://daddylivehd1.my/embed/stream--37.php
+Sky Sports Arena UK	`0https://daddylivehd1.my/embed/stream--36.php
+Sky Sports Cricket	`0https://daddylivehd1.my/embed/stream--65.php
+Sky Sports F1 DE	`0https://daddylivehd1.my/embed/stream--274.php
+Sky Sports F1 UK	`0https://daddylivehd1.my/embed/stream--60.php
+Sky Sports Football UK	`0https://daddylivehd1.my/embed/stream--35.php
+Sky Sports Golf Italy	`0https://daddylivehd1.my/embed/stream--574.php
+Sky Sports Golf UK	`0https://daddylivehd1.my/embed/stream--70.php
+Sky Sports Main Event	`0https://daddylivehd1.my/embed/stream--38.php
+Sky Sports MIX UK	`0https://daddylivehd1.my/embed/stream--449.php
+Sky Sports News UK	`0https://daddylivehd1.my/embed/stream--366.php
+Sky sports Premier League	`0https://daddylivehd1.my/embed/stream--130.php
+Sky Sports Racing UK	`0https://daddylivehd1.my/embed/stream--554.php
+Sky Sports Tennis DE	`0https://daddylivehd1.my/embed/stream--884.php
+Sky UNO Italy	`0https://daddylivehd1.my/embed/stream--881.php
+Sky Witness HD	`0https://daddylivehd1.my/embed/stream--361.php
+Smithsonian Channel	`0https://daddylivehd1.my/embed/stream--603.php
+Space City Home Network	`0https://daddylivehd1.my/embed/stream--921.php
+Spectrum Sportsnet LA	`0https://daddylivehd1.my/embed/stream--764.php
+Sport 1 Israel	`0https://daddylivehd1.my/embed/stream--140.php
+Sport 2 Israel	`0https://daddylivehd1.my/embed/stream--141.php
+Sport 3 Israel	`0https://daddylivehd1.my/embed/stream--142.php
+Sport 4 Israel	`0https://daddylivehd1.my/embed/stream--143.php
+Sport 5 Gold Israel	`0https://daddylivehd1.my/embed/stream--148.php
+Sport 5 Israel	`0https://daddylivehd1.my/embed/stream--144.php
+Sport 5 Live Israel	`0https://daddylivehd1.my/embed/stream--146.php
+Sport 5 PLUS Israel	`0https://daddylivehd1.my/embed/stream--145.php
+Sport 5 Star Israel	`0https://daddylivehd1.my/embed/stream--147.php
+Sport Klub 1 Serbia	`0https://daddylivehd1.my/embed/stream--101.php
+Sport Klub 2 Serbia	`0https://daddylivehd1.my/embed/stream--102.php
+Sport Klub 3 Serbia	`0https://daddylivehd1.my/embed/stream--103.php
+Sport Klub 4 Serbia	`0https://daddylivehd1.my/embed/stream--104.php
+Sport Klub HD Serbia	`0https://daddylivehd1.my/embed/stream--453.php
+Sport TV1 Portugal	`0https://daddylivehd1.my/embed/stream--49.php
+Sport TV2 Portugal	`0https://daddylivehd1.my/embed/stream--74.php
+Sport TV3 Portugal	`0https://daddylivehd1.my/embed/stream--454.php
+Sport TV4 Portugal	`0https://daddylivehd1.my/embed/stream--289.php
+Sport TV5 Portugal	`0https://daddylivehd1.my/embed/stream--290.php
+Sport TV6 Portugal	`0https://daddylivehd1.my/embed/stream--291.php
+Sport1 Germany	`0https://daddylivehd1.my/embed/stream--641.php
+Sport1+ Germany	`0https://daddylivehd1.my/embed/stream--640.php
+SportDigital Fussball	`0https://daddylivehd1.my/embed/stream--571.php
+Sporting TV Portugal	`0https://daddylivehd1.my/embed/stream--716.php
+Sportsnet 360	`0https://daddylivehd1.my/embed/stream--409.php
+Sportsnet East	`0https://daddylivehd1.my/embed/stream--408.php
+SportsNet New York (SNY)	`0https://daddylivehd1.my/embed/stream--759.php
+Sportsnet One	`0https://daddylivehd1.my/embed/stream--411.php
+Sportsnet Ontario	`0https://daddylivehd1.my/embed/stream--406.php
+SportsNet Pittsburgh	`0https://daddylivehd1.my/embed/stream--922.php
+Sportsnet West	`0https://daddylivehd1.my/embed/stream--407.php
+Sportsnet World	`0https://daddylivehd1.my/embed/stream--410.php
+SporTV Brasil	`0https://daddylivehd1.my/embed/stream--78.php
+SporTV2 Brasil	`0https://daddylivehd1.my/embed/stream--79.php
+SporTV3 Brasil	`0https://daddylivehd1.my/embed/stream--80.php
+SR Fernsehen DE	`0https://daddylivehd1.my/embed/stream--739.php
+SSC Sport 1	`0https://daddylivehd1.my/embed/stream--614.php
+SSC Sport 2	`0https://daddylivehd1.my/embed/stream--615.php
+SSC Sport 3	`0https://daddylivehd1.my/embed/stream--616.php
+SSC Sport 4	`0https://daddylivehd1.my/embed/stream--617.php
+SSC Sport 5	`0https://daddylivehd1.my/embed/stream--618.php
+SSC Sport Extra 1	`0https://daddylivehd1.my/embed/stream--619.php
+SSC Sport Extra 2	`0https://daddylivehd1.my/embed/stream--620.php
+SSC Sport Extra 3	`0https://daddylivehd1.my/embed/stream--621.php
+Star Sports 1 IN	`0https://daddylivehd1.my/embed/stream--267.php
+Star Sports Hindi IN	`0https://daddylivehd1.my/embed/stream--268.php
+Starz	`0https://daddylivehd1.my/embed/stream--335.php
+StarzPlay CricLife 1 HD	`0https://daddylivehd1.my/embed/stream--284.php
+StarzPlay CricLife 2 HD	`0https://daddylivehd1.my/embed/stream--283.php
+StarzPlay CricLife 3 HD	`0https://daddylivehd1.my/embed/stream--282.php
+Sundance TV	`0https://daddylivehd1.my/embed/stream--658.php
+SUPER RTL DE	`0https://daddylivehd1.my/embed/stream--738.php
+SuperSport Action	`0https://daddylivehd1.my/embed/stream--420.php
+SuperSport Cricket	`0https://daddylivehd1.my/embed/stream--368.php
+Supersport Football	`0https://daddylivehd1.my/embed/stream--56.php
+SuperSport Golf	`0https://daddylivehd1.my/embed/stream--422.php
+SuperSport Grandstand	`0https://daddylivehd1.my/embed/stream--412.php
+SuperSport LaLiga	`0https://daddylivehd1.my/embed/stream--415.php
+SuperSport MaXimo 1	`0https://daddylivehd1.my/embed/stream--572.php
+SuperSport Motorsport	`0https://daddylivehd1.my/embed/stream--424.php
+SuperSport Premier league	`0https://daddylivehd1.my/embed/stream--414.php
+SuperSport PSL	`0https://daddylivehd1.my/embed/stream--413.php
+SuperSport Rugby	`0https://daddylivehd1.my/embed/stream--421.php
+SuperSport Tennis	`0https://daddylivehd1.my/embed/stream--423.php
+SuperSport Variety 1	`0https://daddylivehd1.my/embed/stream--416.php
+SuperSport Variety 2	`0https://daddylivehd1.my/embed/stream--417.php
+SuperSport Variety 3	`0https://daddylivehd1.my/embed/stream--418.php
+SuperSport Variety 4	`0https://daddylivehd1.my/embed/stream--419.php
+SWR DE	`0https://daddylivehd1.my/embed/stream--735.php
+SYFY USA	`0https://daddylivehd1.my/embed/stream--373.php
+T Sports BD	`0https://daddylivehd1.my/embed/stream--270.php
+TBS USA	`0https://daddylivehd1.my/embed/stream--336.php
+TCM USA	`0https://daddylivehd1.my/embed/stream--644.php
+TeenNick	`0https://daddylivehd1.my/embed/stream--650.php
+Telecinco Spain	`0https://daddylivehd1.my/embed/stream--532.php
+Teledeporte Spain (TDP)	`0https://daddylivehd1.my/embed/stream--529.php
+Telemundo	`0https://daddylivehd1.my/embed/stream--131.php
+Ten Sports PK	`0https://daddylivehd1.my/embed/stream--741.php
+Tennis Channel	`0https://daddylivehd1.my/embed/stream--40.php
+Tennis+ 1	`0https://daddylivehd1.my/embed/stream--700.php
+Tennis+ 10	`0https://daddylivehd1.my/embed/stream--709.php
+Tennis+ 11	`0https://daddylivehd1.my/embed/stream--710.php
+Tennis+ 12	`0https://daddylivehd1.my/embed/stream--711.php
+Tennis+ 13	`0https://daddylivehd1.my/embed/stream--712.php
+Tennis+ 14	`0https://daddylivehd1.my/embed/stream--713.php
+Tennis+ 15	`0https://daddylivehd1.my/embed/stream--714.php
+Tennis+ 2	`0https://daddylivehd1.my/embed/stream--701.php
+Tennis+ 3	`0https://daddylivehd1.my/embed/stream--702.php
+Tennis+ 4	`0https://daddylivehd1.my/embed/stream--703.php
+Tennis+ 5	`0https://daddylivehd1.my/embed/stream--704.php
+Tennis+ 6	`0https://daddylivehd1.my/embed/stream--705.php
+Tennis+ 7	`0https://daddylivehd1.my/embed/stream--706.php
+Tennis+ 8	`0https://daddylivehd1.my/embed/stream--707.php
+Tennis+ 9	`0https://daddylivehd1.my/embed/stream--708.php
+The Food Network	`0https://daddylivehd1.my/embed/stream--384.php
+The Hallmark Channel	`0https://daddylivehd1.my/embed/stream--320.php
+The Hallmark	`0https://daddylivehd1.my/embed/stream--678.php
+The Hallmark	`0https://daddylivehd1.my/embed/stream--680.php
+The Weather Channel	`0https://daddylivehd1.my/embed/stream--394.php
+TLC	`0https://daddylivehd1.my/embed/stream--337.php
+TMC Channel USA	`0https://daddylivehd1.my/embed/stream--698.php
+TNT Brasil	`0https://daddylivehd1.my/embed/stream--87.php
+TNT Sports 1 UK	`0https://daddylivehd1.my/embed/stream--31.php
+TNT Sports 2 UK	`0https://daddylivehd1.my/embed/stream--32.php
+TNT Sports 3 UK	`0https://daddylivehd1.my/embed/stream--33.php
+TNT Sports 4 UK	`0https://daddylivehd1.my/embed/stream--34.php
+TNT Sports Argentina	`0https://daddylivehd1.my/embed/stream--388.php
+TNT Sports HD Chile	`0https://daddylivehd1.my/embed/stream--642.php
+TNT USA	`0https://daddylivehd1.my/embed/stream--338.php
+Travel Channel	`0https://daddylivehd1.my/embed/stream--340.php
+TruTV USA	`0https://daddylivehd1.my/embed/stream--341.php
+TSN1	`0https://daddylivehd1.my/embed/stream--111.php
+TSN2	`0https://daddylivehd1.my/embed/stream--112.php
+TSN3	`0https://daddylivehd1.my/embed/stream--113.php
+TSN4	`0https://daddylivehd1.my/embed/stream--114.php
+TSN5	`0https://daddylivehd1.my/embed/stream--115.php
+TUDN USA	`0https://daddylivehd1.my/embed/stream--66.php
+TV ONE USA	`0https://daddylivehd1.my/embed/stream--660.php
+TV2 Bornholm Denmark	`0https://daddylivehd1.my/embed/stream--807.php
+TV2 Denmark	`0https://daddylivehd1.my/embed/stream--817.php
+TV2 Sport Denmark	`0https://daddylivehd1.my/embed/stream--810.php
+TV2 Sport X Denmark	`0https://daddylivehd1.my/embed/stream--808.php
+TV2 Zulu	`0https://daddylivehd1.my/embed/stream--818.php
+TV3 Max Denmark	`0https://daddylivehd1.my/embed/stream--223.php
+TV3 Sport Denmark	`0https://daddylivehd1.my/embed/stream--809.php
+TV3+ Denmark	`0https://daddylivehd1.my/embed/stream--819.php
+TVA Sports 2	`0https://daddylivehd1.my/embed/stream--834.php
+TVA Sports	`0https://daddylivehd1.my/embed/stream--833.php
+TVE La 1 Spain	`0https://daddylivehd1.my/embed/stream--533.php
+TVE La 2 Spain	`0https://daddylivehd1.my/embed/stream--536.php
+TVI Portugal	`0https://daddylivehd1.my/embed/stream--723.php
+TVI Reality Portugal	`0https://daddylivehd1.my/embed/stream--724.php
+TVLAND	`0https://daddylivehd1.my/embed/stream--342.php
+TVN HD Poland	`0https://daddylivehd1.my/embed/stream--565.php
+TVN24 Poland	`0https://daddylivehd1.my/embed/stream--444.php
+TVO CA	`0https://daddylivehd1.my/embed/stream--842.php
+TVP INFO	`0https://daddylivehd1.my/embed/stream--452.php
+TVP Sport Poland	`0https://daddylivehd1.my/embed/stream--128.php
+TVP1 Poland	`0https://daddylivehd1.my/embed/stream--560.php
+TVP2 Poland	`0https://daddylivehd1.my/embed/stream--561.php
+TYC Sports Argentina	`0https://daddylivehd1.my/embed/stream--746.php
+Unimas	`0https://daddylivehd1.my/embed/stream--133.php
+Universal Kids USA	`0https://daddylivehd1.my/embed/stream--668.php
+Univision	`0https://daddylivehd1.my/embed/stream--132.php
+USA Network	`0https://daddylivehd1.my/embed/stream--343.php
+V Film Family	`0https://daddylivehd1.my/embed/stream--816.php
+V Film Premiere	`0https://daddylivehd1.my/embed/stream--815.php
+V Sport Motor Sweden	`0https://daddylivehd1.my/embed/stream--272.php
+Veronica NL Netherland	`0https://daddylivehd1.my/embed/stream--378.php
+VH1 USA	`0https://daddylivehd1.my/embed/stream--344.php
+Viaplay Sports 1 UK	`0https://daddylivehd1.my/embed/stream--451.php
+Viaplay Sports 2 UK	`0https://daddylivehd1.my/embed/stream--550.php
+Viaplay Xtra UK	`0https://daddylivehd1.my/embed/stream--597.php
+VICE TV	`0https://daddylivehd1.my/embed/stream--659.php
+Vodafone Sport	`0https://daddylivehd1.my/embed/stream--260.php
+VTV+ Uruguay	`0https://daddylivehd1.my/embed/stream--391.php
+WDR DE	`0https://daddylivehd1.my/embed/stream--734.php
+WETV USA	`0https://daddylivehd1.my/embed/stream--655.php
+Willow Cricket	`0https://daddylivehd1.my/embed/stream--346.php
+Willow XTRA	`0https://daddylivehd1.my/embed/stream--598.php
+Win Sports+ Columbia	`0https://daddylivehd1.my/embed/stream--392.php
+WWE Network	`0https://daddylivehd1.my/embed/stream--376.php
+Yes Movies Action Israel	`0https://daddylivehd1.my/embed/stream--543.php
+Yes Movies Comedy Israel	`0https://daddylivehd1.my/embed/stream--545.php
+Yes Movies Kids Israel	`0https://daddylivehd1.my/embed/stream--544.php
+YES Network USA	`0https://daddylivehd1.my/embed/stream--763.php
+Yes TV CA	`0https://daddylivehd1.my/embed/stream--837.php
+ZDF Info DE	`0https://daddylivehd1.my/embed/stream--728.php
+Ziggo Sport Docu NL	`0https://daddylivehd1.my/embed/stream--383.php
+Ziggo Sport Racing NL	`0https://daddylivehd1.my/embed/stream--396.php
+Ziggo Sport Select NL	`0https://daddylivehd1.my/embed/stream--393.php
+Ziggo Sport Voetbal NL	`0https://daddylivehd1.my/embed/stream--398.php
+МАТЧ! БОЕЦ Russia	`0https://daddylivehd1.my/embed/stream--395.php
+18+ (Player-01)	`0https://daddylivehd1.my/embed/stream--501.php
+18+ (Player-02)	`0https://daddylivehd1.my/embed/stream--502.php
+18+ (Player-03)	`0https://daddylivehd1.my/embed/stream--503.php
+18+ (Player-04)	`0https://daddylivehd1.my/embed/stream--504.php
+18+ (Player-05)	`0https://daddylivehd1.my/embed/stream--505.php
+18+ (Player-06)	`0https://daddylivehd1.my/embed/stream--506.php
+18+ (Player-07)	`0https://daddylivehd1.my/embed/stream--507.php
+18+ (Player-08)	`0https://daddylivehd1.my/embed/stream--508.php
+18+ (Player-09)	`0https://daddylivehd1.my/embed/stream--509.php
+18+ (Player-10)	`0https://daddylivehd1.my/embed/stream--510.php
+18+ (Player-11)	`0https://daddylivehd1.my/embed/stream--511.php
+18+ (Player-12)	`0https://daddylivehd1.my/embed/stream--512.php
+18+ (Player-13)	`0https://daddylivehd1.my/embed/stream--513.php
+18+ (Player-14)	`0https://daddylivehd1.my/embed/stream--514.php
+18+ (Player-15)	`0https://daddylivehd1.my/embed/stream--515.php
+18+ (Player-16)	`0https://daddylivehd1.my/embed/stream--516.php
+18+ (Player-17)	`0https://daddylivehd1.my/embed/stream--517.php
+18+ (Player-18)	`0https://daddylivehd1.my/embed/stream--518.php
+18+ (Player-19)	`0https://daddylivehd1.my/embed/stream--519.php
+18+ (Player-20)	`0https://daddylivehd1.my/embed/stream--520.php
