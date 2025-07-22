@@ -41,21 +41,21 @@ Paraguay 🇵🇾 (w) vs Brazil 🇧🇷 (w)	`*https://www.fctv33.com/football/c
 	^-
 **[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 
-^=	^-
-^=🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
-^=[l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
-^=[l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
-^=[l]{h} Ⓒb1[z] America [y]Sports & TV[z]	^^hb1
+	^-
+🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
+[l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
+[l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
+[l]{h} Ⓒb1[z] America [y]Sports & TV[z]	^^hb1
 
 [l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]	^^hb3
 
-^=	^-
-^=GolTV	00!0!0/9595?zyy
-^=[y]Sports & TV[z] [l]PlayList[z] #1	^^h10
+	^-
+GolTV	00!0!0/9595?zyy
+[y]Sports & TV[z] [l]PlayList[z] #1	^^h10
 
-^=	^-
-^=🇺🇸 Fox Soccer Plus	00!0!1/50616?zyy
-^=[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
+	^-
+🇺🇸 Fox Soccer Plus	00!0!1/50616?zyy
+[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 ^=	^-
 ^=Volleyball Live	https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jrb5L5Cr/live.isml/.m3u8
