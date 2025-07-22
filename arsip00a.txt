@@ -12,9 +12,6 @@
 
 22-07-2025	^-
 
-07:00 [l]Copa América Femenina[z]	^-
-Chile 🇨🇱 (w) vs Ecuador 🇪🇨 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4218801/chile-w-vs-ecuador-w-07-2025.html
-
 20:00 [l]AFF U23 Youth Championship[z]	^-
 Vietnam 🇻🇳 U23 vs Cambodia 🇰🇭 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 Vietnam 🇻🇳 U23 vs Cambodia 🇰🇭 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4225656/vietnam-u23-vs-cambodia-u23-07-2025.html
@@ -40,25 +37,25 @@ Colombia 🇨🇴 (w) vs Bolivia 🇧🇴 (w)	`*https://www.fctv33.com/football/
 07:00 [l]Copa América Femenina[z]	^-
 Paraguay 🇵🇾 (w) vs Brazil 🇧🇷 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4222864/paraguay-w-vs-brazil-women-07-2025.html
 
-^=	^-
+	^-
 	^-
 **[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 
-	^-
-🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
-[l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
-[l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
-[l]{h} Ⓒb1[z] America [y]Sports & TV[z]	^^hb1
+^=	^-
+^=🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
+^=[l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
+^=[l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
+^=[l]{h} Ⓒb1[z] America [y]Sports & TV[z]	^^hb1
 
 [l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]	^^hb3
 
-	^-
-GolTV	00!0!0/9595?zyy
-[y]Sports & TV[z] [l]PlayList[z] #1	^^h10
+^=	^-
+^=GolTV	00!0!0/9595?zyy
+^=[y]Sports & TV[z] [l]PlayList[z] #1	^^h10
 
-	^-
-🇺🇸 Fox Soccer Plus	00!0!1/50616?zyy
-[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
+^=	^-
+^=🇺🇸 Fox Soccer Plus	00!0!1/50616?zyy
+^=[y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 ^=	^-
 ^=Volleyball Live	https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jrb5L5Cr/live.isml/.m3u8
