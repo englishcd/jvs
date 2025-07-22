@@ -1,0 +1,126 @@
+ARENA 1 CROATIA	`0https://player30-ss.blogspot.com/#arena1cro
+ARENA 1 PREMIUM	`0https://player30-ss.blogspot.com/#arena1p
+ARENA 1 SPORT	`0https://player30-ss.blogspot.com/#arena1sp
+ARENA 10 CROATIA	`0https://player30-ss.blogspot.com/#arena10cro
+ARENA 2 CROATIA	`0https://player30-ss.blogspot.com/#arena2cro
+ARENA 2 PREMIUM	`0https://player30-ss.blogspot.com/#arena2p
+ARENA 2 SPORT	`0https://player30-ss.blogspot.com/#arena2sp
+ARENA 3 CROATIA	`0https://player30-ss.blogspot.com/#arena3cro
+ARENA 3 PREMIUM	`0https://player30-ss.blogspot.com/#arena3p
+ARENA 3 SPORT	`0https://player30-ss.blogspot.com/#arena3sp
+ARENA 4 CROATIA	`0https://player30-ss.blogspot.com/#arena4cro
+ARENA 4 SPORT	`0https://player30-ss.blogspot.com/#arena4sp
+ARENA 5 CROATIA	`0https://player30-ss.blogspot.com/#arena5cro
+ARENA 5 SPORT	`0https://player30-ss.blogspot.com/#arena5sp
+ARENA 6 CROATIA	`0https://player30-ss.blogspot.com/#arena6cro
+ARENA 6 SPORT	`0https://player30-ss.blogspot.com/#arena6sp
+ARENA 7 CROATIA	`0https://player30-ss.blogspot.com/#arena7cro
+ARENA 8 CROATIA	`0https://player30-ss.blogspot.com/#arena8cro
+ARENA 9 CROATIA	`0https://player30-ss.blogspot.com/#arena9cro
+BEIN 1	`0https://player30-ss.blogspot.com/#bein1
+BEIN 2	`0https://player30-ss.blogspot.com/#bein2
+BEIN 3	`0https://player30-ss.blogspot.com/#bein3
+BEIN 4	`0https://player30-ss.blogspot.com/#bein4
+BR1	`0https://player30-ss.blogspot.com/#br1
+BR2	`0https://player30-ss.blogspot.com/#br2
+BR3	`0https://player30-ss.blogspot.com/#br3
+BR4	`0https://player30-ss.blogspot.com/#br4
+BR5	`0https://player30-ss.blogspot.com/#br5
+BR6	`0https://player30-ss.blogspot.com/#br6
+BR7	`0https://player30-ss.blogspot.com/#br7
+BR8	`0https://player30-ss.blogspot.com/#br8
+Court1	`0https://player30-ss.blogspot.com/#a11
+Court2	`0https://player30-ss.blogspot.com/#a12
+Court3	`0https://player30-ss.blogspot.com/#a13
+DAZN DE 1	`0https://player30-ss.blogspot.com/#daznede1
+DAZN DE 2	`0https://player30-ss.blogspot.com/#daznede2
+DAZN ES 1	`0https://player30-ss.blogspot.com/#daznes1
+DAZN ES 2	`0https://player30-ss.blogspot.com/#daznes2
+DAZN ES 3	`0https://player30-ss.blogspot.com/#daznes3
+DAZN ES 4	`0https://player30-ss.blogspot.com/#daznes4
+DAZN La Liga	`0https://player30-ss.blogspot.com/#daznlaliga
+ESPN 1	`0https://player30-ss.blogspot.com/#espn1
+ESPN 2	`0https://player30-ss.blogspot.com/#espn2
+ESPN 3	`0https://player30-ss.blogspot.com/#espn3
+ESPN 4	`0https://player30-ss.blogspot.com/#espn4
+GTV	`0https://player30-ss.blogspot.com/#gtv
+HD1	`0https://player30-ss.blogspot.com/#hd1
+HD10	`0https://player30-ss.blogspot.com/#hd10
+HD11	`0https://player30-ss.blogspot.com/#hd11
+HD2	`0https://player30-ss.blogspot.com/#hd2
+HD3	`0https://player30-ss.blogspot.com/#hd3
+HD4	`0https://player30-ss.blogspot.com/#hd4
+HD5	`0https://player30-ss.blogspot.com/#hd5
+HD6	`0https://player30-ss.blogspot.com/#hd6
+HD7	`0https://player30-ss.blogspot.com/#hd7
+HD8	`0https://player30-ss.blogspot.com/#hd8
+HD9	`0https://player30-ss.blogspot.com/#hd9
+iNews	`0https://player30-ss.blogspot.com/#inews
+IOS	`0https://player30-ss.blogspot.com/#a1
+IOS	`0https://player30-ss.blogspot.com/#a2
+IOS	`0https://player30-ss.blogspot.com/#hd1
+Kompas TV	`0https://player30-ss.blogspot.com/#kompastv
+MNC Sport 1	`0https://player30-ss.blogspot.com/#mncsport1
+MNC Sport 2	`0https://player30-ss.blogspot.com/#mncsport2
+MNC Sport 3	`0https://player30-ss.blogspot.com/#mncsport3
+MNC Sport 4	`0https://player30-ss.blogspot.com/#mncsport4
+MNC TV	`0https://player30-ss.blogspot.com/#mnctv
+NBC USA	`0https://player30-ss.blogspot.com/#nbcusa
+Peacock 1	`0https://player30-ss.blogspot.com/#peacock1
+Peacock Premier League	`0https://player30-ss.blogspot.com/#peacockpl
+Play1	`0https://player30-ss.blogspot.com/#gtv
+Play1	`0https://player30-ss.blogspot.com/#hd1
+Play1	`0https://player30-ss.blogspot.com/#sky2
+Play2	`0https://player30-ss.blogspot.com/#hd7
+RCTI	`0https://player30-ss.blogspot.com/#rcti
+Sindo News	`0https://player30-ss.blogspot.com/#sindonews
+Sky Sports 1	`0https://player30-ss.blogspot.com/#sky1
+Sky Sports 2	`0https://player30-ss.blogspot.com/#sky2
+Sky Sports 3	`0https://player30-ss.blogspot.com/#sky3
+Sky Sports 4	`0https://player30-ss.blogspot.com/#sky4
+Sky Sports 5	`0https://player30-ss.blogspot.com/#sky5
+Sky Sports 6	`0https://player30-ss.blogspot.com/#sky6
+Sky Sports 7	`0https://player30-ss.blogspot.com/#sky7
+Sky Sports 8	`0https://player30-ss.blogspot.com/#sky8
+Sky Sports 9	`0https://player30-ss.blogspot.com/#sky9
+Sky Sports Arena	`0https://player30-ss.blogspot.com/#skyarena
+Sky Sports Football	`0https://player30-ss.blogspot.com/#skyfbl
+Sky Sports Main Event	`0https://player30-ss.blogspot.com/#skyme
+Sky Sports Premier League	`0https://player30-ss.blogspot.com/#skypl
+Soccer Channel 1	`0https://player30-ss.blogspot.com/#ssc1
+Soccer Channel 2	`0https://player30-ss.blogspot.com/#ssc2
+Soccer Channel 3	`0https://player30-ss.blogspot.com/#ssc3
+Soccer Channel 4	`0https://player30-ss.blogspot.com/#ssc4
+Soccer Channel 5	`0https://player30-ss.blogspot.com/#ssc5
+Soccer Channel Extra 1	`0https://player30-ss.blogspot.com/#sscextra1
+Soccer Channel Extra 2	`0https://player30-ss.blogspot.com/#sscextra2
+Soccer Channel Extra 3	`0https://player30-ss.blogspot.com/#sscextra3
+Soccer HD	`0https://player30-ss.blogspot.com/#soccerhd
+SP1	`0https://player30-ss.blogspot.com/#sp1
+SP2	`0https://player30-ss.blogspot.com/#sp2
+SP3	`0https://player30-ss.blogspot.com/#sp3
+SP4	`0https://player30-ss.blogspot.com/#sp4
+SP5	`0https://player30-ss.blogspot.com/#sp5
+Sports 1 SK	`0https://player30-ss.blogspot.com/#sports1sk
+Sports 2 SK	`0https://player30-ss.blogspot.com/#sports2sk
+SPOTV 1	`0https://player30-ss.blogspot.com/#spotv1
+SPOTV 2	`0https://player30-ss.blogspot.com/#spotv2
+Telemundo	`0https://player30-ss.blogspot.com/#telemundo
+TNT Sports 1	`0https://player30-ss.blogspot.com/#tnt1
+TNT Sports 2	`0https://player30-ss.blogspot.com/#tnt2
+TNT Sports 3	`0https://player30-ss.blogspot.com/#tnt3
+TUDN USA	`0https://player30-ss.blogspot.com/#tudnusa
+TVRI	`0https://player30-ss.blogspot.com/#tvri
+TVRI Sport	`0https://player30-ss.blogspot.com/#tvrisport
+Universo	`0https://player30-ss.blogspot.com/#universo
+Universo West	`0https://player30-ss.blogspot.com/#universow
+Ziggo 2 Football	`0https://player30-ss.blogspot.com/#ziggo2fbl
+Ziggo 3 Golf	`0https://player30-ss.blogspot.com/#ziggo3g
+Ziggo 4	`0https://player30-ss.blogspot.com/#ziggo4
+Ziggo 5	`0https://player30-ss.blogspot.com/#ziggo5
+Ziggo 6	`0https://player30-ss.blogspot.com/#ziggo6
+Ziggo Sport 1	`0https://player30-ss.blogspot.com/#vsport1
+Ziggo Sport Ball	`0https://player30-ss.blogspot.com/#vsportball
+Ziggo Sport Extra	`0https://player30-ss.blogspot.com/#vextra
+Ziggo Sport Premium	`0https://player30-ss.blogspot.com/#vprem
+Ziggo Sports	`0https://player30-ss.blogspot.com/#ziggos
