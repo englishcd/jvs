@@ -11,12 +11,6 @@
 
 24-07-2025	^-
 
-02:00 [l]UEFA European Women's Championship[z]	^-
-Germany 🇩🇪 (w) vs Spain 🇪🇸 (w)	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-Germany 🇩🇪 (w) vs Spain 🇪🇸 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Germany 🇩🇪 (w) vs Spain 🇪🇸 (w)	https://z.1UK_BBC_1/index.m3u8
-Germany 🇩🇪 (w) vs Spain 🇪🇸 (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4226833/germany-women-vs-spain-women-07-2025.html
-
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 
@@ -45,7 +39,7 @@ GolTV	00!0!0/9595?zyy
 ^=Jala Live	`0https://m.jalazt54.cc
 ^=Huhu.To	`0https://huhu.to/
 ^=Volleyball Live	https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jrb5L5Cr/live.isml/.m3u8
-^=VolleyBall `0Live	https://wikisport.cc/play?token=s3c2LDmf00dxQBOoXZcEX3ZEbzBmeDVWVi9NVkpVZlZRL3VzTk5PcXQyMjN5T29Fb1JnV3IzK05GQWx6MFlpb1ZvZWhUTXBMcHJMb3VqWTJEMmVadDRBPQ
+^=VolleyBall Live	`0https://wikisport.cc/play?token=s3c2LDmf00dxQBOoXZcEX3ZEbzBmeDVWVi9NVkpVZlZRL3VzTk5PcXQyMjN5T29Fb1JnV3IzK05GQWx6MFlpb1ZvZWhUTXBMcHJMb3VqWTJEMmVadDRBPQ
 
 	^-
 [g]Sport TV Channels ID[z]	^-
