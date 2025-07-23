@@ -112,7 +112,6 @@ DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 DeiKids TV	https://e.siar.us/live/deikidstv.m3u8
 Dhoho TV- Kediri	https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 dTVi	https://e.siar.us/live/dtvi.m3u8
-Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 Entertainment	https://fta2!vfc!a90cb773466446b08595007bab12b920/index.mpd!!62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 Ficom TV	https://v3.siar.us/ficomchannel/live/playlist.m3u8
 Galaxy Premium	https://fta1!vfc!45c0752c6b6b4397b80243ac9fed96fd/index.mpd!!0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
@@ -547,6 +546,7 @@ MeWatch U 🇸🇬	https://do2ibj89ih8kz.cloudfront.net/out/v1/151218455da04a47b
 MeWatch Live 1 🇸🇬	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 MeWatch Live 2 🇸🇬	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 
+Dunia Sinema	https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 Mr. Bean Cartoon	https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Okey RTM 🇲🇾	`9https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 OutDoor	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
@@ -560,6 +560,7 @@ TV 1 🇲🇾	`0https://rtm-player.glueapi.io/latest/h/1
 TV 2 🇲🇾	`0https://rtm-player.glueapi.io/latest/h/2
 TV 3 🇲🇾	https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 TV 6 🇲🇾	`0https://rtm-player.glueapi.io/latest/h/6
+TV 8 🇲🇾	https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd!!a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
 TV Selangor 🇲🇾	https://mana2.lu-mau-apaan-sih-waduhhh.workers.dev/tvs/index.m3u8
 Movies KR	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 TBS	https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
