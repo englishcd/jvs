@@ -43,8 +43,10 @@ GolTV	00!0!0/9595?zyy
 [y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 ^=	^-
-^=Live 1	`0https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD01MTE5Jm10VGV4dD1vdGhlcnMmc2l0ZUtleT1ncmdlJnNrcHROdW09Mm5k&_pb=1
-^=Live 2	`0https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD01MTIzJm10VGV4dD1vdGhlcnMmc2l0ZUtleT1ncmdlJnNrcHROdW09Mm5k&_pb=1
+^=Arsenal vs AC Milan	`0https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODMzMDEyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ=&_pb=1
+Germany 🇩🇪 (w) vs Spain 🇪🇸 (w)	`0https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODMwOTcwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ=&_pb=1
+^=Live 1	`1https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD01MTE5Jm10VGV4dD1vdGhlcnMmc2l0ZUtleT1ncmdlJnNrcHROdW09Mm5k&_pb=1
+^=Live 2	`1https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD01MTIzJm10VGV4dD1vdGhlcnMmc2l0ZUtleT1ncmdlJnNrcHROdW09Mm5k&_pb=1
 ^=Volleyball Live	https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jrb5L5Cr/live.isml/.m3u8
 ^=Jala Live	`0https://m.jalazt54.cc
 ^=[l]Huhu.To[z]	`0https://huhu.to/
