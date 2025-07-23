@@ -12,7 +12,6 @@
 24-07-2025	^-
 
 02:00 [l]UEFA European Women's Championship[z]	^-
-Germany 🇩🇪 (w) vs Spain 🇪🇸 (w)	https://a.00/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 Germany 🇩🇪 (w) vs Spain 🇪🇸 (w)	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 Germany 🇩🇪 (w) vs Spain 🇪🇸 (w)	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Germany 🇩🇪 (w) vs Spain 🇪🇸 (w)	https://z.1UK_BBC_1/index.m3u8
