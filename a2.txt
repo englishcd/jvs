@@ -21,7 +21,6 @@ Abu Dhabi Sports Premium 2	https://ZZB610
 Abu Dhabi Sports UAE 1	https://ZZB600
 Abu Dhabi Sports UAE 2	https://ZZB601
 ACC Network USA	https://ZZB664
-ACC Network USA	https://ZZB666
 Adult Swim	https://ZZB295
 Alkass 1 One	https://ZZB781
 Alkass 2 Two	https://ZZB782
@@ -79,20 +78,20 @@ BBC 4 Four UK	https://ZZB359
 BBC America	https://ZZB305
 BBC DE	https://ZZB727
 BBC News Channel	https://ZZB349
-beIN SPORTS Australia 1	https://ZZB491
-beIN SPORTS Australia 2	https://ZZB492
-beIN SPORTS Australia 3	https://ZZB493
-beIN SPORTS en Español	https://ZZB372
-beIN SPORTS France 1	https://ZZB116
-beIN SPORTS France 2	https://ZZB117
-beIN SPORTS France 3	https://ZZB118
-beIN Sports MAX 4 France	https://ZZB494
-beIN Sports MAX 5 France	https://ZZB495
-beIN Sports MAX 6 France	https://ZZB496
-beIN Sports MAX 7 France	https://ZZB497
-beIN Sports MAX 8 France	https://ZZB498
-beIN Sports MAX 9 France	https://ZZB499
-beIN Sports MAX 10 France	https://ZZB500
+beIN Sports Australia 1	https://ZZB491
+beIN Sports Australia 2	https://ZZB492
+beIN Sports Australia 3	https://ZZB493
+beIN Sports en Español	https://ZZB372
+beIN Sports France 1	https://ZZB116
+beIN Sports France 2	https://ZZB117
+beIN Sports France 3	https://ZZB118
+beIN Sports Max 4 France	https://ZZB494
+beIN Sports Max 5 France	https://ZZB495
+beIN Sports Max 6 France	https://ZZB496
+beIN Sports Max 7 France	https://ZZB497
+beIN Sports Max 8 France	https://ZZB498
+beIN Sports Max 9 France	https://ZZB499
+beIN Sports Max 10 France	https://ZZB500
 beIN Sports MENA 1	https://ZZB91
 beIN Sports MENA 2	https://ZZB92
 beIN Sports MENA 3	https://ZZB93
@@ -106,12 +105,12 @@ beIN Sports MENA English 3	https://ZZB46
 beIN Sports MENA Premium 1	https://ZZB98
 beIN Sports MENA Premium 2	https://ZZB99
 beIN Sports MENA Premium 3	https://ZZB100
-BeIN Sports Qatar	https://ZZB578
-beIN SPORTS Turkey 1	https://ZZB62
-beIN SPORTS Turkey 2	https://ZZB63
-beIN SPORTS Turkey 3	https://ZZB64
-beIN SPORTS Turkey 4	https://ZZB67
-BeIN SPORTS USA	https://ZZB425
+beIN Sports Qatar	https://ZZB578
+beIN Sports Turkey 1	https://ZZB62
+beIN Sports Turkey 2	https://ZZB63
+beIN Sports Turkey 3	https://ZZB64
+beIN Sports Turkey 4	https://ZZB67
+beIN Sports USA	https://ZZB425
 Benfica TV PT	https://ZZB380
 BET USA	https://ZZB306
 BIG TEN Network	https://ZZB397
@@ -154,7 +153,7 @@ CBC CA	https://ZZB832
 CBS Sports Golazo	https://ZZB910
 CBS Sports Network	https://ZZB308
 CBS USA	https://ZZB52
-CBSNY USA	https://ZZB767
+CBS NY USA	https://ZZB767
 Channel 4 UK	https://ZZB354
 Channel 5 UK	https://ZZB355
 Cinemax USA	https://ZZB374
@@ -178,7 +177,7 @@ Cosmote Sport 7	https://ZZB628
 Cosmote Sport 8	https://ZZB629
 Cosmote Sport 9	https://ZZB630
 Court TV USA	https://ZZB281
-COZI TV USA	https://ZZB748
+Cozi TV USA	https://ZZB748
 Crime+ Investigation USA	https://ZZB669
 CTV 1 Canada	https://ZZB602
 CTV 2 Canada	https://ZZB838
@@ -273,26 +272,26 @@ FETV Family Entertainment	https://ZZB751
 Fight Network	https://ZZB757
 Film4 UK	https://ZZB688
 FilmBox Premium Poland	https://ZZB568
-FOX Bulgaria	https://ZZB483
+Fox Bulgaria	https://ZZB483
 Fox Business	https://ZZB297
 Fox Cricket	https://ZZB369
-FOX Deportes USA	https://ZZB643
+Fox Deportes USA	https://ZZB643
 Fox News	https://ZZB347
-FOX NY USA	https://ZZB768
-FOX Soccer Plus	https://ZZB756
-FOX Sports 502 AU	https://ZZB820
-FOX Sports 503 AU	https://ZZB821
-FOX Sports 504 AU	https://ZZB822
-FOX Sports 505 AU	https://ZZB823
-FOX Sports 506 AU	https://ZZB824
-FOX Sports 507 AU	https://ZZB825
+Fox NY USA	https://ZZB768
+Fox Soccer Plus	https://ZZB756
+Fox Sports 502 AU	https://ZZB820
+Fox Sports 503 AU	https://ZZB821
+Fox Sports 504 AU	https://ZZB822
+Fox Sports 505 AU	https://ZZB823
+Fox Sports 506 AU	https://ZZB824
+Fox Sports 507 AU	https://ZZB825
 Fox Sports Argentina 1	https://ZZB787
 Fox Sports Argentina 2	https://ZZB788
 Fox Sports Argentina 3	https://ZZB789
 Fox Sports Premium MX	https://ZZB830
 Fox Sports USA 1	https://ZZB39
 Fox Sports USA 2	https://ZZB758
-FOX USA	https://ZZB54
+Fox USA	https://ZZB54
 Fox Weather Channel	https://ZZB775
 Freeform	https://ZZB301
 FUSE TV USA	https://ZZB279
@@ -306,9 +305,9 @@ Global CA	https://ZZB836
 Globo RIO	https://ZZB761
 Globo SP	https://ZZB760
 Gol Mundial	https://ZZB292
-GOL PLAY Spain	https://ZZB530
+Gol Play Spain	https://ZZB530
 Gold UK	https://ZZB687
-GOLF Channel USA	https://ZZB318
+Golf Channel USA	https://ZZB318
 Grit Channel	https://ZZB752
 Hallmark Movies & Mysterie	https://ZZB296
 HBO 1 USA	https://ZZB321
@@ -400,9 +399,10 @@ New! CWPIX 11	https://ZZB771
 Newsmax USA	https://ZZB613
 NFL Network	https://ZZB405
 NHL Network USA	https://ZZB663
-NICK	https://ZZB330
-NICK Jr	https://ZZB329
-Nicktoons	https://ZZB649
+Nick	https://ZZB330
+Nick Jr	https://ZZB329
+Nick Music	https://ZZB666
+Nick Toons	https://ZZB649
 Noovo CA	https://ZZB835
 Nova Sport Bulgaria	https://ZZB468
 Nova Sport Serbia	https://ZZB582
@@ -443,7 +443,7 @@ Prima Sport 2	https://ZZB584
 Prima Sport 3	https://ZZB585
 Prima Sport 4	https://ZZB586
 Prima TV RO	https://ZZB843
-ProSieben (PRO7) DE	https://ZZB730
+ProSieben (Pro 7) DE	https://ZZB730
 PTV Sports	https://ZZB450
 Racing TV UK	https://ZZB555
 Rai 1 Italy	https://ZZB850
@@ -549,7 +549,7 @@ Sky Sports News UK	https://ZZB366
 Sky sports Premier League	https://ZZB130
 Sky Sports Racing UK	https://ZZB554
 Sky Sports Tennis DE	https://ZZB884
-Sky UNO Italy	https://ZZB881
+Sky Uno Italy	https://ZZB881
 Sky Witness	https://ZZB361
 Smithsonian Channel	https://ZZB603
 Space City Home Network	https://ZZB921
@@ -596,7 +596,7 @@ StarzPlay CricLife 1	https://ZZB284
 StarzPlay CricLife 2	https://ZZB283
 StarzPlay CricLife 3	https://ZZB282
 Sundance TV	https://ZZB658
-SUPER RTL DE	https://ZZB738
+Super RTL DE	https://ZZB738
 SuperSport Action	https://ZZB420
 SuperSport Cricket	https://ZZB368
 Supersport Football	https://ZZB56
@@ -685,7 +685,7 @@ TVP INFO	https://ZZB452
 TVP Sport Poland	https://ZZB128
 TVP1 Poland	https://ZZB560
 TVP2 Poland	https://ZZB561
-TYC Sports Argentina	https://ZZB746
+TyC Sports Argentina	https://ZZB746
 Unimas	https://ZZB133
 Universal Kids USA	https://ZZB668
 Univision	https://ZZB132
@@ -707,7 +707,7 @@ Willow Cricket	https://ZZB346
 Willow XTRA	https://ZZB598
 Win Sports+ Columbia	https://ZZB392
 WWE Network	https://ZZB376
-YES Network USA	https://ZZB763
+Yes Network USA	https://ZZB763
 Yes TV CA	https://ZZB837
 ZDF Info DE	https://ZZB728
 Ziggo Sport Docu NL	https://ZZB383
