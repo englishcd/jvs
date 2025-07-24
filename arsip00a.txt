@@ -97,6 +97,7 @@ AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
 AniPlus	01!01fkhano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
 ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 Bahana FM https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 Celestial Classic Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
 Celestial Movies	https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
@@ -123,10 +124,11 @@ K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 Kids TV	https://fta3!vfc!9041826689ae4f9c9619576d411fa989/index.mpd!!ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 KiX	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
-Kompas TV https://s7.mbahnunungonline.net/live/m3u8/id/ae5f9d6bcd610b6.m3u8
+Kompas TV https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 MD TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 Mentari TV	01!01dcdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd!!69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 MIC	https://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
@@ -149,13 +151,17 @@ Sampit TV	https://e.siar.us/live/sampit-tv.m3u8
 SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 Surabaya TV	https://e.siar.us/live/surabayatv.m3u8
 Thrill	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a.m3u8
+Trans 7	https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+Trans 7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
+Trans TV	https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 Trans TV	https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8
-Trans7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
 tvN Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
+tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
+TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 TVRI Sports	https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+TVRI World	https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 	^-
 [w]Sport Channels & TV[z]	^-
