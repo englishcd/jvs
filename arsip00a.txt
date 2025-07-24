@@ -395,17 +395,20 @@ Ziggo Sport 6 Golf	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_7576
 beIN TV 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
 beIN 1 PL	https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 
-MU TV	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_uk_mutv_fhd/index.m3u8
-^=MU TV	https://stream2.aws-live-streaming.com/bbs/mutv/chunks.m3u8?nimblesessionid=64762209
 ^=Arena Sport 1	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/LIVE_Arena_Sport_1_FHD/index.m3u8
-^=Live S4C 🇬🇧	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_s4c/index.m3u8
-^=Live ESPN 1 🇳🇱	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
-^=Live US ESPN Deportes	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_US_ESPN_DEPORTES/index.m3u8
-^=Live LaLiga	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_laliga_tv/index.m3u8
-^=Live Fox Deportes US	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/US_FOX_DEPORTES/index.m3u8
 ^=Channel 9 IR	https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
-^=TV3	https://edge08.620097.ir.cdn.ir/hls2/tv3.m3u8
+^=Live ESPN 1 🇳🇱	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
+^=Live Fox Deportes US	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/US_FOX_DEPORTES/index.m3u8
+^=Live LaLiga	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_laliga_tv/index.m3u8
+^=Live S4C 🇬🇧	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_s4c/index.m3u8
+^=Live US ESPN Deportes	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_US_ESPN_DEPORTES/index.m3u8
+^=MU TV	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_uk_mutv_fhd/index.m3u8
+^=MU TV	https://stream2.aws-live-streaming.com/bbs/mutv/chunks.m3u8?nimblesessionid=64762209
+^=Sky Sport Calcio	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_it_sky_sport_calcio_fhd/index.m3u8
 ^=Soco Live	https://production.masfaiz.akunsatupak.workers.dev/live/stream-9912104_lhd.m3u8?auth_key=1744722056-0-0-85dca86a8dbbbb890e14433f634b43ee
+^=TV3	https://edge08.620097.ir.cdn.ir/hls2/tv3.m3u8
+^=Zona DAZN	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_it_zona_dazn_fhd/index.m3u8
+
 FIFA+ 🇦🇹	https://jmp2.uk/sam-ATBA3300007PT.m3u8?7
 FIFA+ 🇨🇦	https://jmp2.uk/sam-CABD1200008JG.m3u8?7
 FIFA+ 🇨🇭	https://jmp2.uk/sam-CHBA3300010UC.m3u8?7
