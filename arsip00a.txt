@@ -638,10 +638,11 @@ ESPN 2	https://1.0!ESPN_2!.z?7
 ESPN News	https://1.0!ESPN_NEWS!.z?7
 ESPN U	https://1.0!ESPN_U!.z?7
 Food Network	https://1.0!FOOD_NETWORK!.z?7
-FOX Business Network	https://1.0!FOX_Business_Network!.z?7
-FOX East	https://1.0!FOX_EAST!.z?7
-FOX Soul	https://1.0!FOX_SOUL!.z?7
-FOX Sports 1	https://1.0!FOX_Sports_1!.z?7
+Fox Business Network	https://1.0!FOX_Business_Network!.z?7
+Fox East	https://1.0!FOX_EAST!.z?7
+Fox Soul	https://1.0!FOX_SOUL!.z?7
+Fox Sports 1	https://1.0!FOX_Sports_1!.z?7
+Fox Sports 2	https://1.0!FOX_SPORTS_2!.z
 Free Form	https://1.0!FREE_FORM!.z?7
 FX	https://1.0!FX!.z?7
 FX Movie	https://1.0!FX_MOVIE!.z?7
