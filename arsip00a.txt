@@ -72,24 +72,7 @@ Sky Live Event 6	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7
 Sky Sports 24	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 Sky Sports Max	https://a.00/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 TUDN USA	https://a.00/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
-
 Tipik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-Sky Sports Main Event	09!08c00!00/2000001?zyy
-Sky Sports Premier League	09!08c00!00/2000002?zyy
-Sky Sports Football	09!08c00!00/2000003?zyy
-Sky Sports News	09!08c00!00/2000004?zyy
-Sky Sports Mix	09!08c00!00/2000008?zyy
-Sky Sports Action	09!08c00!00/2000011?zyy
-Sky Sports Tennis	09!08c00!00/2000013?zyy
-TNT Sports 1 🇬🇧	09!08c00!00/2000021?zyy
-TNT Sports 2 🇬🇧	09!08c00!00/2000022?zyy
-TNT Sports 3 🇬🇧	09!08c00!00/2000023?zyy
-TNT Sports 4 🇬🇧	09!08c00!00/2000024?zyy
-ABC Channel 7 🇺🇸	09!08c00!00/300003?zyy
-ESPN 🇺🇸	09!08c00!00/40000011?zyy
-NBA TV 🇺🇸	09!08c00!00/40000031?zyy
-TSN 1 🇨🇦	09!08c00!00/6000001?zyy
-TSN 3 🇨🇦	09!08c00!00/6000003?zyy
 
 	^-
 [w]ID Live Sport & TV Channels[z]	^-
@@ -852,6 +835,23 @@ UKTV Play Heroes	PlutoTV/64c0d6b424ade50008bc8883
 UKTV Play Laughs	PlutoTV/64c0d6f34096290008132d6b
 UKTV Play Uncovered	PlutoTV/64c0d697b0cf5c000824e5d9
 
+Sky Sports Main Event	09!08b00!00/2000001?zyy
+Sky Sports Premier League	09!08b00!00/2000002?zyy
+Sky Sports Football	09!08b00!00/2000003?zyy
+Sky Sports News	09!08b00!00/2000004?zyy
+Sky Sports Mix	09!08b00!00/2000008?zyy
+Sky Sports Action	09!08b00!00/2000011?zyy
+Sky Sports Tennis	09!08b00!00/2000013?zyy
+TNT Sports 1 🇬🇧	09!08b00!00/2000021?zyy
+TNT Sports 2 🇬🇧	09!08b00!00/2000022?zyy
+TNT Sports 3 🇬🇧	09!08b00!00/2000023?zyy
+TNT Sports 4 🇬🇧	09!08b00!00/2000024?zyy
+ABC Channel 7 🇺🇸	09!08b00!00/300003?zyy
+ESPN 🇺🇸	09!08b00!00/40000011?zyy
+NBA TV 🇺🇸	09!08b00!00/40000031?zyy
+TSN 1 🇨🇦	09!08b00!00/6000001?zyy
+TSN 3 🇨🇦	09!08b00!00/6000003?zyy
+
 [g]⚠️ Settings | Privacy & security | Security | Use secure DNS | Select DNS provider: OpenDNS.[z][][g]⚠️ Settings | Privacy & security | Use secure DNS | Choose another provider: OpenDNS.[z]	^-
 
 Always use Chrome browser! [y]⚠️ Please Allow Popups and Disable Ad Blocker.[z] ⚠️ [g]Install 3 Chrome Browser Extensions: CORS Unblock, Allow CORS, & Always Disable Content-Security-Policy! ⚠️ 🔒|Site settings | Privacy & security | Insecure content: Allow.👈 ⚠️ Settings | Privacy & security | Security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈[z][]Always use Chrome browser! [y]⚠️ Please Allow Popups and Disable Ad Blocker.[z] [g]⚠️ Settings | Privacy & security | Always use secure connections: Upgrade navigations to HTTPS: Disable.👈[z]	^-
@@ -1042,7 +1042,8 @@ DAZN Women's Football	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn
 
 Abu Dhabi Sports 1 Premium	https://pop1e3.cdn.intigral-ott.net/bpk-token/1ai@4zhlpzcp5m3flms2dpinkpw4svp4z0lw4da3p5aa/ADSP1/ADSP1.isml/manifest.mpd!!eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
 Abu Dhabi Sports 2 Premium	https://pop1e3.cdn.intigral-ott.net/bpk-token/1ai@4zhlpzcp5m3flms2dpinkpw4svp4z0lw4da3p5aa/ADSP2/ADSP2.isml/manifest.mpd!!efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
-Sky Sport F1	09!08clinear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/index_stereo.mpd!!000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
+
+Sky Sport F1	09!08blinear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/index_stereo.mpd!!000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
 
 	^-
 Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
