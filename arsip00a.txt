@@ -9,7 +9,11 @@
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-24-07-2025	^-
+25-07-2025	^-
+
+07:00 [l]Copa América Femenina[z]	^-
+Chile 🇨🇱 (w) vs Uruguay 🇺🇾 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4218805/chile-w-vs-uruguay-w-07-2025.html
+Ecuador 🇪🇨 (w) vs Argentina 🇦🇷 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4218807/ecuador-w-vs-argentina-women-07-2025.html
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
@@ -899,47 +903,6 @@ Nova Sport 5	09!09a116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=e
 Nova Sport 6	09!09a116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
 
 !ESPN 1 🇳🇱	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-
-	^-
-Astro Football	https://windnew.newkso.ru/wind/premium124/mono.m3u8?7
-Astro Grandstand	https://zekonew.newkso.ru/zeko/premium123/mono.m3u8?7
-Astro Premier League 1	https://zekonew.newkso.ru/zeko/premium125/mono.m3u8?7
-beIN Sports 2 En	https://zekonew.newkso.ru/zeko/premium90/mono.m3u8?7
-beIN Sports Au 1	https://ddy6new.newkso.ru/ddy6/premium491/mono.m3u8?7
-beIN Sports Au 2	https://ddy6new.newkso.ru/ddy6/premium492/mono.m3u8?7
-beIN Sports Au 3	https://ddy6new.newkso.ru/ddy6/premium493/mono.m3u8?7
-beIN Sports Fr 1	https://zekonew.newkso.ru/zeko/premium116/mono.m3u8?7
-beIN Sports Fr 2	https://zekonew.newkso.ru/zeko/premium117/mono.m3u8?7
-beIN Sports MENA 1	https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8?7
-beIN Sports MENA 2	https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8?7
-beIN Sports MENA 3	https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8?7
-Canal 11 Pt	https://ddy6new.newkso.ru/ddy6/premium540/mono.m3u8?7
-Canal+ Foot Fr	https://windnew.newkso.ru/wind/premium463/mono.m3u8?7
-Canal+ Fr	https://windnew.newkso.ru/wind/premium121/mono.m3u8?7
-Canal+ Sport 1 Afr	https://ddy6new.newkso.ru/ddy6/premium486/mono.m3u8?7
-Canal+ Sport 360 Fr	https://windnew.newkso.ru/wind/premium464/mono.m3u8?7
-Canal+ Sports Fr	https://windnew.newkso.ru/wind/premium122/mono.m3u8?7
-Canal+ Sports Pl 1	https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8?7
-Canal+ Sports Pl 2	https://ddy6new.newkso.ru/ddy6/premium487/mono.m3u8?7
-Canal+ Sports Pl	https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8?7
-Diema 1	https://ddy6new.newkso.ru/ddy6/premium482/mono.m3u8?7
-Digi Sport 1	https://nfsnew.newkso.ru/nfs/premium400/mono.m3u8?7
-Max Sport 3	https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8?7
-Nova Sport 1	https://windnew.newkso.ru/wind/premium76/mono.m3u8?7
-Polsat Sport 1	https://windnew.newkso.ru/wind/premium47/mono.m3u8?7
-Sport Klub Rs 1	https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
-Sport Klub Rs 2	https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
-Sport Klub Rs 3	https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-Sport Klub Rs 4	https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
-Sportsnet 360	https://zekonew.newkso.ru/zeko/premium409/mono.m3u8?7
-SporTV 1	https://ddy6new.newkso.ru/ddy6/premium78/mono.m3u8?7
-TNT USA	https://zekonew.newkso.ru/zeko/premium338/mono.m3u8?7
-TSN 1	https://zekonew.newkso.ru/zeko/premium111/mono.m3u8?7
-TSN 2	https://zekonew.newkso.ru/zeko/premium112/mono.m3u8?7
-TSN 3	https://zekonew.newkso.ru/zeko/premium113/mono.m3u8?7
-TSN 4	https://zekonew.newkso.ru/zeko/premium114/mono.m3u8?7
-TSN 5	https://zekonew.newkso.ru/zeko/premium115/mono.m3u8?7
-TyC Sports	https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8?7
 
 	^-
 HRT 1 🇭🇷	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd!!edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
