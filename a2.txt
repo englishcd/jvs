@@ -311,20 +311,20 @@ Gold UK	https://ZZB687?4
 GOLF Channel USA	https://ZZB318?4
 Grit Channel	https://ZZB752?4
 Hallmark Movies & Mysterie	https://ZZB296?4
+HBO 1 USA	https://ZZB321?4
+HBO 2 USA	https://ZZB689?4
 HBO Comedy USA	https://ZZB690?4
 HBO Family USA	https://ZZB691?4
 HBO Latino USA	https://ZZB692?4
 HBO Poland	https://ZZB569?4
 HBO Signature USA	https://ZZB693?4
-HBO USA	https://ZZB321?4
 HBO Zone USA	https://ZZB694?4
-HBO2 USA	https://ZZB689?4
 Headline News	https://ZZB323?4
 HGTV	https://ZZB382?4
 History USA	https://ZZB322?4
 HR Fernsehen DE	https://ZZB740?4
 IFC TV USA	https://ZZB656?4
-Investigation Discovery (ID USA)	https://ZZB324?4
+Investigation Discovery USA	https://ZZB324?4
 ION USA	https://ZZB325?4
 Italia 1 Italy	https://ZZB854?4
 ITV 1 UK	https://ZZB350?4
@@ -427,7 +427,7 @@ Orange Sport 4 Romania	https://ZZB442?4
 Oxygen True Crime	https://ZZB332?4
 Pac-12 Network USA	https://ZZB287?4
 Paramount Network	https://ZZB334?4
-PBS USA USA	https://ZZB210?4
+PBS USA	https://ZZB210?4
 Polsat Film Poland	https://ZZB564?4
 Polsat News Poland	https://ZZB443?4
 Polsat Poland	https://ZZB562?4
@@ -476,7 +476,7 @@ SEE Denmark	https://ZZB811?4
 Showtime 1 USA	https://ZZB333?4
 Showtime 2 USA (SHO2) USA	https://ZZB792?4
 Showtime Extreme USA	https://ZZB794?4
-Showtime Family Zone (SHO Family Zone) USA	https://ZZB795?4
+Showtime Family Zone USA	https://ZZB795?4
 Showtime Next (SHO Next) USA	https://ZZB796?4
 Showtime Showcase USA	https://ZZB793?4
 Showtime Women USA	https://ZZB797?4
@@ -671,7 +671,7 @@ TV2 Zulu	https://ZZB818?4
 TV3 Max Denmark	https://ZZB223?4
 TV3 Sport Denmark	https://ZZB809?4
 TV3+ Denmark	https://ZZB819?4
-TVA Sports	https://ZZB833?4
+TVA Sports 1	https://ZZB833?4
 TVA Sports 2	https://ZZB834?4
 TVE La 1 Spain	https://ZZB533?4
 TVE La 2 Spain	https://ZZB536?4
