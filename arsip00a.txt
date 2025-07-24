@@ -12,6 +12,7 @@
 25-07-2025	^-
 
 01:30 [g]International Club Friendly[z]	^-
+AFC Ajax vs Celtic FC	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 AFC Ajax vs Celtic FC	`*https://www.fctv33.com/football/international-club-friendly-match-4229035/afc-ajax-vs-celtic-fc-07-2025.html
 
 07:00 [l]Copa América Femenina[z]	^-
@@ -21,6 +22,7 @@ Ecuador 🇪🇨 (w) vs Argentina 🇦🇷 (w)	`*https://www.fctv33.com/football
 16:00 [l]AFF U23 Youth Championship[z]	^-
 Vietnam 🇻🇳 U23 vs Philippines 🇵🇭 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 Vietnam 🇻🇳 U23 vs Philippines 🇵🇭 U23	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+Vietnam 🇻🇳 U23 vs Philippines 🇵🇭 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4235479/vietnam-u23-vs-philippines-u23-07-2025.html
 
 20:00 [l]AFF U23 Youth Championship[z]	^-
 Indonesia 🇮🇩 U23 vs Thailand 🇹🇭 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
