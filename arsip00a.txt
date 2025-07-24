@@ -11,6 +11,9 @@
 
 25-07-2025	^-
 
+01:30 [g]International Club Friendly[z]	^-
+AFC Ajax vs Celtic FC	`*https://www.fctv33.com/football/international-club-friendly-match-4229035/afc-ajax-vs-celtic-fc-07-2025.html
+
 07:00 [l]Copa América Femenina[z]	^-
 Chile 🇨🇱 (w) vs Uruguay 🇺🇾 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4218805/chile-w-vs-uruguay-w-07-2025.html
 Ecuador 🇪🇨 (w) vs Argentina 🇦🇷 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4218807/ecuador-w-vs-argentina-women-07-2025.html
@@ -39,10 +42,9 @@ GolTV	00!0!0/9595?zyy
 [y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 ^=	^-
-^=Live Sports	`0https://play31.marza6.shop/
+^=Live Sports	`0https://play31.livesports088.com/football.html
 ^=Jala Live	`0https://m.jalazt54.cc
 ^=Huhu.To	`0https://huhu.to/
-^=Volleyball Live	https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jrb5L5Cr/live.isml/.m3u8
 ^=VolleyBall Live	`0https://wikisport.cc/play?token=s3c2LDmf00dxQBOoXZcEX3ZEbzBmeDVWVi9NVkpVZlZRL3VzTk5PcXQyMjN5T29Fb1JnV3IzK05GQWx6MFlpb1ZvZWhUTXBMcHJMb3VqWTJEMmVadDRBPQ
 
 	^-
