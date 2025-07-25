@@ -58,6 +58,7 @@ GolTV	00!0!0/9595?zyy
 ^=	^-
 ^=Fox 4	https://ZZB39?4
 ^=Fox 7	https://ZZB39?7
+^=Live Day	`0https://dlhd.click/
 ^=Live Sports	`0https://play31.livesports088.com/football.html
 ^=Jala Live	`0https://m.jalazt54.cc
 ^=Huhu.To	`0https://huhu.to/
