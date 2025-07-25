@@ -1,3 +1,25 @@
+ABC 🇯🇵	`0i3`03abc/index.m3u8
+BS TV 4K 🇯🇵	`0i3`03bstx4k/index.m3u8
+Fuji TV 🇯🇵	`0i3`03Fuji_TV/index.m3u8
+Kansai TV 🇯🇵	`0i3`03kansaitv/index.m3u8
+KBS 🇯🇵	`0i3`03kbs/index.m3u8
+MBS 🇯🇵	`0i3`03mbs/index.m3u8
+NHK BS 🇯🇵	`0i3`03NHK_BS/index.m3u8
+NHK BSP 4K 🇯🇵	`0i3`03bsp4k/index.m3u8
+NHK E 🇯🇵	`0i3`03NHK_E/index.m3u8
+Nippon TV 🇯🇵	`0i3`03Nippon_TV/index.m3u8
+Sun TV 🇯🇵	`0i3`03suntv/index.m3u8
+TBS 🇯🇵	`0i3`03TBS/index.m3u8
+Tokyo MX1 🇯🇵	`0i3`03Tokyo_MX1/index.m3u8
+Tokyo MX2 🇯🇵	`0i3`03Tokyo_MX2/index.m3u8
+TV Asahi 🇯🇵	`0i3`03TV_Asahi/index.m3u8
+TV Osaka 🇯🇵	`0i3`03tvo/index.m3u8
+TV Tokyo 🇯🇵	`0i3`03TV_Tokyo/index.m3u8
+Wowow Cinema 🇯🇵	`0i3`03wcinema/index.m3u8
+Wowow Live 🇯🇵	`0i3`03wlive/index.m3u8
+Wowow Prime 🇯🇵	`0i3`03wprime/index.m3u8
+Yomiuri TV 🇯🇵	`0i3`03ytv/index.m3u8
+
 TNT Sports 1 UK	https://ZZB31
 TNT Sports 2 UK	https://ZZB32
 TNT Sports 3 UK	https://ZZB33
@@ -751,3 +773,13 @@ Space City Home Network	https://ZZB921
 SportsNet Pittsburgh	https://ZZB922
 Altitude Sports	https://ZZB923
 Monumental Sports Network	https://ZZB924
+
+	^-
+Arena Sport 2	https://ZZB1
+Polsat Sport Premium 1	https://ZZB2
+TV 4	https://ZZB3
+
+
+
+
+Premier Sports 1	https://ZZB18
