@@ -11,14 +11,6 @@
 
 25-07-2025	^-
 
-07:00 [l]Copa América Femenina[z]	^-
-Ecuador 🇪🇨 (w) vs Argentina 🇦🇷 (w)	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
-Ecuador 🇪🇨 (w) vs Argentina 🇦🇷 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4218807/ecuador-w-vs-argentina-women-07-2025.html
-
-Chile 🇨🇱 (w) vs Uruguay 🇺🇾 (w)	!yz~b97d13a4-fd30-434e-9e23-2cbd03687c1f.m3u8
-Chile 🇨🇱 (w) vs Uruguay 🇺🇾 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4218805/chile-w-vs-uruguay-w-07-2025.html
-
-
 16:00 [l]AFF U23 Youth Championship[z]	^-
 Vietnam 🇻🇳 U23 vs Philippines 🇵🇭 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 Vietnam 🇻🇳 U23 vs Philippines 🇵🇭 U23	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
