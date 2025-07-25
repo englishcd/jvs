@@ -23,10 +23,10 @@ Ghana 🇬🇭 (w) vs South Africa 🇿🇦 (w)	https://ZZB571
 Ghana 🇬🇭 (w) vs South Africa 🇿🇦 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4235379/ghana-w-vs-south-africa-women-07-2025.html
 
 07:00 [l]Copa América Femenina[z]	^-
-Brazil 🇧🇷 (w) vs Colombia 🇨🇴 (w)	!yz~b97d13a4-fd30-434e-9e23-2cbd03687c1f.m3u8
+Brazil 🇧🇷 (w) vs Colombia 🇨🇴 (w)	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 Brazil 🇧🇷 (w) vs Colombia 🇨🇴 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4222866/brazil-women-vs-colombia-women-07-2025.html
 
-Paraguay 🇵🇾 (w) vs Venezuela 🇻🇪 (w)	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
+Paraguay 🇵🇾 (w) vs Venezuela 🇻🇪 (w)	https://ZZB756
 Paraguay 🇵🇾 (w) vs Venezuela 🇻🇪 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4222868/paraguay-women-vs-venezuela-women-07-2025.html
 
 ^@	^-
@@ -186,54 +186,6 @@ Kix	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd!!a8d5712967
 Tap Action	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd!!bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 Tap Movies	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd!!71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 
-ABC News	https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-ABC US	!yz~196a3d53-fe48-484c-b267-f3f326f8c9e7.m3u8
-AMC	!yz~c21d4225-12e5-4178-af0e-33711499d86e.m3u8
-Animal Planet US	!yz~c1b75c6c-48df-46c5-a6e0-8a2787fb0f65.m3u8
-Big Ten Network	!yz~a9fac2ae-4feb-4765-aded-46b61277a09b.m3u8
-Bravo	!yz~3427392c-1304-44d6-a80a-680111fff048.m3u8
-Cartoon Network US	!yz~30919575-c426-404b-a063-395b706fa39c.m3u8
-CBS Sports Network	!yz~9a60f692-4ae9-483b-9791-411f7530754d.m3u8
-CBS	!yz~f52160c3-ffe2-4eea-9315-b47c57c06dad.m3u8
-Cinemax US	!yz~00fff1fa-6c4f-4459-af8e-cf05448c217c.m3u8
-CNBC US	!yz~4268c138-3258-42b8-8192-f9a3873e7794.m3u8
-CNN US	!yz~24e6e9dd-7a3b-46e5-bddd-e21ae6152898.m3u8
-Comedy Central	!yz~56af1099-35de-4c64-ace2-99eb216793b4.m3u8
-Discovery Channel	!yz~17dec456-cbcb-4836-b268-dd2a40cb4b87.m3u8
-ESPN News	!yz~56cc18c4-1e9d-4af0-b1a2-76fc8fc86333.m3u8
-ESPN U	!yz~be6d8aa9-b18f-4004-9f5a-e587a49c3bc4.m3u8
-ESPN US	!yz~4e731d12-852c-4daa-b950-aa97b5357aba.m3u8
-ESPN	!yz~4e731d12-852c-4daa-b950-aa97b5357aba.m3u8
-ESPN2 US	!yz~c8d2e86a-43fc-4b22-b084-3008e8d1063c.m3u8
-Fox News US	!yz~f03819b3-64bd-4730-ab94-2469c3d30d81.m3u8
-Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
-Fox Sports 2	!yz~b97d13a4-fd30-434e-9e23-2cbd03687c1f.m3u8
-Fox	!yz~868cfc8b-f31c-40b5-bc19-bb2f8434c869.m3u8
-Freeformus	!yz~b42b40dc-d18f-4728-8556-f778ddeaeca8.m3u8
-Hallmark Movies Mysteries	!yz~4b77c33b-6f66-4f65-881f-56def984b98f.m3u8
-Hallmark TV	!yz~453ef90c-c384-40bb-9c86-74b69a4b28b3.m3u8
-HBO US	!yz~2560c665-052e-4646-aaab-3ad367a7bc8e.m3u8
-HGTV US	!yz~3ac0c981-95f6-4fce-a66d-9b55773370f2.m3u8
-History American Network	!yz~7ba806d9-3ae3-4425-a46d-90db0b27988a.m3u8
-MLB Network US	!yz~38a596d0-649a-459b-af25-4dd8629f6f0d.m3u8
-MSNBC US	!yz~020da831-3bb1-4609-8f59-7aa72392ab15.m3u8
-MTV	!yz~35f9fae8-6edc-4a88-ab78-65ac05b2b4e1.m3u8
-National Geographic US	!yz~5cd05983-0661-4da6-98ff-b31f6e411620.m3u8
-NBA US	!yz~b93f8f7b-03f8-4693-803a-32a9c894e296.m3u8
-NBC US	!yz~0f866e96-e1b8-481d-bd6d-64949cb9f34d.m3u8
-NFL Network	!yz~04f7d00e-0f79-4956-8296-985ac70a84be.m3u8
-NHL Network US	!yz~f3842e8c-b2e7-443a-82b8-31ba28ea73d4.m3u8
-Nickelodeon	!yz~64e9b01f-1dfc-4708-b9b6-ab6249c25536.m3u8
-Oxygen US	!yz~bb04ce33-6834-4d78-b55c-e8a6d010edd3.m3u8
-Showtime US	!yz~ee470167-b523-4775-93fe-735ab59e7285.m3u8
-SyFy US	!yz~7558427d-1db8-480d-a80e-bc08eefa2b6c.m3u8
-TBS US	!yz~df2ca648-51bd-41ad-a153-a33f0faf0c3f.m3u8
-TLC US	!yz~5281d7f6-3ffb-4b38-b273-f1bad18ddcbb.m3u8
-TNT US	!yz~b8e3ff52-2d13-45a6-a3a0-9e64c1a0080c.m3u8
-Travel Channel	!yz~c20312cb-10ba-47eb-9441-91d03ef3ef19.m3u8
-USA Network	!yz~594edb0c-896e-4853-b97b-26c3a4f05156.m3u8
-VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
-
 Arena Sport 1	https://z.1LIVE_Arena_Sport_1_FHD/index.m3u8
 BBC One	https://z.1UK_BBC_1/index.m3u8
 beIN Sports US	https://z.1US_BEIN_SPORTS/index.m3u8
@@ -283,6 +235,7 @@ Yomiuri TV 🇯🇵	`0i3`03ytv/index.m3u8
 
 	^-
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+ABC News	https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 Afro Sport	01!01dnewproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 Al Arabiya News	https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 Al Hadath News	https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
@@ -951,6 +904,53 @@ Canal Plus Sport 3	09!09a116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8
 Nova Sport 5	09!09a116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
 Nova Sport 6	09!09a116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b?zyy
 
+ABC US	!yz~196a3d53-fe48-484c-b267-f3f326f8c9e7.m3u8
+AMC	!yz~c21d4225-12e5-4178-af0e-33711499d86e.m3u8
+Animal Planet US	!yz~c1b75c6c-48df-46c5-a6e0-8a2787fb0f65.m3u8
+Big Ten Network	!yz~a9fac2ae-4feb-4765-aded-46b61277a09b.m3u8
+Bravo	!yz~3427392c-1304-44d6-a80a-680111fff048.m3u8
+Cartoon Network US	!yz~30919575-c426-404b-a063-395b706fa39c.m3u8
+CBS Sports Network	!yz~9a60f692-4ae9-483b-9791-411f7530754d.m3u8
+CBS	!yz~f52160c3-ffe2-4eea-9315-b47c57c06dad.m3u8
+Cinemax US	!yz~00fff1fa-6c4f-4459-af8e-cf05448c217c.m3u8
+CNBC US	!yz~4268c138-3258-42b8-8192-f9a3873e7794.m3u8
+CNN US	!yz~24e6e9dd-7a3b-46e5-bddd-e21ae6152898.m3u8
+Comedy Central	!yz~56af1099-35de-4c64-ace2-99eb216793b4.m3u8
+Discovery Channel	!yz~17dec456-cbcb-4836-b268-dd2a40cb4b87.m3u8
+ESPN News	!yz~56cc18c4-1e9d-4af0-b1a2-76fc8fc86333.m3u8
+ESPN U	!yz~be6d8aa9-b18f-4004-9f5a-e587a49c3bc4.m3u8
+ESPN US	!yz~4e731d12-852c-4daa-b950-aa97b5357aba.m3u8
+ESPN	!yz~4e731d12-852c-4daa-b950-aa97b5357aba.m3u8
+ESPN2 US	!yz~c8d2e86a-43fc-4b22-b084-3008e8d1063c.m3u8
+Fox News US	!yz~f03819b3-64bd-4730-ab94-2469c3d30d81.m3u8
+Fox Sports 1	!yz~f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
+Fox Sports 2	!yz~b97d13a4-fd30-434e-9e23-2cbd03687c1f.m3u8
+Fox	!yz~868cfc8b-f31c-40b5-bc19-bb2f8434c869.m3u8
+Freeformus	!yz~b42b40dc-d18f-4728-8556-f778ddeaeca8.m3u8
+Hallmark Movies Mysteries	!yz~4b77c33b-6f66-4f65-881f-56def984b98f.m3u8
+Hallmark TV	!yz~453ef90c-c384-40bb-9c86-74b69a4b28b3.m3u8
+HBO US	!yz~2560c665-052e-4646-aaab-3ad367a7bc8e.m3u8
+HGTV US	!yz~3ac0c981-95f6-4fce-a66d-9b55773370f2.m3u8
+History American Network	!yz~7ba806d9-3ae3-4425-a46d-90db0b27988a.m3u8
+MLB Network US	!yz~38a596d0-649a-459b-af25-4dd8629f6f0d.m3u8
+MSNBC US	!yz~020da831-3bb1-4609-8f59-7aa72392ab15.m3u8
+MTV	!yz~35f9fae8-6edc-4a88-ab78-65ac05b2b4e1.m3u8
+National Geographic US	!yz~5cd05983-0661-4da6-98ff-b31f6e411620.m3u8
+NBA US	!yz~b93f8f7b-03f8-4693-803a-32a9c894e296.m3u8
+NBC US	!yz~0f866e96-e1b8-481d-bd6d-64949cb9f34d.m3u8
+NFL Network	!yz~04f7d00e-0f79-4956-8296-985ac70a84be.m3u8
+NHL Network US	!yz~f3842e8c-b2e7-443a-82b8-31ba28ea73d4.m3u8
+Nickelodeon	!yz~64e9b01f-1dfc-4708-b9b6-ab6249c25536.m3u8
+Oxygen US	!yz~bb04ce33-6834-4d78-b55c-e8a6d010edd3.m3u8
+Showtime US	!yz~ee470167-b523-4775-93fe-735ab59e7285.m3u8
+SyFy US	!yz~7558427d-1db8-480d-a80e-bc08eefa2b6c.m3u8
+TBS US	!yz~df2ca648-51bd-41ad-a153-a33f0faf0c3f.m3u8
+TLC US	!yz~5281d7f6-3ffb-4b38-b273-f1bad18ddcbb.m3u8
+TNT US	!yz~b8e3ff52-2d13-45a6-a3a0-9e64c1a0080c.m3u8
+Travel Channel	!yz~c20312cb-10ba-47eb-9441-91d03ef3ef19.m3u8
+USA Network	!yz~594edb0c-896e-4853-b97b-26c3a4f05156.m3u8
+VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
+
 !ESPN 1 🇳🇱	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 
 	^-
@@ -1046,10 +1046,12 @@ TVBS Asia	https://l.0/TVBSAsia/mpd/TVBSAsia.mpd!!f530cf9ab2244fdb935da69d9361418
 TVBS News	https://l.0/TVBSNews/mpd/TVBSNews.mpd!!b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
 tvN Movies	https://l.0/TvNMoviesHD/mpd/TvNMoviesHD.mpd!!50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 Zhejiang	https://l.0/ZhejiangTV/mpd/ZhejiangTV.mpd!!d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
+
 Cartoonito	01!01dstreaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
 Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 Warner	01!01dstreaming.indihometv.com/atm/DASH/warner/manifest.mpd
+
 DAZN Women's Football	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
 
 Abu Dhabi Sports 1 Premium	https://pop1e3.cdn.intigral-ott.net/bpk-token/1ai@4zhlpzcp5m3flms2dpinkpw4svp4z0lw4da3p5aa/ADSP1/ADSP1.isml/manifest.mpd!!eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
