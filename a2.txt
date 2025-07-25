@@ -133,7 +133,7 @@ Canal+ Family Poland	https://ZZB567
 Canal+ Foot France	https://ZZB463
 Canal+ Formula 1	https://ZZB273
 Canal+ France	https://ZZB121
-CANAL+ MotoGP France	https://ZZB271
+Canal+ MotoGP France	https://ZZB271
 Canal+ Premium Poland	https://ZZB566
 Canal+ Seriale Poland	https://ZZB570
 Canal+ Sport 360	https://ZZB464
