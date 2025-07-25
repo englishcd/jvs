@@ -262,6 +262,29 @@ TNT Sports F1 🇮🇹	https://z.1IT_SKY_SPORTS_F1/index.m3u8
 TNT Sports Football 🇬🇧	https://z.1UK_SKY_SPORTS_FOOTBALL/index.m3u8
 
 	^-
+ABC 🇯🇵	`0i3`03abc/index.m3u8
+Asahi TV 🇯🇵	`0i3`03TV_Asahi/index.m3u8
+BS TV 4K 🇯🇵	`0i3`03bstx4k/index.m3u8
+Fuji TV 🇯🇵	`0i3`03Fuji_TV/index.m3u8
+Kansai TV 🇯🇵	`0i3`03kansaitv/index.m3u8
+KBS 🇯🇵	`0i3`03kbs/index.m3u8
+MBS 🇯🇵	`0i3`03mbs/index.m3u8
+NHK BS 🇯🇵	`0i3`03NHK_BS/index.m3u8
+NHK BSP 4K 🇯🇵	`0i3`03bsp4k/index.m3u8
+NHK E 🇯🇵	`0i3`03NHK_E/index.m3u8
+Nippon TV 🇯🇵	`0i3`03Nippon_TV/index.m3u8
+Osaka TV 🇯🇵	`0i3`03tvo/index.m3u8
+Sun TV 🇯🇵	`0i3`03suntv/index.m3u8
+TBS 🇯🇵	`0i3`03TBS/index.m3u8
+Tokyo MX1 🇯🇵	`0i3`03Tokyo_MX1/index.m3u8
+Tokyo MX2 🇯🇵	`0i3`03Tokyo_MX2/index.m3u8
+Tokyo TV 🇯🇵	`0i3`03TV_Tokyo/index.m3u8
+Wowow Cinema 🇯🇵	`0i3`03wcinema/index.m3u8
+Wowow Live 🇯🇵	`0i3`03wlive/index.m3u8
+Wowow Prime 🇯🇵	`0i3`03wprime/index.m3u8
+Yomiuri TV 🇯🇵	`0i3`03ytv/index.m3u8
+
+	^-
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 Afro Sport	01!01dnewproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 Al Arabiya News	https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
