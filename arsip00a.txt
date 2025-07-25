@@ -14,7 +14,7 @@
 01:30 [l]International U20 Match[z]	^-
 Argentina 🇦🇷 vs Brazil 🇧🇷	https://ZZB643
 
-02:00 [l]International Club Friendly[z]	^-
+02:00 [y]International Club Friendly[z]	^-
 Cordoba vs Real Betis	https://ZZB12
 Cordoba vs Real Betis	`*https://www.fctv33.com/football/international-club-friendly-match-4230557/cordoba-vs-real-betis-07-2025.html
 
