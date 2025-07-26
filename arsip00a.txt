@@ -196,29 +196,26 @@ Kix	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd!!a8d5712967
 Tap Action	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd!!bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 Tap Movies	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd!!71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 
-Arena Sport 1	https://z.1LIVE_Arena_Sport_1_FHD/index.m3u8
-BBC One	https://z.1UK_BBC_1/index.m3u8
-beIN Sports US	https://z.1US_BEIN_SPORTS/index.m3u8
-ESPN USA	https://z.1USA_ESPN/index.m3u8
-Fox Sports 2	https://z.1USA_FOX_SPORTS_2/index.m3u8
 ITV 1 🇬🇧	https://z.1UK_ITV_1/index.m3u8
 ITV 2 🇬🇧	https://z.1UK_ITV_2/index.m3u8
 ITV 3 🇬🇧	https://z.1UK_ITV_3/index.m3u8
 ITV 4 🇬🇧	https://z.1UK_ITV_4/index.m3u8
-Live Diema Sport	https://z.1live_event_bg_diema_sport/index.m3u8
-Live Event UEFA	https://z.1live_event_uefa_02/index.m3u8
-Racing TV	https://z.1UK_RACING_TV/index.m3u8
-Sky Sports Arena	https://z.1UK_SKY_SPORTS_ARENA/index.m3u8
-Sky Sports Main Event	https://z.1UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
-Sky Sports Mix	https://z.1UK_SKY_SPORTS_MIX/index.m3u8
-Sky Sports Premier League	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
-Sky Sports Tennis	https://z.1UK_SKY_SPORTS_TENNIS/index.m3u8
 TNT Sports 1 🇬🇧	https://z.1UK_TNT_SPORTS_1/index.m3u8
 TNT Sports 2 🇬🇧	https://z.1UK_TNT_SPORTS_2/index.m3u8
 TNT Sports 3 🇬🇧	https://z.1UK_TNT_SPORTS_3/index.m3u8
 TNT Sports 4 🇬🇧	https://z.1UK_TNT_SPORTS_4/index.m3u8
-TNT Sports F1 🇮🇹	https://z.1IT_SKY_SPORTS_F1/index.m3u8
-TNT Sports Football 🇬🇧	https://z.1UK_SKY_SPORTS_FOOTBALL/index.m3u8
+Sky Sports Arena	https://z.1UK_SKY_SPORTS_ARENA/index.m3u8
+Sky Sports Main Event	https://z.1UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
+Sky Sports Mix	https://z.1UK_SKY_SPORTS_MIX/index.m3u8
+Sky Sports Tennis	https://z.1UK_SKY_SPORTS_TENNIS/index.m3u8
+Sky Sports Premier League	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+Sky Sports Football	https://z.1UK_SKY_SPORTS_FOOTBALL/index.m3u8
+beIN Sports US	https://z.1US_BEIN_SPORTS/index.m3u8
+ESPN USA	https://z.1USA_ESPN/index.m3u8
+BBC One	https://z.1UK_BBC_1/index.m3u8
+Fox Sports 2	https://z.1USA_FOX_SPORTS_2/index.m3u8
+Racing TV	https://z.1UK_RACING_TV/index.m3u8
+Sky Sports F1 🇮🇹	https://z.1IT_SKY_SPORTS_F1/index.m3u8
 
 	^-
 ABC 🇯🇵	`0i3`03abc/index.m3u8
@@ -376,19 +373,24 @@ Ziggo Sport 6 Golf	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_7576
 beIN TV 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
 beIN 1 PL	https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 
-^=Arena Sport 1	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/LIVE_Arena_Sport_1_FHD/index.m3u8
-^=Channel 9 IR	https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
-^=Live ESPN 1 🇳🇱	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
-^=Live Fox Deportes US	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/US_FOX_DEPORTES/index.m3u8
-^=Live LaLiga	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_laliga_tv/index.m3u8
-^=Live S4C 🇬🇧	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uk_s4c/index.m3u8
-^=Live US ESPN Deportes	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_US_ESPN_DEPORTES/index.m3u8
+DAZN UK Live Event 3	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/LIVE_DAZN_UK_Event_3/index.m3u8
+ESPN 1 🇳🇱	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
+ESPN Deportes US	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_US_ESPN_DEPORTES/index.m3u8
+Fox Deportes US	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/US_FOX_DEPORTES/index.m3u8
+Sky Sport 251 IT	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_it_sky_sport_251_fhd/index.m3u8
+
+^=Arena Sport 1	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/LIVE_Arena_Sport_1_FHD/index.m3u8
+^=Live Diema Sport	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_bg_diema_sport/index.m3u8
+^=Live Event UEFA	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_uefa_02/index.m3u8
+^=Live LaLiga	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_laliga_tv/index.m3u8
+^=Live S4C 🇬🇧	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_uk_s4c/index.m3u8
 ^=MU TV	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_uk_mutv_fhd/index.m3u8
+^=Sky Sport Calcio	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_it_sky_sport_calcio_fhd/index.m3u8
+^=Zona DAZN	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_it_zona_dazn_fhd/index.m3u8
+
+^=Channel 9 IR	https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 ^=MU TV	https://stream2.aws-live-streaming.com/bbs/mutv/chunks.m3u8?nimblesessionid=64762209
-^=Sky Sport Calcio	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_it_sky_sport_calcio_fhd/index.m3u8
-^=Soco Live	https://production.masfaiz.akunsatupak.workers.dev/live/stream-9912104_lhd.m3u8?auth_key=1744722056-0-0-85dca86a8dbbbb890e14433f634b43ee
 ^=TV3	https://edge08.620097.ir.cdn.ir/hls2/tv3.m3u8
-^=Zona DAZN	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_it_zona_dazn_fhd/index.m3u8
 
 FIFA+ 🇦🇹	https://jmp2.uk/sam-ATBA3300007PT.m3u8?7
 FIFA+ 🇨🇦	https://jmp2.uk/sam-CABD1200008JG.m3u8?7
