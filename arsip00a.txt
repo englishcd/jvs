@@ -15,20 +15,20 @@
 Nice vs Feyenoord	`*https://www.fctv33.com/football/international-club-friendly-match-4236674/ogc-nice-vs-feyenoord-07-2025.html
 RCD Espanyol vs Southampton	`*https://www.fctv33.com/football/international-club-friendly-match-4236675/rcd-espanyol-de-barcelona-vs-southampton-07-2025.html
 
-16:30 International Club Friendly	^-
+16:30 [g]International Club Friendly[z]	^-
 Moreirense vs GD Chaves	`*https://www.fctv33.com/football/international-club-friendly-match-4236678/moreirense-vs-gd-chaves-07-2025.html
 
 17:00 [g]International Club Friendly[z]	^-
 Tottenham Hotspur vs Wycombe Wanderers	`*https://www.fctv33.com/football/international-club-friendly-match-4236690/tottenham-hotspur-vs-wycombe-wanderers-07-2025.html
 
-18:00 International Club Friendly	^-
+18:00 [g]International Club Friendly[z]	^-
 FC Eindhoven vs De Treffers	`*https://www.fctv33.com/football/international-club-friendly-match-4236692/fc-eindhoven-vs-de-treffers-07-2025.html
 
 18:30 [g]International Club Friendly[z]	^-
 Liverpool vs AC Milan	`*https://www.fctv33.com/football/international-club-friendly-match-4184052/liverpool-vs-ac-milan-07-2025.html
 SV Elversberg vs Fortuna Sittard	`*https://www.fctv33.com/football/international-club-friendly-match-4234704/sv-elversberg-vs-fortuna-sittard-07-2025.html
 
-19:00 International Club Friendly	^-
+19:00 [g]International Club Friendly[z]	^-
 Hannover 96 vs Cagliari	`*https://www.fctv33.com/football/international-club-friendly-match-4234713/hannover-96-vs-cagliari-07-2025.html
 NEC Nijmegen vs PAOK Saloniki	`*https://www.fctv33.com/football/international-club-friendly-match-4234714/nec-nijmegen-vs-paok-saloniki-07-2025.html
 SpVgg Greuther Fürth vs Union Berlin	`*https://www.fctv33.com/football/international-club-friendly-match-4236723/spvgg-greuther-frth-vs-1-fc-union-berlin-07-2025.html
@@ -40,7 +40,7 @@ Eintracht Braunschweig vs Hansa Rostock	`*https://www.fctv33.com/football/intern
 Karlsruher SC vs SSV Ulm 1846	`*https://www.fctv33.com/football/international-club-friendly-match-4234717/karlsruher-sc-vs-ssv-ulm-1846-07-2025.html
 FC Liefering vs Feyenoord	`*https://www.fctv33.com/football/international-club-friendly-match-4237800/fc-liefering-vs-feyenoord-07-2025.html
 
-20:00 International Club Friendly	^-
+20:00 [g]International Club Friendly[z]	^-
 AZ Alkmaar vs Olympiakos Piraeus	`*https://www.fctv33.com/football/international-club-friendly-match-4234903/az-alkmaar-vs-olympiakos-piraeus-07-2025.html
 Arminia Bielefeld vs Monaco	`*https://www.fctv33.com/football/international-club-friendly-match-4236745/arminia-bielefeld-vs-as-monaco-07-2025.html
 Glasgow Rangers vs Middlesbrough	`*https://www.fctv33.com/football/international-club-friendly-match-4236746/rangers-vs-middlesbrough-07-2025.html
@@ -53,7 +53,7 @@ VfB Stuttgart vs Real Club Celta Vigo	`*https://www.fctv33.com/football/internat
 21:00 [g]International Club Friendly[z]	^-
 Luton Town vs Tottenham Hotspur	`*https://www.fctv33.com/football/international-club-friendly-match-4193177/luton-town-vs-tottenham-hotspur-07-2025.html
 
-21:00 International Club Friendly	^-
+21:00 [g]International Club Friendly[z]	^-
 Stoke City vs Wolves	`*https://www.fctv33.com/football/international-club-friendly-match-4219044/stoke-city-vs-wolverhampton-wanderers-07-2025.html
 Buxton FC vs Manchester City U21	`*https://www.fctv33.com/football/international-club-friendly-match-4236764/buxton-fc-vs-manchester-city-u21-07-2025.html
 Heart of Midlothian vs Sunderland AFC	`*https://www.fctv33.com/football/international-club-friendly-match-4236796/heart-of-midlothian-vs-sunderland-07-2025.html
@@ -65,7 +65,7 @@ Trabzonspor vs Umraniyespor	`*https://www.fctv33.com/football/international-club
 Lens vs Metz	`*https://www.fctv33.com/football/international-club-friendly-match-4234745/rc-lens-vs-metz-07-2025.html
 Schalke 04 vs Sevilla	`*https://www.fctv33.com/football/international-club-friendly-match-4236827/schalke-04-vs-sevilla-fc-07-2025.html
 
-22:30 International Club Friendly	^-
+22:30 [g]International Club Friendly[z]	^-
 PSV Eindhoven vs Athletic Bilbao	`*https://www.fctv33.com/football/international-club-friendly-match-4234747/psv-eindhoven-vs-athletic-club-07-2025.html
 
 23:00 [g]International Club Friendly[z]	^-
@@ -74,14 +74,14 @@ Napoli vs Catanzaro	`*https://www.fctv33.com/football/international-club-friendl
 
 27-07-2025	^-
 
-02:00 International Club Friendly	^-
+02:00 [g]International Club Friendly[z]	^-
 Fulham vs Nottingham Forest	`*https://www.fctv33.com/football/international-club-friendly-match-4235936/fulham-vs-nottingham-forest-07-2025.html
 
 03:00 [y]Premier League Summer Series[z]	^-
 Everton vs Bournemouth AFC	`*https://www.fctv33.com/football/premier-league-summer-series-match-4184026/everton-vs-bournemouth-afc-07-2025.html
 
 03:00 [l]CAF Women's African Cup of Nations[z]	^-
-Morocco  (w) vs Nigeria  (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4235378/morocco-women-vs-nigeria-women-07-2025.html
+Morocco 🇲🇦 (w) vs Nigeria 🇳🇬 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4235378/morocco-women-vs-nigeria-women-07-2025.html
 
 06:00 [y]Premier League Summer Series[z]	^-
 Manchester United vs West Ham United	`*https://www.fctv33.com/football/premier-league-summer-series-match-4176489/manchester-united-vs-west-ham-united-07-2025.html
