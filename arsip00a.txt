@@ -9,35 +9,47 @@
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-26-07-2025	^-
-
-22:00 [g]International Club Friendly[z]	^-
-Lens vs Metz	`*https://www.fctv33.com/football/international-club-friendly-match-4234745/rc-lens-vs-metz-07-2025.html
-Schalke 04 vs Sevilla	`*https://www.fctv33.com/football/international-club-friendly-match-4236827/schalke-04-vs-sevilla-fc-07-2025.html
-
-22:30 [g]International Club Friendly[z]	^-
-PSV Eindhoven vs Athletic Bilbao	`*https://www.fctv33.com/football/international-club-friendly-match-4234747/psv-eindhoven-vs-athletic-club-07-2025.html
-
-23:00 [g]International Club Friendly[z]	^-
-1. FC Kaiserslautern vs AS Roma	`*https://www.fctv33.com/football/international-club-friendly-match-4234753/1-fc-kaiserslautern-vs-as-roma-07-2025.html
-Napoli vs Catanzaro	`*https://www.fctv33.com/football/international-club-friendly-match-4236870/napoli-vs-catanzaro-07-2025.html
-
 27-07-2025	^-
 
 02:00 [g]International Club Friendly[z]	^-
+Fulham vs Nottingham Forest	https://ZZB540
+Fulham vs Nottingham Forest	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/US_FOX_DEPORTES/index.m3u8
 Fulham vs Nottingham Forest	`*https://www.fctv33.com/football/international-club-friendly-match-4235936/fulham-vs-nottingham-forest-07-2025.html
 
 03:00 [y]Premier League Summer Series[z]	^-
+Everton vs Bournemouth AFC	https://ZZB130
+Everton vs Bournemouth AFC	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nz_sky_sports_premier_league/index.m3u8
 Everton vs Bournemouth AFC	`*https://www.fctv33.com/football/premier-league-summer-series-match-4184026/everton-vs-bournemouth-afc-07-2025.html
 
 03:00 [l]CAF Women's African Cup of Nations[z]	^-
+Morocco 🇲🇦 (w) vs Nigeria 🇳🇬 (w)	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 Morocco 🇲🇦 (w) vs Nigeria 🇳🇬 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4235378/morocco-women-vs-nigeria-women-07-2025.html
 
 06:00 [y]Premier League Summer Series[z]	^-
+Manchester United vs West Ham United	https://ZZB130
+Manchester United vs West Ham United	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nz_sky_sports_premier_league/index.m3u8
 Manchester United vs West Ham United	`*https://www.fctv33.com/football/premier-league-summer-series-match-4176489/manchester-united-vs-west-ham-united-07-2025.html
 
 06:00 [g]International Club Friendly[z]	^-
+Eintracht Frankfurt vs Aston Villa	https://ZZB558
+Eintracht Frankfurt vs Aston Villa	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/LIVE_ESPN_PLUS_21/index.m3u8
 Eintracht Frankfurt vs Aston Villa	`*https://www.fctv33.com/football/international-club-friendly-match-4235935/eintracht-frankfurt-vs-aston-villa-07-2025.html
+
+17:00 [g]International Club Friendly[z]	^-
+Vissel Kobe vs FC Barcelona
+Vissel Kobe vs FC Barcelona	`*https://www.fctv33.com/football/international-club-friendly-match-4184078/vissel-kobe-vs-fc-barcelona-07-2025.html
+
+18:30 [g]International Club Friendly[z]	^-
+Arsenal vs Newcastle United
+Arsenal vs Newcastle United	`*https://www.fctv33.com/football/international-club-friendly-match-4184053/arsenal-vs-newcastle-united-07-2025.html
+
+23:00 [g]International Club Friendly[z]	^-
+VfL Bochum vs Bayer Leverkusen
+VfL Bochum vs Bayer Leverkusen	`*https://www.fctv33.com/football/international-club-friendly-match-4234909/vfl-bochum-1848-vs-bayer-04-leverkusen-07-2025.html
+
+23:00 [l]UEFA European Women's Championship[z]	^-
+England  (w) vs Spain  (w)
+England  (w) vs Spain  (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4236031/england-women-vs-spain-women-07-2025.html
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
@@ -372,25 +384,6 @@ Ziggo Sport 5 Football	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-
 Ziggo Sport 6 Golf	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,!!1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d?3
 beIN TV 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
 beIN 1 PL	https://wo.cma.footballii.ir/hls2/b1_src.m3u8
-
-DAZN UK Live Event 3	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/LIVE_DAZN_UK_Event_3/index.m3u8
-ESPN 1 🇳🇱	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
-ESPN Deportes US	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_US_ESPN_DEPORTES/index.m3u8
-Fox Deportes US	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/US_FOX_DEPORTES/index.m3u8
-Sky Sport 251 IT	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_it_sky_sport_251_fhd/index.m3u8
-
-^=Arena Sport 1	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/LIVE_Arena_Sport_1_FHD/index.m3u8
-^=Live Diema Sport	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_bg_diema_sport/index.m3u8
-^=Live Event UEFA	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_uefa_02/index.m3u8
-^=Live LaLiga	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_laliga_tv/index.m3u8
-^=Live S4C 🇬🇧	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_uk_s4c/index.m3u8
-^=MU TV	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_uk_mutv_fhd/index.m3u8
-^=Sky Sport Calcio	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_it_sky_sport_calcio_fhd/index.m3u8
-^=Zona DAZN	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_it_zona_dazn_fhd/index.m3u8
-
-^=Channel 9 IR	https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
-^=MU TV	https://stream2.aws-live-streaming.com/bbs/mutv/chunks.m3u8?nimblesessionid=64762209
-^=TV3	https://edge08.620097.ir.cdn.ir/hls2/tv3.m3u8
 
 FIFA+ 🇦🇹	https://jmp2.uk/sam-ATBA3300007PT.m3u8?7
 FIFA+ 🇨🇦	https://jmp2.uk/sam-CABD1200008JG.m3u8?7
