@@ -11,20 +11,6 @@
 
 27-07-2025	^-
 
-02:00 [g]International Club Friendly[z]	^-
-Fulham vs Nottingham Forest	https://ZZB540
-Fulham vs Nottingham Forest	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/US_FOX_DEPORTES/index.m3u8
-Fulham vs Nottingham Forest	`*https://www.fctv33.com/football/international-club-friendly-match-4235936/fulham-vs-nottingham-forest-07-2025.html
-
-03:00 [y]Premier League Summer Series[z]	^-
-Everton vs Bournemouth AFC	https://ZZB130
-Everton vs Bournemouth AFC	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nz_sky_sports_premier_league/index.m3u8
-Everton vs Bournemouth AFC	`*https://www.fctv33.com/football/premier-league-summer-series-match-4184026/everton-vs-bournemouth-afc-07-2025.html
-
-03:00 [l]CAF Women's African Cup of Nations[z]	^-
-Morocco 🇲🇦 (w) vs Nigeria 🇳🇬 (w)	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-Morocco 🇲🇦 (w) vs Nigeria 🇳🇬 (w)	`*https://www.fctv33.com/football/caf-womens-african-cup-of-nations-match-4235378/morocco-women-vs-nigeria-women-07-2025.html
-
 06:00 [y]Premier League Summer Series[z]	^-
 Manchester United vs West Ham United	https://ZZB130
 Manchester United vs West Ham United	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nz_sky_sports_premier_league/index.m3u8
