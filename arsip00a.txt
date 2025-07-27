@@ -37,6 +37,21 @@ Como vs AFC Ajax	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-6272980
 Como vs AFC Ajax	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_it_sky_sport_calcio_fhd/index.m3u8
 Como vs AFC Ajax	`*https://www.fctv33.com/football/international-club-friendly-match-4237988/como-vs-afc-ajax-07-2025.html
 
+20:00 [l]AFF U23 Youth Championship[z]	^-
+Philippines 🇵🇭 U23 vs Thailand 🇹🇭 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+Philippines 🇵🇭 U23 vs Thailand 🇹🇭 U23	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+Philippines 🇵🇭 U23 vs Thailand 🇹🇭 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4237739/philippines-u23-vs-thailand-u23-07-2025.html
+
+22:00 [l]International Friendly[z]	^-
+Uzbekistan 🇺🇿 U23 vs Japan 🇯🇵 U23	`*https://www.fctv33.com/football/international-friendly-match-4234863/uzbekistan-u23-vs-japan-u23-07-2025.html
+
+29-07-2025	^-
+
+20:00 [l]AFF U23 Youth Championship[z]	^-
+Indonesia 🇮🇩 U23 vs Vietnam 🇻🇳 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+Indonesia 🇮🇩 U23 vs Vietnam 🇻🇳 U23	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+Indonesia 🇮🇩 U23 vs Vietnam 🇻🇳 U23
+
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 
