@@ -11,16 +11,6 @@
 
 27-07-2025	^-
 
-06:00 [y]Premier League Summer Series[z]	^-
-Manchester United vs West Ham United	https://ZZB130
-Manchester United vs West Ham United	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nz_sky_sports_premier_league/index.m3u8
-Manchester United vs West Ham United	`*https://www.fctv33.com/football/premier-league-summer-series-match-4176489/manchester-united-vs-west-ham-united-07-2025.html
-
-06:00 [g]International Club Friendly[z]	^-
-Eintracht Frankfurt vs Aston Villa	https://ZZB558
-Eintracht Frankfurt vs Aston Villa	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/LIVE_ESPN_PLUS_21/index.m3u8
-Eintracht Frankfurt vs Aston Villa	`*https://www.fctv33.com/football/international-club-friendly-match-4235935/eintracht-frankfurt-vs-aston-villa-07-2025.html
-
 17:00 [g]International Club Friendly[z]	^-
 Vissel Kobe vs FC Barcelona
 Vissel Kobe vs FC Barcelona	`*https://www.fctv33.com/football/international-club-friendly-match-4184078/vissel-kobe-vs-fc-barcelona-07-2025.html
