@@ -21,6 +21,11 @@ Arsenal vs Newcastle United	https://ZZB308
 Arsenal vs Newcastle United	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_cbs_sport_network/index.m3u8
 Arsenal vs Newcastle United	`*https://www.fctv33.com/football/international-club-friendly-match-4184053/arsenal-vs-newcastle-united-07-2025.html
 
+20:00 [g]International Club Friendly[z]	^-
+Mallorca vs Al Ahli (UAE)	https://ZZB550
+Mallorca vs Al Ahli (UAE)	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_espn_plus_5/index.m3u8
+Mallorca vs Al Ahli (UAE)	`*https://www.fctv33.com/football/international-club-friendly-match-4237929/rcd-mallorca-vs-shabab-alahli-07-2025.html
+
 23:00 [g]International Club Friendly[z]	^-
 VfL Bochum vs Bayer Leverkusen	https://ZZB386
 VfL Bochum vs Bayer Leverkusen	`*https://www.fctv33.com/football/international-club-friendly-match-4234909/vfl-bochum-1848-vs-bayer-04-leverkusen-07-2025.html
