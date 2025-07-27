@@ -11,11 +11,6 @@
 
 27-07-2025	^-
 
-23:00 [g]International Club Friendly[z]	^-
-VfL Bochum vs Bayer Leverkusen	https://ZZB386
-VfL Bochum vs Bayer Leverkusen	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_premier_sports_2/index.m3u8
-VfL Bochum vs Bayer Leverkusen	`*https://www.fctv33.com/football/international-club-friendly-match-4234909/vfl-bochum-1848-vs-bayer-04-leverkusen-07-2025.html
-
 23:00 [l]UEFA European Women's Championship[z]	^-
 England  (w) vs Spain  (w)	https://ZZB356
 England  (w) vs Spain  (w)	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
