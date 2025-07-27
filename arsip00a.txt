@@ -12,20 +12,26 @@
 27-07-2025	^-
 
 17:00 [g]International Club Friendly[z]	^-
-Vissel Kobe vs FC Barcelona
+Vissel Kobe vs FC Barcelona	https://ZZB571
 Vissel Kobe vs FC Barcelona	`*https://www.fctv33.com/football/international-club-friendly-match-4184078/vissel-kobe-vs-fc-barcelona-07-2025.html
 
 18:30 [g]International Club Friendly[z]	^-
-Arsenal vs Newcastle United
+Arsenal vs Newcastle United	https://ZZB308
 Arsenal vs Newcastle United	`*https://www.fctv33.com/football/international-club-friendly-match-4184053/arsenal-vs-newcastle-united-07-2025.html
 
 23:00 [g]International Club Friendly[z]	^-
-VfL Bochum vs Bayer Leverkusen
+VfL Bochum vs Bayer Leverkusen	https://ZZB386
 VfL Bochum vs Bayer Leverkusen	`*https://www.fctv33.com/football/international-club-friendly-match-4234909/vfl-bochum-1848-vs-bayer-04-leverkusen-07-2025.html
 
 23:00 [l]UEFA European Women's Championship[z]	^-
-England  (w) vs Spain  (w)
+England  (w) vs Spain  (w)	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 England  (w) vs Spain  (w)	`*https://www.fctv33.com/football/uefa-european-womens-championship-match-4236031/england-women-vs-spain-women-07-2025.html
+
+28-07-2025	^-
+
+01:00 [g]International Club Friendly[z]	^-
+Como vs AFC Ajax	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523?3
+Como vs AFC Ajax	`*https://www.fctv33.com/football/international-club-friendly-match-4237988/como-vs-afc-ajax-07-2025.html
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
