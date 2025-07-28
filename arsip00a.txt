@@ -9,7 +9,7 @@
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-27-07-2025	^-
+28-07-2025	^-
 
 20:00 [l]AFF U23 Youth Championship[z]	^-
 Philippines 🇵🇭 U23 vs Thailand 🇹🇭 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
@@ -18,6 +18,22 @@ Philippines 🇵🇭 U23 vs Thailand 🇹🇭 U23	`*https://www.fctv33.com/footb
 
 22:00 [l]International Friendly[z]	^-
 Uzbekistan 🇺🇿 U23 vs Japan 🇯🇵 U23	`*https://www.fctv33.com/football/international-friendly-match-4234863/uzbekistan-u23-vs-japan-u23-07-2025.html
+
+29-07-2025	^-
+
+04:00 [l]Copa América Femenina[z]	^-
+Chile 🇨🇱 (w) vs Paraguay 🇵🇾 (w)	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+Chile 🇨🇱 (w) vs Paraguay 🇵🇾 (w)	https://a.00/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+Chile 🇨🇱 (w) vs Paraguay 🇵🇾 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4237642/chile-women-vs-paraguay-women-07-2025.html
+
+07:00 [l]Copa América Femenina[z]	^-
+Argentina 🇦🇷 (w) vs Colombia 🇨🇴 (w)	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+Argentina 🇦🇷 (w) vs Colombia 🇨🇴 (w)	https://a.00/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+Argentina 🇦🇷 (w) vs Colombia 🇨🇴 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4237643/argentina-women-vs-colombia-women-07-2025.html
+
+20:00 [l]AFF U23 Youth Championship[z]	^-
+Vietnam 🇻🇳 U23 vs Indonesia 🇮🇩 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+Vietnam 🇻🇳 U23 vs Indonesia 🇮🇩 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4237765/vietnam-u23-vs-indonesia-u23-07-2025.html
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
@@ -598,7 +614,7 @@ Fox Business Network	https://1.0!FOX_Business_Network!.z?7
 Fox East	https://1.0!FOX_EAST!.z?7
 Fox Soul	https://1.0!FOX_SOUL!.z?7
 Fox Sports 1	https://1.0!FOX_Sports_1!.z?7
-Fox Sports 2	https://1.0!FOX_SPORTS_2!.z
+Fox Sports 2	https://1.0!FOX_SPORTS_2!.z?7
 Free Form	https://1.0!FREE_FORM!.z?7
 FX	https://1.0!FX!.z?7
 FX Movie	https://1.0!FX_MOVIE!.z?7
