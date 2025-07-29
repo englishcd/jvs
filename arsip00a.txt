@@ -51,6 +51,8 @@ GolTV	00!0!0/9595?zyy
 
 ^=	^-
 ^=Vietnam 🇻🇳 U23 vs Indonesia 🇮🇩 U23	`0https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODM1NzAxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=4
+^=Vietnam Indonesia CH1a	https://hls.baueahh10.com/live/sd-6MuQ9LXv2X5s7H97uZ.m3u8?txSecret=4304e9200ba1323553e05a9aff858c99&txTime=6888C373
+^=Vietnam Indonesia CH1b	`0https://live.samuraitv.biz.id/p/ch1.html
 ^=Fox 4	https://ZZB39?4
 ^=Fox 7	https://ZZB39?7
 ^=Live Day	`0https://dlhd.click/
@@ -932,7 +934,7 @@ Travel Channel	!yz~c20312cb-10ba-47eb-9441-91d03ef3ef19.m3u8
 USA Network	!yz~594edb0c-896e-4853-b97b-26c3a4f05156.m3u8
 VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
 
-!ESPN 1 🇳🇱	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+!ESPN 1 🇳🇱	https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv!!3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187?3
 
 	^-
 HRT 1 🇭🇷	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd!!edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
