@@ -13,7 +13,7 @@
 
 20:00 [l]AFF U23 Youth Championship[z]	^-
 Vietnam 🇻🇳 U23 vs Indonesia 🇮🇩 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-Vietnam 🇻🇳 U23 vs Indonesia 🇮🇩 U23	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+Vietnam 🇻🇳 U23 vs Indonesia 🇮🇩 U23	^!https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODM1NzAxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=4
 Vietnam 🇻🇳 U23 vs Indonesia 🇮🇩 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4237765/vietnam-u23-vs-indonesia-u23-07-2025.html
 
 30-07-2025	^-
@@ -51,8 +51,7 @@ GolTV	00!0!0/9595?zyy
 
 ^=	^-
 ^=Vietnam 🇻🇳 U23 vs Indonesia 🇮🇩 U23	`0https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODM1NzAxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=4
-^=Vietnam Indonesia CH1a	https://hls.baueahh10.com/live/sd-6MuQ9LXv2X5s7H97uZ.m3u8?txSecret=4304e9200ba1323553e05a9aff858c99&txTime=6888C373
-^=Vietnam Indonesia CH1b	`0https://live.samuraitv.biz.id/p/ch1.html
+^=Vietnam Indonesia CH1a	https://live.samuraitv.biz.id/p/ch1.html
 ^=Fox 4	https://ZZB39?4
 ^=Fox 7	https://ZZB39?7
 ^=Live Day	`0https://dlhd.click/
