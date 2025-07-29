@@ -13,7 +13,18 @@
 
 20:00 [l]AFF U23 Youth Championship[z]	^-
 Vietnam 🇻🇳 U23 vs Indonesia 🇮🇩 U23	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+Vietnam 🇻🇳 U23 vs Indonesia 🇮🇩 U23	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 Vietnam 🇻🇳 U23 vs Indonesia 🇮🇩 U23	`*https://www.fctv33.com/football/aff-u23youth-championship-match-4237765/vietnam-u23-vs-indonesia-u23-07-2025.html
+
+30-07-2025	^-
+
+01:45 [g]International Club Friendly[z]	^-
+Valencia vs Marseille	https://ZZB530
+Valencia vs Marseille	`*https://www.fctv33.com/football/international-club-friendly-match-4236133/valencia-cf-vs-marseille-07-2025.html
+
+07:00 [l]Copa América Femenina[z]	^-
+Brazil 🇧🇷 (w) vs Uruguay 🇺🇾 (w)	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+Brazil 🇧🇷 (w) vs Uruguay 🇺🇾 (w)	`*https://www.fctv33.com/football/copa-america-femenina-match-4237830/brazil-women-vs-uruguay-women-07-2025.html
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
@@ -39,6 +50,7 @@ GolTV	00!0!0/9595?zyy
 [y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 ^=	^-
+^=Vietnam 🇻🇳 U23 vs Indonesia 🇮🇩 U23	`0https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODM1NzAxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=4
 ^=Fox 4	https://ZZB39?4
 ^=Fox 7	https://ZZB39?7
 ^=Live Day	`0https://dlhd.click/
