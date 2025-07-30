@@ -1,98 +1,98 @@
-SCTV	!pt!204
-Indosiar	!pt!205
-Moji	!pt!206
-Sin Po TV	!pt!19046
-Trans7	!pt!734
-Trans TV	!pt!733
-tvOne	!pt!783
-AnTV	!pt!782
-Metro TV	!pt!777
-Kompas TV	!pt!874
-Berita Satu	!pt!18280
-RTV	!pt!1561
-BTV	!pt!6165
-TVRI	!pt!6441
-Garuda TV	!pt!18162
-MdTV	!pt!875
-JakTV	!pt!5415
-Daai TV	!pt!6482
-Nusantara TV	!pt!7432
-JawaposTV	!pt!9714
-JTV	!pt!9713
+ABC Australia	!pt!7150
+Africanews	!pt!12784
+Ajwa TV	!pt!7464
+Aljazeera	!pt!6410
+ANTV	!pt!782
+Arirang	!pt!6784
 beIN 1	!pt!6299
-Champions TV 1	!pt!6685
-Champions TV 5	!pt!9182
-beIN 3	!pt!6317
-Champions TV 3	!pt!6786
-NBA TV	!pt!6717
 beIN 2	!pt!17875
-Champions TV 2	!pt!6686
-Champions TV 6	!pt!9183
-Premier League TV	!pt!9353
-SpoTV	!pt!17139
-SpoTV 2	!pt!17140
+beIN 3	!pt!6317
+Berita Satu	!pt!18280
+BTV	!pt!6165
 Champions Golf 1	!pt!18189
 Champions Golf 2	!pt!18190
-TVN	!pt!6362
-Rock Action	!pt!8121
-Rock Entertainment	!pt!8120
-Arirang	!pt!6784
-GGS TV	!pt!18105
-TV5monde	!pt!17278
-Elshinta TV	!pt!10975
-Magna TV	!pt!7230
-Musica	!pt!7619
-Aljazeera	!pt!6410
+Champions TV 1	!pt!6685
+Champions TV 2	!pt!6686
+Champions TV 3	!pt!6786
+Champions TV 5	!pt!9182
+Champions TV 6	!pt!9183
+DAAI TV	!pt!6482
+Daystar TV	!pt!18622
+DMI TV	!pt!12607
 DW English	!pt!5075
-ABC Australia	!pt!7150
-NHK World Japan	!pt!7968
-News Asia	!pt!6411
-Africanews	!pt!12784
+Elshinta TV	!pt!10975
 Euronews	!pt!6412
-Mentari TV	!pt!8237
-Zoomoo	!pt!6533
+Garuda TV	!pt!18162
+GGS TV	!pt!18105
 Hip Hip Horee	!pt!7052
 Horee	!pt!6397
-Daystar TV	!pt!18622
-Ajwa TV	!pt!7464
+Indosiar	!pt!205
+JakTV	!pt!5415
+JawaposTV	!pt!9714
+JTV	!pt!9713
+Kompas TV	!pt!874
+Magna TV	!pt!7230
 Makkah TV	!pt!6852
+MDTV	!pt!875
+Mentari TV	!pt!8237
+Metro TV	!pt!777
+Moji	!pt!206
+Musica	!pt!7619
+NBA TV	!pt!6717
+News Asia	!pt!6411
+NHK World Japan	!pt!7968
+Nusantara TV	!pt!7432
+Premier League TV	!pt!9353
+Rock Action	!pt!8121
+Rock Entertainment	!pt!8120
+RTV	!pt!1561
+SCTV	!pt!204
+Sin Po TV	!pt!19046
+SpoTV 2	!pt!17140
+SpoTV	!pt!17139
+Trans 7	!pt!734
+Trans TV	!pt!733
+TV5monde	!pt!17278
+tvN	!pt!6362
+tvOne	!pt!783
+TVRI	!pt!6441
 U Channel TV	!pt!6898
-Dmi TV	!pt!12607
+Zoomoo	!pt!6533
 
 	^-
-Prambors On Air	!pt!7004
-Delta FM	!pt!7092
-Iswara	!pt!7057
-Gen FM Jakarta	!pt!7443
-Elshinta 90 FM	!pt!7166
-Kis FM	!pt!7445
-Jak FM	!pt!7449
-The Rockin Life	!pt!7053
-Ardan Radio	!pt!7184
-Female FM	!pt!7130
-Sonora Radio	!pt!12237
-Hot FM	!pt!7448
-Dahlia FM	!pt!7242
-Swaragama FM Jogja	!pt!7248
-Mustang FM	!pt!7447
-Brava Radio	!pt!7054
-Rama FM	!pt!7684
-Elgangga	!pt!7169
-Trax	!pt!7055
-Gajahmada	!pt!7284
-Gen FM Surabaya	!pt!7446
-Motion Radio	!pt!12238
-Imelda FM	!pt!7281
-Paramuda FM	!pt!7685
-Radio Cakra	!pt!7297
-Smart FM	!pt!12239
 90 4 FM	!pt!7056
+Ardan Radio	!pt!7184
+Brava Radio	!pt!7054
+Dahlia FM	!pt!7242
+Delta FM	!pt!7092
+Elgangga	!pt!7169
 Elmitra	!pt!7170
-Mgtradio	!pt!7188
+Elshinta 90 FM	!pt!7166
+Female FM	!pt!7130
+Gajahmada	!pt!7284
+Gen FM Jakarta	!pt!7443
+Gen FM Surabaya	!pt!7446
+Hot FM	!pt!7448
+Imelda FM	!pt!7281
+Iswara	!pt!7057
+Jak FM	!pt!7449
 Jiz FM	!pt!7792
-Swara Semarang	!pt!7283
+Kis FM	!pt!7445
+Mgtradio	!pt!7188
 Most FM	!pt!7450
+Motion Radio	!pt!12238
+Mustang FM	!pt!7447
+Paramuda FM	!pt!7685
+Prambors On Air	!pt!7004
+Radio Cakra	!pt!7297
+Rama FM	!pt!7684
+Smart FM	!pt!12239
+Sonora Radio	!pt!12237
 Sushi Radio	!pt!7218
+Swara Semarang	!pt!7283
+Swaragama FM Jogja	!pt!7248
+The Rockin Life	!pt!7053
+Trax	!pt!7055
 
 	^-
 TNT Sports 1 UK	https://ZZB31
