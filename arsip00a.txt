@@ -79,7 +79,6 @@ GolTV	00!0!0/9595?zyy
 
 ^=	^-
 ^=Mentari 8237	!pt!8237
-^=f3	`0https://www.fctv33.com/football/kazakhstan-division-1-match-4169033/khan-tengri-fc-vs-akas-almaty-07-2025.html
 ^=sb-CH1	https://live.samuraitv.biz.id/p/ch1.html
 ^=Fox 4	https://ZZB39?4
 ^=Fox 7	https://ZZB39?7
