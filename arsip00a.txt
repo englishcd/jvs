@@ -30,16 +30,16 @@ Manchester United vs Bournemouth AFC	https://ZZB377
 Manchester United vs Bournemouth AFC	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 Manchester United vs Bournemouth AFC	`*https://www.fctv33.com/football/premier-league-summer-series-match-4175898/manchester-united-vs-bournemouth-afc-07-2025.html
 
-16:00 [y]Premier League Summer Series[z]	^-
+16:00 [g]International Club Friendly[z]	^-
 Parma vs Mallorca	`*https://www.fctv33.com/football/international-club-friendly-match-4239621/parma-vs-rcd-mallorca-07-2025.html
 
-18:00 [y]Premier League Summer Series[z]	^-
+18:00 [g]International Club Friendly[z]	^-
 FC Seoul vs FC Barcelona	`*https://www.fctv33.com/football/international-club-friendly-match-4193175/football-club-seoul-vs-fc-barcelona-07-2025.html
 
-18:30 [y]Premier League Summer Series[z]	^-
+18:30 [g]International Club Friendly[z]	^-
 Arsenal vs Tottenham Hotspur	`*https://www.fctv33.com/football/international-club-friendly-match-4181315/arsenal-vs-tottenham-hotspur-07-2025.html
 
-23:00 [y]Premier League Summer Series[z]	^-
+23:00 [g]International Club Friendly[z]	^-
 AS Roma vs Cannes AS	`*https://www.fctv33.com/football/international-club-friendly-match-4239627/as-roma-vs-cannes-as-07-2025.html
 
 ^@	^-
