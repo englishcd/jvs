@@ -1,31 +1,20 @@
+`Daystar TV	!pt!18622
+`DMI TV	!pt!12607
+`U Channel TV	!pt!6898
 ABC Australia	!pt!7150
 Africanews	!pt!12784
 Ajwa TV	!pt!7464
 Aljazeera	!pt!6410
 ANTV	!pt!782
 Arirang	!pt!6784
-beIN 1	!pt!6299
-beIN 2	!pt!17875
-beIN 3	!pt!6317
 Berita Satu	!pt!18280
 BTV	!pt!6165
-Champions Golf 1	!pt!18189
-Champions Golf 2	!pt!18190
-Champions TV 1	!pt!6685
-Champions TV 2	!pt!6686
-Champions TV 3	!pt!6786
-Champions TV 5	!pt!9182
-Champions TV 6	!pt!9183
 DAAI TV	!pt!6482
-Daystar TV	!pt!18622
-DMI TV	!pt!12607
 DW English	!pt!5075
 Elshinta TV	!pt!10975
 Euronews	!pt!6412
 Garuda TV	!pt!18162
 GGS TV	!pt!18105
-Hip Hip Horee	!pt!7052
-Horee	!pt!6397
 Indosiar	!pt!205
 JakTV	!pt!5415
 JawaposTV	!pt!9714
@@ -38,26 +27,37 @@ Mentari TV	!pt!8237
 Metro TV	!pt!777
 Moji	!pt!206
 Musica	!pt!7619
-NBA TV	!pt!6717
 News Asia	!pt!6411
 NHK World Japan	!pt!7968
 Nusantara TV	!pt!7432
-Premier League TV	!pt!9353
-Rock Action	!pt!8121
-Rock Entertainment	!pt!8120
 RTV	!pt!1561
 SCTV	!pt!204
 Sin Po TV	!pt!19046
-SpoTV 2	!pt!17140
-SpoTV	!pt!17139
-Trans 7	!pt!734
-Trans TV	!pt!733
-TV5monde	!pt!17278
-tvN	!pt!6362
 tvOne	!pt!783
 TVRI	!pt!6441
-U Channel TV	!pt!6898
-Zoomoo	!pt!6533
+*TV5monde	!pt!17278
+!beIN 1	!pt!6299
+!beIN 2	!pt!17875
+!beIN 3	!pt!6317
+!Champions Golf 1	!pt!18189
+!Champions Golf 2	!pt!18190
+!Champions TV 1	!pt!6685
+!Champions TV 2	!pt!6686
+!Champions TV 3	!pt!6786
+!Champions TV 5	!pt!9182
+!Champions TV 6	!pt!9183
+!Hip Hip Horee	!pt!7052
+!Horee	!pt!6397
+!NBA TV	!pt!6717
+!Premier League TV	!pt!9353
+!Rock Action	!pt!8121
+!Rock Entertainment	!pt!8120
+!SpoTV 1	!pt!17139
+!SpoTV 2	!pt!17140
+!Trans 7	!pt!734
+!Trans TV	!pt!733
+!tvN	!pt!6362
+!Zoomoo	!pt!6533
 
 	^-
 90 4 FM	!pt!7056
