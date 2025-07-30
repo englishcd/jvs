@@ -87,6 +87,8 @@ GolTV	00!0!0/9595?zyy
 [y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 ^=	^-
+^=Mentari 8237	https://popmi.my.id/tes.m3u8?id=8237
+^=Mentari zxx	https://popmi.my.id/tes.m3u8?id=8237?zxx
 ^=sb-CH1	https://live.samuraitv.biz.id/p/ch1.html
 ^=Fox 4	https://ZZB39?4
 ^=Fox 7	https://ZZB39?7
@@ -168,7 +170,7 @@ KiX	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
 Kompas TV https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 MD TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
-Mentari TV	  01!01dcdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd!!69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a[]https://popmi.my.id/tes.m3u8?id=8237?zxx
+Mentari TV	  01!01dcdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd!!69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 Musik Indonesia	https://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
