@@ -28,39 +28,28 @@ Mallorca vs Lyon	https://ZZB375
 Mallorca vs Lyon	`*https://www.fctv33.com/football/international-club-friendly-match-4237833/rcd-mallorca-vs-lyon-07-2025.html
 
 23:30 [g]International Club Friendly[z]	^-
-Siegen Sportfreunde vs Br Dortmund	https://ZZB558
 Siegen Sportfreunde vs Br Dortmund	`*https://www.fctv33.com/football/international-club-friendly-match-4193176/siegen-sportfreunde-vs-borussia-dortmund-07-2025.html
 
 31-07-2025	^-
 
 00:00 [g]International Club Friendly[z]	^-
-VfL Wolfsburg vs RCD Espanyol	https://ZZB451
 VfL Wolfsburg vs RCD Espanyol	`*https://www.fctv33.com/football/international-club-friendly-match-4239586/vfl-wolfsburg-vs-rcd-espanyol-de-barcelona-07-2025.html
 
 01:00 [g]International Club Friendly[z]	^-
-Coventry City vs Real Betis	https://ZZB375
 Coventry City vs Real Betis	`*https://www.fctv33.com/football/international-club-friendly-match-4239604/coventry-city-vs-real-betis-07-2025.html
 
-Estoril vs Nottingham Forest	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 Estoril vs Nottingham Forest	`*https://www.fctv33.com/football/international-club-friendly-match-4239606/estoril-vs-nottingham-forest-07-2025.html
 
 01:30 [g]International Club Friendly[z]	^-
-Wolves vs Lens	https://ZZB550
 Wolves vs Lens	`*https://www.fctv33.com/football/international-club-friendly-match-4219042/wolverhampton-wanderers-vs-rc-lens-07-2025.html
 
 05:30 [y]Premier League Summer Series[z]	^-
-West Ham United vs Everton	https://ZZB455
-West Ham United vs Everton	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 West Ham United vs Everton	`*https://www.fctv33.com/football/premier-league-summer-series-match-4176490/west-ham-united-vs-everton-07-2025.html
 
 07:30 [g]International Club Friendly[z]	^-
-St. Louis City SC vs Aston Villa	https://ZZB66
-St. Louis City SC vs Aston Villa	https://1.0!FOX_Sports_1!.z?7
 St. Louis City SC vs Aston Villa	`*https://www.fctv33.com/football/international-club-friendly-match-4239093/st-louis-city-sc-vs-aston-villa-07-2025.html
 
 08:30 [y]Premier League Summer Series[z]	^-
-Manchester United vs Bournemouth AFC	https://ZZB377
-Manchester United vs Bournemouth AFC	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 Manchester United vs Bournemouth AFC	`*https://www.fctv33.com/football/premier-league-summer-series-match-4175898/manchester-united-vs-bournemouth-afc-07-2025.html
 
 ^@	^-
