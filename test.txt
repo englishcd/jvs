@@ -1,6 +1,3 @@
-`Daystar TV	!pt!18622
-`DMI TV	!pt!12607
-`U Channel TV	!pt!6898
 ABC Australia	!pt!7150
 Africanews	!pt!12784
 Ajwa TV	!pt!7464
@@ -35,6 +32,9 @@ SCTV	!pt!204
 Sin Po TV	!pt!19046
 tvOne	!pt!783
 TVRI	!pt!6441
+`Daystar TV	!pt!18622
+`DMI TV	!pt!12607
+`U Channel TV	!pt!6898
 *TV5monde	!pt!17278
 !beIN 1	!pt!6299
 !beIN 2	!pt!17875
