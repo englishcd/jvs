@@ -78,8 +78,7 @@ GolTV	00!0!0/9595?zyy
 [y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 ^=	^-
-^=Mentari 8237	https://popmi.my.id/tes.m3u8?id=8237
-^=Mentari zxx	https://popmi.my.id/tes.m3u8?id=8237?zxx
+^=Mentari 8237	!pt!8237
 ^=sb-CH1	https://live.samuraitv.biz.id/p/ch1.html
 ^=Fox 4	https://ZZB39?4
 ^=Fox 7	https://ZZB39?7
