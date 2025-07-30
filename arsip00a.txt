@@ -17,7 +17,7 @@ West Ham United vs Everton	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 West Ham United vs Everton	`*https://www.fctv33.com/football/premier-league-summer-series-match-4176490/west-ham-united-vs-everton-07-2025.html
 
 06:30 [y]Leagues Cup[z]	^-
-Inter Miami CF vs Atlas	`*https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODA2NDc5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&amp;_pb=4
+Inter Miami CF vs Atlas	^!https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODA2NDc5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&amp;_pb=4
 Inter Miami CF vs Atlas	`*https://www.fctv33.com/football/leagues-cup-match-4195070/inter-miami-cf-vs-atlas-07-2025.html
 
 07:30 [g]International Club Friendly[z]	^-
@@ -29,6 +29,18 @@ St. Louis City SC vs Aston Villa	`*https://www.fctv33.com/football/international
 Manchester United vs Bournemouth AFC	https://ZZB377
 Manchester United vs Bournemouth AFC	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 Manchester United vs Bournemouth AFC	`*https://www.fctv33.com/football/premier-league-summer-series-match-4175898/manchester-united-vs-bournemouth-afc-07-2025.html
+
+16:00 [y]Premier League Summer Series[z]	^-
+Parma vs Mallorca	`*https://www.fctv33.com/football/international-club-friendly-match-4239621/parma-vs-rcd-mallorca-07-2025.html
+
+18:00 [y]Premier League Summer Series[z]	^-
+FC Seoul vs FC Barcelona	`*https://www.fctv33.com/football/international-club-friendly-match-4193175/football-club-seoul-vs-fc-barcelona-07-2025.html
+
+18:30 [y]Premier League Summer Series[z]	^-
+Arsenal vs Tottenham Hotspur	`*https://www.fctv33.com/football/international-club-friendly-match-4181315/arsenal-vs-tottenham-hotspur-07-2025.html
+
+23:00 [y]Premier League Summer Series[z]	^-
+AS Roma vs Cannes AS	`*https://www.fctv33.com/football/international-club-friendly-match-4239627/as-roma-vs-cannes-as-07-2025.html
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
