@@ -11,20 +11,6 @@
 
 31-07-2025	^-
 
-05:30 [y]Premier League Summer Series[z]	^-
-West Ham United vs Everton	https://ZZB455
-West Ham United vs Everton	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
-West Ham United vs Everton	`*https://www.fctv33.com/football/premier-league-summer-series-match-4176490/west-ham-united-vs-everton-07-2025.html
-
-06:30 [y]Leagues Cup[z]	^-
-Inter Miami CF vs Atlas	^!https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODA2NDc5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&amp;_pb=4
-Inter Miami CF vs Atlas	`*https://www.fctv33.com/football/leagues-cup-match-4195070/inter-miami-cf-vs-atlas-07-2025.html
-
-07:30 [g]International Club Friendly[z]	^-
-St. Louis City SC vs Aston Villa	https://ZZB66
-St. Louis City SC vs Aston Villa	https://1.0!FOX_Sports_1!.z?7
-St. Louis City SC vs Aston Villa	`*https://www.fctv33.com/football/international-club-friendly-match-4239093/st-louis-city-sc-vs-aston-villa-07-2025.html
-
 08:30 [y]Premier League Summer Series[z]	^-
 Manchester United vs Bournemouth AFC	https://ZZB377
 Manchester United vs Bournemouth AFC	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
