@@ -9,13 +9,7 @@
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-31-07-2025	^-
-
-23:00 [g]International Club Friendly[z]	^-
-AS Roma vs Cannes AS	https://ZZB85
-AS Roma vs Cannes AS	`*https://www.fctv33.com/football/international-club-friendly-match-4239627/as-roma-vs-cannes-as-07-2025.html
-
-31-07-2025	^-
+01-07-2025	^-
 
 02:45 [y]Portuguese Super Cup[z]	^-
 Sporting CP vs Benfica	https://ZZB719
@@ -26,11 +20,11 @@ Sporting CP vs Benfica	`*https://www.fctv33.com/football/portuguese-super-cup-ma
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 
 	^-
-Fox Sports USA 1	https://ZZB39
+Fox Sports USA 1 👇	https://ZZB39
 👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
 
 	^-
-🇩🇪 SportDigital Fussball	00!0!2/278409?zyy
+SpoTV 1 👇	00!0!2/1052588?zyy
 [l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
 [l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
 [l]{h} Ⓒb1[z] America [y]Sports & TV[z]	^^hb1
@@ -38,11 +32,11 @@ Fox Sports USA 1	https://ZZB39
 [l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]	^^hb3
 
 	^-
-GolTV	00!0!0/9595?zyy
+GolTV 👇	00!0!0/9595?zyy
 [y]Sports & TV[z] [l]PlayList[z] #1	^^h10
 
 	^-
-🇺🇸 Fox Soccer Plus	00!0!1/50616?zyy
+🇺🇸 Fox Soccer Plus 👇	00!0!1/50616?zyy
 [y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 ^=	^-
