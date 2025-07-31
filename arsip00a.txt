@@ -15,6 +15,10 @@
 Parma vs Mallorca	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 Parma vs Mallorca	`*https://www.fctv33.com/football/international-club-friendly-match-4239621/parma-vs-rcd-mallorca-07-2025.html
 
+17:20 [g]International Club Friendly[z]	^-
+Perth Glory vs AC Milan	`*https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODM3MDIwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=4
+Perth Glory vs AC Milan	`*https://www.fctv33.com/football/international-club-friendly-match-4192531/perth-glory-vs-ac-milan-07-2025.html
+
 18:00 [g]International Club Friendly[z]	^-
 FC Seoul vs FC Barcelona	https://ZZB393
 FC Seoul vs FC Barcelona	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
@@ -26,6 +30,7 @@ Arsenal vs Tottenham Hotspur	https://ZZB910
 Arsenal vs Tottenham Hotspur	`*https://www.fctv33.com/football/international-club-friendly-match-4181315/arsenal-vs-tottenham-hotspur-07-2025.html
 
 23:00 [g]International Club Friendly[z]	^-
+AS Roma vs Cannes AS	https://ZZB85
 AS Roma vs Cannes AS	`*https://www.fctv33.com/football/international-club-friendly-match-4239627/as-roma-vs-cannes-as-07-2025.html
 
 ^@	^-
