@@ -34,6 +34,13 @@ Arsenal vs Tottenham Hotspur	`*https://www.fctv33.com/football/international-clu
 AS Roma vs Cannes AS	https://ZZB85
 AS Roma vs Cannes AS	`*https://www.fctv33.com/football/international-club-friendly-match-4239627/as-roma-vs-cannes-as-07-2025.html
 
+31-07-2025	^-
+
+02:45 [y]Portuguese Super Cup[z]	^-
+Sporting CP vs Benfica	https://ZZB719
+Sporting CP vs Benfica	`*https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yNzk0NTAyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=4
+Sporting CP vs Benfica	`*https://www.fctv33.com/football/portuguese-super-cup-match-4225940/sporting-cp-vs-benfica-08-2025.html
+
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 
@@ -85,6 +92,10 @@ beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!34
 beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
 beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+beIN Sports 1	http://125x.org:8080/bn1hd/index.m3u8
+beIN Sports 2	http://125x.org:8080/bn2hd/index.m3u8
+beIN Sports 3	http://125x.org:8080/bn3hd/index.m3u8
+beIN Sports 4	http://125x.org:8080/bn4hd/index.m3u8
 
 	^-
 [w]Live Sport TV Channels[z]	^-
