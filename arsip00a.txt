@@ -25,6 +25,22 @@ Fortuna Sittard vs Bayer Leverkusen	`*https://www.fctv33.net/football/internatio
 Argentina 🇦🇷 (w) vs Uruguay 🇺🇾 (w)	https://1.0!FOX_SPORTS_2!.z
 Argentina 🇦🇷 (w) vs Uruguay 🇺🇾 (w)	`*https://www.fctv33.net/football/copa-america-femenina-match-4237953/argentina-women-vs-uruguay-women-08-2025.html
 
+16:00 [g]International Club Friendly[z]	^-
+Juventus vs A.C. Reggiana 1919	`*https://www.fctv33.net/football/international-club-friendly-match-4235025/juventus-vs-ac-reggiana-1919-08-2025.html
+
+17:00 [y]Korean K League 1[z]	^-
+Ulsan Hyundai FC vs Suwon FC	`*https://www.fctv33.net/football/korean-k-league-1-match-4114571/ulsan-hd-fc-vs-suwon-football-club-08-2025.html
+
+20:00 [g]International Club Friendly[z]	^-
+RB Leipzig vs Atalanta	`*https://www.fctv33.net/football/international-club-friendly-match-4241440/rb-leipzig-vs-atalanta-08-2025.html
+
+20:30 [g]International Club Friendly[z]	^-
+Bayern Munchen vs Lyon	`*https://www.fctv33.net/football/international-club-friendly-match-4226661/fc-bayern-munich-vs-lyon-08-2025.html
+Union Berlin vs RCD Espanyol	`*https://www.fctv33.net/football/international-club-friendly-match-4241380/1-fc-union-berlin-vs-rcd-espanyol-de-barcelona-08-2025.html
+
+21:00 [g]International Club Friendly[z]	^-
+Queens Park Rangers vs Brentford	`*https://www.fctv33.net/football/international-club-friendly-match-4241448/queens-park-rangers-vs-brentford-08-2025.html
+
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 
@@ -85,8 +101,15 @@ Sky Live Event 5	https://a.00/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd!!6c8
 Sky Live Event 6	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
 Sky Sports 24	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 Sky Sports Max	https://a.00/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+TNT La Liga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 TUDN USA	https://a.00/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+TUDN MX	https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 Tipik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+RTP 1 🇵🇹	https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd!!f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
+Fubo Sports	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+Fubo TV	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+Sport 1 DE	https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR!!98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
+Sport 4 Lithuania	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561202/index.mpd!!da335a7a2a174bb29914ed868a6b1534:0659b8027b98c0e4d94b033841a8eb0d
 
 	^-
 [w]ID Live Sport & TV Channels[z]	^-
@@ -104,14 +127,14 @@ beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c4
 
 	^-
 AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
-AniPlus	01!01fkhano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
+AniPlus	https://khano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
 ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 Bahana FM https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
-Celestial Classic Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
+Celestial Classic Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
 Celestial Movies	https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
-Celestial Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
+Celestial Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
 DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 DeiKids TV	https://e.siar.us/live/deikidstv.m3u8
 Dhoho TV- Kediri	https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
@@ -134,24 +157,22 @@ K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 Kids TV	https://fta3!vfc!9041826689ae4f9c9619576d411fa989/index.mpd!!ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 Kids TV	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
-KiX	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
+KiX	https://khano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
 Kompas TV https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 MD TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 Mentari TV	  http://103.226.232.199:9003/play/a05a/index.m3u8
-Mentari TV	  01!01dcdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd!!69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 Musik Indonesia	https://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 Musik Indonesia	https://v2.siar.us/mic/live/playlist.m3u8
 MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
 MNC TV	https://allcutv.rctiplus.id/mnctv2023.m3u8?7
-MovieSphere	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
 Muhammadiyah TV	https://e.siar.us/live/tvmu.m3u8
 Music TV	https://fta1!vfc!c20d75deb06f401aa89681a9e5054de7/index.mpd!!55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
-My Cinema Asia	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
+My Cinema Asia	https://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
 My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-MyKidz	01!01fkhano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
+MyKidz	https://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
 Nick Jr	https://fta1!vfc!27163af9499b4bcca2da96677b158efe/index.mpd!!c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
 RCTI	https://fta4!vfc!997ce8767b604fae9fce05379b3b8b3a/index.mpd!!d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 RCTI	https://allcutv.rctiplus.id/rcti2023.m3u8?7
@@ -163,13 +184,13 @@ Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
 Sampit TV	https://e.siar.us/live/sampit-tv.m3u8
 SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 Surabaya TV	https://e.siar.us/live/surabayatv.m3u8
-Thrill	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a.m3u8
+Thrill	https://khano.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a.m3u8
 Toonz Kids	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 Trans 7	https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 Trans 7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
 Trans TV	https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 Trans TV	https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8
-tvN Movies	01!01fkhano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
+tvN Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
 tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -243,9 +264,10 @@ Yomiuri TV 🇯🇵	`0i3`03ytv/index.m3u8
 	^-
 3BB Sport 1 🇹🇭	https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd!!678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 ABC News	https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-Afro Sport	01!01dnewproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
+Afro Sport	https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 Al Arabiya News	https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 Al Hadath News	https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+Azteca Guatemala	https://ch1-tva.duin.dev/hls/stream.m3u8
 Bahrain Sports 1 🇧🇭	https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2 🇧🇭	https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 BBC Three	https://livetvde.net/bbcthree/index.m3u8
@@ -272,7 +294,7 @@ EuroSport 1	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!1
 EuroSport 2	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 FIFA	https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
-Fox Sports Espanol	01!01dlive-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+Fox Sports Espanol	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 Fox Sports 🇲🇽 1	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd!!2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 Fox Sports 🇲🇽 2	i3!16/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd!!8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 Fox Sports 🇲🇽 3	i3!16/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd!!11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
@@ -281,14 +303,19 @@ HRT 1 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt1_1200.m3u8
 HRT 2 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt2_1200.m3u8
 HRT 3 🇭🇷	https://webtvstream.bhtelecom.ba/hls16/hrt3_1200.m3u8
 Joj Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+KSA Sport 1	https://uselector.cdn.intigral-ott.net/KSAS1/KSAS1.isml/manifest.mpd!!f7b7376cdcaa8d53a823ac5248b89584:33057303995b0a090d4a52ca715ec27b
+KSS 1	https://uselector.cdn.intigral-ott.net/KSS/KSS.isml/manifest.mpd!!0cd6f9f34ce638ddaab70b2d087576cb:c3cbb693ce69290cd10f5096724dafba
+KSS 2	https://uselector.cdn.intigral-ott.net/KSS2/KSS2.isml/manifest.mpd!!08de1382b39f056f001ba897f58fda01:bbc1ce3249ba5ea4e1f9915120401be0
 Kuwait Sports 🇰🇼	https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
 L'Equipe Live 1 🇫🇷	https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
 L'Equipe Live 2 🇫🇷	https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
 MAV TV	https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
 MBC 5	https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+MBC Action	https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd!!5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1
 MBC Drama	https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 MBC Masr Drama 🇪🇬	https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 MBC Masr 🇪🇬	https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+MBC Masr 🇪🇬	https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 Music Top	https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 Stingray Classica	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8
 Vevo Pop Latino	https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3yjwupt2bfu30/playlist.m3u8
@@ -328,7 +355,7 @@ Shahid Movies Action	https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8
 Shahid Movies Thriller	https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 Shahid Shows	https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 
-SMC 4	01!01dsvs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+SMC 4	https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport enFrance 🇫🇷	https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
@@ -1045,11 +1072,6 @@ TVBS Asia	https://l.0/TVBSAsia/mpd/TVBSAsia.mpd!!f530cf9ab2244fdb935da69d9361418
 TVBS News	https://l.0/TVBSNews/mpd/TVBSNews.mpd!!b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
 tvN Movies	https://l.0/TvNMoviesHD/mpd/TvNMoviesHD.mpd!!50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 Zhejiang	https://l.0/ZhejiangTV/mpd/ZhejiangTV.mpd!!d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
-
-Cartoonito	01!01dstreaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
-Indosiar	01!01dstreaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-SCTV	01!01dstreaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-Warner	01!01dstreaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
 DAZN Women's Football	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
 
