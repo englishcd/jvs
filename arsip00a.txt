@@ -11,8 +11,9 @@
 
 01-07-2025	^-
 
-21:00 [g]International Club Friendly[z]	^-
+23:00 [g]International Club Friendly[z]	^-
 Augsburg vs Crystal Palace	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
+Augsburg vs Crystal Palace	`*https://www.fctv33.net/football/international-club-friendly-match-4243697/fc-augsburg-vs-crystal-palace-08-2025.html
 
 02-07-2025	^-
 
@@ -22,6 +23,7 @@ Fortuna Sittard vs Bayer Leverkusen	`*https://www.fctv33.net/football/internatio
 
 07:00 [l]Copa America Femenina[z]	^-
 Argentina 🇦🇷 (w) vs Uruguay 🇺🇾 (w)	https://1.0!FOX_SPORTS_2!.z
+Argentina 🇦🇷 (w) vs Uruguay 🇺🇾 (w)	`*https://www.fctv33.net/football/copa-america-femenina-match-4237953/argentina-women-vs-uruguay-women-08-2025.html
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
