@@ -9,20 +9,7 @@
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-01-07-2025	^-
-
-23:00 [g]International Club Friendly[z]	^-
-Augsburg vs Crystal Palace	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-Augsburg vs Crystal Palace	`*https://www.fctv33.net/football/international-club-friendly-match-4243697/fc-augsburg-vs-crystal-palace-08-2025.html
-
 02-07-2025	^-
-
-00:00 [g]International Club Friendly[z]	^-
-Fortuna Sittard vs Bayer Leverkusen	https://ZZB771
-Fortuna Sittard vs Bayer Leverkusen	`*https://www.fctv33.net/football/international-club-friendly-match-4237955/fortuna-sittard-vs-bayer-04-leverkusen-08-2025.html
-
-02:00 [g]International Club Friendly[z]	^-
-Vitoria Guimaraes vs Real Club Celta Vigo	`*https://www.fctv33.net/football/international-club-friendly-match-4238147/vitoria-guimaraes-vs-rc-celta-08-2025.html
 
 07:00 [l]Copa America Femenina[z]	^-
 Argentina 🇦🇷 (w) vs Uruguay 🇺🇾 (w)	https://1.0!FOX_SPORTS_2!.z
@@ -76,10 +63,6 @@ GolTV 👇	00!0!0/9595?zyy
 
 ^=	^-
 ^=Mentari 8237	!pt!8237
-^=sn-Pl1	https://streaming.sportsnews.id/p/plays1.html
-^=sn-Pl2	https://streaming.sportsnews.id/p/plays2.html
-^=sb-CH1	https://live.samuraitv.biz.id/p/ch1.html
-^=sb-CH2	https://live.samuraitv.biz.id/p/ch2.html
 ^=Live Day	`0https://dlhd.click/
 ^=Live Sports	`0https://play31.livesports088.com/football.html
 ^=Jala Live	`0https://m.jalazt54.cc
@@ -102,6 +85,9 @@ beIN Sports 4	http://125x.org:8080/bn4hd/index.m3u8
 
 DAZN Fast	https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd!!8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 ESPN	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+Fubo Sports	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+Fubo TV	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+RTP 1 🇵🇹	https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd!!f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
 Sky LaLiga	https://a.00/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 Sky Live Event 1	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 Sky Live Event 2	https://a.00/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
@@ -111,15 +97,12 @@ Sky Live Event 5	https://a.00/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd!!6c8
 Sky Live Event 6	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
 Sky Sports 24	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 Sky Sports Max	https://a.00/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
-TNT La Liga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-TUDN USA	https://a.00/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
-TUDN MX	https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
-Tipik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-RTP 1 🇵🇹	https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd!!f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
-Fubo Sports	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-Fubo TV	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 Sport 1 DE	https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR!!98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
 Sport 4 Lithuania	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561202/index.mpd!!da335a7a2a174bb29914ed868a6b1534:0659b8027b98c0e4d94b033841a8eb0d
+Tipik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+TNT La Liga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+TUDN MX	https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+TUDN USA	https://a.00/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 
 	^-
 [w]ID Live Sport & TV Channels[z]	^-
@@ -153,13 +136,13 @@ Entertainment	https://fta2!vfc!a90cb773466446b08595007bab12b920/index.mpd!!62f0f
 Ficom TV	https://v3.siar.us/ficomchannel/live/playlist.m3u8
 Galaxy Premium	https://fta1!vfc!45c0752c6b6b4397b80243ac9fed96fd/index.mpd!!0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 Rock Action	https://fta1!vfc!010bb28c19b64975b318d3b00f58b18b/index.mpd!!d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
-GTV	https://fta2!vfc!b8b9b1d5f80f45649b4a3619291551ab/index.mpd!!036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
+GTV	https://fta2!vfc!b8b9b1d5f80f45649b4a3619291551ab/index.mpd!!036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
 Hanacaraka	https://fta3!vfc!17c724036c5f4615bd0b8093126b5c44/index.mpd!!0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-iNews	https://fta2!vfc!7b0404cd6a8a4a908123f10774854e46/index.mpd!!8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 iNews	https://allcutv.rctiplus.id/inews2023.m3u8?7
+iNews	https://fta2!vfc!7b0404cd6a8a4a908123f10774854e46/index.mpd!!8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 iNews	`0https://embed.rctiplus.com/live/inews/inewsid
 InspiraTV	https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 Jawapos TV	https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
@@ -176,16 +159,16 @@ Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 Musik Indonesia	https://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 Musik Indonesia	https://v2.siar.us/mic/live/playlist.m3u8
-MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
 MNC TV	https://allcutv.rctiplus.id/mnctv2023.m3u8?7
+MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
 Muhammadiyah TV	https://e.siar.us/live/tvmu.m3u8
 Music TV	https://fta1!vfc!c20d75deb06f401aa89681a9e5054de7/index.mpd!!55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 My Cinema Asia	https://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
 My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 MyKidz	https://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
 Nick Jr	https://fta1!vfc!27163af9499b4bcca2da96677b158efe/index.mpd!!c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
-RCTI	https://fta4!vfc!997ce8767b604fae9fce05379b3b8b3a/index.mpd!!d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 RCTI	https://allcutv.rctiplus.id/rcti2023.m3u8?7
+RCTI	https://fta4!vfc!997ce8767b604fae9fce05379b3b8b3a/index.mpd!!d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
 RCTV Cirebon	https://v10.siar.us/rctv/live/playlist.m3u8
 Rock Entertainment	https://cdn.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
