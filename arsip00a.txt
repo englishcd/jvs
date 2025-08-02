@@ -108,7 +108,7 @@ GolTV 👇	00!0!0/9595?zyy
 ^=VolleyBall Live	`0https://wikisport.cc/play?token=s3c2LDmf00dxQBOoXZcEX3ZEbzBmeDVWVi9NVkpVZlZRL3VzTk5PcXQyMjN5T29Fb1JnV3IzK05GQWx6MFlpb1ZvZWhUTXBMcHJMb3VqWTJEMmVadDRBPQ
 
 	^-
-[g]Sport TV Channels ID[z]	^-
+[w]Live Sport & TV Channels[z]	^-
 
 beIN Sports 1 🇦🇺	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd!!f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
 beIN Sports 2 🇦🇺	https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd!!9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
@@ -117,9 +117,6 @@ beIN Sports 1	http://125x.org:8080/bn1hd/index.m3u8
 beIN Sports 2	http://125x.org:8080/bn2hd/index.m3u8
 beIN Sports 3	http://125x.org:8080/bn3hd/index.m3u8
 beIN Sports 4	http://125x.org:8080/bn4hd/index.m3u8
-
-	^-
-[w]Live Sport TV Channels[z]	^-
 
 DAZN Fast	https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd!!8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 ESPN	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
@@ -138,9 +135,26 @@ Sky Sports Max	https://a.00/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d
 Sport 1 DE	https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR!!98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
 Sport 4 Lithuania	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561202/index.mpd!!da335a7a2a174bb29914ed868a6b1534:0659b8027b98c0e4d94b033841a8eb0d
 Tipik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-TNT La Liga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+TNT LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 TUDN MX	https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 TUDN USA	https://a.00/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+
+	^-
+HBO Plus	https://a.00/5/out/u/dash/HBO-PLUS-HD/default.mpd!!861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+HBO Pop	https://a.00/5/out/u/dash/HBO-POP-HD/default.mpd!!bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+HBO Xtreme	https://a.00/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+HBO	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd!!d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+HBO Cinemax	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd!!b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+HBO Family	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd!!872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+HBO Hits	https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd!!b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+HBO Signature	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd!!a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+Film Rise Horror	https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u
+Horror Canada	https://apollo.production-public.tubi.io/live/ac-filmrise-horror-canada.m3u8
+Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+Hits	https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd!!dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
+Kix	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd!!a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
+Tap Action	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd!!bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+Tap Movies	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd!!71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 
 	^-
 [w]ID Live Sport & TV Channels[z]	^-
@@ -231,22 +245,6 @@ TVRI World	https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 	^-
 [w]Sport Channels & TV[z]	^-
-
-HBO Plus	https://a.00/5/out/u/dash/HBO-PLUS-HD/default.mpd!!861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
-HBO Pop	https://a.00/5/out/u/dash/HBO-POP-HD/default.mpd!!bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
-HBO Xtreme	https://a.00/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
-HBO	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd!!d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-HBO Cinemax	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd!!b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-HBO Family	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd!!872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-HBO Hits	https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd!!b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-HBO Signature	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd!!a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-Film Rise Horror	https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u
-Horror Canada	https://apollo.production-public.tubi.io/live/ac-filmrise-horror-canada.m3u8
-Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-Hits	https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd!!dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
-Kix	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd!!a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
-Tap Action	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd!!bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-Tap Movies	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd!!71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 
 ITV 1 🇬🇧	https://z.1UK_ITV_1/index.m3u8
 ITV 2 🇬🇧	https://z.1UK_ITV_2/index.m3u8
