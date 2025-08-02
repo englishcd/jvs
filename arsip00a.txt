@@ -168,7 +168,7 @@ beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c4
 AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
 AniPlus	https://khano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
 ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
-Bahana FM https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+Bahana FM	https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 Celestial Classic Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
@@ -197,10 +197,10 @@ K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 Kids TV	https://fta3!vfc!9041826689ae4f9c9619576d411fa989/index.mpd!!ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 Kids TV	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
 KiX	https://khano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
-Kompas TV https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+Kompas TV	https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 MD TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
-Mentari TV	  http://103.226.232.199:9003/play/a05a/index.m3u8
+Mentari TV	http://103.226.232.199:9003/play/a05a/index.m3u8
 Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 Musik Indonesia	https://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
