@@ -343,6 +343,8 @@ MBC Drama	https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feff
 MBC Masr Drama 🇪🇬	https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 MBC Masr 🇪🇬	https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 MBC Masr 🇪🇬	https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+MBMS 1	https://uselector.cdn.intigral-ott.net/MBMS/MBMS.isml/manifest.mpd!!8004a6813fbfe74903b41063f9d475ba:85409011875d7f74f547143f646d6bd9
+MBMS 2	https://uselector.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd!!4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
 Music Top	https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 Stingray Classica	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8
 Vevo Pop Latino	https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3yjwupt2bfu30/playlist.m3u8
