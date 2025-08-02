@@ -11,20 +11,6 @@
 
 03-07-2025	^-
 
-00:00 [l]CAF African Nations Championship[z]	^-
-Tanzania vs Burkina Faso	https://ZZB496
-Tanzania vs Burkina Faso	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232091/tanzania-vs-burkina-faso-08-2025.html
-
-01:00 [g]International Club Friendly[z]	^-
-Galatasaray vs Lazio	https://ZZB50
-Galatasaray vs Lazio	`*https://www.fctv33.net/football/international-club-friendly-match-4241388/galatasaray-vs-lazio-08-2025.html
-Marseille vs Sevilla	https://ZZB771
-Marseille vs Sevilla	`*https://www.fctv33.net/football/international-club-friendly-match-4241475/marseille-vs-sevilla-fc-08-2025.html
-
-01:30 [g]International Club Friendly[z]	^-
-Borussia Monchengladbach vs Valencia	https://ZZB550
-Borussia Monchengladbach vs Valencia	`*https://www.fctv33.net/football/international-club-friendly-match-4241474/borussia-monchengladbach-vs-valencia-cf-08-2025.html
-
 04:00 [l]Copa América Femenina[z]	^-
 Colombia  (w) vs Brazil (w)	Fox Sports 1	https://1.0!FOX_Sports_1!.z?7
 Colombia  (w) vs Brazil (w)	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd!!eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
