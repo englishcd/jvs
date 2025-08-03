@@ -9,33 +9,7 @@
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-03-07-2025	^-
-
-23:00 [g]International Club Friendly[z]	^-
-Mamelodi Sundowns vs Richards Bay	https://ZZB413
-Mamelodi Sundowns vs Richards Bay	`*https://www.fctv33.net/football/international-club-friendly-match-4243690/mamelodi-sundowns-vs-richards-bay-08-2025.html
-
 04-07-2025	^-
-
-00:00 [l]CAF African Nations Championship[z]	^-
-Madagascar 🇲🇬 vs Mauritania 🇲🇷	https://ZZB486
-Madagascar 🇲🇬 vs Mauritania 🇲🇷	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4236957/madagascar-vs-mauritania-08-2025.html
-
-00:00 [g]International Club Friendly[z]	^-
-Napoli vs Stade Brestois	https://ZZB14
-Napoli vs Stade Brestois	`*https://www.fctv33.net/football/international-club-friendly-match-4243684/napoli-vs-stade-brestois-29-08-2025.html
-
-01:00 [y]Premier League Summer Series[z]	^-
-Bournemouth AFC vs West Ham United	https://ZZB414
-Bournemouth AFC vs West Ham United	`*https://www.fctv33.net/football/premier-league-summer-series-match-4164652/bournemouth-afc-vs-west-ham-united-08-2025.html
-
-01:00 [g]International Club Friendly[z]	^-
-Girona vs Wolves	https://ZZB550
-Girona vs Wolves	`*https://www.fctv33.net/football/international-club-friendly-match-4219039/girona-fc-vs-wolverhampton-wanderers-08-2025.html
-
-01:00 [g]International Club Friendly[z]	^-
-FC Porto vs Atletico Madrid	https://ZZB49
-FC Porto vs Atletico Madrid	`*https://www.fctv33.net/football/international-club-friendly-match-4243682/fc-porto-vs-atletico-madrid-08-2025.html
 
 04:00 [y]Premier League Summer Series[z]	^-
 Manchester United vs Everton	https://ZZB377
@@ -65,6 +39,7 @@ GolTV 👇	00!0!0/9595?zyy
 [y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
 ^=	^-
+^=377 👇	!zb!377
 ^=Mentari 8237	!pt!8237
 ^=Live Day	`0https://dlhd.click/
 ^=Live Sports	`0https://play31.livesports088.com/football.html
