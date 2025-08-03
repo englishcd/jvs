@@ -11,34 +11,6 @@
 
 03-07-2025	^-
 
-18:00 [g]International Club Friendly[z]	^-
-Newcastle United vs Tottenham Hotspur	https://ZZB308
-Newcastle United vs Tottenham Hotspur	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-Newcastle United vs Tottenham Hotspur	`*https://www.fctv33.net/football/international-club-friendly-match-4193174/newcastle-united-vs-tottenham-hotspur-08-2025.html
-
-19:00 [g]International Club Friendly[z]	^-
-AFC Ajax vs Monaco	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-AFC Ajax vs Monaco	`*https://www.fctv33.net/football/international-club-friendly-match-4219040/afc-ajax-vs-as-monaco-08-2025.html
-
-19:00 [l]CAF African Nations Championship[z]	^-
-Kenya 🇰🇪 vs Democratic Rep Congo 🇨🇩	https://ZZB96
-Kenya 🇰🇪 vs Democratic Rep Congo 🇨🇩	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232716/kenya-vs-democratic-republic-of-the-congo-08-2025.html
-
-20:00 [g]International Club Friendly[z]	^-
-Stellenbosch FC vs AmaZulu	`*https://www.fctv33.net/football/international-club-friendly-match-4243205/stellenbosch-fc-vs-amazulu-08-2025.html
-ADO Den Haag vs Olympiakos Piraeus	https://ZZB622
-ADO Den Haag vs Olympiakos Piraeus	`*https://www.fctv33.net/football/international-club-friendly-match-4243762/ado-den-haag-vs-olympiakos-piraeus-08-2025.html
-
-21:00 [g]International Club Friendly[z]	^-
-Leicester City (w) vs Fiorentina (w)	`*https://www.fctv33.net/football/international-club-friendly-match-4243211/leicester-city-w-vs-fiorentina-w-08-2025.html
-Leicester City vs Fiorentina	https://ZZB55
-Leicester City vs Fiorentina	`*https://www.fctv33.net/football/international-club-friendly-match-4246820/leicester-city-vs-fiorentina-08-2025.html
-
-22:00 [l]CAF African Nations Championship[z]	^-
-Morocco 🇲🇦 vs Angola 🇦🇴	https://ZZB487
-Morocco 🇲🇦 vs Angola 🇦🇴	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-Morocco 🇲🇦 vs Angola 🇦🇴	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4235888/morocco-vs-angola-08-2025.html
-
 23:00 [g]International Club Friendly[z]	^-
 Mamelodi Sundowns vs Richards Bay	https://ZZB413
 Mamelodi Sundowns vs Richards Bay	`*https://www.fctv33.net/football/international-club-friendly-match-4243690/mamelodi-sundowns-vs-richards-bay-08-2025.html
