@@ -12,36 +12,59 @@
 03-07-2025	^-
 
 18:00 [g]International Club Friendly[z]	^-
+Newcastle United vs Tottenham Hotspur	https://ZZB308
 Newcastle United vs Tottenham Hotspur	`*https://www.fctv33.net/football/international-club-friendly-match-4193174/newcastle-united-vs-tottenham-hotspur-08-2025.html
 
 19:00 [g]International Club Friendly[z]	^-
+AFC Ajax vs Monaco	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 AFC Ajax vs Monaco	`*https://www.fctv33.net/football/international-club-friendly-match-4219040/afc-ajax-vs-as-monaco-08-2025.html
 
 19:00 [l]CAF African Nations Championship[z]	^-
+Kenya 🇰🇪 vs Democratic Rep Congo 🇨🇩	https://ZZB96
 Kenya 🇰🇪 vs Democratic Rep Congo 🇨🇩	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232716/kenya-vs-democratic-republic-of-the-congo-08-2025.html
+
+20:00 [g]International Club Friendly[z]	^-
+Stellenbosch FC vs AmaZulu	`*https://www.fctv33.net/football/international-club-friendly-match-4243205/stellenbosch-fc-vs-amazulu-08-2025.html
+ADO Den Haag vs Olympiakos Piraeus	https://ZZB622
+ADO Den Haag vs Olympiakos Piraeus	`*https://www.fctv33.net/football/international-club-friendly-match-4243762/ado-den-haag-vs-olympiakos-piraeus-08-2025.html
 
 21:00 [g]International Club Friendly[z]	^-
 Leicester City (w) vs Fiorentina (w)	`*https://www.fctv33.net/football/international-club-friendly-match-4243211/leicester-city-w-vs-fiorentina-w-08-2025.html
+Leicester City vs Fiorentina	https://ZZB55
 Leicester City vs Fiorentina	`*https://www.fctv33.net/football/international-club-friendly-match-4246820/leicester-city-vs-fiorentina-08-2025.html
 
 22:00 [l]CAF African Nations Championship[z]	^-
+Morocco 🇲🇦 vs Angola 🇦🇴	https://ZZB487
 Morocco 🇲🇦 vs Angola 🇦🇴	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4235888/morocco-vs-angola-08-2025.html
+
+23:00 [g]International Club Friendly[z]	^-
+Mamelodi Sundowns vs Richards Bay	https://ZZB413
+Mamelodi Sundowns vs Richards Bay	`*https://www.fctv33.net/football/international-club-friendly-match-4243690/mamelodi-sundowns-vs-richards-bay-08-2025.html
 
 04-07-2025	^-
 
 00:00 [l]CAF African Nations Championship[z]	^-
+Madagascar 🇲🇬 vs Mauritania 🇲🇷	https://ZZB486
 Madagascar 🇲🇬 vs Mauritania 🇲🇷	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4236957/madagascar-vs-mauritania-08-2025.html
 
 00:00 [g]International Club Friendly[z]	^-
+Napoli vs Stade Brestois	https://ZZB14
 Napoli vs Stade Brestois	`*https://www.fctv33.net/football/international-club-friendly-match-4243684/napoli-vs-stade-brestois-29-08-2025.html
 
 01:00 [y]Premier League Summer Series[z]	^-
+Bournemouth AFC vs West Ham United	https://ZZB414
 Bournemouth AFC vs West Ham United	`*https://www.fctv33.net/football/premier-league-summer-series-match-4164652/bournemouth-afc-vs-west-ham-united-08-2025.html
 
 01:00 [g]International Club Friendly[z]	^-
+Girona vs Wolves	https://ZZB550
+Girona vs Wolves	`*https://www.fctv33.net/football/international-club-friendly-match-4219039/girona-fc-vs-wolverhampton-wanderers-08-2025.html
+
+01:00 [g]International Club Friendly[z]	^-
+FC Porto vs Atletico Madrid	https://ZZB49
 FC Porto vs Atletico Madrid	`*https://www.fctv33.net/football/international-club-friendly-match-4243682/fc-porto-vs-atletico-madrid-08-2025.html
 
 04:00 [y]Premier League Summer Series[z]	^-
+Manchester United vs Everton	https://ZZB377
 Manchester United vs Everton	`*https://www.fctv33.net/football/premier-league-summer-series-match-4175899/manchester-united-vs-everton-08-2025.html
 
 ^@	^-
@@ -86,6 +109,8 @@ beIN Sports 1	http://125x.org:8080/bn1hd/index.m3u8
 beIN Sports 2	http://125x.org:8080/bn2hd/index.m3u8
 beIN Sports 3	http://125x.org:8080/bn3hd/index.m3u8
 beIN Sports 4	http://125x.org:8080/bn4hd/index.m3u8
+beIN Sports 5	http://125x.org:8080/bn5sd/index.m3u8
+beIN Sports 6	http://125x.org:8080/bn6hd/index.m3u8
 
 DAZN Fast	https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd!!8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 ESPN	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
