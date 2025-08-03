@@ -13,6 +13,7 @@
 
 18:00 [g]International Club Friendly[z]	^-
 Newcastle United vs Tottenham Hotspur	https://ZZB308
+Newcastle United vs Tottenham Hotspur	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
 Newcastle United vs Tottenham Hotspur	`*https://www.fctv33.net/football/international-club-friendly-match-4193174/newcastle-united-vs-tottenham-hotspur-08-2025.html
 
 19:00 [g]International Club Friendly[z]	^-
@@ -35,6 +36,7 @@ Leicester City vs Fiorentina	`*https://www.fctv33.net/football/international-clu
 
 22:00 [l]CAF African Nations Championship[z]	^-
 Morocco 🇲🇦 vs Angola 🇦🇴	https://ZZB487
+Morocco 🇲🇦 vs Angola 🇦🇴	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Morocco 🇲🇦 vs Angola 🇦🇴	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4235888/morocco-vs-angola-08-2025.html
 
 23:00 [g]International Club Friendly[z]	^-
@@ -113,7 +115,7 @@ beIN Sports 5	http://125x.org:8080/bn5sd/index.m3u8
 beIN Sports 6	http://125x.org:8080/bn6hd/index.m3u8
 
 DAZN Fast	https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd!!8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
-ESPN	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+ESPN 1 🇳🇱	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
 Fubo Sports	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Fubo TV	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 RTP 1 🇵🇹	https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd!!f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
