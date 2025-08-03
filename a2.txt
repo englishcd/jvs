@@ -3,718 +3,718 @@
 	^-
 [y]International TV Channels[z]	^-
 
-#0 Spain	https://ZZB437
-#Vamos Spain	https://ZZB521
-20 Mediaset Italy	https://ZZB857
-3sat DE	https://ZZB726
-5 USA	https://ZZB360
-6'eren Denmark	https://ZZB800
-8Sky Cinema Comedy Italy	https://ZZB862
-8Sky Cinema Suspense Italy	https://ZZB868
-A Sport PK	https://ZZB269
-A&E USA	https://ZZB302
-ABC NY USA	https://ZZB766
-ABC USA	https://ZZB51
-ABS-CBN	https://ZZB785
-Abu Dhabi Sports Premium 1	https://ZZB609
-Abu Dhabi Sports Premium 2	https://ZZB610
-Abu Dhabi Sports UAE 1	https://ZZB600
-Abu Dhabi Sports UAE 2	https://ZZB601
-ACC Network USA	https://ZZB664
-Adult Swim	https://ZZB295
-Alkass 1 One	https://ZZB781
-Alkass 2 Two	https://ZZB782
-Alkass 3 Three	https://ZZB783
-Alkass 4 Four	https://ZZB784
-Altitude Sports	https://ZZB923
-AMC USA	https://ZZB303
-Animal Planet	https://ZZB304
-Antena 3 Spain	https://ZZB531
-Arena Sport BiH	https://ZZB579
-Arena Sport Croatia 1	https://ZZB432
-Arena Sport Croatia 2	https://ZZB433
-Arena Sport Croatia 3	https://ZZB434
-Arena Sport Croatia 4	https://ZZB580
-Arena Sport Premium 1	https://ZZB134
-Arena Sport Premium 2	https://ZZB135
-Arena Sport Premium 3	https://ZZB139
-Arena Sport Serbia 1	https://ZZB429
-Arena Sport Serbia 2	https://ZZB430
-Arena Sport Serbia 3	https://ZZB431
-Arena Sport Serbia 4	https://ZZB581
-Arte DE	https://ZZB725
-Astro Cricket	https://ZZB370
-Astro SuperSport 1	https://ZZB123
-Astro SuperSport 2	https://ZZB124
-Astro SuperSport 3	https://ZZB125
-Astro SuperSport 4	https://ZZB126
-AXN Movies Portugal	https://ZZB717
-AXS TV USA	https://ZZB742
-Azteca 7 MX	https://ZZB844
-Bally Sports Arizona	https://ZZB890
-Bally Sports Detroit	https://ZZB891
-Bally Sports Florida	https://ZZB892
-Bally Sports Great Lakes	https://ZZB893
-Bally Sports Indiana	https://ZZB894
-Bally Sports Kansas City	https://ZZB895
-Bally Sports Midwest	https://ZZB896
-Bally Sports New Orleans	https://ZZB897
-Bally Sports North	https://ZZB898
-Bally Sports Ohio	https://ZZB899
-Bally Sports Oklahoma	https://ZZB900
-Bally Sports San Diego	https://ZZB901
-Bally Sports SoCal	https://ZZB902
-Bally Sports South	https://ZZB903
-Bally Sports Southeast	https://ZZB904
-Bally Sports Sun	https://ZZB905
-Bally Sports West	https://ZZB906
-Bally Sports Wisconsin	https://ZZB907
-Bandsports Brasil	https://ZZB275
-Barca TV Spain	https://ZZB522
-BBC 1 One UK	https://ZZB356
-BBC 2 Two UK	https://ZZB357
-BBC 3 Three UK	https://ZZB358
-BBC 4 Four UK	https://ZZB359
-BBC America	https://ZZB305
-BBC DE	https://ZZB727
-BBC News Channel	https://ZZB349
-beIN Sports Australia 1	https://ZZB491
-beIN Sports Australia 2	https://ZZB492
-beIN Sports Australia 3	https://ZZB493
-beIN Sports en Español	https://ZZB372
-beIN Sports France 1	https://ZZB116
-beIN Sports France 2	https://ZZB117
-beIN Sports France 3	https://ZZB118
-beIN Sports Max 4 France	https://ZZB494
-beIN Sports Max 5 France	https://ZZB495
-beIN Sports Max 6 France	https://ZZB496
-beIN Sports Max 7 France	https://ZZB497
-beIN Sports Max 8 France	https://ZZB498
-beIN Sports Max 9 France	https://ZZB499
-beIN Sports Max 10 France	https://ZZB500
-beIN Sports MENA 1	https://ZZB91
-beIN Sports MENA 2	https://ZZB92
-beIN Sports MENA 3	https://ZZB93
-beIN Sports MENA 4	https://ZZB94
-beIN Sports MENA 5	https://ZZB95
-beIN Sports MENA 6	https://ZZB96
-beIN Sports MENA 7	https://ZZB97
-beIN Sports MENA English 1	https://ZZB61
-beIN Sports MENA English 2	https://ZZB90
-beIN Sports MENA English 3	https://ZZB46
-beIN Sports MENA Premium 1	https://ZZB98
-beIN Sports MENA Premium 2	https://ZZB99
-beIN Sports MENA Premium 3	https://ZZB100
-beIN Sports Qatar	https://ZZB578
-beIN Sports Turkey 1	https://ZZB62
-beIN Sports Turkey 2	https://ZZB63
-beIN Sports Turkey 3	https://ZZB64
-beIN Sports Turkey 4	https://ZZB67
-beIN Sports USA	https://ZZB425
-Benfica TV PT	https://ZZB380
-BET USA	https://ZZB306
-BIG TEN Network	https://ZZB397
-BNT 1 Bulgaria	https://ZZB476
-BNT 2 Bulgaria	https://ZZB477
-BNT 3 Bulgaria	https://ZZB478
-Boomerang	https://ZZB648
-BR Fernsehen DE	https://ZZB737
-Bravo USA	https://ZZB307
-bTV Action Bulgaria	https://ZZB481
-bTV Bulgaria	https://ZZB479
-bTV Lady Bulgaria	https://ZZB484
-C More First Sweden	https://ZZB812
-C More Football Sweden	https://ZZB747
-C More Hits Sweden	https://ZZB813
-C More Series Sweden	https://ZZB814
-C SPAN	https://ZZB750
-Canal 11 Portugal	https://ZZB540
-Canal+ Family Poland	https://ZZB567
-Canal+ Foot France	https://ZZB463
-Canal+ Formula 1	https://ZZB273
-Canal+ France	https://ZZB121
-Canal+ MotoGP France	https://ZZB271
-Canal+ Premium Poland	https://ZZB566
-Canal+ Seriale Poland	https://ZZB570
-Canal+ Sport 360	https://ZZB464
-Canal+ Sport Afrique 1	https://ZZB486
-Canal+ Sport Afrique 2	https://ZZB487
-Canal+ Sport Afrique 3	https://ZZB488
-Canal+ Sport Afrique 4	https://ZZB489
-Canal+ Sport Afrique 5	https://ZZB490
-Canal+ Sport France	https://ZZB122
-Canal+ Sport Poland 1	https://ZZB48
-Canal+ Sport Poland 2	https://ZZB73
-Canal+ Sport Poland 5	https://ZZB75
-Canal 9 Denmark	https://ZZB805
-Cartoon Network	https://ZZB339
-CBC CA	https://ZZB699
-CBC CA	https://ZZB832
-CBS Sports Golazo	https://ZZB910
-CBS Sports Network	https://ZZB308
-CBS USA	https://ZZB52
-CBS NY USA	https://ZZB767
-Channel 4 UK	https://ZZB354
-Channel 5 UK	https://ZZB355
-Cinemax USA	https://ZZB374
-Citytv	https://ZZB831
-Cleo TV	https://ZZB715
-CMT USA	https://ZZB647
-CMTV Portugal	https://ZZB790
-CNBC USA	https://ZZB309
-CNN USA	https://ZZB345
-Combate Brasil	https://ZZB89
-Comedy Central	https://ZZB310
-Comet USA	https://ZZB696
-Cooking Channel USA	https://ZZB697
-Cosmote Sport 1	https://ZZB622
-Cosmote Sport 2	https://ZZB623
-Cosmote Sport 3	https://ZZB624
-Cosmote Sport 4	https://ZZB625
-Cosmote Sport 5	https://ZZB626
-Cosmote Sport 6	https://ZZB627
-Cosmote Sport 7	https://ZZB628
-Cosmote Sport 8	https://ZZB629
-Cosmote Sport 9	https://ZZB630
-Court TV USA	https://ZZB281
-Cozi TV USA	https://ZZB748
-Crime+ Investigation USA	https://ZZB669
-CTV 1 Canada	https://ZZB602
-CTV 2 Canada	https://ZZB838
-Cuatro Spain	https://ZZB535
-CW PIX 11 USA	https://ZZB280
-CW USA	https://ZZB300
-Cytavision Sports 1 Cyprus	https://ZZB911
-Cytavision Sports 2 Cyprus	https://ZZB912
-Cytavision Sports 3 Cyprus	https://ZZB913
-Cytavision Sports 4 Cyprus	https://ZZB914
-Cytavision Sports 5 Cyprus	https://ZZB915
-Cytavision Sports 6 Cyprus	https://ZZB916
-Cytavision Sports 7 Cyprus	https://ZZB917
-Dave	https://ZZB348
-DAZN Bar DE 1	https://ZZB426
-DAZN Bar DE 2	https://ZZB427
-DAZN F1 ES	https://ZZB537
-DAZN La Liga 1	https://ZZB538
-DAZN La Liga 2	https://ZZB43
-DAZN Spain 1	https://ZZB445
-DAZN Spain 2	https://ZZB446
-DAZN Spain 3	https://ZZB447
-DAZN Spain 4	https://ZZB448
-DAZN UK	https://ZZB230
-Destination America	https://ZZB651
-Diema Bulgaria	https://ZZB482
-Diema Family Bulgaria	https://ZZB485
-Diema Sport 1 Bulgaria	https://ZZB465
-Diema Sport 2 Bulgaria	https://ZZB466
-Diema Sport 3 Bulgaria	https://ZZB467
-Digi Sport 1 Romania	https://ZZB400
-Digi Sport 2 Romania	https://ZZB401
-Digi Sport 3 Romania	https://ZZB402
-Digi Sport 4 Romania	https://ZZB403
-Discovery Channel	https://ZZB313
-Discovery Family	https://ZZB657
-Discovery Life Channel	https://ZZB311
-Discovery Velocity CA	https://ZZB285
-Disney Channel	https://ZZB312
-Disney Jr	https://ZZB652
-Disney XD	https://ZZB314
-DR1 Denmark	https://ZZB801
-DR2 Denmark	https://ZZB802
-DSTV kykNET & kie	https://ZZB828
-DSTV M-Net	https://ZZB827
-DSTV Mzansi Magic	https://ZZB786
-Dubai Racing 1 UAE	https://ZZB607
-Dubai Racing 2 UAE	https://ZZB608
-Dubai Sports 1 UAE	https://ZZB604
-Dubai Sports 2 UAE	https://ZZB605
-Dubai Sports 3 UAE	https://ZZB606
-E! Entertainment Television	https://ZZB315
-E4 Channel	https://ZZB363
-Eleven Sports Poland 1	https://ZZB71
-Eleven Sports Poland 2	https://ZZB72
-Eleven Sports Poland 3	https://ZZB428
-Eleven Sports Portugal 1	https://ZZB455
-Eleven Sports Portugal 2	https://ZZB456
-Eleven Sports Portugal 3	https://ZZB457
-Eleven Sports Portugal 4	https://ZZB458
-Eleven Sports Portugal 5	https://ZZB459
-ERT Greece	https://ZZB774
-ESPN 1 NL	https://ZZB379
-ESPN 2 NL	https://ZZB386
-ESPN Brasil 1	https://ZZB81
-ESPN Brasil 2	https://ZZB82
-ESPN Brasil 3	https://ZZB83
-ESPN Brasil 4	https://ZZB85
-ESPN Deportes	https://ZZB375
-ESPN Extra Argentina	https://ZZB798
-ESPN News	https://ZZB288
-ESPN Premium Argentina	https://ZZB387
-ESPN SUR 1	https://ZZB149
-ESPN SUR 2	https://ZZB150
-ESPN USA 1	https://ZZB44
-ESPN USA 2	https://ZZB45
-ESPNU USA	https://ZZB316
-Eurosport Bulgaria 1	https://ZZB469
-Eurosport Bulgaria 2	https://ZZB470
-Eurosport France 1	https://ZZB772
-Eurosport France 2	https://ZZB773
-EuroSport Italy 1	https://ZZB878
-EuroSport Italy 2	https://ZZB879
-EuroSport Poland 1	https://ZZB57
-EuroSport Poland 2	https://ZZB58
-EuroSport Spain 1	https://ZZB524
-EuroSport Spain 2	https://ZZB525
-EuroSport UK 1	https://ZZB41
-EuroSport UK 2	https://ZZB42
-Fashion TV	https://ZZB744
-FETV Family Entertainment	https://ZZB751
-Fight Network	https://ZZB757
-Film4 UK	https://ZZB688
-FilmBox Premium Poland	https://ZZB568
-Fox Bulgaria	https://ZZB483
-Fox Business	https://ZZB297
-Fox Cricket	https://ZZB369
-Fox Deportes USA	https://ZZB643
-Fox News	https://ZZB347
-Fox NY USA	https://ZZB768
-Fox Soccer Plus	https://ZZB756
-Fox Sports 502 AU	https://ZZB820
-Fox Sports 503 AU	https://ZZB821
-Fox Sports 504 AU	https://ZZB822
-Fox Sports 505 AU	https://ZZB823
-Fox Sports 506 AU	https://ZZB824
-Fox Sports 507 AU	https://ZZB825
-Fox Sports Argentina 1	https://ZZB787
-Fox Sports Argentina 2	https://ZZB788
-Fox Sports Argentina 3	https://ZZB789
-Fox Sports Premium MX	https://ZZB830
-Fox Sports USA 1	https://ZZB39
-Fox Sports USA 2	https://ZZB758
-Fox USA	https://ZZB54
-Fox Weather Channel	https://ZZB775
-Freeform	https://ZZB301
-FUSE TV USA	https://ZZB279
-FX Movie Channel	https://ZZB381
-FX USA	https://ZZB317
-FXX USA	https://ZZB298
-FYI	https://ZZB665
-Galavisión USA	https://ZZB743
-Game Show Network	https://ZZB319
-Global CA	https://ZZB836
-Globo RIO	https://ZZB761
-Globo SP	https://ZZB760
-Gol Mundial	https://ZZB292
-Gol Play Spain	https://ZZB530
-Gold UK	https://ZZB687
-Golf Channel USA	https://ZZB318
-Grit Channel	https://ZZB752
-Hallmark Movies & Mysterie	https://ZZB296
-HBO 1 USA	https://ZZB321
-HBO 2 USA	https://ZZB689
-HBO Comedy USA	https://ZZB690
-HBO Family USA	https://ZZB691
-HBO Latino USA	https://ZZB692
-HBO Poland	https://ZZB569
-HBO Signature USA	https://ZZB693
-HBO Zone USA	https://ZZB694
-Headline News	https://ZZB323
-HGTV	https://ZZB382
-History USA	https://ZZB322
-HR Fernsehen DE	https://ZZB740
-IFC TV USA	https://ZZB656
-Investigation Discovery USA	https://ZZB324
-ION USA	https://ZZB325
-Italia 1 Italy	https://ZZB854
-ITV 1 UK	https://ZZB350
-ITV 2 UK	https://ZZB351
-ITV 3 UK	https://ZZB352
-ITV 4 UK	https://ZZB353
-Kabel Eins (Kabel 1) DE	https://ZZB731
-Kanal 4 Denmark	https://ZZB803
-Kanal 5 Denmark	https://ZZB804
-La 7 Italy	https://ZZB855
-LA 7d+ Italy	https://ZZB856
-La Liga SmartBank TV	https://ZZB539
-La Liga TV UK	https://ZZB276
-La Sexta Spain	https://ZZB534
-Law & Crime Network	https://ZZB278
-L'Equipe France	https://ZZB645
-Lifetime Movies Network	https://ZZB389
-Lifetime Network	https://ZZB326
-Liverpool TV (LFC TV)	https://ZZB826
-Longhorn Network USA	https://ZZB667
-Magnolia Network	https://ZZB299
-Marquee Sports Network	https://ZZB770
-MASN USA	https://ZZB829
-Match Football 1 Russia	https://ZZB136
-Match Football 2 Russia	https://ZZB137
-Match Football 3 Russia	https://ZZB138
-Match Premier Russia	https://ZZB573
-Match TV Russia	https://ZZB127
-MAVTV USA	https://ZZB646
-Max Sport Bulgaria 1	https://ZZB472
-Max Sport Bulgaria 2	https://ZZB473
-Max Sport Bulgaria 3	https://ZZB474
-Max Sport Bulgaria 4	https://ZZB475
-Max Sport Croatia 1	https://ZZB779
-Max Sport Croatia 2	https://ZZB780
-MDR DE	https://ZZB733
-METV USA	https://ZZB662
-MGM+ USA / Epix	https://ZZB791
-MLB Network USA	https://ZZB399
-Monumental Sports Network	https://ZZB924
-Motor Trend	https://ZZB661
-Motowizja Poland	https://ZZB563
-Movistar Deportes 1 Spain	https://ZZB436
-Movistar Deportes 2 Spain	https://ZZB438
-Movistar Deportes 3 Spain	https://ZZB526
-Movistar Deportes 4 Spain	https://ZZB527
-Movistar Golf Spain	https://ZZB528
-Movistar La Liga	https://ZZB84
-Movistar Liga de Campeones	https://ZZB435
-MSG USA	https://ZZB765
-MSNBC	https://ZZB327
-MTV Denmark	https://ZZB806
-MTV UK	https://ZZB367
-MTV USA	https://ZZB371
-Mundotoro TV Spain	https://ZZB749
-MUTV UK	https://ZZB377
-MY9TV USA	https://ZZB654
-Nat Geo Wild USA	https://ZZB745
-National Geographic	https://ZZB328
-NBA TV USA	https://ZZB404
-NBC 10 Philadelphia	https://ZZB277
-NBC NY USA	https://ZZB769
-NBC Sports Bay Area	https://ZZB753
-NBC Sports Boston	https://ZZB754
-NBC Sports California	https://ZZB755
-NBC Sports Chicago	https://ZZB776
-NBC Sports Philadelphia	https://ZZB777
-NBC Sports Washington	https://ZZB778
-NBC USA	https://ZZB53
-NDR DE	https://ZZB736
-NESN USA	https://ZZB762
-New! CWPIX 11	https://ZZB771
-Newsmax USA	https://ZZB613
-NFL Network	https://ZZB405
-NHL Network USA	https://ZZB663
-Nick	https://ZZB330
-Nick Jr	https://ZZB329
-Nick Music	https://ZZB666
-Nick Toons	https://ZZB649
-Noovo CA	https://ZZB835
-Nova Sport Bulgaria	https://ZZB468
-Nova Sport Serbia	https://ZZB582
-Nova Sports 1 Greece	https://ZZB631
-Nova Sports 2 Greece	https://ZZB632
-Nova Sports 3 Greece	https://ZZB633
-Nova Sports 4 Greece	https://ZZB634
-Nova Sports 5 Greece	https://ZZB635
-Nova Sports 6 Greece	https://ZZB636
-Nova Sports News Greece	https://ZZB639
-Nova Sports Premier League Greece	https://ZZB599
-Nova Sports Prime Greece	https://ZZB638
-Nova Sports Start Greece	https://ZZB637
-Nova TV Bulgaria	https://ZZB480
-OnTime Sports 1	https://ZZB611
-OnTime Sports 2	https://ZZB612
-Oprah Winfrey Network	https://ZZB331
-Orange Sport 1 Romania	https://ZZB439
-Orange Sport 2 Romania	https://ZZB440
-Orange Sport 3 Romania	https://ZZB441
-Orange Sport 4 Romania	https://ZZB442
-Oxygen True Crime	https://ZZB332
-Pac-12 Network USA	https://ZZB287
-Paramount Network	https://ZZB334
-PBS USA	https://ZZB210
-Polsat Film Poland	https://ZZB564
-Polsat News Poland	https://ZZB443
-Polsat Poland	https://ZZB562
-Polsat Sport Extra Poland	https://ZZB50
-Polsat Sport News Poland	https://ZZB129
-Polsat Sport Poland	https://ZZB47
-POP TV USA	https://ZZB653
-Porto Canal Portugal	https://ZZB718
-Premier Brasil	https://ZZB88
-Premier Sports Ireland 2	https://ZZB799
-Prima Sport 1	https://ZZB583
-Prima Sport 2	https://ZZB584
-Prima Sport 3	https://ZZB585
-Prima Sport 4	https://ZZB586
-Prima TV RO	https://ZZB843
-ProSieben (Pro 7) DE	https://ZZB730
-PTV Sports	https://ZZB450
-Racing TV UK	https://ZZB555
-Rai 1 Italy	https://ZZB850
-Rai 2 Italy	https://ZZB851
-Rai 3 Italy	https://ZZB852
-Rai 3 Italy	https://ZZB853
-Rai Premium Italy	https://ZZB858
-Rai Sport Italy	https://ZZB882
-RDS 1 CA	https://ZZB839
-RDS 2 CA	https://ZZB840
-RDS Info CA	https://ZZB841
-Real Madrid TV Spain	https://ZZB523
-Reelz Channel	https://ZZB293
-Ring Bulgaria	https://ZZB471
-RMC Sport 1 France	https://ZZB119
-RMC Sport 2 France	https://ZZB120
-Root Sports Northwest	https://ZZB920
-RTE 1	https://ZZB364
-RTE 2	https://ZZB365
-RTL 7 Netherland	https://ZZB390
-RTP 1 Portugal	https://ZZB719
-RTP 2 Portugal	https://ZZB720
-RTP 3 Portugal	https://ZZB721
-S4C UK	https://ZZB670
-SAT.1 DE	https://ZZB729
-SBS6 NL	https://ZZB883
-Science Channel	https://ZZB294
-SEC Network USA	https://ZZB385
-SEE Denmark	https://ZZB811
-Showtime 1 USA	https://ZZB333
-Showtime 2 USA USA	https://ZZB792
-Showtime Extreme USA	https://ZZB794
-Showtime Family Zone USA	https://ZZB795
-Showtime Next USA	https://ZZB796
-Showtime Showcase USA	https://ZZB793
-Showtime Women USA	https://ZZB797
-SIC Portugal	https://ZZB722
-Sixx DE	https://ZZB732
-Sky Arts UK	https://ZZB683
-Sky Atlantic	https://ZZB362
-Sky Calcio 1 (251) Italy	https://ZZB871
-Sky Calcio 2 (252) Italy	https://ZZB872
-Sky Calcio 3 (253) Italy	https://ZZB873
-Sky Calcio 4 (254) Italy	https://ZZB874
-Sky Calcio 5 (255) Italy	https://ZZB875
-Sky Calcio 6 (256) Italy	https://ZZB876
-Sky Calcio 7 (257) Italy	https://ZZB877
-Sky Cinema Action Italy	https://ZZB861
-Sky Cinema Action UK	https://ZZB677
-Sky Cinema Animation UK	https://ZZB675
-Sky Cinema Collection Italy	https://ZZB859
-Sky Cinema Drama Italy	https://ZZB867
-Sky Cinema Due +24 Italy	https://ZZB866
-Sky Cinema Family Italy	https://ZZB865
-Sky Cinema Family UK	https://ZZB676
-Sky Cinema Greats UK	https://ZZB674
-Sky Cinema Hits UK	https://ZZB673
-Sky Cinema Premiere UK	https://ZZB671
-Sky Cinema Romance Italy	https://ZZB864
-Sky Cinema Sci-Fi Horror UK	https://ZZB681
-Sky Cinema Select UK	https://ZZB672
-Sky Cinema Thriller UK	https://ZZB679
-Sky Cinema Uno +24 Italy	https://ZZB863
-Sky Cinema Uno Italy	https://ZZB860
-Sky Comedy UK	https://ZZB684
-Sky Crime	https://ZZB685
-Sky History	https://ZZB686
-Sky Serie Italy	https://ZZB880
-Sky Showcase UK	https://ZZB682
-Sky Sport 24 Italy	https://ZZB869
-Sky Sport Arena Italy	https://ZZB462
-Sky Sport Austria	https://ZZB559
-Sky Sport Bundesliga	https://ZZB558
-Sky Sport Calcio Italy	https://ZZB870
-Sky Sport F1 Italy	https://ZZB577
-Sky Sport Football Italy	https://ZZB460
-Sky Sport Mix DE	https://ZZB557
-Sky Sport MotoGP Italy	https://ZZB575
-Sky Sport NZ 1	https://ZZB588
-Sky Sport NZ 2	https://ZZB589
-Sky Sport NZ 3	https://ZZB590
-Sky Sport NZ 4	https://ZZB591
-Sky Sport NZ 5	https://ZZB592
-Sky Sport NZ 6	https://ZZB593
-Sky Sport NZ 7	https://ZZB594
-Sky Sport NZ 8	https://ZZB595
-Sky Sport NZ 9	https://ZZB596
-Sky Sport Select NZ	https://ZZB587
-Sky Sport Tennis Italy	https://ZZB576
-Sky Sport Top Event DE	https://ZZB556
-Sky Sport UNO Italy	https://ZZB461
-Sky Sports Action UK	https://ZZB37
-Sky Sports Arena UK	https://ZZB36
-Sky Sports Cricket	https://ZZB65
-Sky Sports F1 DE	https://ZZB274
-Sky Sports F1 UK	https://ZZB60
-Sky Sports Football UK	https://ZZB35
-Sky Sports Golf Italy	https://ZZB574
-Sky Sports Golf UK	https://ZZB70
-Sky Sports Main Event	https://ZZB38
-Sky Sports MIX UK	https://ZZB449
-Sky Sports News UK	https://ZZB366
-Sky sports Premier League	https://ZZB130
-Sky Sports Racing UK	https://ZZB554
-Sky Sports Tennis DE	https://ZZB884
-Sky Uno Italy	https://ZZB881
-Sky Witness	https://ZZB361
-Smithsonian Channel	https://ZZB603
-Space City Home Network	https://ZZB921
-Spectrum Sportsnet LA	https://ZZB764
-Sport Klub 1 Serbia	https://ZZB101
-Sport Klub 2 Serbia	https://ZZB102
-Sport Klub 3 Serbia	https://ZZB103
-Sport Klub 4 Serbia	https://ZZB104
-Sport Klub Serbia	https://ZZB453
-Sport TV1 Portugal	https://ZZB49
-Sport TV2 Portugal	https://ZZB74
-Sport TV3 Portugal	https://ZZB454
-Sport TV4 Portugal	https://ZZB289
-Sport TV5 Portugal	https://ZZB290
-Sport TV6 Portugal	https://ZZB291
-Sport1 Germany	https://ZZB641
-Sport1+ Germany	https://ZZB640
-SportDigital Fussball	https://ZZB571
-Sporting TV Portugal	https://ZZB716
-Sportsnet 360	https://ZZB409
-Sportsnet East	https://ZZB408
-SportsNet New York	https://ZZB759
-Sportsnet One	https://ZZB411
-Sportsnet Ontario	https://ZZB406
-SportsNet Pittsburgh	https://ZZB922
-Sportsnet West	https://ZZB407
-Sportsnet World	https://ZZB410
-SporTV1 Brasil	https://ZZB78
-SporTV2 Brasil	https://ZZB79
-SporTV3 Brasil	https://ZZB80
-SR Fernsehen DE	https://ZZB739
-SSC Sport 1	https://ZZB614
-SSC Sport 2	https://ZZB615
-SSC Sport 3	https://ZZB616
-SSC Sport 4	https://ZZB617
-SSC Sport 5	https://ZZB618
-SSC Sport Extra 1	https://ZZB619
-SSC Sport Extra 2	https://ZZB620
-SSC Sport Extra 3	https://ZZB621
-Star Sports IN	https://ZZB267
-Star Sports Hindi IN	https://ZZB268
-Starz	https://ZZB335
-StarzPlay CricLife 1	https://ZZB284
-StarzPlay CricLife 2	https://ZZB283
-StarzPlay CricLife 3	https://ZZB282
-Sundance TV	https://ZZB658
-Super RTL DE	https://ZZB738
-SuperSport Action	https://ZZB420
-SuperSport Cricket	https://ZZB368
-Supersport Football	https://ZZB56
-SuperSport Golf	https://ZZB422
-SuperSport Grandstand	https://ZZB412
-SuperSport La Liga	https://ZZB415
-SuperSport MaXimo	https://ZZB572
-SuperSport Motorsport	https://ZZB424
-SuperSport Premier league	https://ZZB414
-SuperSport PSL	https://ZZB413
-SuperSport Rugby	https://ZZB421
-SuperSport Tennis	https://ZZB423
-SuperSport Variety 1	https://ZZB416
-SuperSport Variety 2	https://ZZB417
-SuperSport Variety 3	https://ZZB418
-SuperSport Variety 4	https://ZZB419
-SWR DE	https://ZZB735
-SYFY USA	https://ZZB373
-T Sports BD	https://ZZB270
-TBS USA	https://ZZB336
-TCM USA	https://ZZB644
-TeenNick	https://ZZB650
-Telecinco Spain	https://ZZB532
-Teledeporte Spain	https://ZZB529
-Telemundo	https://ZZB131
-Ten Sports PK	https://ZZB741
-Tennis Channel	https://ZZB40
-Tennis+ 1	https://ZZB700
-Tennis+ 2	https://ZZB701
-Tennis+ 3	https://ZZB702
-Tennis+ 4	https://ZZB703
-Tennis+ 5	https://ZZB704
-Tennis+ 6	https://ZZB705
-Tennis+ 7	https://ZZB706
-Tennis+ 8	https://ZZB707
-Tennis+ 9	https://ZZB708
-Tennis+ 10	https://ZZB709
-Tennis+ 11	https://ZZB710
-Tennis+ 12	https://ZZB711
-Tennis+ 13	https://ZZB712
-Tennis+ 14	https://ZZB713
-Tennis+ 15	https://ZZB714
-The Food Network	https://ZZB384
-The Hallmark	https://ZZB678
-The Hallmark	https://ZZB680
-The Hallmark Channel	https://ZZB320
-The Weather Channel	https://ZZB394
-TLC	https://ZZB337
-TMC Channel USA	https://ZZB698
-TNT Brasil	https://ZZB87
-TNT Sports 1 UK	https://ZZB31
-TNT Sports 2 UK	https://ZZB32
-TNT Sports 3 UK	https://ZZB33
-TNT Sports 4 UK	https://ZZB34
-TNT Sports Argentina	https://ZZB388
-TNT Sports Chile	https://ZZB642
-TNT USA	https://ZZB338
-Travel Channel	https://ZZB340
-TruTV USA	https://ZZB341
-TSN1	https://ZZB111
-TSN2	https://ZZB112
-TSN3	https://ZZB113
-TSN4	https://ZZB114
-TSN5	https://ZZB115
-TUDN USA	https://ZZB66
-TV ONE USA	https://ZZB660
-TV2 Bornholm Denmark	https://ZZB807
-TV2 Denmark	https://ZZB817
-TV2 Sport Denmark	https://ZZB810
-TV2 Sport X Denmark	https://ZZB808
-TV2 Zulu	https://ZZB818
-TV3 Max Denmark	https://ZZB223
-TV3 Sport Denmark	https://ZZB809
-TV3+ Denmark	https://ZZB819
-TVA Sports 1	https://ZZB833
-TVA Sports 2	https://ZZB834
-TVE La 1 Spain	https://ZZB533
-TVE La 2 Spain	https://ZZB536
-TVI Portugal	https://ZZB723
-TVI Reality Portugal	https://ZZB724
-TVLAND	https://ZZB342
-TVN Poland	https://ZZB565
-TVN24 Poland	https://ZZB444
-TVO CA	https://ZZB842
-TVP INFO	https://ZZB452
-TVP Sport Poland	https://ZZB128
-TVP1 Poland	https://ZZB560
-TVP2 Poland	https://ZZB561
-TyC Sports Argentina	https://ZZB746
-Unimas	https://ZZB133
-Universal Kids USA	https://ZZB668
-Univision	https://ZZB132
-USA Network	https://ZZB343
-V Film Family	https://ZZB816
-V Film Premiere	https://ZZB815
-V Sport Motor Sweden	https://ZZB272
-Veronica NL Netherland	https://ZZB378
-VH1 USA	https://ZZB344
-Viaplay Sports 1 UK	https://ZZB451
-Viaplay Sports 2 UK	https://ZZB550
-Viaplay Xtra UK	https://ZZB597
-VICE TV	https://ZZB659
-Vodafone Sport	https://ZZB260
-VTV+ Uruguay	https://ZZB391
-WDR DE	https://ZZB734
-WETV USA	https://ZZB655
-Willow Cricket	https://ZZB346
-Willow XTRA	https://ZZB598
-Win Sports+ Columbia	https://ZZB392
-WWE Network	https://ZZB376
-Yes Network USA	https://ZZB763
-Yes TV CA	https://ZZB837
-ZDF Info DE	https://ZZB728
-Ziggo Sport Docu NL	https://ZZB383
-Ziggo Sport Racing NL	https://ZZB396
-Ziggo Sport Select NL	https://ZZB393
-Ziggo Sport Voetbal NL	https://ZZB398
-МАТЧ! БОЕЦ Russia	https://ZZB395
+#0 Spain	!zb!437
+#Vamos Spain	!zb!521
+20 Mediaset Italy	!zb!857
+3sat DE	!zb!726
+5 USA	!zb!360
+6'eren Denmark	!zb!800
+8Sky Cinema Comedy Italy	!zb!862
+8Sky Cinema Suspense Italy	!zb!868
+A Sport PK	!zb!269
+A&E USA	!zb!302
+ABC NY USA	!zb!766
+ABC USA	!zb!51
+ABS-CBN	!zb!785
+Abu Dhabi Sports Premium 1	!zb!609
+Abu Dhabi Sports Premium 2	!zb!610
+Abu Dhabi Sports UAE 1	!zb!600
+Abu Dhabi Sports UAE 2	!zb!601
+ACC Network USA	!zb!664
+Adult Swim	!zb!295
+Alkass 1 One	!zb!781
+Alkass 2 Two	!zb!782
+Alkass 3 Three	!zb!783
+Alkass 4 Four	!zb!784
+Altitude Sports	!zb!923
+AMC USA	!zb!303
+Animal Planet	!zb!304
+Antena 3 Spain	!zb!531
+Arena Sport BiH	!zb!579
+Arena Sport Croatia 1	!zb!432
+Arena Sport Croatia 2	!zb!433
+Arena Sport Croatia 3	!zb!434
+Arena Sport Croatia 4	!zb!580
+Arena Sport Premium 1	!zb!134
+Arena Sport Premium 2	!zb!135
+Arena Sport Premium 3	!zb!139
+Arena Sport Serbia 1	!zb!429
+Arena Sport Serbia 2	!zb!430
+Arena Sport Serbia 3	!zb!431
+Arena Sport Serbia 4	!zb!581
+Arte DE	!zb!725
+Astro Cricket	!zb!370
+Astro SuperSport 1	!zb!123
+Astro SuperSport 2	!zb!124
+Astro SuperSport 3	!zb!125
+Astro SuperSport 4	!zb!126
+AXN Movies Portugal	!zb!717
+AXS TV USA	!zb!742
+Azteca 7 MX	!zb!844
+Bally Sports Arizona	!zb!890
+Bally Sports Detroit	!zb!891
+Bally Sports Florida	!zb!892
+Bally Sports Great Lakes	!zb!893
+Bally Sports Indiana	!zb!894
+Bally Sports Kansas City	!zb!895
+Bally Sports Midwest	!zb!896
+Bally Sports New Orleans	!zb!897
+Bally Sports North	!zb!898
+Bally Sports Ohio	!zb!899
+Bally Sports Oklahoma	!zb!900
+Bally Sports San Diego	!zb!901
+Bally Sports SoCal	!zb!902
+Bally Sports South	!zb!903
+Bally Sports Southeast	!zb!904
+Bally Sports Sun	!zb!905
+Bally Sports West	!zb!906
+Bally Sports Wisconsin	!zb!907
+Bandsports Brasil	!zb!275
+Barca TV Spain	!zb!522
+BBC 1 One UK	!zb!356
+BBC 2 Two UK	!zb!357
+BBC 3 Three UK	!zb!358
+BBC 4 Four UK	!zb!359
+BBC America	!zb!305
+BBC DE	!zb!727
+BBC News Channel	!zb!349
+beIN Sports Australia 1	!zb!491
+beIN Sports Australia 2	!zb!492
+beIN Sports Australia 3	!zb!493
+beIN Sports en Español	!zb!372
+beIN Sports France 1	!zb!116
+beIN Sports France 2	!zb!117
+beIN Sports France 3	!zb!118
+beIN Sports Max 4 France	!zb!494
+beIN Sports Max 5 France	!zb!495
+beIN Sports Max 6 France	!zb!496
+beIN Sports Max 7 France	!zb!497
+beIN Sports Max 8 France	!zb!498
+beIN Sports Max 9 France	!zb!499
+beIN Sports Max 10 France	!zb!500
+beIN Sports MENA 1	!zb!91
+beIN Sports MENA 2	!zb!92
+beIN Sports MENA 3	!zb!93
+beIN Sports MENA 4	!zb!94
+beIN Sports MENA 5	!zb!95
+beIN Sports MENA 6	!zb!96
+beIN Sports MENA 7	!zb!97
+beIN Sports MENA English 1	!zb!61
+beIN Sports MENA English 2	!zb!90
+beIN Sports MENA English 3	!zb!46
+beIN Sports MENA Premium 1	!zb!98
+beIN Sports MENA Premium 2	!zb!99
+beIN Sports MENA Premium 3	!zb!100
+beIN Sports Qatar	!zb!578
+beIN Sports Turkey 1	!zb!62
+beIN Sports Turkey 2	!zb!63
+beIN Sports Turkey 3	!zb!64
+beIN Sports Turkey 4	!zb!67
+beIN Sports USA	!zb!425
+Benfica TV PT	!zb!380
+BET USA	!zb!306
+BIG TEN Network	!zb!397
+BNT 1 Bulgaria	!zb!476
+BNT 2 Bulgaria	!zb!477
+BNT 3 Bulgaria	!zb!478
+Boomerang	!zb!648
+BR Fernsehen DE	!zb!737
+Bravo USA	!zb!307
+bTV Action Bulgaria	!zb!481
+bTV Bulgaria	!zb!479
+bTV Lady Bulgaria	!zb!484
+C More First Sweden	!zb!812
+C More Football Sweden	!zb!747
+C More Hits Sweden	!zb!813
+C More Series Sweden	!zb!814
+C SPAN	!zb!750
+Canal 11 Portugal	!zb!540
+Canal+ Family Poland	!zb!567
+Canal+ Foot France	!zb!463
+Canal+ Formula 1	!zb!273
+Canal+ France	!zb!121
+Canal+ MotoGP France	!zb!271
+Canal+ Premium Poland	!zb!566
+Canal+ Seriale Poland	!zb!570
+Canal+ Sport 360	!zb!464
+Canal+ Sport Afrique 1	!zb!486
+Canal+ Sport Afrique 2	!zb!487
+Canal+ Sport Afrique 3	!zb!488
+Canal+ Sport Afrique 4	!zb!489
+Canal+ Sport Afrique 5	!zb!490
+Canal+ Sport France	!zb!122
+Canal+ Sport Poland 1	!zb!48
+Canal+ Sport Poland 2	!zb!73
+Canal+ Sport Poland 5	!zb!75
+Canal 9 Denmark	!zb!805
+Cartoon Network	!zb!339
+CBC CA	!zb!699
+CBC CA	!zb!832
+CBS Sports Golazo	!zb!910
+CBS Sports Network	!zb!308
+CBS USA	!zb!52
+CBS NY USA	!zb!767
+Channel 4 UK	!zb!354
+Channel 5 UK	!zb!355
+Cinemax USA	!zb!374
+Citytv	!zb!831
+Cleo TV	!zb!715
+CMT USA	!zb!647
+CMTV Portugal	!zb!790
+CNBC USA	!zb!309
+CNN USA	!zb!345
+Combate Brasil	!zb!89
+Comedy Central	!zb!310
+Comet USA	!zb!696
+Cooking Channel USA	!zb!697
+Cosmote Sport 1	!zb!622
+Cosmote Sport 2	!zb!623
+Cosmote Sport 3	!zb!624
+Cosmote Sport 4	!zb!625
+Cosmote Sport 5	!zb!626
+Cosmote Sport 6	!zb!627
+Cosmote Sport 7	!zb!628
+Cosmote Sport 8	!zb!629
+Cosmote Sport 9	!zb!630
+Court TV USA	!zb!281
+Cozi TV USA	!zb!748
+Crime+ Investigation USA	!zb!669
+CTV 1 Canada	!zb!602
+CTV 2 Canada	!zb!838
+Cuatro Spain	!zb!535
+CW PIX 11 USA	!zb!280
+CW USA	!zb!300
+Cytavision Sports 1 Cyprus	!zb!911
+Cytavision Sports 2 Cyprus	!zb!912
+Cytavision Sports 3 Cyprus	!zb!913
+Cytavision Sports 4 Cyprus	!zb!914
+Cytavision Sports 5 Cyprus	!zb!915
+Cytavision Sports 6 Cyprus	!zb!916
+Cytavision Sports 7 Cyprus	!zb!917
+Dave	!zb!348
+DAZN Bar DE 1	!zb!426
+DAZN Bar DE 2	!zb!427
+DAZN F1 ES	!zb!537
+DAZN La Liga 1	!zb!538
+DAZN La Liga 2	!zb!43
+DAZN Spain 1	!zb!445
+DAZN Spain 2	!zb!446
+DAZN Spain 3	!zb!447
+DAZN Spain 4	!zb!448
+DAZN UK	!zb!230
+Destination America	!zb!651
+Diema Bulgaria	!zb!482
+Diema Family Bulgaria	!zb!485
+Diema Sport 1 Bulgaria	!zb!465
+Diema Sport 2 Bulgaria	!zb!466
+Diema Sport 3 Bulgaria	!zb!467
+Digi Sport 1 Romania	!zb!400
+Digi Sport 2 Romania	!zb!401
+Digi Sport 3 Romania	!zb!402
+Digi Sport 4 Romania	!zb!403
+Discovery Channel	!zb!313
+Discovery Family	!zb!657
+Discovery Life Channel	!zb!311
+Discovery Velocity CA	!zb!285
+Disney Channel	!zb!312
+Disney Jr	!zb!652
+Disney XD	!zb!314
+DR1 Denmark	!zb!801
+DR2 Denmark	!zb!802
+DSTV kykNET & kie	!zb!828
+DSTV M-Net	!zb!827
+DSTV Mzansi Magic	!zb!786
+Dubai Racing 1 UAE	!zb!607
+Dubai Racing 2 UAE	!zb!608
+Dubai Sports 1 UAE	!zb!604
+Dubai Sports 2 UAE	!zb!605
+Dubai Sports 3 UAE	!zb!606
+E! Entertainment Television	!zb!315
+E4 Channel	!zb!363
+Eleven Sports Poland 1	!zb!71
+Eleven Sports Poland 2	!zb!72
+Eleven Sports Poland 3	!zb!428
+Eleven Sports Portugal 1	!zb!455
+Eleven Sports Portugal 2	!zb!456
+Eleven Sports Portugal 3	!zb!457
+Eleven Sports Portugal 4	!zb!458
+Eleven Sports Portugal 5	!zb!459
+ERT Greece	!zb!774
+ESPN 1 NL	!zb!379
+ESPN 2 NL	!zb!386
+ESPN Brasil 1	!zb!81
+ESPN Brasil 2	!zb!82
+ESPN Brasil 3	!zb!83
+ESPN Brasil 4	!zb!85
+ESPN Deportes	!zb!375
+ESPN Extra Argentina	!zb!798
+ESPN News	!zb!288
+ESPN Premium Argentina	!zb!387
+ESPN SUR 1	!zb!149
+ESPN SUR 2	!zb!150
+ESPN USA 1	!zb!44
+ESPN USA 2	!zb!45
+ESPNU USA	!zb!316
+Eurosport Bulgaria 1	!zb!469
+Eurosport Bulgaria 2	!zb!470
+Eurosport France 1	!zb!772
+Eurosport France 2	!zb!773
+EuroSport Italy 1	!zb!878
+EuroSport Italy 2	!zb!879
+EuroSport Poland 1	!zb!57
+EuroSport Poland 2	!zb!58
+EuroSport Spain 1	!zb!524
+EuroSport Spain 2	!zb!525
+EuroSport UK 1	!zb!41
+EuroSport UK 2	!zb!42
+Fashion TV	!zb!744
+FETV Family Entertainment	!zb!751
+Fight Network	!zb!757
+Film4 UK	!zb!688
+FilmBox Premium Poland	!zb!568
+Fox Bulgaria	!zb!483
+Fox Business	!zb!297
+Fox Cricket	!zb!369
+Fox Deportes USA	!zb!643
+Fox News	!zb!347
+Fox NY USA	!zb!768
+Fox Soccer Plus	!zb!756
+Fox Sports 502 AU	!zb!820
+Fox Sports 503 AU	!zb!821
+Fox Sports 504 AU	!zb!822
+Fox Sports 505 AU	!zb!823
+Fox Sports 506 AU	!zb!824
+Fox Sports 507 AU	!zb!825
+Fox Sports Argentina 1	!zb!787
+Fox Sports Argentina 2	!zb!788
+Fox Sports Argentina 3	!zb!789
+Fox Sports Premium MX	!zb!830
+Fox Sports USA 1	!zb!39
+Fox Sports USA 2	!zb!758
+Fox USA	!zb!54
+Fox Weather Channel	!zb!775
+Freeform	!zb!301
+FUSE TV USA	!zb!279
+FX Movie Channel	!zb!381
+FX USA	!zb!317
+FXX USA	!zb!298
+FYI	!zb!665
+Galavisión USA	!zb!743
+Game Show Network	!zb!319
+Global CA	!zb!836
+Globo RIO	!zb!761
+Globo SP	!zb!760
+Gol Mundial	!zb!292
+Gol Play Spain	!zb!530
+Gold UK	!zb!687
+Golf Channel USA	!zb!318
+Grit Channel	!zb!752
+Hallmark Movies & Mysterie	!zb!296
+HBO 1 USA	!zb!321
+HBO 2 USA	!zb!689
+HBO Comedy USA	!zb!690
+HBO Family USA	!zb!691
+HBO Latino USA	!zb!692
+HBO Poland	!zb!569
+HBO Signature USA	!zb!693
+HBO Zone USA	!zb!694
+Headline News	!zb!323
+HGTV	!zb!382
+History USA	!zb!322
+HR Fernsehen DE	!zb!740
+IFC TV USA	!zb!656
+Investigation Discovery USA	!zb!324
+ION USA	!zb!325
+Italia 1 Italy	!zb!854
+ITV 1 UK	!zb!350
+ITV 2 UK	!zb!351
+ITV 3 UK	!zb!352
+ITV 4 UK	!zb!353
+Kabel Eins (Kabel 1) DE	!zb!731
+Kanal 4 Denmark	!zb!803
+Kanal 5 Denmark	!zb!804
+La 7 Italy	!zb!855
+LA 7d+ Italy	!zb!856
+La Liga SmartBank TV	!zb!539
+La Liga TV UK	!zb!276
+La Sexta Spain	!zb!534
+Law & Crime Network	!zb!278
+L'Equipe France	!zb!645
+Lifetime Movies Network	!zb!389
+Lifetime Network	!zb!326
+Liverpool TV (LFC TV)	!zb!826
+Longhorn Network USA	!zb!667
+Magnolia Network	!zb!299
+Marquee Sports Network	!zb!770
+MASN USA	!zb!829
+Match Football 1 Russia	!zb!136
+Match Football 2 Russia	!zb!137
+Match Football 3 Russia	!zb!138
+Match Premier Russia	!zb!573
+Match TV Russia	!zb!127
+MAVTV USA	!zb!646
+Max Sport Bulgaria 1	!zb!472
+Max Sport Bulgaria 2	!zb!473
+Max Sport Bulgaria 3	!zb!474
+Max Sport Bulgaria 4	!zb!475
+Max Sport Croatia 1	!zb!779
+Max Sport Croatia 2	!zb!780
+MDR DE	!zb!733
+METV USA	!zb!662
+MGM+ USA / Epix	!zb!791
+MLB Network USA	!zb!399
+Monumental Sports Network	!zb!924
+Motor Trend	!zb!661
+Motowizja Poland	!zb!563
+Movistar Deportes 1 Spain	!zb!436
+Movistar Deportes 2 Spain	!zb!438
+Movistar Deportes 3 Spain	!zb!526
+Movistar Deportes 4 Spain	!zb!527
+Movistar Golf Spain	!zb!528
+Movistar La Liga	!zb!84
+Movistar Liga de Campeones	!zb!435
+MSG USA	!zb!765
+MSNBC	!zb!327
+MTV Denmark	!zb!806
+MTV UK	!zb!367
+MTV USA	!zb!371
+Mundotoro TV Spain	!zb!749
+MUTV UK	!zb!377
+MY9TV USA	!zb!654
+Nat Geo Wild USA	!zb!745
+National Geographic	!zb!328
+NBA TV USA	!zb!404
+NBC 10 Philadelphia	!zb!277
+NBC NY USA	!zb!769
+NBC Sports Bay Area	!zb!753
+NBC Sports Boston	!zb!754
+NBC Sports California	!zb!755
+NBC Sports Chicago	!zb!776
+NBC Sports Philadelphia	!zb!777
+NBC Sports Washington	!zb!778
+NBC USA	!zb!53
+NDR DE	!zb!736
+NESN USA	!zb!762
+New! CWPIX 11	!zb!771
+Newsmax USA	!zb!613
+NFL Network	!zb!405
+NHL Network USA	!zb!663
+Nick	!zb!330
+Nick Jr	!zb!329
+Nick Music	!zb!666
+Nick Toons	!zb!649
+Noovo CA	!zb!835
+Nova Sport Bulgaria	!zb!468
+Nova Sport Serbia	!zb!582
+Nova Sports 1 Greece	!zb!631
+Nova Sports 2 Greece	!zb!632
+Nova Sports 3 Greece	!zb!633
+Nova Sports 4 Greece	!zb!634
+Nova Sports 5 Greece	!zb!635
+Nova Sports 6 Greece	!zb!636
+Nova Sports News Greece	!zb!639
+Nova Sports Premier League Greece	!zb!599
+Nova Sports Prime Greece	!zb!638
+Nova Sports Start Greece	!zb!637
+Nova TV Bulgaria	!zb!480
+OnTime Sports 1	!zb!611
+OnTime Sports 2	!zb!612
+Oprah Winfrey Network	!zb!331
+Orange Sport 1 Romania	!zb!439
+Orange Sport 2 Romania	!zb!440
+Orange Sport 3 Romania	!zb!441
+Orange Sport 4 Romania	!zb!442
+Oxygen True Crime	!zb!332
+Pac-12 Network USA	!zb!287
+Paramount Network	!zb!334
+PBS USA	!zb!210
+Polsat Film Poland	!zb!564
+Polsat News Poland	!zb!443
+Polsat Poland	!zb!562
+Polsat Sport Extra Poland	!zb!50
+Polsat Sport News Poland	!zb!129
+Polsat Sport Poland	!zb!47
+POP TV USA	!zb!653
+Porto Canal Portugal	!zb!718
+Premier Brasil	!zb!88
+Premier Sports Ireland 2	!zb!799
+Prima Sport 1	!zb!583
+Prima Sport 2	!zb!584
+Prima Sport 3	!zb!585
+Prima Sport 4	!zb!586
+Prima TV RO	!zb!843
+ProSieben (Pro 7) DE	!zb!730
+PTV Sports	!zb!450
+Racing TV UK	!zb!555
+Rai 1 Italy	!zb!850
+Rai 2 Italy	!zb!851
+Rai 3 Italy	!zb!852
+Rai 3 Italy	!zb!853
+Rai Premium Italy	!zb!858
+Rai Sport Italy	!zb!882
+RDS 1 CA	!zb!839
+RDS 2 CA	!zb!840
+RDS Info CA	!zb!841
+Real Madrid TV Spain	!zb!523
+Reelz Channel	!zb!293
+Ring Bulgaria	!zb!471
+RMC Sport 1 France	!zb!119
+RMC Sport 2 France	!zb!120
+Root Sports Northwest	!zb!920
+RTE 1	!zb!364
+RTE 2	!zb!365
+RTL 7 Netherland	!zb!390
+RTP 1 Portugal	!zb!719
+RTP 2 Portugal	!zb!720
+RTP 3 Portugal	!zb!721
+S4C UK	!zb!670
+SAT.1 DE	!zb!729
+SBS6 NL	!zb!883
+Science Channel	!zb!294
+SEC Network USA	!zb!385
+SEE Denmark	!zb!811
+Showtime 1 USA	!zb!333
+Showtime 2 USA USA	!zb!792
+Showtime Extreme USA	!zb!794
+Showtime Family Zone USA	!zb!795
+Showtime Next USA	!zb!796
+Showtime Showcase USA	!zb!793
+Showtime Women USA	!zb!797
+SIC Portugal	!zb!722
+Sixx DE	!zb!732
+Sky Arts UK	!zb!683
+Sky Atlantic	!zb!362
+Sky Calcio 1 (251) Italy	!zb!871
+Sky Calcio 2 (252) Italy	!zb!872
+Sky Calcio 3 (253) Italy	!zb!873
+Sky Calcio 4 (254) Italy	!zb!874
+Sky Calcio 5 (255) Italy	!zb!875
+Sky Calcio 6 (256) Italy	!zb!876
+Sky Calcio 7 (257) Italy	!zb!877
+Sky Cinema Action Italy	!zb!861
+Sky Cinema Action UK	!zb!677
+Sky Cinema Animation UK	!zb!675
+Sky Cinema Collection Italy	!zb!859
+Sky Cinema Drama Italy	!zb!867
+Sky Cinema Due +24 Italy	!zb!866
+Sky Cinema Family Italy	!zb!865
+Sky Cinema Family UK	!zb!676
+Sky Cinema Greats UK	!zb!674
+Sky Cinema Hits UK	!zb!673
+Sky Cinema Premiere UK	!zb!671
+Sky Cinema Romance Italy	!zb!864
+Sky Cinema Sci-Fi Horror UK	!zb!681
+Sky Cinema Select UK	!zb!672
+Sky Cinema Thriller UK	!zb!679
+Sky Cinema Uno +24 Italy	!zb!863
+Sky Cinema Uno Italy	!zb!860
+Sky Comedy UK	!zb!684
+Sky Crime	!zb!685
+Sky History	!zb!686
+Sky Serie Italy	!zb!880
+Sky Showcase UK	!zb!682
+Sky Sport 24 Italy	!zb!869
+Sky Sport Arena Italy	!zb!462
+Sky Sport Austria	!zb!559
+Sky Sport Bundesliga	!zb!558
+Sky Sport Calcio Italy	!zb!870
+Sky Sport F1 Italy	!zb!577
+Sky Sport Football Italy	!zb!460
+Sky Sport Mix DE	!zb!557
+Sky Sport MotoGP Italy	!zb!575
+Sky Sport NZ 1	!zb!588
+Sky Sport NZ 2	!zb!589
+Sky Sport NZ 3	!zb!590
+Sky Sport NZ 4	!zb!591
+Sky Sport NZ 5	!zb!592
+Sky Sport NZ 6	!zb!593
+Sky Sport NZ 7	!zb!594
+Sky Sport NZ 8	!zb!595
+Sky Sport NZ 9	!zb!596
+Sky Sport Select NZ	!zb!587
+Sky Sport Tennis Italy	!zb!576
+Sky Sport Top Event DE	!zb!556
+Sky Sport UNO Italy	!zb!461
+Sky Sports Action UK	!zb!37
+Sky Sports Arena UK	!zb!36
+Sky Sports Cricket	!zb!65
+Sky Sports F1 DE	!zb!274
+Sky Sports F1 UK	!zb!60
+Sky Sports Football UK	!zb!35
+Sky Sports Golf Italy	!zb!574
+Sky Sports Golf UK	!zb!70
+Sky Sports Main Event	!zb!38
+Sky Sports MIX UK	!zb!449
+Sky Sports News UK	!zb!366
+Sky sports Premier League	!zb!130
+Sky Sports Racing UK	!zb!554
+Sky Sports Tennis DE	!zb!884
+Sky Uno Italy	!zb!881
+Sky Witness	!zb!361
+Smithsonian Channel	!zb!603
+Space City Home Network	!zb!921
+Spectrum Sportsnet LA	!zb!764
+Sport Klub 1 Serbia	!zb!101
+Sport Klub 2 Serbia	!zb!102
+Sport Klub 3 Serbia	!zb!103
+Sport Klub 4 Serbia	!zb!104
+Sport Klub Serbia	!zb!453
+Sport TV1 Portugal	!zb!49
+Sport TV2 Portugal	!zb!74
+Sport TV3 Portugal	!zb!454
+Sport TV4 Portugal	!zb!289
+Sport TV5 Portugal	!zb!290
+Sport TV6 Portugal	!zb!291
+Sport1 Germany	!zb!641
+Sport1+ Germany	!zb!640
+SportDigital Fussball	!zb!571
+Sporting TV Portugal	!zb!716
+Sportsnet 360	!zb!409
+Sportsnet East	!zb!408
+SportsNet New York	!zb!759
+Sportsnet One	!zb!411
+Sportsnet Ontario	!zb!406
+SportsNet Pittsburgh	!zb!922
+Sportsnet West	!zb!407
+Sportsnet World	!zb!410
+SporTV1 Brasil	!zb!78
+SporTV2 Brasil	!zb!79
+SporTV3 Brasil	!zb!80
+SR Fernsehen DE	!zb!739
+SSC Sport 1	!zb!614
+SSC Sport 2	!zb!615
+SSC Sport 3	!zb!616
+SSC Sport 4	!zb!617
+SSC Sport 5	!zb!618
+SSC Sport Extra 1	!zb!619
+SSC Sport Extra 2	!zb!620
+SSC Sport Extra 3	!zb!621
+Star Sports IN	!zb!267
+Star Sports Hindi IN	!zb!268
+Starz	!zb!335
+StarzPlay CricLife 1	!zb!284
+StarzPlay CricLife 2	!zb!283
+StarzPlay CricLife 3	!zb!282
+Sundance TV	!zb!658
+Super RTL DE	!zb!738
+SuperSport Action	!zb!420
+SuperSport Cricket	!zb!368
+Supersport Football	!zb!56
+SuperSport Golf	!zb!422
+SuperSport Grandstand	!zb!412
+SuperSport La Liga	!zb!415
+SuperSport MaXimo	!zb!572
+SuperSport Motorsport	!zb!424
+SuperSport Premier league	!zb!414
+SuperSport PSL	!zb!413
+SuperSport Rugby	!zb!421
+SuperSport Tennis	!zb!423
+SuperSport Variety 1	!zb!416
+SuperSport Variety 2	!zb!417
+SuperSport Variety 3	!zb!418
+SuperSport Variety 4	!zb!419
+SWR DE	!zb!735
+SYFY USA	!zb!373
+T Sports BD	!zb!270
+TBS USA	!zb!336
+TCM USA	!zb!644
+TeenNick	!zb!650
+Telecinco Spain	!zb!532
+Teledeporte Spain	!zb!529
+Telemundo	!zb!131
+Ten Sports PK	!zb!741
+Tennis Channel	!zb!40
+Tennis+ 1	!zb!700
+Tennis+ 2	!zb!701
+Tennis+ 3	!zb!702
+Tennis+ 4	!zb!703
+Tennis+ 5	!zb!704
+Tennis+ 6	!zb!705
+Tennis+ 7	!zb!706
+Tennis+ 8	!zb!707
+Tennis+ 9	!zb!708
+Tennis+ 10	!zb!709
+Tennis+ 11	!zb!710
+Tennis+ 12	!zb!711
+Tennis+ 13	!zb!712
+Tennis+ 14	!zb!713
+Tennis+ 15	!zb!714
+The Food Network	!zb!384
+The Hallmark	!zb!678
+The Hallmark	!zb!680
+The Hallmark Channel	!zb!320
+The Weather Channel	!zb!394
+TLC	!zb!337
+TMC Channel USA	!zb!698
+TNT Brasil	!zb!87
+TNT Sports 1 UK	!zb!31
+TNT Sports 2 UK	!zb!32
+TNT Sports 3 UK	!zb!33
+TNT Sports 4 UK	!zb!34
+TNT Sports Argentina	!zb!388
+TNT Sports Chile	!zb!642
+TNT USA	!zb!338
+Travel Channel	!zb!340
+TruTV USA	!zb!341
+TSN1	!zb!111
+TSN2	!zb!112
+TSN3	!zb!113
+TSN4	!zb!114
+TSN5	!zb!115
+TUDN USA	!zb!66
+TV ONE USA	!zb!660
+TV2 Bornholm Denmark	!zb!807
+TV2 Denmark	!zb!817
+TV2 Sport Denmark	!zb!810
+TV2 Sport X Denmark	!zb!808
+TV2 Zulu	!zb!818
+TV3 Max Denmark	!zb!223
+TV3 Sport Denmark	!zb!809
+TV3+ Denmark	!zb!819
+TVA Sports 1	!zb!833
+TVA Sports 2	!zb!834
+TVE La 1 Spain	!zb!533
+TVE La 2 Spain	!zb!536
+TVI Portugal	!zb!723
+TVI Reality Portugal	!zb!724
+TVLAND	!zb!342
+TVN Poland	!zb!565
+TVN24 Poland	!zb!444
+TVO CA	!zb!842
+TVP INFO	!zb!452
+TVP Sport Poland	!zb!128
+TVP1 Poland	!zb!560
+TVP2 Poland	!zb!561
+TyC Sports Argentina	!zb!746
+Unimas	!zb!133
+Universal Kids USA	!zb!668
+Univision	!zb!132
+USA Network	!zb!343
+V Film Family	!zb!816
+V Film Premiere	!zb!815
+V Sport Motor Sweden	!zb!272
+Veronica NL Netherland	!zb!378
+VH1 USA	!zb!344
+Viaplay Sports 1 UK	!zb!451
+Viaplay Sports 2 UK	!zb!550
+Viaplay Xtra UK	!zb!597
+VICE TV	!zb!659
+Vodafone Sport	!zb!260
+VTV+ Uruguay	!zb!391
+WDR DE	!zb!734
+WETV USA	!zb!655
+Willow Cricket	!zb!346
+Willow XTRA	!zb!598
+Win Sports+ Columbia	!zb!392
+WWE Network	!zb!376
+Yes Network USA	!zb!763
+Yes TV CA	!zb!837
+ZDF Info DE	!zb!728
+Ziggo Sport Docu NL	!zb!383
+Ziggo Sport Racing NL	!zb!396
+Ziggo Sport Select NL	!zb!393
+Ziggo Sport Voetbal NL	!zb!398
+МАТЧ! БОЕЦ Russia	!zb!395
 
 	^-
 [y]Indo TV Channels[z]	^-
