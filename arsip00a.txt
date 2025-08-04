@@ -11,14 +11,6 @@
 
 05-07-2025	^-
 
-02:00 [g]International Club Friendly[z]	^-
-Liverpool U21 vs Athletic Bilbao II	!zb!826
-Liverpool U21 vs Athletic Bilbao II	`*https://www.fctv33.net/football/international-club-friendly-match-4247761/liverpool-vs-athletic-club-08-2025.html
-
-02:00 [g]International Club Friendly[z]	^-
-Sevilla vs Al-Qadasiya	!zb!643
-Sevilla vs Al-Qadasiya	`*https://www.fctv33.net/football/international-club-friendly-match-4247737/sevilla-fc-vs-al-qadsiah-08-2025.html
-
 21:00 [l]CAF African Nations Championship[z]	^-
 Congo 🇨🇬 vs Sudan 🇸🇩	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4241778/republic-of-the-congo-vs-sudan-08-2025.html
 
@@ -271,6 +263,7 @@ RTVS Sport 🇸🇰	https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cen
 DAZN Combat	https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
 DFB Play TV	https://d2t2ysriy83qdz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e8pyyaxy3l7mo/4946d50b-adff-4f14-8f27-d0d118c668c9/0.m3u8
 ^=DFB Play TV	https://jmp2.uk/sam-GB26000118T.m3u8?7
+F1 TV	https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 Dubai Sport 1 🇦🇪	https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 Dubai Sport 2 🇦🇪	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 Dubai Sport 3 🇦🇪	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
