@@ -17,6 +17,7 @@ Niger 🇳🇪 vs Guinea 🇬🇳	`*https://www.fctv33.net/football/caf-african-
 
 23:00 [g]International Club Friendly[z]	^-
 Liverpool vs Athletic Bilbao	!zb!889
+Liverpool vs Athletic Bilbao	https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_lfc_hd/index.m3u8
 Liverpool vs Athletic Bilbao	`*https://www.fctv33.net/football/international-club-friendly-match-4193172/liverpool-vs-athletic-club-08-2025.html
 
 05-07-2025	^-
@@ -73,6 +74,7 @@ beIN Sports 4	http://125x.org:8080/bn4hd/index.m3u8
 beIN Sports 5	http://125x.org:8080/bn5sd/index.m3u8
 beIN Sports 6	http://125x.org:8080/bn6hd/index.m3u8
 
+DAZN 1 DE	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd!!8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
 DAZN Fast	https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd!!8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 ESPN 1 🇳🇱	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
 Fubo Sports	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
