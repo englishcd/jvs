@@ -9,21 +9,6 @@
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-05-07-2025	^-
-
-21:00 [l]CAF African Nations Championship[z]	^-
-Congo 🇨🇬 vs Sudan 🇸🇩	!zb!486
-Congo 🇨🇬 vs Sudan 🇸🇩	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4241778/republic-of-the-congo-vs-sudan-08-2025.html
-
-23:00 [g]International Club Friendly[z]	^-
-Bayer Leverkusen vs Pisa	!zb!558
-Bayer Leverkusen vs Pisa	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-Bayer Leverkusen vs Pisa	`*https://www.fctv33.net/football/international-club-friendly-match-4245577/bayer-04-leverkusen-vs-pisa-08-2025.html
-
-23:30 [g]International Club Friendly[z]	^-
-Empoli vs Sassuolo	!zb!870
-Empoli vs Sassuolo	`*https://www.fctv33.net/football/international-club-friendly-match-4248007/empoli-vs-sassuolo-08-2025.html
-
 06-07-2025	^-
 
 00:00 [l]CAF African Nations Championship[z]	^-
@@ -78,9 +63,12 @@ beIN Sports 4	http://125x.org:8080/bn4hd/index.m3u8
 beIN Sports 5	http://125x.org:8080/bn5sd/index.m3u8
 beIN Sports 6	http://125x.org:8080/bn6hd/index.m3u8
 
+Arena Premium RS 1	https://x4new.newkso.ru/x4/arena1premiumserbia/mono.m3u8
 DAZN 1 IT	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd!!8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
 DAZN Fast	https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd!!8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 ESPN 1 🇲🇽	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+ESPN 2 🇲🇽	https://a.00/1/out/u/dash/ESPN-2-HD/default.mpd!!90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
+ESPN 3 🇲🇽	https://a.00/1/out/u/dash/ESPN-3-HD/default.mpd!!0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
 Fubo Sports	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Fubo TV	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 RTP 1 🇵🇹	https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd!!f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
@@ -91,7 +79,7 @@ Sky Live Event 3	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561
 Sky Live Event 4	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd!!a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
 Sky Live Event 5	https://a.00/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd!!6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
 Sky Live Event 6	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
-Sky Sports 24	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+Sky Sports 24 DE	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 Sky Sports Max	https://a.00/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 Sport 1 DE	https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR!!98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
 Sport 4 Lithuania	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561202/index.mpd!!da335a7a2a174bb29914ed868a6b1534:0659b8027b98c0e4d94b033841a8eb0d
