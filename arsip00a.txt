@@ -63,7 +63,7 @@ beIN Sports 4	http://125x.org:8080/bn4hd/index.m3u8
 beIN Sports 5	http://125x.org:8080/bn5sd/index.m3u8
 beIN Sports 6	http://125x.org:8080/bn6hd/index.m3u8
 
-Arena Premium RS 1	https://x4new.newkso.ru/x4/arena1premiumserbia/mono.m3u8
+Arena Sport Premium RS 1	https://x4new.newkso.ru/x4/arena1premiumserbia/mono.m3u8
 DAZN 1 IT	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd!!8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
 DAZN Fast	https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd!!8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 ESPN 1 🇲🇽	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
@@ -976,16 +976,9 @@ True Sports 2	09!09dwww.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 True Sports 3	09!09dwww.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 True Tennis	09!09dwww.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
-Arena Sport 1	`0https://streaming.sportsnews.id/p/arena1cro.html
-Arena Sport 2	`0https://streaming.sportsnews.id/p/arena2cro.html
-Arena Sport 3	`0https://streaming.sportsnews.id/p/arena3cro.html
-Arena Sport 4	`0https://streaming.sportsnews.id/p/arena4cro.html
-Arena Sport 5	`0https://streaming.sportsnews.id/p/arena5cro.html
-Arena Sport 6	`0https://streaming.sportsnews.id/p/arena6cro.html
-Arena Sport 7	`0https://streaming.sportsnews.id/p/arena7cro.html
-Arena Sport 8	`0https://streaming.sportsnews.id/p/arena8cro.html
-Arena Sport 9	`0https://streaming.sportsnews.id/p/arena9cro.html
-Arena Sport 10	`0https://streaming.sportsnews.id/p/arena10cro.html
+Arena Sport 1 Premium	`0https://streaming.sportsnews.id/p/arena1p.html
+Arena Sport 2 Premium	`0https://streaming.sportsnews.id/p/arena2p.html
+Arena Sport RS 1	`0https://streaming.sportsnews.id/p/arena1ser.html
 
 [w]ID Live Sport & TV Channels[z]	^-
 
