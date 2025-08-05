@@ -17,6 +17,7 @@ Congo 🇨🇬 vs Sudan 🇸🇩	`*https://www.fctv33.net/football/caf-african-n
 
 23:00 [g]International Club Friendly[z]	^-
 Bayer Leverkusen vs Pisa	!zb!558
+Bayer Leverkusen vs Pisa	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
 Bayer Leverkusen vs Pisa	`*https://www.fctv33.net/football/international-club-friendly-match-4245577/bayer-04-leverkusen-vs-pisa-08-2025.html
 
 23:30 [g]International Club Friendly[z]	^-
@@ -79,7 +80,7 @@ beIN Sports 6	http://125x.org:8080/bn6hd/index.m3u8
 
 DAZN 1 IT	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd!!8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
 DAZN Fast	https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd!!8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
-ESPN 1 🇳🇱	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+ESPN 1 🇲🇽	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
 Fubo Sports	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Fubo TV	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 RTP 1 🇵🇹	https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd!!f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
