@@ -9,15 +9,33 @@
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-06-07-2025	^-
+06-08-2025	^-
+
+16:30 [l]ASEAN Women's Championship[z]	^-
+Thailand 🇹🇭 vs Indonesia 🇮🇩	!zb!1
+Thailand 🇹🇭 vs Indonesia 🇮🇩	`*
+
+19:30 [l]ASEAN Women's Championship[z]	^-
+Vietnam 🇻🇳 vs Cambodia 🇰🇭	!zb!2
+Vietnam 🇻🇳 vs Cambodia 🇰🇭	`*
+
+21:00 [l]CAF African Nations Championship[z]	^-
+Burkina Faso 🇧🇫 vs Cen African Rep 🇨🇫	!zb!486
+Burkina Faso 🇧🇫 vs Cen African Rep 🇨🇫	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232095/burkina-faso-vs-central-african-republic-08-2025.html
+
+07-08-2025	^-
 
 00:00 [l]CAF African Nations Championship[z]	^-
-Senegal 🇸🇳 vs Nigeria 🇳🇬	!zb!486
-Senegal 🇸🇳 vs Nigeria 🇳🇬	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210473/senegal-vs-nigeria-08-2025.html
+Mauritania 🇲 vs Tanzania 🇹🇿	!zb!486
+Mauritania 🇲 vs Tanzania 🇹🇿	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232093/mauritania-vs-tanzania-08-2025.html
 
-01:45 [g]International Club Friendly[z]	^-
-Nottingham Forest vs Fiorentina	`*https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODQzNzM1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Nottingham Forest vs Fiorentina	`*https://www.fctv33.net/football/international-club-friendly-match-4247901/nottingham-forest-vs-fiorentina-08-2025.html
+00:00 [g]International Club Friendly[z]	^-
+Arsenal vs Villarreal	!zb!414
+Arsenal vs Villarreal	`*https://www.fctv33.net/football/international-club-friendly-match-4245564/arsenal-vs-villarreal-cf-08-2025.html
+
+01:30 [g]International Club Friendly[z]	^-
+Real Betis vs Como	!zb!771
+Real Betis vs Como	`*https://www.fctv33.net/football/international-club-friendly-match-4245563/real-betis-vs-como-08-2025.html
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
@@ -215,7 +233,7 @@ BBC One	https://z.1UK_BBC_1/index.m3u8
 Fox Sports 2	https://z.1USA_FOX_SPORTS_2/index.m3u8
 Racing TV	https://z.1UK_RACING_TV/index.m3u8
 Sky Sports F1 🇮🇹	https://z.1IT_SKY_SPORTS_F1/index.m3u8
-
+LFC TV	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_lfc_hd/index.m3u8
 	^-
 ABC 🇯🇵	`0i3`03abc/index.m3u8
 Asahi TV 🇯🇵	`0i3`03TV_Asahi/index.m3u8
