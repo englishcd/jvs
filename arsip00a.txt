@@ -154,6 +154,7 @@ dTVi	https://e.siar.us/live/dtvi.m3u8
 Entertainment	https://fta2!vfc!a90cb773466446b08595007bab12b920/index.mpd!!62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 Ficom TV	https://v3.siar.us/ficomchannel/live/playlist.m3u8
 Galaxy Premium	https://fta1!vfc!45c0752c6b6b4397b80243ac9fed96fd/index.mpd!!0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+Garuda TV	https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 Rock Action	https://fta1!vfc!010bb28c19b64975b318d3b00f58b18b/index.mpd!!d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
 GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
 GTV	https://fta2!vfc!b8b9b1d5f80f45649b4a3619291551ab/index.mpd!!036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
@@ -228,12 +229,13 @@ Sky Sports Tennis	https://z.1UK_SKY_SPORTS_TENNIS/index.m3u8
 Sky Sports Premier League	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 Sky Sports Football	https://z.1UK_SKY_SPORTS_FOOTBALL/index.m3u8
 beIN Sports US	https://z.1US_BEIN_SPORTS/index.m3u8
-ESPN USA	https://z.1USA_ESPN/index.m3u8
+ESPN USA 2	https://z.1USA_ESPN/index.m3u8
 BBC One	https://z.1UK_BBC_1/index.m3u8
 Fox Sports 2	https://z.1USA_FOX_SPORTS_2/index.m3u8
 Racing TV	https://z.1UK_RACING_TV/index.m3u8
 Sky Sports F1 🇮🇹	https://z.1IT_SKY_SPORTS_F1/index.m3u8
 LFC TV	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_lfc_hd/index.m3u8
+UEFA	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uefa_01/index.m3u8
 	^-
 ABC 🇯🇵	`0i3`03abc/index.m3u8
 Asahi TV 🇯🇵	`0i3`03TV_Asahi/index.m3u8
