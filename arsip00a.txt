@@ -234,6 +234,7 @@ Racing TV	https://z.1UK_RACING_TV/index.m3u8
 Sky Sports F1 🇮🇹	https://z.1IT_SKY_SPORTS_F1/index.m3u8
 LFC TV	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_lfc_hd/index.m3u8
 UEFA	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_uefa_01/index.m3u8
+
 	^-
 ABC 🇯🇵	`0i3`03abc/index.m3u8
 Asahi TV 🇯🇵	`0i3`03TV_Asahi/index.m3u8
@@ -293,6 +294,8 @@ EuroSport 1	https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd!!1
 EuroSport 2	https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 FIFA	https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+Fast Sports 🇵🇰	https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd!!ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3
+Filmax 🇵🇰	https://live2.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd!!eefc4c6db6d961885314bb5c58fd226b:da646d01cc7a852b093854299dbc7b87
 Fox Sports Espanol	https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 Fox Sports 🇲🇽 1	i3!16/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd!!2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 Fox Sports 🇲🇽 2	i3!16/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd!!8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
@@ -355,7 +358,6 @@ Shahid Masrh Masr	https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d6
 Shahid Movies Action	https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 Shahid Movies Thriller	https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 Shahid Shows	https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
-
 SMC 4	https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 Sport 1 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Sport 2 🇸🇰	https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
