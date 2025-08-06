@@ -11,13 +11,19 @@
 
 06-08-2025	^-
 
-16:30 [l]ASEAN Women's Championship[z]	^-
+16:30 [l]AFF Women's Championship[z]	^-
 Thailand 🇹🇭 vs Indonesia 🇮🇩	!zb!1
-Thailand 🇹🇭 vs Indonesia 🇮🇩	`*
+Thailand 🇹🇭 vs Indonesia 🇮🇩 !pt!205
+Thailand 🇹🇭 vs Indonesia 🇮🇩	`*https://www.fctv33.net/football/aff-womens-championship-match-4243322/thailand-w-vs-indonesia-w-08-2025.html
 
-19:30 [l]ASEAN Women's Championship[z]	^-
+19:30 [l]AFC U20 Women's Asian Cup[z]	^-
+India 🇮🇳 vs Indonesia 🇮🇩	!zb!1
+India 🇮🇳 vs Indonesia 🇮🇩 !pt!205
+India 🇮🇳 vs Indonesia 🇮🇩	`*https://www.fctv33.net/football/aff-womens-championship-match-4243322/thailand-w-vs-indonesia-w-08-2025.html
+
+19:30 [l]AFF Women's Championship[z]	^-
 Vietnam 🇻🇳 vs Cambodia 🇰🇭	!zb!2
-Vietnam 🇻🇳 vs Cambodia 🇰🇭	`*
+Vietnam 🇻🇳 vs Cambodia 🇰🇭	`*https://www.fctv33.net/football/aff-womens-championship-match-4243326/vietnam-women-vs-cambodia-w-08-2025.html
 
 21:00 [l]CAF African Nations Championship[z]	^-
 Burkina Faso 🇧🇫 vs Cen African Rep 🇨🇫	!zb!486
@@ -26,8 +32,8 @@ Burkina Faso 🇧🇫 vs Cen African Rep 🇨🇫	`*https://www.fctv33.net/footb
 07-08-2025	^-
 
 00:00 [l]CAF African Nations Championship[z]	^-
-Mauritania 🇲 vs Tanzania 🇹🇿	!zb!486
-Mauritania 🇲 vs Tanzania 🇹🇿	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232093/mauritania-vs-tanzania-08-2025.html
+Mauritania 🇲🇷 vs Tanzania 🇹🇿	!zb!486
+Mauritania 🇲🇷 vs Tanzania 🇹🇿	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232093/mauritania-vs-tanzania-08-2025.html
 
 00:00 [g]International Club Friendly[z]	^-
 Arsenal vs Villarreal	!zb!414
