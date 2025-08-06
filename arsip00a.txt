@@ -11,14 +11,6 @@
 
 07-08-2025	^-
 
-00:00 [l]CAF African Nations Championship[z]	^-
-Mauritania 🇲🇷 vs Tanzania 🇹🇿	!zb!486
-Mauritania 🇲🇷 vs Tanzania 🇹🇿	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232093/mauritania-vs-tanzania-08-2025.html
-
-00:00 [g]International Club Friendly[z]	^-
-Arsenal vs Villarreal	!zb!414
-Arsenal vs Villarreal	`*https://www.fctv33.net/football/international-club-friendly-match-4245564/arsenal-vs-villarreal-cf-08-2025.html
-
 01:30 [g]International Club Friendly[z]	^-
 Aston Villa vs AS Roma	!zb!877
 Aston Villa vs AS Roma	`*https://www.fctv33.net/football/international-club-friendly-match-4240996/aston-villa-vs-as-roma-08-2025.html
