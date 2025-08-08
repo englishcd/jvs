@@ -15,12 +15,8 @@ Fox Sports USA 1 👇	!zb!39
 
 09-08-2025	^-
 
-00:00 [l]CAF African Nations Championshiply[z]	^-
-Guinea 🇬🇳 vs Uganda 🇺🇬	!zb!486
-Guinea 🇬🇳 vs Uganda 🇺🇬	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210474/guinea-vs-uganda-08-2025.html
-
 01:00 [g]International Club Friendly[z]	^-
-Chelsea vs Bayer Leverkusen	!zb!910
+Chelsea vs Bayer Leverkusen	!zb!355
 Chelsea vs Bayer Leverkusen	`*https://www.fctv33.net/football/international-club-friendly-match-4195082/chelsea-vs-bayer-04-leverkusen-08-2025.html
 
 01:00 [y]Netherlands Eredivisie[z]	^-
@@ -54,7 +50,7 @@ Cambodia 🇰🇭 vs Thailand 🇹🇭	`*https://www.fctv33.net/football/aff-wom
 Werder Bremen vs Udinese	`*https://www.fctv33.net/football/international-club-friendly-match-4248110/sv-werder-bremen-vs-udinese-08-2025.html
 
 17:30 [g]International Club Friendly[z]	^-
-Brighton Hove Albion vs VfL Wolfsburg	`*https://www.fctv33.net/football/international-club-friendly-match-4251891/brighton-hove-albion-vs-vfl-wolfsburg-08-2025.html
+Brighton Hove Albion vs VfL Wolfsburg	`*https://www.fctv33.net/football/international-club-friendly-match-4248742/brighton-hove-albion-vs-vfl-wolfsburg-08-2025.html
 
 18:45 [g]International Club Friendly[z]	^-
 Manchester United vs Fiorentina	`*https://www.fctv33.net/football/international-club-friendly-match-4184055/manchester-united-vs-fiorentina-08-2025.html
@@ -77,6 +73,9 @@ Burnley vs Lazio	`*https://www.fctv33.net/football/international-club-friendly-m
 
 22:00 [g]International Club Friendly[z]	^-
 Newcastle United vs Atletico Madrid	`*https://www.fctv33.net/football/international-club-friendly-match-4193435/newcastle-united-vs-atletico-madrid-08-2025.html
+
+23:00 [g]International Club Friendly[z]	^-
+Brighton Hove Albion vs VfL Wolfsburg	`*https://www.fctv33.net/football/international-club-friendly-match-4251891/brighton-hove-albion-vs-vfl-wolfsburg-08-2025.html
 
 23:00 [y]European Emirates Stadium Cup[z]	^-
 Arsenal vs Athletic Bilbao	`*https://www.fctv33.net/football/european-emirates-stadium-cup-match-4226504/arsenal-vs-athletic-club-08-2025.html
