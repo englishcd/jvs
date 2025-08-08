@@ -16,14 +16,22 @@ Fox Sports USA 1 👇	!zb!39
 08-08-2025	^-
 
 21:00 [l]CAF African Nations Championshiply[z]	^-
-Algeria vs South Africa	!zb!486
-Algeria vs South Africa	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232723/algeria-vs-south-africa-08-2025.html
+Algeria 🇩🇿 vs South Africa 🇿🇦	!zb!486
+Algeria 🇩🇿 vs South Africa 🇿🇦	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232723/algeria-vs-south-africa-08-2025.html
+
+16:30 [l]AFF Women's Championshiply[z]	^-
+Cambodia 🇰🇭 vs Thailand 🇹🇭	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+Cambodia 🇰🇭 vs Thailand 🇹🇭	`*
+
+19:30 [l]AFF Women's Championshiply[z]	^-
+Indonesia 🇮🇩 vs Vietnam 🇻🇳	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+Indonesia 🇮🇩 vs Vietnam 🇻🇳	`*
 
 09-08-2025	^-
 
 00:00 [l]CAF African Nations Championshiply[z]	^-
-Guinea vs Uganda	!zb!486
-Guinea vs Uganda	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210474/guinea-vs-uganda-08-2025.html
+Guinea 🇬🇳 vs Uganda 🇺🇬	!zb!486
+Guinea 🇬🇳 vs Uganda 🇺🇬	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210474/guinea-vs-uganda-08-2025.html
 
 01:00 [g]International Club Friendly[z]	^-
 Chelsea vs Bayer Leverkusen	!zb!910
