@@ -30,6 +30,13 @@ Indonesia 🇮🇩 vs Myanmar 🇲🇲	`*https://www.fctv33.net/football/afc-u-2
 19:00 [l]AFC U20 Women's Asian Cup[z]	^-
 Hong Kong 🇭🇰 vs Vietnam 🇻🇳	`*https://www.fctv33.net/football/afc-u-20-womens-asian-cup-match-4238694/hong-kong-china-w-u20-vs-vietnam-w-u20-08-2025.html
 
+19:00 [y]Liga 1[z]	^-
+Persebaya Surabaya vs PSIM Yogyakarta	`*https://www.fctv33.net/football/indonesian-liga-1-match-4229448/persebaya-surabaya-vs-psim-yogyakarta-08-2025.html
+PSM Makassar vs Persijap Jepara	`*https://www.fctv33.net/football/indonesian-liga-1-match-4247131/psm-makassar-vs-persijap-jepara-08-2025.html
+
+19:45 [l]AFC U20 Women's Asian Cup[z]	^-
+Malaysia vs Japan	`*https://www.fctv33.net/football/afc-u-20-womens-asian-cup-match-4241758/malaysia-w-u20-vs-japan-w-u20-08-2025.html
+
 21:00 [l]CAF African Nations Championshiply[z]	^-
 Algeria 🇩🇿 vs South Africa 🇿🇦	!zb!486
 Algeria 🇩🇿 vs South Africa 🇿🇦	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232723/algeria-vs-south-africa-08-2025.html
@@ -51,6 +58,28 @@ Monaco vs Inter Milan	`*https://www.fctv33.net/football/international-club-frien
 01:30 [g]International Club Friendly[z]	^-
 Newcastle United vs RCD Espanyol	!zb!414
 Newcastle United vs RCD Espanyol	`*https://www.fctv33.net/football/international-club-friendly-match-4219037/newcastle-united-vs-rcd-espanyol-de-barcelona-08-2025.html
+
+
+International: 
+International Club Friendly
+09/08
+01:30
+
+Brentford
+VS
+
+Borussia Monchengladbach
+
+
+Portugal: 
+Portuguese Primera Liga
+09/08
+02:15
+
+Casa Pia AC
+VS
+
+Sporting CP
 
 16:30 [l]AFF Women's Championshiply[z]	^-
 Cambodia 🇰🇭 vs Thailand 🇹🇭	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
