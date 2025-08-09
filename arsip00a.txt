@@ -17,6 +17,7 @@ Fox Sports USA 1 👇	!zb!39
 
 15:30 [y]Liga 1[z]	^-
 Persib Bandung vs Semen Padang	https://hls.baueahh10.com/live/sd-6MuTNFj66wGkgyjQZM.m3u8?txSecret=11563b59e6cb7dd8d499bc14af78645a&txTime=68985858
+Persib Bandung vs Semen Padang	https://pull.niur.live/live/stream-513979_lhd.m3u8?txSecret=f0349f85a9277afa847077471cd8f87a&txTime=68975b20
 Persib Bandung vs Semen Padang	`*https://www.fctv33.net/football/indonesian-liga-1-match-4233517/persib-bandung-vs-semen-padang-08-2025.html
 
 16:30 [l]AFF Women's Championshiply[z]	^-
@@ -24,14 +25,14 @@ Cambodia 🇰🇭 vs Thailand 🇹🇭	https://tglmp04.akamaized.net/out/v1/400f
 Cambodia 🇰🇭 vs Thailand 🇹🇭	`*https://www.fctv33.net/football/aff-womens-championship-match-4247746/cambodia-w-vs-thailand-w-08-2025.html
 
 16:30 [g]International Club Friendly[z]	^-
-Werder Bremen vs Udinese !zb!68
+Werder Bremen vs Udinese	!zb!68
 Werder Bremen vs Udinese	`*https://www.fctv33.net/football/international-club-friendly-match-4248110/sv-werder-bremen-vs-udinese-08-2025.html
 
 17:30 [g]International Club Friendly[z]	^-
 Brighton Hove Albion vs VfL Wolfsburg	`*https://www.fctv33.net/football/international-club-friendly-match-4248742/brighton-hove-albion-vs-vfl-wolfsburg-08-2025.html
 
 18:45 [g]International Club Friendly[z]	^-
-Manchester United vs Fiorentina !zb!377
+Manchester United vs Fiorentina	!zb!377
 Manchester United vs Fiorentina	`*https://www.fctv33.net/football/international-club-friendly-match-4184055/manchester-united-vs-fiorentina-08-2025.html
 
 19:30 [l]AFF Women's Championshiply[z]	^-
@@ -39,50 +40,50 @@ Indonesia 🇮🇩 vs Vietnam 🇻🇳	https://tglmp04.akamaized.net/out/v1/400f
 Indonesia 🇮🇩 vs Vietnam 🇻🇳	`*https://www.fctv33.net/football/aff-womens-championship-match-4247747/indonesia-w-vs-vietnam-women-08-2025.html
 
 20:30 [g]International Club Friendly[z]	^-
-FC Koln vs Atalanta !zb!59
+FC Koln vs Atalanta	!zb!59
 FC Koln vs Atalanta	`*https://www.fctv33.net/football/international-club-friendly-match-4248764/fc-kln-vs-atalanta-08-2025.html
 
 21:00 [l]CAF African Nations Championship[z]	^-
-Central African Rep 🇨🇫 vs Mauritania 🇲🇷 !zb!486
+Central African Rep 🇨🇫 vs Mauritania 🇲🇷	!zb!486
 Central African Rep 🇨🇫 vs Mauritania 🇲🇷	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232096/central-african-republic-vs-mauritania-08-2025.html
 
 21:00 [g]International Club Friendly[z]	^-
-Leeds United vs AC Milan !zb!877
+Leeds United vs AC Milan	!zb!877
 Leeds United vs AC Milan	`*https://www.fctv33.net/football/international-club-friendly-match-4196055/leeds-united-vs-ac-milan-08-2025.html
-Wolves vs Real Club Celta de Vigo !zb!550
+Wolves vs Real Club Celta de Vigo	!zb!550
 Wolves vs Real Club Celta de Vigo	`*https://www.fctv33.net/football/international-club-friendly-match-4219036/wolverhampton-wanderers-vs-rc-celta-08-2025.html
-Everton vs AS Roma !zb!432
+Everton vs AS Roma	!zb!432
 Everton vs AS Roma	`*https://www.fctv33.net/football/international-club-friendly-match-4240999/everton-vs-as-roma-08-2025.html
-Burnley vs Lazio !zb!76
+Burnley vs Lazio	!zb!76
 Burnley vs Lazio	`*https://www.fctv33.net/football/international-club-friendly-match-4248765/burnley-vs-lazio-08-2025.html
 
 22:00 [g]International Club Friendly[z]	^-
-Newcastle United vs Atletico Madrid !zb!84
+Newcastle United vs Atletico Madrid	!zb!84
 Newcastle United vs Atletico Madrid	`*https://www.fctv33.net/football/international-club-friendly-match-4193435/newcastle-united-vs-atletico-madrid-08-2025.html
 
 23:00 [g]International Club Friendly[z]	^-
-Brighton Hove Albion vs VfL Wolfsburg !zb!556
+Brighton Hove Albion vs VfL Wolfsburg	!zb!556
 Brighton Hove Albion vs VfL Wolfsburg	`*https://www.fctv33.net/football/international-club-friendly-match-4251891/brighton-hove-albion-vs-vfl-wolfsburg-08-2025.html
 
 23:00 [y]European Emirates Stadium Cup[z]	^-
-Arsenal vs Athletic Bilbao !zb!414
+Arsenal vs Athletic Bilbao	!zb!414
 Arsenal vs Athletic Bilbao	`*https://www.fctv33.net/football/european-emirates-stadium-cup-match-4226504/arsenal-vs-athletic-club-08-2025.html
 
 10-08-2025	^-
 
 00:00 [l]CAF African Nations Championship[z]	^-
-Tanzania 🇹🇿 vs Madagascar 🇲🇬 !zb!486
+Tanzania 🇹🇿 vs Madagascar 🇲🇬	!zb!486
 Tanzania 🇹🇿 vs Madagascar 🇲🇬	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232092/tanzania-vs-madagascar-08-2025.html
 
 00:00 [g]International Club Friendly[z]	^-
-Marseille vs Aston Villa !zb!643
+Marseille vs Aston Villa	!zb!643
 Marseille vs Aston Villa	`*https://www.fctv33.net/football/international-club-friendly-match-4247151/marseille-vs-aston-villa-08-2025.html
 Napoli vs Girona	`*https://www.fctv33.net/football/international-club-friendly-match-4249034/napoli-vs-girona-fc-08-2025.html
 
 02:00 [g]International Club Friendly[z]	^-
-Palermo vs Manchester City !zb!870
+Palermo vs Manchester City	!zb!870
 Palermo vs Manchester City	`*https://www.fctv33.net/football/international-club-friendly-match-4215833/palermo-vs-manchester-city-08-2025.html
-Valencia vs Torino !zb!530
+Valencia vs Torino	!zb!530
 Valencia vs Torino	`*https://www.fctv33.net/football/international-club-friendly-match-4249026/valencia-cf-vs-torino-08-2025.html
 
 ^@	^-
