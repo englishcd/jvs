@@ -3,25 +3,11 @@
 [g]{s} Ⓗa0 Live Sports Events[z]	^-
 
 	^-
-Fox Sports USA 1 👇	!zb!39
-👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
-
-	^-
 [y]Live Football Events[z]	^-
 
 	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
-
-10-08-2025	^-
-
-22:00 [l]CAF African Nations Championship[z]	^-
-Zambia 🇿🇲 vs Angola 🇦🇴	!zb!486
-Zambia 🇿🇲 vs Angola 🇦🇴	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232725/zambia-vs-angola-08-2025.html
-
-22:30 [g]International Club Friendly[z]	^-
-Borussia Dortmund  vs Juventus	!zb!558
-Borussia Dortmund  vs Juventus	`*https://www.fctv33.net/football/international-club-friendly-match-4195838/borussia-dortmund-vs-juventus-08-2025.html
 
 11-08-2025	^-
 
@@ -47,6 +33,10 @@ South Africa vs Guinea	`*https://www.fctv33.net/football/caf-african-nations-cha
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
+
+	^-
+Fox Sports USA 1 👇	!zb!39
+👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
 
 	^-
 SpoTV 1 👇	00!0!2/1052588?zyy
