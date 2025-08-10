@@ -29,12 +29,15 @@ Korea Rep 🇰🇷 vs Bangladesh 🇧🇩	`*https://www.fctv33.net/football/afc-
 Hong Kong 🇭🇰 vs Singapore 🇸🇬	`*https://www.fctv33.net/football/afc-u-20-womens-asian-cup-match-4238696/hong-kong-china-w-u20-vs-singapore-w-u20-08-2025.html
 
 16:00 [g]International Club Friendly[z]	^-
+Napoli vs AS Sorrento Calcio	!zb!870
 Napoli vs AS Sorrento Calcio	`*https://www.fctv33.net/football/international-club-friendly-match-4249349/napoli-vs-as-sorrento-calcio-08-2025.html
 
 16:30 [l]AFF Women’s Championship[z]	^-
+Timor Leste 🇹🇱 vs Myanmar 🇲🇲	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 Timor Leste 🇹🇱 vs Myanmar 🇲🇲	`*https://www.fctv33.net/football/aff-womens-championship-match-4248089/timor-leste-w-vs-myanmar-w-08-2025.html
 
 19:00 [l]CAF African Nations Championship[z]	^-
+Kenya 🇰🇪 vs Morocco 🇲🇦	!zb!486
 Kenya 🇰🇪 vs Morocco 🇲🇦	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232719/kenya-vs-morocco-08-2025.html
 
 19:00 [y]Liga 1[z]	^-
@@ -44,27 +47,35 @@ Persija Jakarta vs Persita Tangerang	`*https://www.fctv33.net/football/indonesia
 Indonesia 🇮🇩 vs Turkmenistan 🇹🇲	`*https://www.fctv33.net/football/afc-u-20-womens-asian-cup-match-4225830/indonesia-wu20-vs-turkmenistan-wu20-08-2025.html
 
 19:30 [l]AFF Women’s Championship[z]	^-
+Australia 🇦🇺 vs Philippines 🇵🇭	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 Australia 🇦🇺 vs Philippines 🇵🇭	`*https://www.fctv33.net/football/aff-womens-championship-match-4248091/australia-w-u23-vs-philippines-women-08-2025.html
 
 21:00 [g]International Club Friendly[z]	^-
+Chelsea vs AC Milan	!zb!355
 Chelsea vs AC Milan	`*https://www.fctv33.net/football/international-club-friendly-match-4196345/chelsea-vs-ac-milan-08-2025.html
 
-21:00 [y]English Association Community Shield[z]	^-
+21:00 [y]FA Community Shield[z]	^-
+Crystal Palace vs Liverpool	!zb!622
 Crystal Palace vs Liverpool	`*https://www.fctv33.net/football/english-association-community-shield-match-4223047/crystal-palace-vs-liverpool-08-2025.html
 
 22:00 [l]CAF African Nations Championship[z]	^-
+Zambia 🇿🇲 vs Angola 🇦🇴	!zb!486
 Zambia 🇿🇲 vs Angola 🇦🇴	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232725/zambia-vs-angola-08-2025.html
 
 22:30 [g]International Club Friendly[z]	^-
+Borussia Dortmund  vs Juventus	!zb!558
 Borussia Dortmund  vs Juventus	`*https://www.fctv33.net/football/international-club-friendly-match-4195838/borussia-dortmund-vs-juventus-08-2025.html
 
 11-08-2025	^-
 
 00:00 [g]International Club Friendly[z]	^-
+Almeria vs Al Nassr FC	!zb!530
 Almeria vs Al Nassr FC	`*https://www.fctv33.net/football/international-club-friendly-match-4240981/almeria-vs-al-nassr-fc-08-2025.html
 
 02:00 [g]International Club Friendly[z]	^-
+FC Barcelona vs Como	!zb!522
 FC Barcelona vs Como	`*https://www.fctv33.net/football/international-club-friendly-match-4248433/fc-barcelona-vs-como-08-2025.html
+Villarreal vs Aston Villa	!zb!432
 Villarreal vs Aston Villa	`*https://www.fctv33.net/football/international-club-friendly-match-4248847/villarreal-cf-vs-aston-villa-08-2025.html
 
 ^@	^-
