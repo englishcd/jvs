@@ -11,10 +11,6 @@
 
 11-08-2025	^-
 
-00:00 [g]International Club Friendly[z]	^-
-Almeria vs Al Nassr FC	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/rchtwtx/off-tvc
-Almeria vs Al Nassr FC	`*https://www.fctv33.net/football/international-club-friendly-match-4240981/almeria-vs-al-nassr-fc-08-2025.html
-
 02:00 [g]International Club Friendly[z]	^-
 FC Barcelona vs Como	`0https://xlz.plcdn.xyz/ajax/chanel/type/7/link/channel15
 FC Barcelona vs Como	`*https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODQ0MDQ0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -37,10 +33,6 @@ South Africa vs Guinea	`*https://www.fctv33.net/football/caf-african-nations-cha
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 
 	^-
-Fox Sports USA 1 👇	!zb!39
-👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
-
-	^-
 SpoTV 1 👇	00!0!2/1052588?zyy
 [l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
 [l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
@@ -55,6 +47,10 @@ GolTV 👇	00!0!0/9595?zyy
 	^-
 🇺🇸 Fox Soccer Plus 👇	00!0!1/50616?zyy
 [y]Sports & TV[z] [l]PlayList[z] #2	^^h11
+
+	^-
+Fox Sports USA 1 👇	!zb!39
+👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
 
 ^=	^-
 ^=Ind0514r	!pt!205
@@ -111,7 +107,7 @@ HBO Cinemax	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd!
 HBO Family	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd!!872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 HBO Hits	https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd!!b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 HBO Signature	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd!!a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-Film Rise Horror	https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u
+Film Rise Horror	https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8
 Horror Canada	https://apollo.production-public.tubi.io/live/ac-filmrise-horror-canada.m3u8
 Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 Hits	https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd!!dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
