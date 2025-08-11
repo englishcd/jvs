@@ -9,14 +9,25 @@
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-11-08-2025	^-
+12-08-2025	^-
 
-15:30 [y]Liga 1[z]	^-
-Arema FC vs PSBS Biak Numfor	https://hls.baueahh10.com/live/sd-6MuTNFj76cY7MB8E1u.m3u8?txSecret=8cf32b0011aa88de0d81ae3ce9686afd&?
-Arema FC vs PSBS Biak Numfor	`*https://www.fctv33.net/football/indonesian-liga-1-match-4238167/arema-fc-vs-psbs-biak-numfor-08-2025.html
+19:30 [l]AFF Women’s Championship[z]
+Vietnam vs Thailand	`*https://www.fctv33.net/football/aff-womens-championship-match-4247744/vietnam-women-vs-thailand-w-08-2025.html
+Indonesia vs Cambodia	`*https://www.fctv33.net/football/aff-womens-championship-match-4247745/indonesia-w-vs-cambodia-w-08-2025.html
 
-21:00 [l]CAF African Nations Championship[z]	^-
-South Africa vs Guinea	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210479/south-africa-vs-guinea-08-2025.html
+21:00 [l]CAF African Nations Championship[z]
+Senegal vs Congo	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210471/senegal-vs-republic-of-the-congo-08-2025.html
+
+23:00 [g]International Club Friendly[z]
+Grasshopper vs Bayern Munchen	`*https://www.fctv33.net/football/international-club-friendly-match-4225956/grasshopper-vs-fc-bayern-munich-08-2025.html
+
+13-08-2025	^-
+
+00:00 [l]CAF African Nations Championship[z]
+Sudan vs Nigeria	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210478/sudan-vs-nigeria-08-2025.html
+
+02:00 [g]International Club Friendly[z]
+Monza vs Inter Milan	`*https://www.fctv33.net/football/international-club-friendly-match-4240983/monza-vs-inter-milan-08-2025.html
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
