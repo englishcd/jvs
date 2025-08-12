@@ -11,6 +11,9 @@
 
 12-08-2025	^-
 
+19:00 [l]Piala Kemerdekaan[z]	^-
+Indonesia 🇮🇩 vs Tajikistan 🇹🇯	`*https://www.fctv33.net/football/piala-kemerdekaan-match-4254557/indonesia-vs--tajikistan-08-2025.html
+
 19:30 [l]AFF Women’s Championship[z]	^-
 Indonesia 🇮🇩 vs Cambodia 🇰🇭	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 Indonesia 🇮🇩 vs Cambodia 🇰🇭	`*https://www.fctv33.net/football/aff-womens-championship-match-4247745/indonesia-w-vs-cambodia-w-08-2025.html
@@ -58,7 +61,6 @@ GolTV 👇	00!0!0/9595?zyy
 ^=👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
 
 ^=	^-
-^=51 movistar-la-liga	https://deportes2.ksdjugfsddeports.com:9091/51_/index.m3u8?token=7c436a4cbd412f02bb71b33c79709db284ef5ce1-aa8c8a1a983470c7dd0d0522e9a281ec-1754998364-1754976764&remote=
 ^=movistar-la-liga	`0https://mihd.tv/movistar-la-liga-en-vivo-por-internet.html
 ^=Ind0514r	!pt!205
 ^=Mentar! 8237	!pt!8237
