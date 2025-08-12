@@ -25,6 +25,9 @@ Grasshopper vs Bayern Munchen	`*https://www.fctv33.net/football/international-cl
 
 13-08-2025	^-
 
+00:00 [g]International Club Friendly[z]	^-
+WSG Swarovski Tirol vs Real Madrid	`*https://www.fctv33.net/football/international-club-friendly-match-4244285/wsg-tirol-vs-real-madrid-08-2025.html
+
 00:00 [l]CAF African Nations Championship[z]	^-
 Sudan 🇸🇩 vs Nigeria 🇳🇬	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210478/sudan-vs-nigeria-08-2025.html
 
@@ -50,9 +53,9 @@ GolTV 👇	00!0!0/9595?zyy
 🇺🇸 Fox Soccer Plus 👇	00!0!1/50616?zyy
 [y]Sports & TV[z] [l]PlayList[z] #2	^^h11
 
-	^-
-Fox Sports USA 1 👇	!zb!39
-👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
+^=	^-
+^=Fox Sports USA 1 👇	!zb!39
+^=👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
 
 ^=	^-
 ^=Ind0514r	!pt!205
