@@ -3,7 +3,7 @@
 [g]{s} Ⓗa0 Live Sports Events[z]	^-
 
 	^-
-ESPN 1 HD NL	00!b0019201/index.m3u8
+ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
 
 	^-
@@ -16,11 +16,11 @@ ESPN 1 HD NL	00!b0019201/index.m3u8
 13-08-2025	^-
 
 19:30 [l]AFF U23 Women’s Championship[z]	^-
-Australia 🇦🇺 vs Timor Leste	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-Australia 🇦🇺 vs Timor Leste	`*https://www.fctv33.net/football/aff-womens-championship-match-4248088/australia-w-u23-vs-timor-leste-w-08-2025.html
+Australia 🇦🇺 vs Timor Leste 🇹🇱	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+Australia 🇦🇺 vs Timor Leste 🇹🇱	`*https://www.fctv33.net/football/aff-womens-championship-match-4248088/australia-w-u23-vs-timor-leste-w-08-2025.html
 
-Philippines vs Myanmar	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-Philippines vs Myanmar	`*https://www.fctv33.net/football/aff-womens-championship-match-4248090/philippines-women-vs-myanmar-w-08-2025.html
+Philippines 🇵🇭 vs Myanmar 🇲🇲	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+Philippines 🇵🇭 vs Myanmar 🇲🇲	`*https://www.fctv33.net/football/aff-womens-championship-match-4248090/philippines-women-vs-myanmar-w-08-2025.html
 
 21:00 [l]CAF African Nations Championship[z]	^-
 Madagascar 🇲🇬 vs Central African Rep 🇨🇫	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232098/madagascar-vs-central-african-republic-08-2025.html
@@ -28,7 +28,7 @@ Madagascar 🇲🇬 vs Central African Rep 🇨🇫	`*https://www.fctv33.net/foo
 14-08-2025	^-
 
 00:00 [l]CAF African Nations Championship[z]	^-
-Mauritania vs Burkina Faso	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232094/mauritania-vs-burkina-faso-08-2025.html
+Mauritania 🇲🇷 vs Burkina Faso 🇧🇫	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232094/mauritania-vs-burkina-faso-08-2025.html
 
 02:00 [y]UEFA Super Cup[z]	^-
 Paris St Germain vs Tottenham Hotspur	https://1.0!CBS_SPORTS_NETWORK!.z?7
@@ -56,6 +56,7 @@ GolTV 👇	00!0!0/9595?zyy
 ^=👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
 
 ^=	^-
+^=liga-1-max+	^+https://www.telegratishd.com/liga-1-max-en-vivo.html
 ^=liga-1-max	`0https://www.telegratishd.com/liga-1-max-en-vivo.html
 ^=Ind0514r	!pt!205
 ^=Mentar! 8237	!pt!8237
@@ -537,6 +538,110 @@ Ziggo Sport 6 Golf	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_7576
 beIN TV 1	https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
 beIN 1 PL	https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 
+[l]Embedded Channels[z]	^-
+Liga 1 Max	`0https://www.telegratishd.com/liga-1-max-en-vivo.html
+TUDN	`0https://www.telegratishd.com/tudn-en-vivo.html
+Gol Perú	`0https://www.telegratishd.com/gol-peru-en-vivo.html
+TNT Sports	`0https://www.telegratishd.com/tnt-sports-en-vivo.html
+Fox Sports Premium	`0https://www.telegratishd.com/fox-sports-premium-en-vivo.html
+TyC Sports	`0https://www.telegratishd.com/tyc-sports-en-vivo.html
+Movistar Deportes	`0https://www.telegratishd.com/movistar-deportes-en-vivo.html
+Movistar Liga De Campeones	`0https://www.telegratishd.com/movistar-liga-de-campeones-en-vivo.html
+DAZN F1	`0https://www.telegratishd.com/dazn-f1-en-vivo.html
+DAZN La Liga	`0https://www.telegratishd.com/dazn-la-liga-en-vivo.html
+Directv Sports 1	`0https://www.telegratishd.com/directv-sports-en-vivo.html
+Directv Sports 2	`0https://www.telegratishd.com/directv-sports-2-en-vivo.html
+Directv Sports Plus	`0https://www.telegratishd.com/directv-sports-plus-en-vivo.html
+ESPN Premium	`0https://www.telegratishd.com/espn-premium-en-vivo.html
+ESPN 1	`0https://www.telegratishd.com/espn-en-vivo.html
+ESPN 2	`0https://www.telegratishd.com/espn-2-en-vivo.html
+ESPN 3	`0https://www.telegratishd.com/espn-3-en-vivo.html
+ESPN 4	`0https://www.telegratishd.com/espn-4-en-vivo.html
+ESPN MX 1	`0https://www.telegratishd.com/espn-mexico-en-vivo.html
+ESPN MX 2	`0https://www.telegratishd.com/espn-2-mexico-en-vivo.html
+ESPN MX 3	`0https://www.telegratishd.com/espn-3-mexico-en-vivo.html
+Fox Sports 1	`0https://www.telegratishd.com/fox-sports-en-vivo.html
+Fox Sports 2	`0https://www.telegratishd.com/fox-sports-2-en-vivo.html
+Fox Sports 3	`0https://www.telegratishd.com/fox-sports-3-en-vivo.html
+Fox Sports MX 1	`0https://www.telegratishd.com/fox-sports-mexico-en-vivo.html
+Fox Sports MX 2	`0https://www.telegratishd.com/fox-sports-2-mexico-en-vivo.html
+Fox Sports MX 2	`0https://www.telegratishd.com/fox-sports-3-mexico-en-vivo.html
+Telefe	`0https://www.telegratishd.com/telefe-en-vivo.html
+El Trece	`0https://www.telegratishd.com/el-trece-en-vivo.html
+TV Publica	`0https://www.telegratishd.com/television-publica-en-vivo.html
+Telemundo 51	`0https://www.telegratishd.com/telemundo-51-en-vivo.html
+Telemundo PR	`0https://www.telegratishd.com/telemundo-puerto-rico-en-vivo.html
+Univision	`0https://www.telegratishd.com/univision-en-vivo.html
+Pasiones	`0https://www.telegratishd.com/pasiones-en-vivo.html
+Antena 3	`0https://www.telegratishd.com/antena-3-en-vivo.html
+DW Español	`0https://www.telegratishd.com/dw-espanol-en-vivo.html
+Ecuavisa	`0https://www.telegratishd.com/ecuavisa-en-vivo.html
+Caracol	`0https://www.telegratishd.com/caracol-en-vivo.html
+RCN	`0https://www.telegratishd.com/rcn-en-vivo.html
+Latina	`0https://www.telegratishd.com/latina-en-vivo.html
+America TV	`0https://www.telegratishd.com/america-tv-en-vivo.html
+Global TV	`0https://www.telegratishd.com/global-tv-en-vivo.html
+Willax TV	`0https://www.telegratishd.com/willax-tv-en-vivo.html
+ATV	`0https://www.telegratishd.com/atv-en-vivo.html
+Unicable	`0https://www.telegratishd.com/unicable-en-vivo.html
+Imagen TV	`0https://www.telegratishd.com/imagen-tv-en-vivo.html
+Azteca 7	`0https://www.telegratishd.com/azteca-7-en-vivo.html
+Azteca Uno	`0https://www.telegratishd.com/azteca-uno-en-vivo.html
+Canal 5	`0https://www.telegratishd.com/canal-5-en-vivo.html
+Disney Channel	`0https://www.telegratishd.com/disney-channel-en-vivo.html
+Disney JR	`0https://www.telegratishd.com/disney-junior-en-vivo.html
+Discovery Kids	`0https://www.telegratishd.com/discovery-kids-en-vivo.html
+Cartoon Network	`0https://www.telegratishd.com/cartoon-network-en-vivo.html
+Tooncast	`0https://www.telegratishd.com/tooncast-en-vivo.html
+Cartoonito	`0https://www.telegratishd.com/cartoonito-en-vivo.html
+Nick	`0https://www.telegratishd.com/nick-en-vivo.html
+Nick Jr	`0https://www.telegratishd.com/nick-junior-en-vivo.html
+MTV	`0https://www.telegratishd.com/mtv-en-vivo.html
+Discovery Channel	`0https://www.telegratishd.com/discovery-channel-en-vivo.html
+Discovery World	`0https://www.telegratishd.com/discovery-world-en-vivo.html
+Discovery Theater	`0https://www.telegratishd.com/discovery-theater-en-vivo.html
+Discovery Science	`0https://www.telegratishd.com/discovery-science-en-vivo.html
+Discovery TLC	`0https://www.telegratishd.com/discovery-tlc-en-vivo.html
+ID Investigation	`0https://www.telegratishd.com/id-investigation-en-vivo.html
+Discovery Turbo	`0https://www.telegratishd.com/discovery-turbo-en-vivo.html
+Discovery H&H	`0https://www.telegratishd.com/discovery-hyh-en-vivo.html
+Discovery A&E	`0https://www.telegratishd.com/discovery-aye-en-vivo.html
+History	`0https://www.telegratishd.com/history-en-vivo.html
+History 2	`0https://www.telegratishd.com/history-2-en-vivo.html
+Animal Planet	`0https://www.telegratishd.com/animal-planet-en-vivo.html
+Nat Geo	`0https://www.telegratishd.com/nat-geo-en-vivo.html
+Everything	`0https://www.telegratishd.com/everything-en-vivo.html
+Universal Channel	`0https://www.telegratishd.com/universal-channel-en-vivo.html
+Universal Premiere	`0https://www.telegratishd.com/universal-premiere-en-vivo.html
+TNT	`0https://www.telegratishd.com/tnt-en-vivo.html
+TNT Series	`0https://www.telegratishd.com/tnt-series-en-vivo.html
+Star Channel	`0https://www.telegratishd.com/star-channel-en-vivo.html
+Cinemax	`0https://www.telegratishd.com/cinemax-en-vivo.html
+Space	`0https://www.telegratishd.com/space-en-vivo.html
+SYFY	`0https://www.telegratishd.com/syfy-en-vivo.html
+Warner Channel	`0https://www.telegratishd.com/warner-channel-en-vivo.html
+Cinecanal	`0https://www.telegratishd.com/cinecanal-en-vivo.html
+FX	`0https://www.telegratishd.com/fx-en-vivo.html
+AXN	`0https://www.telegratishd.com/axn-en-vivo.html
+Paramount Channel	`0https://www.telegratishd.com/paramount-channel-en-vivo.html
+AMC	`0https://www.telegratishd.com/amc-en-vivo.html
+Studio Universal	`0https://www.telegratishd.com/studio-universal-en-vivo.html
+MultiPremier	`0https://www.telegratishd.com/multipremier-en-vivo.html
+Golden	`0https://www.telegratishd.com/golden-en-vivo.html
+Golden Plus	`0https://www.telegratishd.com/golden-plus-en-vivo.html
+Golden Edge	`0https://www.telegratishd.com/golden-edge-en-vivo.html
+Golden Premier 1	`0https://www.telegratishd.com/golden-premier-en-vivo.html
+Golden Premier 2	`0https://www.telegratishd.com/golden-premier-2-en-vivo.html
+Canal Sony	`0https://www.telegratishd.com/canal-sony-en-vivo.html
+Comedy Central	`0https://www.telegratishd.com/comedy-central-en-vivo.html
+Distrito Comedia	`0https://www.telegratishd.com/distrito-comedia-en-vivo.html
+El Gourmet	`0https://www.telegratishd.com/el-gourmet-en-vivo.html
+Dragon Ball Super 24/7	`0https://www.telegratishd.com/dragon-ball-super-24-horas-en-vivo.html
+Chespirito 24/7	`0https://www.telegratishd.com/chespirito-24-horas-en-vivo.html
+Chapulin Colorado 24/7	`0https://www.telegratishd.com/chapulin-colorado-24-horas-en-vivo.html
+FM Hot Movies	`0https://www.telegratishd.com/fm-hot-movies-en-vivo.html
+FM Hot Kids	`0https://www.telegratishd.com/fm-hot-kids-en-vivo.html
+
 FIFA+ 🇦🇹	https://jmp2.uk/sam-ATBA3300007PT.m3u8?7
 FIFA+ 🇨🇦	https://jmp2.uk/sam-CABD1200008JG.m3u8?7
 FIFA+ 🇨🇭	https://jmp2.uk/sam-CHBA3300010UC.m3u8?7
@@ -722,110 +827,6 @@ TSN 2	https://5.0!TSN_2!.z?7
 TSN 3	https://5.0!TSN_3!.z?7
 TSN 4	https://5.0!TSN_4!.z?7
 TSN 5	https://5.0!TSN_5!.z?7
-
-[l]Embedded Channels[z]	^-
-Liga 1 Max	`0https://www.telegratishd.com/liga-1-max-en-vivo.html
-TUDN	`0https://www.telegratishd.com/tudn-en-vivo.html
-Gol Perú	`0https://www.telegratishd.com/gol-peru-en-vivo.html
-TNT Sports	`0https://www.telegratishd.com/tnt-sports-en-vivo.html
-Fox Sports Premium	`0https://www.telegratishd.com/fox-sports-premium-en-vivo.html
-TyC Sports	`0https://www.telegratishd.com/tyc-sports-en-vivo.html
-Movistar Deportes	`0https://www.telegratishd.com/movistar-deportes-en-vivo.html
-Movistar Liga De Campeones	`0https://www.telegratishd.com/movistar-liga-de-campeones-en-vivo.html
-DAZN F1	`0https://www.telegratishd.com/dazn-f1-en-vivo.html
-DAZN La Liga	`0https://www.telegratishd.com/dazn-la-liga-en-vivo.html
-Directv Sports 1	`0https://www.telegratishd.com/directv-sports-en-vivo.html
-Directv Sports 2	`0https://www.telegratishd.com/directv-sports-2-en-vivo.html
-Directv Sports Plus	`0https://www.telegratishd.com/directv-sports-plus-en-vivo.html
-ESPN Premium	`0https://www.telegratishd.com/espn-premium-en-vivo.html
-ESPN 1	`0https://www.telegratishd.com/espn-en-vivo.html
-ESPN 2	`0https://www.telegratishd.com/espn-2-en-vivo.html
-ESPN 3	`0https://www.telegratishd.com/espn-3-en-vivo.html
-ESPN 4	`0https://www.telegratishd.com/espn-4-en-vivo.html
-ESPN MX 1	`0https://www.telegratishd.com/espn-mexico-en-vivo.html
-ESPN MX 2	`0https://www.telegratishd.com/espn-2-mexico-en-vivo.html
-ESPN MX 3	`0https://www.telegratishd.com/espn-3-mexico-en-vivo.html
-Fox Sports 1	`0https://www.telegratishd.com/fox-sports-en-vivo.html
-Fox Sports 2	`0https://www.telegratishd.com/fox-sports-2-en-vivo.html
-Fox Sports 3	`0https://www.telegratishd.com/fox-sports-3-en-vivo.html
-Fox Sports MX 1	`0https://www.telegratishd.com/fox-sports-mexico-en-vivo.html
-Fox Sports MX 2	`0https://www.telegratishd.com/fox-sports-2-mexico-en-vivo.html
-Fox Sports MX 2	`0https://www.telegratishd.com/fox-sports-3-mexico-en-vivo.html
-Telefe	`0https://www.telegratishd.com/telefe-en-vivo.html
-El Trece	`0https://www.telegratishd.com/el-trece-en-vivo.html
-TV Publica	`0https://www.telegratishd.com/television-publica-en-vivo.html
-Telemundo 51	`0https://www.telegratishd.com/telemundo-51-en-vivo.html
-Telemundo PR	`0https://www.telegratishd.com/telemundo-puerto-rico-en-vivo.html
-Univision	`0https://www.telegratishd.com/univision-en-vivo.html
-Pasiones	`0https://www.telegratishd.com/pasiones-en-vivo.html
-Antena 3	`0https://www.telegratishd.com/antena-3-en-vivo.html
-DW Español	`0https://www.telegratishd.com/dw-espanol-en-vivo.html
-Ecuavisa	`0https://www.telegratishd.com/ecuavisa-en-vivo.html
-Caracol	`0https://www.telegratishd.com/caracol-en-vivo.html
-RCN	`0https://www.telegratishd.com/rcn-en-vivo.html
-Latina	`0https://www.telegratishd.com/latina-en-vivo.html
-America TV	`0https://www.telegratishd.com/america-tv-en-vivo.html
-Global TV	`0https://www.telegratishd.com/global-tv-en-vivo.html
-Willax TV	`0https://www.telegratishd.com/willax-tv-en-vivo.html
-ATV	`0https://www.telegratishd.com/atv-en-vivo.html
-Unicable	`0https://www.telegratishd.com/unicable-en-vivo.html
-Imagen TV	`0https://www.telegratishd.com/imagen-tv-en-vivo.html
-Azteca 7	`0https://www.telegratishd.com/azteca-7-en-vivo.html
-Azteca Uno	`0https://www.telegratishd.com/azteca-uno-en-vivo.html
-Canal 5	`0https://www.telegratishd.com/canal-5-en-vivo.html
-Disney Channel	`0https://www.telegratishd.com/disney-channel-en-vivo.html
-Disney JR	`0https://www.telegratishd.com/disney-junior-en-vivo.html
-Discovery Kids	`0https://www.telegratishd.com/discovery-kids-en-vivo.html
-Cartoon Network	`0https://www.telegratishd.com/cartoon-network-en-vivo.html
-Tooncast	`0https://www.telegratishd.com/tooncast-en-vivo.html
-Cartoonito	`0https://www.telegratishd.com/cartoonito-en-vivo.html
-Nick	`0https://www.telegratishd.com/nick-en-vivo.html
-Nick Jr	`0https://www.telegratishd.com/nick-junior-en-vivo.html
-MTV	`0https://www.telegratishd.com/mtv-en-vivo.html
-Discovery Channel	`0https://www.telegratishd.com/discovery-channel-en-vivo.html
-Discovery World	`0https://www.telegratishd.com/discovery-world-en-vivo.html
-Discovery Theater	`0https://www.telegratishd.com/discovery-theater-en-vivo.html
-Discovery Science	`0https://www.telegratishd.com/discovery-science-en-vivo.html
-Discovery TLC	`0https://www.telegratishd.com/discovery-tlc-en-vivo.html
-ID Investigation	`0https://www.telegratishd.com/id-investigation-en-vivo.html
-Discovery Turbo	`0https://www.telegratishd.com/discovery-turbo-en-vivo.html
-Discovery H&H	`0https://www.telegratishd.com/discovery-hyh-en-vivo.html
-Discovery A&E	`0https://www.telegratishd.com/discovery-aye-en-vivo.html
-History	`0https://www.telegratishd.com/history-en-vivo.html
-History 2	`0https://www.telegratishd.com/history-2-en-vivo.html
-Animal Planet	`0https://www.telegratishd.com/animal-planet-en-vivo.html
-Nat Geo	`0https://www.telegratishd.com/nat-geo-en-vivo.html
-Everything	`0https://www.telegratishd.com/everything-en-vivo.html
-Universal Channel	`0https://www.telegratishd.com/universal-channel-en-vivo.html
-Universal Premiere	`0https://www.telegratishd.com/universal-premiere-en-vivo.html
-TNT	`0https://www.telegratishd.com/tnt-en-vivo.html
-TNT Series	`0https://www.telegratishd.com/tnt-series-en-vivo.html
-Star Channel	`0https://www.telegratishd.com/star-channel-en-vivo.html
-Cinemax	`0https://www.telegratishd.com/cinemax-en-vivo.html
-Space	`0https://www.telegratishd.com/space-en-vivo.html
-SYFY	`0https://www.telegratishd.com/syfy-en-vivo.html
-Warner Channel	`0https://www.telegratishd.com/warner-channel-en-vivo.html
-Cinecanal	`0https://www.telegratishd.com/cinecanal-en-vivo.html
-FX	`0https://www.telegratishd.com/fx-en-vivo.html
-AXN	`0https://www.telegratishd.com/axn-en-vivo.html
-Paramount Channel	`0https://www.telegratishd.com/paramount-channel-en-vivo.html
-AMC	`0https://www.telegratishd.com/amc-en-vivo.html
-Studio Universal	`0https://www.telegratishd.com/studio-universal-en-vivo.html
-MultiPremier	`0https://www.telegratishd.com/multipremier-en-vivo.html
-Golden	`0https://www.telegratishd.com/golden-en-vivo.html
-Golden Plus	`0https://www.telegratishd.com/golden-plus-en-vivo.html
-Golden Edge	`0https://www.telegratishd.com/golden-edge-en-vivo.html
-Golden Premier 1	`0https://www.telegratishd.com/golden-premier-en-vivo.html
-Golden Premier 2	`0https://www.telegratishd.com/golden-premier-2-en-vivo.html
-Canal Sony	`0https://www.telegratishd.com/canal-sony-en-vivo.html
-Comedy Central	`0https://www.telegratishd.com/comedy-central-en-vivo.html
-Distrito Comedia	`0https://www.telegratishd.com/distrito-comedia-en-vivo.html
-El Gourmet	`0https://www.telegratishd.com/el-gourmet-en-vivo.html
-Dragon Ball Super 24/7	`0https://www.telegratishd.com/dragon-ball-super-24-horas-en-vivo.html
-Chespirito 24/7	`0https://www.telegratishd.com/chespirito-24-horas-en-vivo.html
-Chapulin Colorado 24/7	`0https://www.telegratishd.com/chapulin-colorado-24-horas-en-vivo.html
-FM Hot Movies	`0https://www.telegratishd.com/fm-hot-movies-en-vivo.html
-FM Hot Kids	`0https://www.telegratishd.com/fm-hot-kids-en-vivo.html
 
 	^-
 👉[l]{h} Ⓟc12[z] All Pluto TV Channels👈	^^h12
