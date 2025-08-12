@@ -58,6 +58,8 @@ GolTV 👇	00!0!0/9595?zyy
 ^=👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
 
 ^=	^-
+^=movistar-la-liga	`0https://mihd.tv/movistar-la-liga-en-vivo-por-internet.html
+^=movistarlaliga	`0https://mihd.tv/envivo/movistarlaliga.php
 ^=Ind0514r	!pt!205
 ^=Mentar! 8237	!pt!8237
 ^=Live Day	`0https://dlhd.click/
