@@ -31,6 +31,7 @@ Madagascar 🇲🇬 vs Central African Rep 🇨🇫	`*https://www.fctv33.net/foo
 Mauritania vs Burkina Faso	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232094/mauritania-vs-burkina-faso-08-2025.html
 
 02:00 [y]UEFA Super Cup[z]	^-
+Paris St Germain vs Tottenham Hotspur	https://1.0!CBS_SPORTS_NETWORK!.z?7
 Paris St Germain vs Tottenham Hotspur	`*https://www.fctv33.net/football/uefa-super-cup-match-4193482/paris-saint-germain-vs-tottenham-hotspur-08-2025.html
 
 ^@	^-
@@ -55,7 +56,7 @@ GolTV 👇	00!0!0/9595?zyy
 ^=👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
 
 ^=	^-
-^=movistar-la-liga	`0https://mihd.tv/movistar-la-liga-en-vivo-por-internet.html
+^=liga-1-max	`0https://www.telegratishd.com/liga-1-max-en-vivo.html
 ^=Ind0514r	!pt!205
 ^=Mentar! 8237	!pt!8237
 ^=Live Day	`0https://dlhd.click/
@@ -209,6 +210,160 @@ TVRI World	https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 	^-
 [w]Sport Channels & TV[z]	^-
 
+ABC East	https://1.0!ABC_EAST!.z?7
+ACC Network	https://1.0!ACC_NETWORK!.z?7
+AMC Network	https://1.0!AMC_NETWORK!.z?7
+American Heroes Channel	https://1.0!American_Heroes_Channel!.z?7
+Animal Planet	https://1.0!Animal_Planet!.z?7
+Aspire	https://1.0!Aspire!.z?7
+BBC America	https://1.0!BBC_AMERICA!.z?7
+BBC World News	https://1.0!BBC_WORLD_NEWS!.z?7
+beIN Sports	https://1.0!BEIN_SPORTS!.z?7
+BET East	https://1.0!BET_EAST!.z?7
+BET Her	https://1.0!BET_HER!.z?7
+BET Jams	https://1.0!BET_Jams!.z?7
+BET Soul	https://1.0!BET_SOUL!.z?7
+Big Ten Network	https://1.0!BIG_TEN_NETWORK!.z?7
+Bloomberg	https://1.0!BLOOMBERG!.z?7
+Boomerang	https://1.0!BOOMERANG!.z?7
+Bounce TV	https://1.0!BOUNCE_TV!.z?7
+Bravo	https://1.0!BRAVO!.z?7
+Buzzr	https://1.0!Buzzr!.z?7
+Cartoon Network	https://1.0!CARTOON_NETWORK!.z?7
+CBS East	https://1.0!CBSEAST!.z?7
+CBS Sports Network	https://1.0!CBS_SPORTS_NETWORK!.z?7
+Cinemax East	https://1.0!CINEMAX_EAST!.z?7
+Cinemax Moremax	https://1.0!CINEMAX_MOREMAX!.z?7
+Cinemax West	https://1.0!CINEMAX_WEST!.z?7
+Cleo TV	https://1.0!Cleo_TV!.z?7
+CMT	https://1.0!CMT!.z?7
+CNBC	https://1.0!CNBC!.z?7
+CNN International	https://1.0!CNN_INTERNATIONAL!.z?7
+Comedy Central	https://1.0!Comedy_Central!.z?7
+Comet	https://1.0!COMET!.z?7
+Cooking Channel	https://1.0!COOKING_CHANNEL!.z?7
+Court TV	https://1.0!COURT_TV!.z?7
+Cozi TV	https://1.0!COZI_TV!.z?7
+Crave 1	https://1.0!CRAVE_1!.z?7
+Crave 2	https://1.0!CRAVE_2!.z?7
+Crave 3	https://1.0!CRAVE_3!.z?7
+Crave 4	https://1.0!CRAVE_4!.z?7
+C-Span	https://1.0!C-SPAN!.z?7
+Curiosity Stream	https://1.0!Curiosity_Stream!.z?7
+Destination America	https://1.0!Destination_America!.z?7
+Discovery Channel	https://1.0!Discovery_Channel!.z?7
+Discovery Family Channel	https://1.0!DISCOVERY_FAMILY_CHANNEL!.z?7
+Discovery Life	https://1.0!DISCOVERY_LIFE!.z?7
+Discovery Science	https://1.0!Discovery_Science!.z?7
+Disney Channel	https://1.0!DISNEY_CHANNEL!.z?7
+Disney Jr	https://1.0!DISNEY_JR!.z?7
+Disney XD	https://1.0!DISNEY_XD!.z?7
+DIY	https://1.0!DIY!.z?7
+Epix Drive In	https://1.0!EPIX_DRIVE_IN!.z?7
+ESPN 2	https://1.0!ESPN_2!.z?7
+ESPN News	https://1.0!ESPN_NEWS!.z?7
+ESPN U	https://1.0!ESPN_U!.z?7
+Food Network	https://1.0!FOOD_NETWORK!.z?7
+Fox Business Network	https://1.0!FOX_Business_Network!.z?7
+Fox East	https://1.0!FOX_EAST!.z?7
+Fox Soul	https://1.0!FOX_SOUL!.z?7
+Fox Sports 1	https://1.0!FOX_Sports_1!.z?7
+Fox Sports 2	https://1.0!FOX_SPORTS_2!.z?7
+Free Form	https://1.0!FREE_FORM!.z?7
+FX	https://1.0!FX!.z?7
+FX Movie	https://1.0!FX_MOVIE!.z?7
+FXX	https://1.0!FXX!.z?7
+FYI	https://1.0!FYI!.z?7
+Game Show Network	https://1.0!GAME_SHOW_NETWORK!.z?7
+Golf Channel	https://1.0!GOLF_CHANNEL!.z?7
+Grit TV	https://1.0!GRIT_TV!.z?7
+Hallmark Channel	https://1.0!HALLMARK_CHANNEL!.z?7
+Hallmark Drama	https://1.0!HALLMARK_DRAMA!.z?7
+Hallmark Movies Mysteries	https://1.0!HALLMARK_MOVIES_MYSTERIES!.z?7
+HBO 1	https://1.0!HBO!.z?7
+HBO 2	https://1.0!HBO_2!.z?7
+HBO Comedy	https://1.0!HBO_COMEDY!.z?7
+HBO Family	https://1.0!HBO_FAMILY!.z?7
+HGTV	https://1.0!HGTV!.z?7
+HLN	https://1.0!HLN!.z?7
+HSN	https://1.0!HSN!.z?7
+INSP	https://1.0!INSP!.z?7
+Investigation Discovery	https://1.0!INVESTIGATION_DISCOVERY!.z?7
+ION TV	https://1.0!ION_TV!.z?7
+Lifetime	https://1.0!LIFETIME!.z?7
+Lifetime Movie Network	https://1.0!LIFETIME_MOVIE_NETWORK!.z?7
+Love Nature	https://1.0!LOVE_NATURE!.z?7
+Me TV	https://1.0!ME_TV!.z?7
+MLB Network	https://1.0!MLB_NETWORK!.z?7
+Motor Trend	https://1.0!MOTOR_TREND!.z?7
+MSG	https://1.0!MSG!.z?7
+MTV 1	https://1.0!MTV!.z?7
+MTV 2	https://1.0!MTV_2!.z?7
+MTV Classic	https://1.0!MTV_CLASSIC!.z?7
+MTV Live	https://1.0!MTV_LIVE!.z?7
+MTV U	https://1.0!MTV_U!.z?7
+Much	https://1.0!MUCH!.z?7
+Nat Geo Wild	https://1.0!Nat_Geo_Wild!.z?7
+National Geographic	https://1.0!National_Geographic!.z?7
+NBA 2	https://1.0!NBA_2!.z?7
+NBA TV	https://1.0!NBA_TV!.z?7
+NBC East	https://1.0!NBC_EAST!.z?7
+News Nation	https://1.0!NEWS_NATION!.z?7
+NFL Network	https://1.0!NFL_NETWORK!.z?7
+NFL RedZone	https://1.0!NFL_RedZone!.z?7
+NHL Network	https://1.0!NHL_NETWORK!.z?7
+Nick Jr	https://1.0!NICK_JR!.z?7
+Nick Music	https://1.0!NICK_MUSIC!.z?7
+Nickelodeon	https://1.0!NICKELODEON!.z?7
+Nicktoons	https://1.0!NICKTOONS!.z?7
+Outer Max	https://1.0!OUTER_MAX!.z?7
+Outside TV	https://1.0!OUTSIDE_TV!.z?7
+Ovation	https://1.0!Ovation!.z?7
+OWN	https://1.0!OWN!.z?7
+Oxygen	https://1.0!OXYGEN!.z?7
+Paramount Network	https://1.0!PARAMOUNT_NETWORK!.z?7
+QVC	https://1.0!QVC!.z?7
+Reelz	https://1.0!REELZ!.z?7
+Revolt	https://1.0!REVOLT!.z?7
+SEC Network	https://1.0!SEC_NETWORK!.z?7
+Showtime 1	https://1.0!SHOWTIME!.z?7
+Showtime 2	https://1.0!SHOWTIME_2!.z?7
+Showtime Extreme	https://1.0!SHOWTIME_EXTREME!.z?7
+Showtime Next	https://1.0!SHOWTIME_NEXT!.z?7
+Showtime West	https://1.0!SHOWTIME_WEST!.z?7
+Showtime Women	https://1.0!SHOWTIME_WOMEN!.z?7
+Smithsonian Channel	https://1.0!SMITHSONIAN_CHANNEL!.z?7
+Sportsman Channel	https://1.0!SPORTSMAN_CHANNEL!.z?7
+Start TV	https://1.0!Start_Tv!.z?7
+Starz	https://1.0!STARZ!.z?7
+Starz Comedy	https://1.0!STARZ_COMEDY!.z?7
+Starz Edge	https://1.0!STARZ_EDGE!.z?7
+Starz Encore	https://1.0!STARZ_ENCORE!.z?7
+Starz Encore Action	https://1.0!STARZ_ENCORE_ACTION!.z?7
+Starz Encore Classic	https://1.0!STARZ_ENCORE_CLASSIC!.z?7
+Starz Encore Westerns	https://1.0!STARZ_ENCORE_WESTERNS!.z?7
+Sundance	https://1.0!SUNDANCE!.z?7
+SYFY	https://1.0!SYFY!.z?7
+TBS	https://1.0!TBS!.z?7
+TCM	https://1.0!TCM!.z?7
+Tennis Channel	https://1.0!TENNIS_CHANNEL!.z?7
+The Weather Channel	https://1.0!THE_WEATHER_CHANNEL!.z?7
+TLC	https://1.0!TLC!.z?7
+TNT	https://1.0!TNT!.z?7
+Travel Channel	https://1.0!Travel_Channel!.z?7
+TRU TV	https://1.0!TRU_TV!.z?7
+TV Land	https://1.0!TV_Land!.z?7
+TV One	https://1.0!TV_ONE!.z?7
+USA Network	https://1.0!USA_Network!.z?7
+VH1	https://1.0!VH1!.z?7
+Viceland	https://1.0!VICELAND!.z?7
+W Network	https://1.0!W_NETWORK!.z?7
+WE TV	https://1.0!WE_TV!.z?7
+WGN	https://1.0!WGN!.z?7
+World Fishing Network	https://1.0!WORLD_FISHING_NETWORK!.z?7
+Yes Network	https://1.0!YES_NETWORK!.z?7
+
+	^-
 ITV 1 🇬🇧	https://z.1UK_ITV_1/index.m3u8
 ITV 2 🇬🇧	https://z.1UK_ITV_2/index.m3u8
 ITV 3 🇬🇧	https://z.1UK_ITV_3/index.m3u8
@@ -592,159 +747,6 @@ TSN 2	https://5.0!TSN_2!.z?7
 TSN 3	https://5.0!TSN_3!.z?7
 TSN 4	https://5.0!TSN_4!.z?7
 TSN 5	https://5.0!TSN_5!.z?7
-
-ABC East	https://1.0!ABC_EAST!.z?7
-ACC Network	https://1.0!ACC_NETWORK!.z?7
-AMC Network	https://1.0!AMC_NETWORK!.z?7
-American Heroes Channel	https://1.0!American_Heroes_Channel!.z?7
-Animal Planet	https://1.0!Animal_Planet!.z?7
-Aspire	https://1.0!Aspire!.z?7
-BBC America	https://1.0!BBC_AMERICA!.z?7
-BBC World News	https://1.0!BBC_WORLD_NEWS!.z?7
-beIN Sports	https://1.0!BEIN_SPORTS!.z?7
-BET East	https://1.0!BET_EAST!.z?7
-BET Her	https://1.0!BET_HER!.z?7
-BET Jams	https://1.0!BET_Jams!.z?7
-BET Soul	https://1.0!BET_SOUL!.z?7
-Big Ten Network	https://1.0!BIG_TEN_NETWORK!.z?7
-Bloomberg	https://1.0!BLOOMBERG!.z?7
-Boomerang	https://1.0!BOOMERANG!.z?7
-Bounce TV	https://1.0!BOUNCE_TV!.z?7
-Bravo	https://1.0!BRAVO!.z?7
-Buzzr	https://1.0!Buzzr!.z?7
-Cartoon Network	https://1.0!CARTOON_NETWORK!.z?7
-CBS East	https://1.0!CBSEAST!.z?7
-CBS Sports Network	https://1.0!CBS_SPORTS_NETWORK!.z?7
-Cinemax East	https://1.0!CINEMAX_EAST!.z?7
-Cinemax Moremax	https://1.0!CINEMAX_MOREMAX!.z?7
-Cinemax West	https://1.0!CINEMAX_WEST!.z?7
-Cleo TV	https://1.0!Cleo_TV!.z?7
-CMT	https://1.0!CMT!.z?7
-CNBC	https://1.0!CNBC!.z?7
-CNN International	https://1.0!CNN_INTERNATIONAL!.z?7
-Comedy Central	https://1.0!Comedy_Central!.z?7
-Comet	https://1.0!COMET!.z?7
-Cooking Channel	https://1.0!COOKING_CHANNEL!.z?7
-Court TV	https://1.0!COURT_TV!.z?7
-Cozi TV	https://1.0!COZI_TV!.z?7
-Crave 1	https://1.0!CRAVE_1!.z?7
-Crave 2	https://1.0!CRAVE_2!.z?7
-Crave 3	https://1.0!CRAVE_3!.z?7
-Crave 4	https://1.0!CRAVE_4!.z?7
-C-Span	https://1.0!C-SPAN!.z?7
-Curiosity Stream	https://1.0!Curiosity_Stream!.z?7
-Destination America	https://1.0!Destination_America!.z?7
-Discovery Channel	https://1.0!Discovery_Channel!.z?7
-Discovery Family Channel	https://1.0!DISCOVERY_FAMILY_CHANNEL!.z?7
-Discovery Life	https://1.0!DISCOVERY_LIFE!.z?7
-Discovery Science	https://1.0!Discovery_Science!.z?7
-Disney Channel	https://1.0!DISNEY_CHANNEL!.z?7
-Disney Jr	https://1.0!DISNEY_JR!.z?7
-Disney XD	https://1.0!DISNEY_XD!.z?7
-DIY	https://1.0!DIY!.z?7
-Epix Drive In	https://1.0!EPIX_DRIVE_IN!.z?7
-ESPN 2	https://1.0!ESPN_2!.z?7
-ESPN News	https://1.0!ESPN_NEWS!.z?7
-ESPN U	https://1.0!ESPN_U!.z?7
-Food Network	https://1.0!FOOD_NETWORK!.z?7
-Fox Business Network	https://1.0!FOX_Business_Network!.z?7
-Fox East	https://1.0!FOX_EAST!.z?7
-Fox Soul	https://1.0!FOX_SOUL!.z?7
-Fox Sports 1	https://1.0!FOX_Sports_1!.z?7
-Fox Sports 2	https://1.0!FOX_SPORTS_2!.z?7
-Free Form	https://1.0!FREE_FORM!.z?7
-FX	https://1.0!FX!.z?7
-FX Movie	https://1.0!FX_MOVIE!.z?7
-FXX	https://1.0!FXX!.z?7
-FYI	https://1.0!FYI!.z?7
-Game Show Network	https://1.0!GAME_SHOW_NETWORK!.z?7
-Golf Channel	https://1.0!GOLF_CHANNEL!.z?7
-Grit TV	https://1.0!GRIT_TV!.z?7
-Hallmark Channel	https://1.0!HALLMARK_CHANNEL!.z?7
-Hallmark Drama	https://1.0!HALLMARK_DRAMA!.z?7
-Hallmark Movies Mysteries	https://1.0!HALLMARK_MOVIES_MYSTERIES!.z?7
-HBO 1	https://1.0!HBO!.z?7
-HBO 2	https://1.0!HBO_2!.z?7
-HBO Comedy	https://1.0!HBO_COMEDY!.z?7
-HBO Family	https://1.0!HBO_FAMILY!.z?7
-HGTV	https://1.0!HGTV!.z?7
-HLN	https://1.0!HLN!.z?7
-HSN	https://1.0!HSN!.z?7
-INSP	https://1.0!INSP!.z?7
-Investigation Discovery	https://1.0!INVESTIGATION_DISCOVERY!.z?7
-ION TV	https://1.0!ION_TV!.z?7
-Lifetime	https://1.0!LIFETIME!.z?7
-Lifetime Movie Network	https://1.0!LIFETIME_MOVIE_NETWORK!.z?7
-Love Nature	https://1.0!LOVE_NATURE!.z?7
-Me TV	https://1.0!ME_TV!.z?7
-MLB Network	https://1.0!MLB_NETWORK!.z?7
-Motor Trend	https://1.0!MOTOR_TREND!.z?7
-MSG	https://1.0!MSG!.z?7
-MTV 1	https://1.0!MTV!.z?7
-MTV 2	https://1.0!MTV_2!.z?7
-MTV Classic	https://1.0!MTV_CLASSIC!.z?7
-MTV Live	https://1.0!MTV_LIVE!.z?7
-MTV U	https://1.0!MTV_U!.z?7
-Much	https://1.0!MUCH!.z?7
-Nat Geo Wild	https://1.0!Nat_Geo_Wild!.z?7
-National Geographic	https://1.0!National_Geographic!.z?7
-NBA 2	https://1.0!NBA_2!.z?7
-NBA TV	https://1.0!NBA_TV!.z?7
-NBC East	https://1.0!NBC_EAST!.z?7
-News Nation	https://1.0!NEWS_NATION!.z?7
-NFL Network	https://1.0!NFL_NETWORK!.z?7
-NFL RedZone	https://1.0!NFL_RedZone!.z?7
-NHL Network	https://1.0!NHL_NETWORK!.z?7
-Nick Jr	https://1.0!NICK_JR!.z?7
-Nick Music	https://1.0!NICK_MUSIC!.z?7
-Nickelodeon	https://1.0!NICKELODEON!.z?7
-Nicktoons	https://1.0!NICKTOONS!.z?7
-Outer Max	https://1.0!OUTER_MAX!.z?7
-Outside TV	https://1.0!OUTSIDE_TV!.z?7
-Ovation	https://1.0!Ovation!.z?7
-OWN	https://1.0!OWN!.z?7
-Oxygen	https://1.0!OXYGEN!.z?7
-Paramount Network	https://1.0!PARAMOUNT_NETWORK!.z?7
-QVC	https://1.0!QVC!.z?7
-Reelz	https://1.0!REELZ!.z?7
-Revolt	https://1.0!REVOLT!.z?7
-SEC Network	https://1.0!SEC_NETWORK!.z?7
-Showtime 1	https://1.0!SHOWTIME!.z?7
-Showtime 2	https://1.0!SHOWTIME_2!.z?7
-Showtime Extreme	https://1.0!SHOWTIME_EXTREME!.z?7
-Showtime Next	https://1.0!SHOWTIME_NEXT!.z?7
-Showtime West	https://1.0!SHOWTIME_WEST!.z?7
-Showtime Women	https://1.0!SHOWTIME_WOMEN!.z?7
-Smithsonian Channel	https://1.0!SMITHSONIAN_CHANNEL!.z?7
-Sportsman Channel	https://1.0!SPORTSMAN_CHANNEL!.z?7
-Start TV	https://1.0!Start_Tv!.z?7
-Starz	https://1.0!STARZ!.z?7
-Starz Comedy	https://1.0!STARZ_COMEDY!.z?7
-Starz Edge	https://1.0!STARZ_EDGE!.z?7
-Starz Encore	https://1.0!STARZ_ENCORE!.z?7
-Starz Encore Action	https://1.0!STARZ_ENCORE_ACTION!.z?7
-Starz Encore Classic	https://1.0!STARZ_ENCORE_CLASSIC!.z?7
-Starz Encore Westerns	https://1.0!STARZ_ENCORE_WESTERNS!.z?7
-Sundance	https://1.0!SUNDANCE!.z?7
-SYFY	https://1.0!SYFY!.z?7
-TBS	https://1.0!TBS!.z?7
-TCM	https://1.0!TCM!.z?7
-Tennis Channel	https://1.0!TENNIS_CHANNEL!.z?7
-The Weather Channel	https://1.0!THE_WEATHER_CHANNEL!.z?7
-TLC	https://1.0!TLC!.z?7
-TNT	https://1.0!TNT!.z?7
-Travel Channel	https://1.0!Travel_Channel!.z?7
-TRU TV	https://1.0!TRU_TV!.z?7
-TV Land	https://1.0!TV_Land!.z?7
-TV One	https://1.0!TV_ONE!.z?7
-USA Network	https://1.0!USA_Network!.z?7
-VH1	https://1.0!VH1!.z?7
-Viceland	https://1.0!VICELAND!.z?7
-W Network	https://1.0!W_NETWORK!.z?7
-WE TV	https://1.0!WE_TV!.z?7
-WGN	https://1.0!WGN!.z?7
-World Fishing Network	https://1.0!WORLD_FISHING_NETWORK!.z?7
-Yes Network	https://1.0!YES_NETWORK!.z?7
 
 	^-
 👉[l]{h} Ⓟc12[z] All Pluto TV Channels👈	^^h12
