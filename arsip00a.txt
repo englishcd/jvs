@@ -27,7 +27,9 @@ SpoTV 1 👇	00!0!2/1052588?zyy
 [l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
 [l]{h} Ⓒb1[z] America [y]Sports & TV[z]	^^hb1
 
-[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]	^^hb3
+	^-
+Arena Sport 1 SK	00!b002550/index.m3u8
+👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
 
 	^-
 GolTV 👇	00!0!0/9595?zyy
