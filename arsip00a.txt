@@ -60,7 +60,9 @@ GolTV 👇	00!0!0/9595?zyy
 ^=👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
 
 ^=	^-
-^=liga-1-max+	^+https://www.telegratishd.com/liga-1-max-en-vivo.html
+^=liga-1-max+	^+https://deportes.ksdjugfsddeports.com/
+^=liga1max	`0https://deportes.ksdjugfsddeports.com/stream.php?canal=liga1max&target=1
+^=liga 1 max	`0https://www.telegratishd.com/live/liga1max.php
 ^=liga-1-max	`0https://www.telegratishd.com/liga-1-max-en-vivo.html
 ^=Ind0514r	!pt!205
 ^=Mentar! 8237	!pt!8237
