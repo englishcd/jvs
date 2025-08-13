@@ -15,19 +15,6 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 
 13-08-2025	^-
 
-19:00 [y]AFC Champions League 2[z]	^-
-Persib Bandung vs Manila Digger FC	https://live.inplyr.com/room/285067.m3u8
-Persib Bandung vs Manila Digger FC	https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8pzT4daD/live.isml/.m3u8
-Persib Bandung vs Manila Digger FC	`*https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODA2NTM3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=4
-Persib Bandung vs Manila Digger FC	`*https://www.fctv33.net/football/afc-champions-league-2-match-4211098/persib-bandung-vs-manila-digger-fc-08-2025.html
-
-19:30 [l]AFF U23 Women’s Championship[z]	^-
-Australia 🇦🇺 vs Timor Leste 🇹🇱	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-Australia 🇦🇺 vs Timor Leste 🇹🇱	`*https://www.fctv33.net/football/aff-womens-championship-match-4248088/australia-w-u23-vs-timor-leste-w-08-2025.html
-
-Philippines 🇵🇭 vs Myanmar 🇲🇲	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-Philippines 🇵🇭 vs Myanmar 🇲🇲	`*https://www.fctv33.net/football/aff-womens-championship-match-4248090/philippines-women-vs-myanmar-w-08-2025.html
-
 21:00 [l]CAF African Nations Championship[z]	^-
 Madagascar 🇲🇬 vs Central African Rep 🇨🇫	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232098/madagascar-vs-central-african-republic-08-2025.html
 
@@ -64,6 +51,7 @@ GolTV 👇	00!0!0/9595?zyy
 ^=	^-
 ^=liga-1-max+	^+https://deportes.ksdjugfsddeports.com/
 ^=liga-1-max	`0https://www.telegratishd.com/liga-1-max-en-vivo.html
+^=espn lat	https://la14hd.com/vivo/canales.php?stream=espn
 ^=Ind0514r	!pt!205
 ^=Mentar! 8237	!pt!8237
 ^=Live Day	`0https://dlhd.click/
