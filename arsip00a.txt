@@ -13,12 +13,6 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-13-08-2025	^-
-
-21:00 [l]CAF African Nations Championship[z]	^-
-Madagascar 🇲🇬 vs Central African Rep 🇨🇫	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-Madagascar 🇲🇬 vs Central African Rep 🇨🇫	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232098/madagascar-vs-central-african-republic-08-2025.html
-
 14-08-2025	^-
 
 00:00 [l]CAF African Nations Championship[z]	^-
@@ -27,6 +21,8 @@ Mauritania 🇲🇷 vs Burkina Faso 🇧🇫	`*https://www.fctv33.net/football/c
 
 02:00 [y]UEFA Super Cup[z]	^-
 Paris St Germain vs Tottenham Hotspur	https://1.0!CBS_SPORTS_NETWORK!.z?7
+Paris St Germain vs Tottenham Hotspur	i3!16/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+Paris St Germain vs Tottenham Hotspur	https://z.1UK_TNT_SPORTS_1/index.m3u8
 Paris St Germain vs Tottenham Hotspur	`*https://www.fctv33.net/football/uefa-super-cup-match-4193482/paris-saint-germain-vs-tottenham-hotspur-08-2025.html
 
 ^@	^-
@@ -53,7 +49,6 @@ GolTV 👇	00!0!0/9595?zyy
 ^=	^-
 ^=liga-1-max+	^+https://deportes.ksdjugfsddeports.com/
 ^=liga-1-max	`0https://www.telegratishd.com/liga-1-max-en-vivo.html
-^=espn1lat	https://aw1wcm92zq.fubohd.com:443/espn/mono.m3u8?token=41f90f58bba69538cea7cfb1d95dd523c921134d-2f-1755114919-1755096919
 ^=Ind0514r	!pt!205
 ^=Mentar! 8237	!pt!8237
 ^=Live Day	`0https://dlhd.click/
