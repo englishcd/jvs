@@ -53,6 +53,7 @@ GolTV 👇	00!0!0/9595?zyy
 ^=	^-
 ^=liga-1-max+	^+https://deportes.ksdjugfsddeports.com/
 ^=liga-1-max	`0https://www.telegratishd.com/liga-1-max-en-vivo.html
+^=espn1lat	https://aw1wcm92zq.fubohd.com:443/espn/mono.m3u8?token=41f90f58bba69538cea7cfb1d95dd523c921134d-2f-1755114919-1755096919
 ^=Ind0514r	!pt!205
 ^=Mentar! 8237	!pt!8237
 ^=Live Day	`0https://dlhd.click/
