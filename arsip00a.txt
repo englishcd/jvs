@@ -13,23 +13,50 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-14-08-2025	^-
-
-21:00 [l]CAF African Nations Championship[z]	^-
-Morocco 🇲🇦 vs Zambia 🇿🇲	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-Morocco 🇲🇦 vs Zambia 🇿🇲	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232726/morocco-vs-zambia-08-2025.html
-
-23:00 [g]International Club Friendly[z]	^-
-Napoli vs Olympiakos Piraeus	`*https://www.fctv33.net/football/international-club-friendly-match-4251158/napoli-vs-olympiakos-piraeus-08-2025.html
-
 15-08-2025	^-
-
-00:00 [l]CAF African Nations Championship[z]	^-
-Angola 🇦🇴 vs Democratic Rep Congo 🇨🇩	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-Angola 🇦🇴 vs Democratic Rep Congo 🇨🇩	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232720/angola-vs-democratic-republic-of-the-congo-08-2025.html
 
 15:30 [y]Liga 1[z]	^-
 Semen Padang vs Dewa United FC	`*https://www.fctv33.net/football/indonesian-liga-1-match-4233516/semen-padang-vs-dewa-united-fc-08-2025.html
+
+19:00 [y]Liga 1[z]	^-
+Malut United vs Bali United	`*https://www.fctv33.net/football/indonesian-liga-1-match-4237589/malut-united-vs-bali-united-08-2025.html
+
+21:00 [l]CAF African Nations Championship[z]	^-
+Guinea 🇬🇳 vs Algeria 🇩🇿	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210481/guinea-vs-algeria-08-2025.html
+
+23:00 [y]DFB Pokal[z]	^-
+Sonnenhof Gross vs Bayer Leverkusen	`*https://www.fctv33.net/football/dfb-pokal-match-4211440/sg-sonnenhof-grossaspach-vs-bayer-04-leverkusen-08-2025.html
+1. FC Saarbrücken vs 1. FC Magdeburg	`*https://www.fctv33.net/football/dfb-pokal-match-4199944/1-fc-saarbrcken-vs-1-fc-magdeburg-08-2025.html
+Gutersloh vs Union Berlin	`*https://www.fctv33.net/football/dfb-pokal-match-4199945/gutersloh-vs-1-fc-union-berlin-08-2025.html
+
+23:00 [y]Coppa Italia[z]	^-
+Empoli vs A.C. Reggiana 1919	`*https://www.fctv33.net/football/coppa-italia-match-4236332/empoli-vs-ac-reggiana-1919-08-2025.html
+
+23:30 [y]Coppa Italia[z]	^-
+Sassuolo vs Catanzaro	`*https://www.fctv33.net/football/coppa-italia-match-4225847/sassuolo-vs-catanzaro-08-2025.html
+
+16-08-2025	^-
+
+00:00 [l]CAF African Nations Championship[z]	^-
+Niger 🇳🇪 vs South Africa 🇿🇦	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210476/niger-vs-south-africa-08-2025.html
+
+00:30 [y]Spanish La Liga[z]	^-
+Girona vs Rayo Vallecano	`*https://www.fctv33.net/football/spanish-la-liga-match-4227791/girona-fc-vs-rayo-vallecano-08-2025.html
+
+00:30 [y]Netherlands Eredivisie[z]	^-
+SC Telstar vs PEC Zwolle	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200818/sc-telstar-vs-pec-zwolle-08-2025.html
+
+01:45 [y]DFB Pokal[z]	^-
+Arminia Bielefeld vs Werder Bremen	`*https://www.fctv33.net/football/dfb-pokal-match-4199953/arminia-bielefeld-vs-sv-werder-bremen-08-2025.html
+
+01:45 [y]Coppa Italia[z]	^-
+Lecce vs Juve Stabia	`*https://www.fctv33.net/football/coppa-italia-match-4236333/lecce-vs-juve-stabia-08-2025.html
+
+02:00 [y]English Premier League[z]	^-
+Liverpool vs Bournemouth AFC	`*https://www.fctv33.net/football/english-premier-league-match-4223050/liverpool-vs-bournemouth-afc-08-2025.html
+
+02:30 [y]Spanish La Liga[z]	^-
+Villarreal vs Real Oviedo	`*https://www.fctv33.net/football/spanish-la-liga-match-4229340/villarreal-cf-vs-real-oviedo-08-2025.html
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
@@ -118,20 +145,120 @@ Tap Action	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix
 Tap Movies	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd!!71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 
 	^-
+[l]Embedded Sports & TV Channels[z]	^-
+Azteca 7 🇲🇽	!zz.azteca7
+Azteca Deportes 🇲🇽	!zz.azteca_deportes
+beIN Sports Espanol 🇺🇸	!zz.beinsportes
+beIN Sports Xtra Espanol 🇺🇸	!zz.beinsport_xtra_espanol
+Caliente 🇲🇽	!zz.calientetv
+Canal 11 🇵🇹	!zz.canal11_pt
+Canal 5 🇲🇽	!zz.canal5
+CBS Sports Network 🇺🇸	!zz.cbs_sports_network
+DAZN LaLiga 🇪🇸	!zz.dazn_laliga
+DAZN 🇩🇪 1	!zz.dazn1_de
+DAZN 🇩🇪 2	!zz.dazn2_de
+DAZN 🇪🇸 1	!zz.dazn1
+DAZN 🇪🇸 2	!zz.dazn2
+DAZN 🇪🇸 3	!zz.dazn3
+DAZN 🇪🇸 4	!zz.dazn4
+DSports Lat 1	!zz.dsports
+DSports Lat 2	!zz.dsports2
+DSports Plus Lat	!zz.dsportsplus
+ECDF LigaPro Event Lat	!zz.ecdf_ligapro
+Eleven Pro 🇧🇪 1	!zz.elevenpro1_be
+Eleven 🇵🇹 1	!zz.eleven1_pt
+Eleven 🇵🇹 2	!zz.eleven2_pt
+Eleven 🇵🇹 3	!zz.eleven3_pt
+Eleven 🇵🇹 4	!zz.eleven4_pt
+Eleven 🇵🇹 5	!zz.eleven5_pt
+Eleven 🇵🇹 6	!zz.eleven6_pt
+ESPN Deportes 🇺🇸	!zz.espndeportes
+ESPN Lat 1	!zz.espn
+ESPN Lat 2	!zz.espn2
+ESPN Lat 3	!zz.espn3
+ESPN Lat 4	!zz.espn4
+ESPN Lat 5	!zz.espn5
+ESPN Lat 6	!zz.espn6
+ESPN Lat 7	!zz.espn7
+ESPN Premium 🇦🇷	!zz.espnpremium
+ESPN U 🇺🇸	!zz.espnu
+ESPN 🇲🇽 1	!zz.espnmx
+ESPN 🇲🇽 2	!zz.espn2mx
+ESPN 🇲🇽 3	!zz.espn3mx
+ESPN 🇲🇽 4	!zz.espn4mx
+ESPN 🇳🇱 1	!zz.espn1_nl
+ESPN 🇳🇱 2	!zz.espn2_nl
+ESPN 🇳🇱 3	!zz.espn3_nl
+ESPN 🇺🇸 1	!zz.espn_usa
+ESPN 🇺🇸 2	!zz.espn2_usa
+Fox Deportes 🇺🇸	!zz.foxdeportes
+Fox Sports Premium 🇲🇽	!zz.foxsportspremium
+Fox Sports 🇦🇷 1	!zz.foxsports
+Fox Sports 🇦🇷 2	!zz.foxsports2
+Fox Sports 🇦🇷 3	!zz.foxsports3
+Fox Sports 🇲🇽 1	!zz.foxsportsmx
+Fox Sports 🇲🇽 2	!zz.foxsports2mx
+Fox Sports 🇲🇽 3	!zz.foxsports3mx
+Fox Sports 🇺🇸 1	!zz.foxsports1_usa
+Fox Sports 🇺🇸 2	!zz.foxsports2_usa
+Gol TV Lat	!zz.goltv
+Gol 🇵🇪	!zz.golperu
+Hisports 🇲🇽	!zz.hisports
+La 1 TVE 🇪🇸	!zz.la1tve
+LaLiga TV Bar 🇪🇸	!zz.laligatvbar
+Liga 1 Max 🇵🇪	!zz.liga1max
+Liga de Campeones 🇪🇸 1	!zz.ligadecampeones1
+Liga de Campeones 🇪🇸 2	!zz.ligadecampeones2
+Liga de Campeones 🇪🇸 3	!zz.ligadecampeones3
+M LaLiga TV 🇪🇸	!zz.m_laligatv
+Movistar 🇵🇪	!zz.movistar
+Premiere 🇧🇷 1	!zz.premiere1
+Premiere 🇧🇷 2	!zz.premiere2
+Premiere 🇧🇷 3	!zz.premiere3
+Premiere 🇧🇷 4	!zz.premiere4
+Premiere 🇧🇷 5	!zz.premiere5
+Premiere 🇧🇷 6	!zz.premiere6
+Premiere 🇧🇷 7	!zz.premiere7
+Premiere 🇧🇷 8	!zz.premiere8
+Sky Bundesliga 🇩🇪 1	!zz.sky_bundesliga1
+Sky Bundesliga 🇩🇪 2	!zz.sky_bundesliga2
+Sky Bundesliga 🇩🇪 3	!zz.sky_bundesliga3
+Sky Bundesliga 🇩🇪 4	!zz.sky_bundesliga4
+Sky Bundesliga 🇩🇪 5	!zz.sky_bundesliga5
+Sky Bundesliga 🇲🇽	!zz.sky_bundesliga_mx
+Sky Sports LaLiga 🇲🇽	!zz.sky_sports_laliga
+Sport TV 🇵🇹 1	!zz.sporttv1
+Sport TV 🇵🇹 2	!zz.sporttv2
+Sport TV 🇵🇹 3	!zz.sporttv3
+Sport TV 🇵🇹 4	!zz.sporttv4
+Sport TV 🇵🇹 5	!zz.sporttv5
+Sport TV 🇵🇹 6	!zz.sporttv6
+Sportv 🇧🇷 1	!zz.sportv
+Sportv 🇧🇷 2	!zz.sportv2
+Sportv 🇧🇷 3	!zz.sportv3
+Telefe 🇦🇷	!zz.telefe
+Telemundo 🇺🇸	!zz.telemundo
+TNT Sports 🇦🇷	!zz.tntsports
+TNT Sports 🇨🇱	!zz.eventos13
+TUDN 🇲🇽	!zz.tudn_mx
+TUDN 🇺🇸	!zz.tudn
+TV Publica 🇦🇷	!zz.tvpublica
+TVC Deportes 🇲🇽	!zz.tvc_deportes
+TyC International 🇦🇷	!zz.tycinternacional
+TyC Sports 🇦🇷	!zz.tycsports
+Unimas 🇺🇸	!zz.unimas
+Universo 🇺🇸	!zz.universo
+Univision 🇺🇸	!zz.univision
+USA Network 🇺🇸	!zz.usanetwork
+VTV Plus Lat	!zz.vtvplus
+Win Sports Plus 🇨🇴 1	!zz.winsportsplus
+Win Sports Plus 🇨🇴 2	!zz.winsports2
+Win Sports 🇨🇴	!zz.winsports
+
+	^-
 [w]ID Live Sport & TV Channels[z]	^-
 
 ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-Sports ID 3	https://fta4!vfc!63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-Sports ID 4	https://fta4!vfc!2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-beIN Sports ID 1	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-beIN Sports ID 2	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-
-	^-
 AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
 AniPlus	https://khano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
 ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
@@ -204,6 +331,17 @@ TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 TVRI Sports	https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 TVRI World	https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+	^-
+Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+Sports ID 3	https://fta4!vfc!63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+Sports ID 4	https://fta4!vfc!2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+beIN Sports ID 1	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+beIN Sports ID 2	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 
 	^-
 [w]Sport Channels & TV[z]	^-
