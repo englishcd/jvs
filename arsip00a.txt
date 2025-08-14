@@ -15,17 +15,21 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 
 14-08-2025	^-
 
-00:00 [l]CAF African Nations Championship[z]	^-
-Mauritania 🇲🇷 vs Burkina Faso 🇧🇫	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-Mauritania 🇲🇷 vs Burkina Faso 🇧🇫	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232094/mauritania-vs-burkina-faso-08-2025.html
+21:00 [l]CAF African Nations Championship[z]	^-
+Morocco 🇲🇦 vs Zambia 🇿🇲	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
+Morocco 🇲🇦 vs Zambia 🇿🇲	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232726/morocco-vs-zambia-08-2025.html
 
-02:00 [y]UEFA Super Cup[z]	^-
-Paris St Germain vs Tottenham Hotspur	https://1.0!CBS_SPORTS_NETWORK!.z?7
-Paris St Germain vs Tottenham Hotspur	i3!16/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-Paris St Germain vs Tottenham Hotspur	https://z.1UK_TNT_SPORTS_1/index.m3u8
-Paris St Germain vs Tottenham Hotspur	`0https://live.samuraitv.biz.id/p/arena1.html
-Paris St Germain vs Tottenham Hotspur	`0https://streaming.sportsnews.id/p/arena1p.html
-Paris St Germain vs Tottenham Hotspur	`*https://www.fctv33.net/football/uefa-super-cup-match-4193482/paris-saint-germain-vs-tottenham-hotspur-08-2025.html
+23:00 [g]International Club Friendly[z]	^-
+Napoli vs Olympiakos Piraeus	`*https://www.fctv33.net/football/international-club-friendly-match-4251158/napoli-vs-olympiakos-piraeus-08-2025.html
+
+15-08-2025	^-
+
+00:00 [l]CAF African Nations Championship[z]	^-
+Angola 🇦🇴 vs Democratic Rep Congo 🇨🇩	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
+Angola 🇦🇴 vs Democratic Rep Congo 🇨🇩	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232720/angola-vs-democratic-republic-of-the-congo-08-2025.html
+
+15:30 [y]Liga 1[z]	^-
+Semen Padang vs Dewa United FC	`*https://www.fctv33.net/football/indonesian-liga-1-match-4233516/semen-padang-vs-dewa-united-fc-08-2025.html
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
