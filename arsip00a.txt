@@ -15,9 +15,87 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 
 16-08-2025	^-
 
+15:30 Liga 1	^-
+Persita Tangerang vs Persebaya Surabaya	`*https://www.fctv33.net/football/indonesian-liga-1-match-4229447/persita-tangerang-vs-persebaya-surabaya-08-2025.html
+PSIM Yogyakarta vs Arema FC	`*https://www.fctv33.net/football/indonesian-liga-1-match-4229464/psim-yogyakarta-vs-arema-fc-08-2025.html
+Bhayangkara Solo FC vs PSM Makassar	`*https://www.fctv33.net/football/indonesian-liga-1-match-4235461/bhayangkara-presisi-indonesia-fc-vs-psm-makassar-08-2025.html
+Persik Kediri vs Madura United	`*https://www.fctv33.net/football/indonesian-liga-1-match-4237591/persik-kediri-vs-madura-united-08-2025.html
+
+16:00 [l]AFF U23 Women’s Championship[z]	^-
+Myanmar 🇲🇲 vs Thailand 🇹🇭	`*https://www.fctv33.net/football/aff-womens-championship-match-4258085/myanmar-w-vs-thailand-w-08-2025.html
+
+18:00 [g]DFB Pokal[z]	^-
+Berliner FC Dynamo vs VfL Bochum	`*https://www.fctv33.net/football/dfb-pokal-match-4198662/berliner-fc-dynamo-vs-vfl-bochum-1848-08-2025.html
+FK Pirmasens vs Hamburger SV	`*https://www.fctv33.net/football/dfb-pokal-match-4212653/fk-pirmasens-vs-hamburger-sv-08-2025.html
+
+18:30 [y]English Premier League[z]	^-
+Aston Villa vs Newcastle United	`*https://www.fctv33.net/football/english-premier-league-match-4225938/aston-villa-vs-newcastle-united-08-2025.html
+
+19:00 Liga 1	^-
+Persis Solo FC vs Persija Jakarta	`*https://www.fctv33.net/football/indonesian-liga-1-match-4238166/persis-solo-fc-vs-persija-jakarta-08-2025.html
+
+20:00 [l]AFF U23 Women’s Championship[z]	^-
+Vietnam 🇻🇳 vs Australia 🇦🇺	`*https://www.fctv33.net/football/aff-womens-championship-match-4258094/vietnam-women-vs-australia-w-u23-08-2025.html
+
+20:30 [g]DFB Pokal[z]	^-
+Hansa Rostock vs TSG Hoffenheim	`*https://www.fctv33.net/football/dfb-pokal-match-4197766/hansa-rostock-vs-tsg-hoffenheim-08-2025.html
+FV Illertissen vs 1. FC Nürnberg	`*https://www.fctv33.net/football/dfb-pokal-match-4199050/fv-illertissen-vs-1-fc-nrnberg-08-2025.html
+Eintracht Norderstedt vs FC St. Pauli	`*https://www.fctv33.net/football/dfb-pokal-match-4199640/eintracht-norderstedt-vs-fc-st-pauli-08-2025.html
+SV Sandhausen vs RB Leipzig	`*https://www.fctv33.net/football/dfb-pokal-match-4213410/sv-sandhausen-vs-rb-leipzig-08-2025.html
+
+20:30 [g]DFB Pokal[z]	^-
+SV Hemelingen vs VfL Wolfsburg	`*https://www.fctv33.net/football/dfb-pokal-match-4237751/sv-hemelingen-vs-vfl-wolfsburg-08-2025.html
+
+21:00 [y]English Premier League[z]	^-
+Tottenham Hotspur vs Burnley	`*https://www.fctv33.net/football/english-premier-league-match-4193834/tottenham-hotspur-vs-burnley-08-2025.html
+Sunderland A.F.C vs West Ham United	`*https://www.fctv33.net/football/english-premier-league-match-4220550/sunderland-vs-west-ham-united-08-2025.html
+Brighton Hove Albion vs Fulham	`*https://www.fctv33.net/football/english-premier-league-match-4226053/brighton-hove-albion-vs-fulham-08-2025.html
+
+22:00 [y]French Ligue 1[z]	^-
+Lens vs Lyon	`*https://www.fctv33.net/football/french-ligue-1-match-4212065/rc-lens-vs-lyon-08-2025.html
+
+23:00 [g]DFB Pokal[z]	^-
+Energie Cottbus vs Hannover 96	`*https://www.fctv33.net/football/dfb-pokal-match-4198282/energie-cottbus-vs-hannover-96-08-2025.html
+Sportfreunde Lotte vs SC Freiburg	`*https://www.fctv33.net/football/dfb-pokal-match-4200008/sportfreunde-lotte-vs-sc-freiburg-08-2025.html
+
+23:30 [y]English Premier League[z]	^-
+Wolves vs Manchester City	`*https://www.fctv33.net/football/english-premier-league-match-4196058/wolverhampton-wanderers-vs-manchester-city-08-2025.html
+
+23:30 [g]Coppa Italia[z]	^-
+Como vs SudTirol	`*https://www.fctv33.net/football/coppa-italia-match-4226543/como-vs-sudtirol-08-2025.html
+
+23:45 [y]Netherlands Eredivisie[z]	^-
+Excelsior SBV vs Feyenoord	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4208303/excelsior-sbv-vs-feyenoord-08-2025.html
+
+17-08-2025	^-
+
+00:00 [y]French Ligue 1[z]	^-
+Monaco vs Le Havre	`*https://www.fctv33.net/football/french-ligue-1-match-4219954/as-monaco-vs-havre-athletic-club-08-2025.html
+
+00:00 [l]CAF African Nations Championship[z]	^-
+Burkina Faso 🇧🇫 vs Madagascar 🇲🇬	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232099/burkina-faso-vs-madagascar-08-2025.html
+
+00:30 [y]Spanish La Liga[z]	^-
+Mallorca vs FC Barcelona	`*https://www.fctv33.net/football/spanish-la-liga-match-4234429/rcd-mallorca-vs-fc-barcelona-08-2025.html
+
+01:00 [y]Netherlands Eredivisie[z]	^-
+Heracles Almelo vs NEC Nijmegen	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4201753/heracles-almelo-vs-nec-nijmegen-08-2025.html
+
+01:30 [g]German Super Cup[z]	^-
+VfB Stuttgart vs Bayern Munchen	`*https://www.fctv33.net/football/german-super-cup-match-4193833/vfb-stuttgart-vs-fc-bayern-munich-08-2025.html
+
+02:00 [y]Netherlands Eredivisie[z]	^-
+Groningen vs SC Heerenveen	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199122/groningen-vs-sc-heerenveen-08-2025.html
+
+02:05 [y]French Ligue 1[z]	^-
+Nice vs Toulouse	`*https://www.fctv33.net/football/french-ligue-1-match-4211931/ogc-nice-vs-toulouse-fc-08-2025.html
+
+02:15 [g]Coppa Italia[z]	^-
+Cremonese vs Palermo	`*https://www.fctv33.net/football/coppa-italia-match-4231522/cremonese-vs-palermo-08-2025.html
+
 02:30 [y]Spanish La Liga[z]	^-
-Villarreal vs Real Oviedo	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-Villarreal vs Real Oviedo	`*https://www.fctv33.net/football/spanish-la-liga-match-4229340/villarreal-cf-vs-real-oviedo-08-2025.html
+Deportivo Alavés vs Levante	`*https://www.fctv33.net/football/spanish-la-liga-match-4220866/deportivo-alavs-vs-levante-08-2025.html
+Valencia vs Real Sociedad	`*https://www.fctv33.net/football/spanish-la-liga-match-4227783/valencia-cf-vs-real-sociedad-08-2025.html
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
