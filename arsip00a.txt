@@ -24,9 +24,11 @@ Sonnenhof Gross vs Bayer Leverkusen	https://dash2.antik.sk/stream/nvidia_nova_sp
 Sonnenhof Gross vs Bayer Leverkusen	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
 Sonnenhof Gross vs Bayer Leverkusen	`*https://www.fctv33.net/football/dfb-pokal-match-4211440/sg-sonnenhof-grossaspach-vs-bayer-04-leverkusen-08-2025.html
 1. FC Saarbrücken vs 1. FC Magdeburg	`*https://www.fctv33.net/football/dfb-pokal-match-4199944/1-fc-saarbrcken-vs-1-fc-magdeburg-08-2025.html
+Gutersloh vs Union Berlin	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Gutersloh vs Union Berlin	`*https://www.fctv33.net/football/dfb-pokal-match-4199945/gutersloh-vs-1-fc-union-berlin-08-2025.html
 
 23:00 [y]Coppa Italia[z]	^-
+Empoli vs A.C. Reggiana 1919	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 Empoli vs A.C. Reggiana 1919	`*https://www.fctv33.net/football/coppa-italia-match-4236332/empoli-vs-ac-reggiana-1919-08-2025.html
 
 23:30 [y]Coppa Italia[z]	^-
@@ -46,15 +48,25 @@ Girona vs Rayo Vallecano	`*https://www.fctv33.net/football/spanish-la-liga-match
 SC Telstar vs PEC Zwolle	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200818/sc-telstar-vs-pec-zwolle-08-2025.html
 
 01:45 [y]DFB Pokal[z]	^-
+Arminia Bielefeld vs Werder Bremen	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+Arminia Bielefeld vs Werder Bremen	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,!!3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
 Arminia Bielefeld vs Werder Bremen	`*https://www.fctv33.net/football/dfb-pokal-match-4199953/arminia-bielefeld-vs-sv-werder-bremen-08-2025.html
 
 01:45 [y]Coppa Italia[z]	^-
+Lecce vs Juve Stabia	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Lecce vs Juve Stabia	`*https://www.fctv33.net/football/coppa-italia-match-4236333/lecce-vs-juve-stabia-08-2025.html
 
+01:45 [y]French Ligue 1[z]	^-
+Rennes vs Marseille	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+Rennes vs Marseille	`*https://www.fctv33.net/football/french-ligue-1-match-4217226/stade-rennais-fc-vs-marseille-08-2025.html
+
 02:00 [y]English Premier League[z]	^-
+Liverpool vs Bournemouth AFC	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd!!333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+Liverpool vs Bournemouth AFC	https://z.1UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
 Liverpool vs Bournemouth AFC	`*https://www.fctv33.net/football/english-premier-league-match-4223050/liverpool-vs-bournemouth-afc-08-2025.html
 
 02:30 [y]Spanish La Liga[z]	^-
+Villarreal vs Real Oviedo	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 Villarreal vs Real Oviedo	`*https://www.fctv33.net/football/spanish-la-liga-match-4229340/villarreal-cf-vs-real-oviedo-08-2025.html
 
 ^@	^-
