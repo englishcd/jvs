@@ -30,6 +30,7 @@ Gutersloh vs Union Berlin	`*https://www.fctv33.net/football/dfb-pokal-match-4199
 Empoli vs A.C. Reggiana 1919	`*https://www.fctv33.net/football/coppa-italia-match-4236332/empoli-vs-ac-reggiana-1919-08-2025.html
 
 23:30 [y]Coppa Italia[z]	^-
+Sassuolo vs Catanzaro	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 Sassuolo vs Catanzaro	`*https://www.fctv33.net/football/coppa-italia-match-4225847/sassuolo-vs-catanzaro-08-2025.html
 
 16-08-2025	^-
