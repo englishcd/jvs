@@ -43,10 +43,10 @@ Sassuolo vs Catanzaro	`*https://www.fctv33.net/football/coppa-italia-match-42258
 00:00 [l]CAF African Nations Championship[z]	^-
 Niger 🇳🇪 vs South Africa 🇿🇦	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210476/niger-vs-south-africa-08-2025.html
 
-00:30 [y]Spanish La Liga[z]	^-
+00:00 [y]Spanish La Liga[z]	^-
 Girona vs Rayo Vallecano	`*https://www.fctv33.net/football/spanish-la-liga-match-4227791/girona-fc-vs-rayo-vallecano-08-2025.html
 
-00:30 [y]Netherlands Eredivisie[z]	^-
+01:00 [y]Netherlands Eredivisie[z]	^-
 SC Telstar vs PEC Zwolle	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200818/sc-telstar-vs-pec-zwolle-08-2025.html
 
 01:45 [y]DFB Pokal[z]	^-
