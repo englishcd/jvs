@@ -13,19 +13,14 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-15-08-2025	^-
-
-23:30 [y]Coppa Italia[z]	^-
-Sassuolo vs Catanzaro	https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
-Sassuolo vs Catanzaro	`*https://www.fctv33.net/football/coppa-italia-match-4225847/sassuolo-vs-catanzaro-08-2025.html
-
 16-08-2025	^-
 
 00:00 [l]CAF African Nations Championship[z]	^-
-Niger 🇳🇪 vs South Africa 🇿🇦	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
+Niger 🇳🇪 vs South Africa 🇿🇦	beIN Sports 2 🇦🇺	https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd!!9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
 Niger 🇳🇪 vs South Africa 🇿🇦	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210476/niger-vs-south-africa-08-2025.html
 
 00:00 [y]Spanish La Liga[z]	^-
+Girona vs Rayo Vallecano	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 Girona vs Rayo Vallecano	https://a.00/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 Girona vs Rayo Vallecano	`*https://www.fctv33.net/football/spanish-la-liga-match-4227791/girona-fc-vs-rayo-vallecano-08-2025.html
 
