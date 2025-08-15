@@ -16,6 +16,7 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 15-08-2025	^-
 
 19:00 [y]Liga 1[z]	^-
+Malut United vs Bali United	https://live.dktq4q.com/live/vrqwni4vjw2b4qn_fa9cb97097a19ea446abc3324cb6a254.m3u8
 Malut United vs Bali United	`*https://www.fctv33.net/football/indonesian-liga-1-match-4237589/malut-united-vs-bali-united-08-2025.html
 
 19:30 [l]International U17 Friendly[z]	^-
