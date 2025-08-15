@@ -15,16 +15,11 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 
 15-08-2025	^-
 
-15:30 [y]Liga 1[z]	^-
-Semen Padang vs Dewa United FC	https://live.inplyr.com/room/494201.m3u8
-Semen Padang vs Dewa United FC	https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=a9a4144b0a2140e731fea90b82c6223a&wsABSTime=1755290290
-Semen Padang vs Dewa United FC	https://bf.jalaplay.net/live/5004449_zsy.m3u8?txSecret=27ecf0d0ab0de3d66ffc8efcdb91e035&txTime=689ef07e
-Semen Padang vs Dewa United FC	`*https://www.fctv33.net/football/indonesian-liga-1-match-4233516/semen-padang-vs-dewa-united-fc-08-2025.html
-
 19:00 [y]Liga 1[z]	^-
 Malut United vs Bali United	`*https://www.fctv33.net/football/indonesian-liga-1-match-4237589/malut-united-vs-bali-united-08-2025.html
 
 19:30 [l]International U17 Friendly[z]	^-
+Indonesia 🇮🇩 vs Uzbekistan 🇺🇿	`*https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODUwNDQ5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Indonesia 🇮🇩 vs Uzbekistan 🇺🇿	`*https://www.fctv33.net/football/international-friendly-match-4256715/indonesia-u17-vs-uzbekistan-u17-08-2025.html
 
 21:00 [l]CAF African Nations Championship[z]	^-
