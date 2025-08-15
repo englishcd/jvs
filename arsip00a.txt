@@ -80,9 +80,6 @@ GolTV 👇	00!0!0/9595?zyy
 ^=👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
 
 ^=	^-
-^=Azteca 7	`0https://la14hd.com/vivo/canales.php?stream=azteca7
-^=liga-1-max+	^+https://deportes.ksdjugfsddeports.com/
-^=liga-1-max	`0https://www.telegratishd.com/liga-1-max-en-vivo.html
 ^=Ind0514r	!pt!205
 ^=Mentar! 8237	!pt!8237
 ^=Live Day	`0https://dlhd.click/
@@ -144,117 +141,6 @@ Hits	https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd!!dac605bc
 Kix	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd!!a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 Tap Action	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd!!bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 Tap Movies	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd!!71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
-
-	^-
-[l]Embedded Sports & TV Channels[z]	^-
-Azteca 7 🇲🇽	!zz.azteca7
-Azteca Deportes 🇲🇽	!zz.azteca_deportes
-beIN Sports Espanol 🇺🇸	!zz.beinsportes
-beIN Sports Xtra Espanol 🇺🇸	!zz.beinsport_xtra_espanol
-Caliente 🇲🇽	!zz.calientetv
-Canal 11 🇵🇹	!zz.canal11_pt
-Canal 5 🇲🇽	!zz.canal5
-CBS Sports Network 🇺🇸	!zz.cbs_sports_network
-DAZN LaLiga 🇪🇸	!zz.dazn_laliga
-DAZN 🇩🇪 1	!zz.dazn1_de
-DAZN 🇩🇪 2	!zz.dazn2_de
-DAZN 🇪🇸 1	!zz.dazn1
-DAZN 🇪🇸 2	!zz.dazn2
-DAZN 🇪🇸 3	!zz.dazn3
-DAZN 🇪🇸 4	!zz.dazn4
-DSports Lat 1	!zz.dsports
-DSports Lat 2	!zz.dsports2
-DSports Plus Lat	!zz.dsportsplus
-ECDF LigaPro Event Lat	!zz.ecdf_ligapro
-Eleven Pro 🇧🇪 1	!zz.elevenpro1_be
-Eleven 🇵🇹 1	!zz.eleven1_pt
-Eleven 🇵🇹 2	!zz.eleven2_pt
-Eleven 🇵🇹 3	!zz.eleven3_pt
-Eleven 🇵🇹 4	!zz.eleven4_pt
-Eleven 🇵🇹 5	!zz.eleven5_pt
-Eleven 🇵🇹 6	!zz.eleven6_pt
-ESPN Deportes 🇺🇸	!zz.espndeportes
-ESPN Lat 1	!zz.espn
-ESPN Lat 2	!zz.espn2
-ESPN Lat 3	!zz.espn3
-ESPN Lat 4	!zz.espn4
-ESPN Lat 5	!zz.espn5
-ESPN Lat 6	!zz.espn6
-ESPN Lat 7	!zz.espn7
-ESPN Premium 🇦🇷	!zz.espnpremium
-ESPN U 🇺🇸	!zz.espnu
-ESPN 🇲🇽 1	!zz.espnmx
-ESPN 🇲🇽 2	!zz.espn2mx
-ESPN 🇲🇽 3	!zz.espn3mx
-ESPN 🇲🇽 4	!zz.espn4mx
-ESPN 🇳🇱 1	!zz.espn1_nl
-ESPN 🇳🇱 2	!zz.espn2_nl
-ESPN 🇳🇱 3	!zz.espn3_nl
-ESPN 🇺🇸 1	!zz.espn_usa
-ESPN 🇺🇸 2	!zz.espn2_usa
-Fox Deportes 🇺🇸	!zz.foxdeportes
-Fox Sports Premium 🇲🇽	!zz.foxsportspremium
-Fox Sports 🇦🇷 1	!zz.foxsports
-Fox Sports 🇦🇷 2	!zz.foxsports2
-Fox Sports 🇦🇷 3	!zz.foxsports3
-Fox Sports 🇲🇽 1	!zz.foxsportsmx
-Fox Sports 🇲🇽 2	!zz.foxsports2mx
-Fox Sports 🇲🇽 3	!zz.foxsports3mx
-Fox Sports 🇺🇸 1	!zz.foxsports1_usa
-Fox Sports 🇺🇸 2	!zz.foxsports2_usa
-Gol TV Lat	!zz.goltv
-Gol 🇵🇪	!zz.golperu
-Hisports 🇲🇽	!zz.hisports
-La 1 TVE 🇪🇸	!zz.la1tve
-LaLiga TV Bar 🇪🇸	!zz.laligatvbar
-Liga 1 Max 🇵🇪	!zz.liga1max
-Liga de Campeones 🇪🇸 1	!zz.ligadecampeones1
-Liga de Campeones 🇪🇸 2	!zz.ligadecampeones2
-Liga de Campeones 🇪🇸 3	!zz.ligadecampeones3
-M LaLiga TV 🇪🇸	!zz.m_laligatv
-Movistar 🇵🇪	!zz.movistar
-Premiere 🇧🇷 1	!zz.premiere1
-Premiere 🇧🇷 2	!zz.premiere2
-Premiere 🇧🇷 3	!zz.premiere3
-Premiere 🇧🇷 4	!zz.premiere4
-Premiere 🇧🇷 5	!zz.premiere5
-Premiere 🇧🇷 6	!zz.premiere6
-Premiere 🇧🇷 7	!zz.premiere7
-Premiere 🇧🇷 8	!zz.premiere8
-Sky Bundesliga 🇩🇪 1	!zz.sky_bundesliga1
-Sky Bundesliga 🇩🇪 2	!zz.sky_bundesliga2
-Sky Bundesliga 🇩🇪 3	!zz.sky_bundesliga3
-Sky Bundesliga 🇩🇪 4	!zz.sky_bundesliga4
-Sky Bundesliga 🇩🇪 5	!zz.sky_bundesliga5
-Sky Bundesliga 🇲🇽	!zz.sky_bundesliga_mx
-Sky Sports LaLiga 🇲🇽	!zz.sky_sports_laliga
-Sport TV 🇵🇹 1	!zz.sporttv1
-Sport TV 🇵🇹 2	!zz.sporttv2
-Sport TV 🇵🇹 3	!zz.sporttv3
-Sport TV 🇵🇹 4	!zz.sporttv4
-Sport TV 🇵🇹 5	!zz.sporttv5
-Sport TV 🇵🇹 6	!zz.sporttv6
-Sportv 🇧🇷 1	!zz.sportv
-Sportv 🇧🇷 2	!zz.sportv2
-Sportv 🇧🇷 3	!zz.sportv3
-Telefe 🇦🇷	!zz.telefe
-Telemundo 🇺🇸	!zz.telemundo
-TNT Sports 🇦🇷	!zz.tntsports
-TNT Sports 🇨🇱	!zz.eventos13
-TUDN 🇲🇽	!zz.tudn_mx
-TUDN 🇺🇸	!zz.tudn
-TV Publica 🇦🇷	!zz.tvpublica
-TVC Deportes 🇲🇽	!zz.tvc_deportes
-TyC International 🇦🇷	!zz.tycinternacional
-TyC Sports 🇦🇷	!zz.tycsports
-Unimas 🇺🇸	!zz.unimas
-Universo 🇺🇸	!zz.universo
-Univision 🇺🇸	!zz.univision
-USA Network 🇺🇸	!zz.usanetwork
-VTV Plus Lat	!zz.vtvplus
-Win Sports Plus 🇨🇴 1	!zz.winsportsplus
-Win Sports Plus 🇨🇴 2	!zz.winsports2
-Win Sports 🇨🇴	!zz.winsports
 
 	^-
 [w]ID Live Sport & TV Channels[z]	^-
@@ -817,6 +703,117 @@ Sports 5 🇧🇷	`0https://sportzonline.si/channels/bra/br5.php
 Sports 6 🇧🇷	`0https://sportzonline.si/channels/bra/br6.php
 Sports 7 🇧🇷	`0https://sportzonline.si/channels/bra/br7.php
 Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
+
+	^-
+[l]Sports & TV Channels[z] [w]for Desktop[z]	^-
+Azteca 7 🇲🇽	!zz.azteca7
+Azteca Deportes 🇲🇽	!zz.azteca_deportes
+beIN Sports Espanol 🇺🇸	!zz.beinsportes
+beIN Sports Xtra Espanol 🇺🇸	!zz.beinsport_xtra_espanol
+Caliente 🇲🇽	!zz.calientetv
+Canal 11 🇵🇹	!zz.canal11_pt
+Canal 5 🇲🇽	!zz.canal5
+CBS Sports Network 🇺🇸	!zz.cbs_sports_network
+DAZN LaLiga 🇪🇸	!zz.dazn_laliga
+DAZN 🇩🇪 1	!zz.dazn1_de
+DAZN 🇩🇪 2	!zz.dazn2_de
+DAZN 🇪🇸 1	!zz.dazn1
+DAZN 🇪🇸 2	!zz.dazn2
+DAZN 🇪🇸 3	!zz.dazn3
+DAZN 🇪🇸 4	!zz.dazn4
+DSports Lat 1	!zz.dsports
+DSports Lat 2	!zz.dsports2
+DSports Plus Lat	!zz.dsportsplus
+ECDF LigaPro Event Lat	!zz.ecdf_ligapro
+Eleven Pro 🇧🇪 1	!zz.elevenpro1_be
+Eleven 🇵🇹 1	!zz.eleven1_pt
+Eleven 🇵🇹 2	!zz.eleven2_pt
+Eleven 🇵🇹 3	!zz.eleven3_pt
+Eleven 🇵🇹 4	!zz.eleven4_pt
+Eleven 🇵🇹 5	!zz.eleven5_pt
+Eleven 🇵🇹 6	!zz.eleven6_pt
+ESPN Deportes 🇺🇸	!zz.espndeportes
+ESPN Lat 1	!zz.espn
+ESPN Lat 2	!zz.espn2
+ESPN Lat 3	!zz.espn3
+ESPN Lat 4	!zz.espn4
+ESPN Lat 5	!zz.espn5
+ESPN Lat 6	!zz.espn6
+ESPN Lat 7	!zz.espn7
+ESPN Premium 🇦🇷	!zz.espnpremium
+ESPN U 🇺🇸	!zz.espnu
+ESPN 🇲🇽 1	!zz.espnmx
+ESPN 🇲🇽 2	!zz.espn2mx
+ESPN 🇲🇽 3	!zz.espn3mx
+ESPN 🇲🇽 4	!zz.espn4mx
+ESPN 🇳🇱 1	!zz.espn1_nl
+ESPN 🇳🇱 2	!zz.espn2_nl
+ESPN 🇳🇱 3	!zz.espn3_nl
+ESPN 🇺🇸 1	!zz.espn_usa
+ESPN 🇺🇸 2	!zz.espn2_usa
+Fox Deportes 🇺🇸	!zz.foxdeportes
+Fox Sports Premium 🇲🇽	!zz.foxsportspremium
+Fox Sports 🇦🇷 1	!zz.foxsports
+Fox Sports 🇦🇷 2	!zz.foxsports2
+Fox Sports 🇦🇷 3	!zz.foxsports3
+Fox Sports 🇲🇽 1	!zz.foxsportsmx
+Fox Sports 🇲🇽 2	!zz.foxsports2mx
+Fox Sports 🇲🇽 3	!zz.foxsports3mx
+Fox Sports 🇺🇸 1	!zz.foxsports1_usa
+Fox Sports 🇺🇸 2	!zz.foxsports2_usa
+Gol TV Lat	!zz.goltv
+Gol 🇵🇪	!zz.golperu
+Hisports 🇲🇽	!zz.hisports
+La 1 TVE 🇪🇸	!zz.la1tve
+LaLiga TV Bar 🇪🇸	!zz.laligatvbar
+Liga 1 Max 🇵🇪	!zz.liga1max
+Liga de Campeones 🇪🇸 1	!zz.ligadecampeones1
+Liga de Campeones 🇪🇸 2	!zz.ligadecampeones2
+Liga de Campeones 🇪🇸 3	!zz.ligadecampeones3
+M LaLiga TV 🇪🇸	!zz.m_laligatv
+Movistar 🇵🇪	!zz.movistar
+Premiere 🇧🇷 1	!zz.premiere1
+Premiere 🇧🇷 2	!zz.premiere2
+Premiere 🇧🇷 3	!zz.premiere3
+Premiere 🇧🇷 4	!zz.premiere4
+Premiere 🇧🇷 5	!zz.premiere5
+Premiere 🇧🇷 6	!zz.premiere6
+Premiere 🇧🇷 7	!zz.premiere7
+Premiere 🇧🇷 8	!zz.premiere8
+Sky Bundesliga 🇩🇪 1	!zz.sky_bundesliga1
+Sky Bundesliga 🇩🇪 2	!zz.sky_bundesliga2
+Sky Bundesliga 🇩🇪 3	!zz.sky_bundesliga3
+Sky Bundesliga 🇩🇪 4	!zz.sky_bundesliga4
+Sky Bundesliga 🇩🇪 5	!zz.sky_bundesliga5
+Sky Bundesliga 🇲🇽	!zz.sky_bundesliga_mx
+Sky Sports LaLiga 🇲🇽	!zz.sky_sports_laliga
+Sport TV 🇵🇹 1	!zz.sporttv1
+Sport TV 🇵🇹 2	!zz.sporttv2
+Sport TV 🇵🇹 3	!zz.sporttv3
+Sport TV 🇵🇹 4	!zz.sporttv4
+Sport TV 🇵🇹 5	!zz.sporttv5
+Sport TV 🇵🇹 6	!zz.sporttv6
+Sportv 🇧🇷 1	!zz.sportv
+Sportv 🇧🇷 2	!zz.sportv2
+Sportv 🇧🇷 3	!zz.sportv3
+Telefe 🇦🇷	!zz.telefe
+Telemundo 🇺🇸	!zz.telemundo
+TNT Sports 🇦🇷	!zz.tntsports
+TNT Sports 🇨🇱	!zz.eventos13
+TUDN 🇲🇽	!zz.tudn_mx
+TUDN 🇺🇸	!zz.tudn
+TV Publica 🇦🇷	!zz.tvpublica
+TVC Deportes 🇲🇽	!zz.tvc_deportes
+TyC International 🇦🇷	!zz.tycinternacional
+TyC Sports 🇦🇷	!zz.tycsports
+Unimas 🇺🇸	!zz.unimas
+Universo 🇺🇸	!zz.universo
+Univision 🇺🇸	!zz.univision
+USA Network 🇺🇸	!zz.usanetwork
+VTV Plus Lat	!zz.vtvplus
+Win Sports Plus 🇨🇴 1	!zz.winsportsplus
+Win Sports Plus 🇨🇴 2	!zz.winsports2
+Win Sports 🇨🇴	!zz.winsports
 
 	^-
 [g]YouTube Favorite Streaming[z]	^-
