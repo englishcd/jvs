@@ -15,10 +15,6 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 
 16-08-2025	^-
 
-22:00 [y]French Ligue 1[z]	^-
-Lens vs Lyon	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_usa_bein_sport_espanol/index.m3u8
-Lens vs Lyon	`*https://www.fctv33.net/football/french-ligue-1-match-4212065/rc-lens-vs-lyon-08-2025.html
-
 23:00 [g]DFB Pokal[z]	^-
 Energie Cottbus vs Hannover 96	`*https://www.fctv33.net/football/dfb-pokal-match-4198282/energie-cottbus-vs-hannover-96-08-2025.html
 Sportfreunde Lotte vs SC Freiburg	`*https://www.fctv33.net/football/dfb-pokal-match-4200008/sportfreunde-lotte-vs-sc-freiburg-08-2025.html
