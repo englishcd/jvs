@@ -88,6 +88,10 @@ Mallorca vs FC Barcelona	`*https://www.fctv33.net/football/spanish-la-liga-match
 01:00 [y]Netherlands Eredivisie[z]	^-
 Heracles Almelo vs NEC Nijmegen	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4201753/heracles-almelo-vs-nec-nijmegen-08-2025.html
 
+01:00 [y]International Club Friendly[z]	^-
+Lazio vs Atromitos Athens	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd!!8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
+Lazio vs Atromitos Athens	`*https://www.fctv33.net/football/international-club-friendly-match-4254750/lazio-vs-atromitos-athens-08-2025.html
+
 01:30 [g]German Super Cup[z]	^-
 VfB Stuttgart vs Bayern Munchen	`*https://www.fctv33.net/football/german-super-cup-match-4193833/vfb-stuttgart-vs-fc-bayern-munich-08-2025.html
 
