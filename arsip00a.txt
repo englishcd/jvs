@@ -143,7 +143,7 @@ ESPN 2 🇲🇽	https://a.00/1/out/u/dash/ESPN-2-HD/default.mpd!!90e2e491c850a49
 ESPN 3 🇲🇽	https://a.00/1/out/u/dash/ESPN-3-HD/default.mpd!!0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
 Fubo Sports	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Fubo TV	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-RTP 1 🇵🇹	https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd!!f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
+^=RTP 1 🇵🇹	https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd!!f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
 Sky LaLiga	https://a.00/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 Sky Live Event 1	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd!!a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 Sky Live Event 2	https://a.00/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd!!7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
