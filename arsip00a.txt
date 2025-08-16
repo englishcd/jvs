@@ -15,15 +15,6 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 
 16-08-2025	^-
 
-15:30 Liga 1	^-
-Persita Tangerang vs Persebaya Surabaya	`*https://www.fctv33.net/football/indonesian-liga-1-match-4229447/persita-tangerang-vs-persebaya-surabaya-08-2025.html
-PSIM Yogyakarta vs Arema FC	`*https://www.fctv33.net/football/indonesian-liga-1-match-4229464/psim-yogyakarta-vs-arema-fc-08-2025.html
-Bhayangkara Solo FC vs PSM Makassar	`*https://www.fctv33.net/football/indonesian-liga-1-match-4235461/bhayangkara-presisi-indonesia-fc-vs-psm-makassar-08-2025.html
-Persik Kediri vs Madura United	`*https://www.fctv33.net/football/indonesian-liga-1-match-4237591/persik-kediri-vs-madura-united-08-2025.html
-
-16:00 [l]AFF U23 Women’s Championship[z]	^-
-Myanmar 🇲🇲 vs Thailand 🇹🇭	`*https://www.fctv33.net/football/aff-womens-championship-match-4258085/myanmar-w-vs-thailand-w-08-2025.html
-
 18:00 [g]DFB Pokal[z]	^-
 Berliner FC Dynamo vs VfL Bochum	`*https://www.fctv33.net/football/dfb-pokal-match-4198662/berliner-fc-dynamo-vs-vfl-bochum-1848-08-2025.html
 FK Pirmasens vs Hamburger SV	`*https://www.fctv33.net/football/dfb-pokal-match-4212653/fk-pirmasens-vs-hamburger-sv-08-2025.html
