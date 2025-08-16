@@ -15,18 +15,71 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 
 17-08-2025	^-
 
-02:00 [y]Netherlands Eredivisie[z]	^-
-Groningen vs SC Heerenveen	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199122/groningen-vs-sc-heerenveen-08-2025.html
-
-02:05 [y]French Ligue 1[z]	^-
-Nice vs Toulouse	`*https://www.fctv33.net/football/french-ligue-1-match-4211931/ogc-nice-vs-toulouse-fc-08-2025.html
-
-02:15 [g]Coppa Italia[z]	^-
-Cremonese vs Palermo	`*https://www.fctv33.net/football/coppa-italia-match-4231522/cremonese-vs-palermo-08-2025.html
-
 02:30 [y]Spanish La Liga[z]	^-
 Deportivo Alavés vs Levante	`*https://www.fctv33.net/football/spanish-la-liga-match-4220866/deportivo-alavs-vs-levante-08-2025.html
 Valencia vs Real Sociedad	`*https://www.fctv33.net/football/spanish-la-liga-match-4227783/valencia-cf-vs-real-sociedad-08-2025.html
+
+06:30 [y]US Major League Soccer[z]	^-
+Inter Miami CF vs Los Angeles Galaxy	`*https://www.fctv33.net/football/united-states-major-league-soccer-match-4105218/inter-miami-cf-vs-los-angeles-galaxy-08-2025.html
+
+18:00 [g]DFB Pokal[z]	^-
+FC Viktoria Köln vs SC Paderborn 07	`*https://www.fctv33.net/football/dfb-pokal-match-4206576/fc-viktoria-kln-vs-sc-paderborn-07-08-2025.html
+Engers vs Eintracht Frankfurt	`*https://www.fctv33.net/football/dfb-pokal-match-4211190/engers-vs-eintracht-frankfurt-08-2025.html
+
+19:00	[l]CAF African Nations Championship[z]	^-
+Democratic Rep Congo 🇨🇩 vs Morocco 🇲🇦	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232722/democratic-republic-of-the-congo-vs-morocco-08-2025.html
+Zambia 🇿🇲 vs Kenya 🇰🇪	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232724/zambia-vs-kenya-08-2025.html
+
+19:30 [y]Netherlands Eredivisie[z]	^-
+FC Twente Enschede vs PSV Eindhoven	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200816/fc-twente-enschede-vs-psv-eindhoven-08-2025.html
+Sparta Rotterdam vs FC Utrecht	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4201751/sparta-rotterdam-vs-fc-utrecht-08-2025.html
+
+20:00 [y]French Ligue 1[z]	^-
+Stade Brestois vs Lille	`*https://www.fctv33.net/football/french-ligue-1-match-4215356/stade-brestois-29-vs-losc-lille-08-2025.html
+
+20:00 [y]English Premier League[z]	^-
+Chelsea vs Crystal Palace	`*https://www.fctv33.net/football/english-premier-league-match-4223049/chelsea-vs-crystal-palace-08-2025.html
+Nottingham Forest vs Brentford	`*https://www.fctv33.net/football/english-premier-league-match-4223109/nottingham-forest-vs-brentford-08-2025.html
+
+20:30 [g]DFB Pokal[z]	^-
+Atlas Delmenhorst vs Br Monchengladbach	`*https://www.fctv33.net/football/dfb-pokal-match-4212195/sv-atlas-delmenhorst-vs-borussia-monchengladbach-08-2025.html
+
+21:45 [y]Netherlands Eredivisie[z]	^-
+Volendam vs AZ Alkmaar	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199110/volendam-vs-az-alkmaar-08-2025.html
+
+22:00 [y]Spanish La Liga[z]	^-
+Real Club Celta de Vigo SAD vs Getafe	`*https://www.fctv33.net/football/spanish-la-liga-match-4225352/rc-celta-vs-getafe-08-2025.html
+
+22:15 [y]French Ligue 1[z]	^-
+AJ Auxerre vs Lorient	`*https://www.fctv33.net/football/french-ligue-1-match-4223108/aj-auxerre-vs-lorient-08-2025.html
+Angers vs Paris FC	`*https://www.fctv33.net/football/french-ligue-1-match-4225961/angers-sco-vs-paris-fc-08-2025.html
+Metz vs Strasbourg	`*https://www.fctv33.net/football/french-ligue-1-match-4226070/metz-vs-rc-strasbourg-alsace-08-2025.html
+
+22:30 [y]English Premier League[z]	^-
+Manchester United vs Arsenal	`*https://www.fctv33.net/football/english-premier-league-match-4226505/manchester-united-vs-arsenal-08-2025.html
+
+23:00 [g]DFB Pokal[z]	^-
+SSV Ulm 1846 vs SV Elversberg	`*https://www.fctv33.net/football/dfb-pokal-match-4199959/ssv-ulm-1846-vs-sv-elversberg-08-2025.html
+
+23:00 [g]Coppa Italia[z]	^-
+Monza vs Frosinone	`*https://www.fctv33.net/football/coppa-italia-match-4229338/monza-vs-frosinone-08-2025.html
+
+18-08-2025	^-
+
+00:30 [y]Spanish La Liga[z]	^-
+Athletic Bilbao vs Sevilla	`*https://www.fctv33.net/football/spanish-la-liga-match-4223507/athletic-club-vs-sevilla-fc-08-2025.html
+
+01:00 [y]Netherlands Eredivisie[z]	^-
+NAC Breda vs Fortuna Sittard	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200014/nac-breda-vs-fortuna-sittard-08-2025.html
+
+01:45 [y]French Ligue 1[z]	^-
+Nantes vs Paris Saint Germain (PSG)	`*https://www.fctv33.net/football/french-ligue-1-match-4200106/fc-nantes-vs-paris-saint-germain-08-2025.html
+
+02:15 [g]Coppa Italia[z]	^-
+AC Milan vs Bari	`*https://www.fctv33.net/football/coppa-italia-match-4237766/ac-milan-vs-bari-08-2025.html
+
+02:30 [y]Spanish La Liga[z]	^-
+RCD Espanyol vs Atletico Madrid	`*https://www.fctv33.net/football/spanish-la-liga-match-4229059/rcd-espanyol-de-barcelona-vs-atletico-madrid-08-2025.html
 
 ^@	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
