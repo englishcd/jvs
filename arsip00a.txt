@@ -10,6 +10,7 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 [y]Live Football Events[z]	^-
 
 	^-
+^@** Two Pop-Ups: Ads and Live Streaming. **
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
@@ -78,6 +79,7 @@ AC Milan vs Bari	`*https://www.fctv33.net/football/coppa-italia-match-4237766/ac
 RCD Espanyol vs Atletico Madrid	`*https://www.fctv33.net/football/spanish-la-liga-match-4229059/rcd-espanyol-de-barcelona-vs-atletico-madrid-08-2025.html
 
 ^@	^-
+^@** Two Pop-Ups: Ads and Live Streaming. **
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 
 	^-
