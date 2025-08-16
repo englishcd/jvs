@@ -40,6 +40,7 @@ Tottenham Hotspur vs Burnley	`*https://www.fctv33.net/football/english-premier-l
 
 Sunderland A.F.C vs West Ham United	http://125x.org:8080/bn6hd/index.m3u8
 Sunderland A.F.C vs West Ham United	https://z.1UK_TNT_SPORTS_1/index.m3u8
+Sunderland A.F.C vs West Ham United	https://hls.baueahh10.com/live/hd-en-6MuT7JvmuedM2jYYNB.m3u8?txSecret=1d6e1defec0bead666a88ba8933cbbb3&txTime=68A1DD29
 Sunderland A.F.C vs West Ham United	`*https://www.fctv33.net/football/english-premier-league-match-4220550/sunderland-vs-west-ham-united-08-2025.html
 
 Brighton Hove Albion vs Fulham	http://125x.org:8080/bn2hd/index.m3u8
