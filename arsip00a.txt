@@ -13,57 +13,7 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-16-08-2025	^-
-
-23:00 [g]DFB Pokal[z]	^-
-Energie Cottbus vs Hannover 96	`*https://www.fctv33.net/football/dfb-pokal-match-4198282/energie-cottbus-vs-hannover-96-08-2025.html
-Sportfreunde Lotte vs SC Freiburg	`*https://www.fctv33.net/football/dfb-pokal-match-4200008/sportfreunde-lotte-vs-sc-freiburg-08-2025.html
-
-23:30 [y]English Premier League[z]	^-
-Wolves vs Manchester City	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-Wolves vs Manchester City	https://z.1UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
-Wolves vs Manchester City	https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd!!9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-Wolves vs Manchester City	`*https://www.fctv33.net/football/english-premier-league-match-4196058/wolverhampton-wanderers-vs-manchester-city-08-2025.html
-
-23:30 [g]Coppa Italia[z]	^-
-Como vs SudTirol	`*https://www.fctv33.net/football/coppa-italia-match-4226543/como-vs-sudtirol-08-2025.html
-
-23:45 [y]Netherlands Eredivisie[z]	^-
-Excelsior SBV vs Feyenoord	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
-Excelsior SBV vs Feyenoord	https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-Excelsior SBV vs Feyenoord	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4208303/excelsior-sbv-vs-feyenoord-08-2025.html
-
 17-08-2025	^-
-
-00:00 [y]French Ligue 1[z]	^-
-Monaco vs Le Havre	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_usa_bein_sport_espanol/index.m3u8
-Monaco vs Le Havre	`*https://www.fctv33.net/football/french-ligue-1-match-4219954/as-monaco-vs-havre-athletic-club-08-2025.html
-
-00:00 [l]CAF African Nations Championship[z]	^-
-Burkina Faso 🇧🇫 vs Madagascar 🇲🇬	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232099/burkina-faso-vs-madagascar-08-2025.html
-
-00:30 [y]Spanish La Liga[z]	^-
-Mallorca vs FC Barcelona	https://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
-Mallorca vs FC Barcelona	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-Mallorca vs FC Barcelona	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd!!8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
-Mallorca vs FC Barcelona	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-Mallorca vs FC Barcelona	`*https://www.fctv33.net/football/spanish-la-liga-match-4234429/rcd-mallorca-vs-fc-barcelona-08-2025.html
-
-01:00 [y]Netherlands Eredivisie[z]	^-
-Heracles Almelo vs NEC Nijmegen	!zz.espn2_nl
-Heracles Almelo vs NEC Nijmegen	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4201753/heracles-almelo-vs-nec-nijmegen-08-2025.html
-
-01:00 [y]International Club Friendly[z]	^-
-Lazio vs Atromitos Athens	`*https://www.fctv33.net/football/international-club-friendly-match-4254750/lazio-vs-atromitos-athens-08-2025.html
-
-01:30 [g]German Super Cup[z]	^-
-VfB Stuttgart vs Bayern Munchen	https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd!!9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
-VfB Stuttgart vs Bayern Munchen	https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd!!20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-VfB Stuttgart vs Bayern Munchen	https://live.samuraitv.biz.id/p/arena1.html
-VfB Stuttgart vs Bayern Munchen	`*https://www.fctv33.net/football/german-super-cup-match-4193833/vfb-stuttgart-vs-fc-bayern-munich-08-2025.html
-
-01:30 [y]International Club Friendly[z]	^-
-Inter Milan vs Olympiakos Piraeus	`*https://www.fctv33.net/football/international-club-friendly-match-4240985/inter-milan-vs-olympiakos-piraeus-08-2025.html
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 Groningen vs SC Heerenveen	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199122/groningen-vs-sc-heerenveen-08-2025.html
