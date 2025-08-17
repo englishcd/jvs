@@ -17,6 +17,7 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 17-08-2025	^-
 
 17:15 [y]Netherlands Eredivisie[z]	^-
+Go Ahead Eagles vs AFC Ajax	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
 Go Ahead Eagles vs AFC Ajax	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200010/go-ahead-eagles-vs-afc-ajax-08-2025.html
 
 18:00 [g]DFB Pokal[z]	^-
@@ -28,14 +29,21 @@ Democratic Rep Congo 🇨🇩 vs Morocco 🇲🇦	`*https://www.fctv33.net/footb
 Zambia 🇿🇲 vs Kenya 🇰🇪	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232724/zambia-vs-kenya-08-2025.html
 
 19:30 [y]Netherlands Eredivisie[z]	^-
+FC Twente Enschede vs PSV Eindhoven	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
 FC Twente Enschede vs PSV Eindhoven	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200816/fc-twente-enschede-vs-psv-eindhoven-08-2025.html
+
 Sparta Rotterdam vs FC Utrecht	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4201751/sparta-rotterdam-vs-fc-utrecht-08-2025.html
 
 20:00 [y]French Ligue 1[z]	^-
 Stade Brestois vs Lille	`*https://www.fctv33.net/football/french-ligue-1-match-4215356/stade-brestois-29-vs-losc-lille-08-2025.html
 
 20:00 [y]English Premier League[z]	^-
+Chelsea vs Crystal Palace	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd!!333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+Chelsea vs Crystal Palace	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Chelsea vs Crystal Palace	`*https://www.fctv33.net/football/english-premier-league-match-4223049/chelsea-vs-crystal-palace-08-2025.html
+
+Nottingham Forest vs Brentford	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd!!002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+Nottingham Forest vs Brentford	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 Nottingham Forest vs Brentford	`*https://www.fctv33.net/football/english-premier-league-match-4223109/nottingham-forest-vs-brentford-08-2025.html
 
 20:30 [g]DFB Pokal[z]	^-
@@ -53,6 +61,10 @@ Angers vs Paris FC	`*https://www.fctv33.net/football/french-ligue-1-match-422596
 Metz vs Strasbourg	`*https://www.fctv33.net/football/french-ligue-1-match-4226070/metz-vs-rc-strasbourg-alsace-08-2025.html
 
 22:30 [y]English Premier League[z]	^-
+Manchester United vs Arsenal	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd!!0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+Manchester United vs Arsenal	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+Manchester United vs Arsenal	https://a.00/1/out/u/dash/ESPN-3-HD/default.mpd!!0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
+Manchester United vs Arsenal	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd!!002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 Manchester United vs Arsenal	`*https://www.fctv33.net/football/english-premier-league-match-4226505/manchester-united-vs-arsenal-08-2025.html
 
 23:00 [g]DFB Pokal[z]	^-
