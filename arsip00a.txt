@@ -43,6 +43,8 @@ Nantes vs Paris Saint Germain (PSG)	https://wo.cma.footballii.ir/hls2/b1_src.m3u
 Nantes vs Paris Saint Germain (PSG)	`*https://www.fctv33.net/football/french-ligue-1-match-4200106/fc-nantes-vs-paris-saint-germain-08-2025.html
 
 02:15 [g]Coppa Italia[z]	^-
+AC Milan vs Bari	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+AC Milan vs Bari	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 AC Milan vs Bari	`*https://www.fctv33.net/football/coppa-italia-match-4237766/ac-milan-vs-bari-08-2025.html
 
 02:30 [y]Spanish La Liga[z]	^-
