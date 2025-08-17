@@ -10,37 +10,11 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 [y]Live Football Events[z]	^-
 
 	^-
-^@** Two Pop-Ups: Ads and Live Streaming. **
+^@** Two Pop-Ups: Ads and The Live Streaming. **
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
 17-08-2025	^-
-
-19:00 [l]CAF African Nations Championship[z]	^-
-Democratic Rep Congo 🇨🇩 vs Morocco 🇲🇦	https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd!!20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-Democratic Rep Congo 🇨🇩 vs Morocco 🇲🇦	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232722/democratic-republic-of-the-congo-vs-morocco-08-2025.html
-Zambia 🇿🇲 vs Kenya 🇰🇪	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232724/zambia-vs-kenya-08-2025.html
-
-19:30 [y]Netherlands Eredivisie[z]	^-
-FC Twente Enschede vs PSV Eindhoven	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-FC Twente Enschede vs PSV Eindhoven	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-FC Twente Enschede vs PSV Eindhoven	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200816/fc-twente-enschede-vs-psv-eindhoven-08-2025.html
-
-Sparta Rotterdam vs FC Utrecht	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-Sparta Rotterdam vs FC Utrecht	https://z.1UK_ITV_1/index.m3u8
-Sparta Rotterdam vs FC Utrecht	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4201751/sparta-rotterdam-vs-fc-utrecht-08-2025.html
-
-20:00 [y]French Ligue 1[z]	^-
-Stade Brestois vs Lille	`*https://www.fctv33.net/football/french-ligue-1-match-4215356/stade-brestois-29-vs-losc-lille-08-2025.html
-
-20:00 [y]English Premier League[z]	^-
-Chelsea vs Crystal Palace	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd!!333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-Chelsea vs Crystal Palace	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-Chelsea vs Crystal Palace	`*https://www.fctv33.net/football/english-premier-league-match-4223049/chelsea-vs-crystal-palace-08-2025.html
-
-Nottingham Forest vs Brentford	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd!!002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-Nottingham Forest vs Brentford	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
-Nottingham Forest vs Brentford	`*https://www.fctv33.net/football/english-premier-league-match-4223109/nottingham-forest-vs-brentford-08-2025.html
 
 20:30 [g]DFB Pokal[z]	^-
 Atlas Delmenhorst vs Br Monchengladbach	`*https://www.fctv33.net/football/dfb-pokal-match-4212195/sv-atlas-delmenhorst-vs-borussia-monchengladbach-08-2025.html
@@ -91,7 +65,7 @@ AC Milan vs Bari	`*https://www.fctv33.net/football/coppa-italia-match-4237766/ac
 RCD Espanyol vs Atletico Madrid	`*https://www.fctv33.net/football/spanish-la-liga-match-4229059/rcd-espanyol-de-barcelona-vs-atletico-madrid-08-2025.html
 
 ^@	^-
-^@** Two Pop-Ups: Ads and Live Streaming. **
+^@** Two Pop-Ups: Ads and The Live Streaming. **
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 
 	^-
