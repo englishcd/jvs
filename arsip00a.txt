@@ -16,13 +16,12 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 
 17-08-2025	^-
 
-06:30 [y]US Major League Soccer[z]	^-
-Inter Miami CF vs Los Angeles Galaxy	`0https://xlz.plcdn.xyz/ajax/chanel/type/1/link/gmpmb95
-Inter Miami CF vs Los Angeles Galaxy	`*https://www.fctv33.net/football/united-states-major-league-soccer-match-4105218/inter-miami-cf-vs-los-angeles-galaxy-08-2025.html
+17:15 [y]Netherlands Eredivisie[z]	^-
+Go Ahead Eagles vs AFC Ajax	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200010/go-ahead-eagles-vs-afc-ajax-08-2025.html
 
 18:00 [g]DFB Pokal[z]	^-
-FC Viktoria Köln vs SC Paderborn 07	`*https://www.fctv33.net/football/dfb-pokal-match-4206576/fc-viktoria-kln-vs-sc-paderborn-07-08-2025.html
 Engers vs Eintracht Frankfurt	`*https://www.fctv33.net/football/dfb-pokal-match-4211190/engers-vs-eintracht-frankfurt-08-2025.html
+FC Viktoria Köln vs SC Paderborn 07	`*https://www.fctv33.net/football/dfb-pokal-match-4206576/fc-viktoria-kln-vs-sc-paderborn-07-08-2025.html
 
 19:00 [l]CAF African Nations Championship[z]	^-
 Democratic Rep Congo 🇨🇩 vs Morocco 🇲🇦	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232722/democratic-republic-of-the-congo-vs-morocco-08-2025.html
@@ -58,9 +57,13 @@ Manchester United vs Arsenal	`*https://www.fctv33.net/football/english-premier-l
 
 23:00 [g]DFB Pokal[z]	^-
 SSV Ulm 1846 vs SV Elversberg	`*https://www.fctv33.net/football/dfb-pokal-match-4199959/ssv-ulm-1846-vs-sv-elversberg-08-2025.html
+Hallescher FC vs FC Augsburg	`*https://www.fctv33.net/football/dfb-pokal-match-4213548/hallescher-fc-vs-fc-augsburg-08-2025.html
 
 23:00 [g]Coppa Italia[z]	^-
 Monza vs Frosinone	`*https://www.fctv33.net/football/coppa-italia-match-4229338/monza-vs-frosinone-08-2025.html
+
+23:30 [g]Coppa Italia[z]	^-
+Parma vs Pescara	`*https://www.fctv33.net/football/coppa-italia-match-4255028/parma-vs-pescara-08-2025.html
 
 18-08-2025	^-
 
