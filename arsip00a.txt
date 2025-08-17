@@ -16,27 +16,44 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 
 18-08-2025	^-
 
-00:30 [y]Spanish La Liga[z]	^-
-Athletic Bilbao vs Sevilla	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-Athletic Bilbao vs Sevilla	`*https://www.fctv33.net/football/spanish-la-liga-match-4223507/athletic-club-vs-sevilla-fc-08-2025.html
+15:30 Indonesian Liga 1	^-
+PSBS Biak Numfor vs Borneo FC	`*https://www.fctv33.net/football/indonesian-liga-1-match-4235462/psbs-biak-numfor--vs-borneo-fc-08-2025.html
 
-01:00 [y]Netherlands Eredivisie[z]	^-
-NAC Breda vs Fortuna Sittard	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
-NAC Breda vs Fortuna Sittard	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200014/nac-breda-vs-fortuna-sittard-08-2025.html
+20:00 Malaysian FA Cup	^-
+Negeri Sembilan vs PDRM	`*https://www.fctv33.net/football/malaysian-fa-cup-match-4255195/negeri-sembilan-vs-pdrm-fc-08-2025.html
+Kelantan United vs Kuala Lumpur	`*https://www.fctv33.net/football/malaysian-fa-cup-match-4255198/kelantan-the-real-warriors-vs-kuala-lumpur-city-fc-08-2025.html
 
-01:45 [y]French Ligue 1[z]	^-
-Nantes vs Paris Saint Germain (PSG)	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd!!6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
-Nantes vs Paris Saint Germain (PSG)	https://wo.cma.footballii.ir/hls2/b1_src.m3u8
-Nantes vs Paris Saint Germain (PSG)	`*https://www.fctv33.net/football/french-ligue-1-match-4200106/fc-nantes-vs-paris-saint-germain-08-2025.html
+23:00 [g]DFB Pokal[z]	^-
+Preuben Munster vs Hertha Berlin	`*https://www.fctv33.net/football/dfb-pokal-match-4199935/preuben-munster-vs-hertha-berlin-08-2025.html
+Schweinfurt 05 FC vs Fortuna Dusseldorf	`*https://www.fctv33.net/football/dfb-pokal-match-4200057/schweinfurt-05-fc-vs-fortuna-dusseldorf-08-2025.html
+Dynamo Dresden vs FSV Mainz 05	`*https://www.fctv33.net/football/dfb-pokal-match-4210721/dynamo-dresden-vs-1-fsv-mainz-05-08-2025.html
+
+23:00 [g]Coppa Italia[z]	^-
+Audace Cerignola vs Verona	`*https://www.fctv33.net/football/coppa-italia-match-4256744/audace-cerignola-vs-hellas-verona-08-2025.html
+
+23:30 [g]Coppa Italia[z]	^-
+Spezia vs Sampdoria	`*https://www.fctv33.net/football/coppa-italia-match-4238600/spezia-vs-sampdoria-08-2025.html
+
+19-08-2025	^-
+
+00:00 [l]CAF African Nations Championship[z]	^-
+South Africa 🇿🇦 vs Uganda 🇺🇬	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210482/south-africa-vs-uganda-08-2025.html
+Algeria 🇩🇿 vs Niger 🇳🇪	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210483/algeria-vs-niger-08-2025.html
+
+01:45 [g]DFB Pokal[z]	^-
+Rot-Weiss Essen vs Borussia Dortmund	`*https://www.fctv33.net/football/dfb-pokal-match-4198854/rot-weiss-essen-vs-borussia-dortmund-08-2025.html
+
+01:45 [g]Coppa Italia[z]	^-
+Udinese vs Carrarese	`*https://www.fctv33.net/football/coppa-italia-match-4229160/udinese-vs-carrarese-08-2025.html
+
+02:00 [y]Spanish La Liga[z]	^-
+Elche vs Real Betis	`*https://www.fctv33.net/football/spanish-la-liga-match-4226846/elche-vs-real-betis-08-2025.html
+
+02:00 [y]English Premier League[z]	^-
+Leeds United vs Everton	`*https://www.fctv33.net/football/english-premier-league-match-4227030/leeds-united-vs-everton-08-2025.html
 
 02:15 [g]Coppa Italia[z]	^-
-AC Milan vs Bari	https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd!!00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-AC Milan vs Bari	https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-AC Milan vs Bari	`*https://www.fctv33.net/football/coppa-italia-match-4237766/ac-milan-vs-bari-08-2025.html
-
-02:30 [y]Spanish La Liga[z]	^-
-RCD Espanyol vs Atletico Madrid	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,!!3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
-RCD Espanyol vs Atletico Madrid	`*https://www.fctv33.net/football/spanish-la-liga-match-4229059/rcd-espanyol-de-barcelona-vs-atletico-madrid-08-2025.html
+Torino vs Modena	`*https://www.fctv33.net/football/coppa-italia-match-4228317/torino-vs-modena-08-2025.html
 
 ^@	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **
