@@ -16,17 +16,6 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 
 17-08-2025	^-
 
-17:15 [y]Netherlands Eredivisie[z]	^-
-Go Ahead Eagles vs AFC Ajax	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Go Ahead Eagles vs AFC Ajax	https://a.00/1/out/u/dash/ESPN-HD/default.mpd!!bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-Go Ahead Eagles vs AFC Ajax	https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-Go Ahead Eagles vs AFC Ajax	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200010/go-ahead-eagles-vs-afc-ajax-08-2025.html
-
-18:00 [g]DFB Pokal[z]	^-
-Engers vs Eintracht Frankfurt	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-Engers vs Eintracht Frankfurt	`*https://www.fctv33.net/football/dfb-pokal-match-4211190/engers-vs-eintracht-frankfurt-08-2025.html
-FC Viktoria Köln vs SC Paderborn 07	`*https://www.fctv33.net/football/dfb-pokal-match-4206576/fc-viktoria-kln-vs-sc-paderborn-07-08-2025.html
-
 19:00 [l]CAF African Nations Championship[z]	^-
 Democratic Rep Congo 🇨🇩 vs Morocco 🇲🇦	https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd!!20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 Democratic Rep Congo 🇨🇩 vs Morocco 🇲🇦	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4232722/democratic-republic-of-the-congo-vs-morocco-08-2025.html
