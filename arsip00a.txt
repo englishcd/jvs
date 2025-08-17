@@ -31,6 +31,7 @@ Angers vs Paris FC	`*https://www.fctv33.net/football/french-ligue-1-match-422596
 Metz vs Strasbourg	`*https://www.fctv33.net/football/french-ligue-1-match-4226070/metz-vs-rc-strasbourg-alsace-08-2025.html
 
 22:30 [y]English Premier League[z]	^-
+Manchester United vs Arsenal	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd!!6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
 Manchester United vs Arsenal	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd!!0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 Manchester United vs Arsenal	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd!!7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 Manchester United vs Arsenal	https://a.00/1/out/u/dash/ESPN-3-HD/default.mpd!!0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
@@ -113,6 +114,7 @@ beIN Sports 3 🇦🇺	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/liv
 ^=beIN Sport 3 MY	https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd!!20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 ^=beIN Sports 1 ir	https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 
+ESPN 1 AR	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd!!6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
 Sport Networld CA	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd!!a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
 Stars	https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd!!9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 DAZN 1 IT	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd!!8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
