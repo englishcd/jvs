@@ -85,7 +85,7 @@ GolTV 👇	00!0!0/9595?zyy
 ^=	^-
 ^=stream-east	`0https://stream-east.soccer/
 ^=soccer-100	`0https://soccer-100.net/
-^=espn	`0https://streamtp11.com/global1.php?stream=espn
+^=espn	`1https://streamtp11.com/global1.php?stream=espn
 ^=Ind0514r	!pt!205
 ^=Mentar! 8237	!pt!8237
 ^=Live Day	`0https://dlhd.click/
