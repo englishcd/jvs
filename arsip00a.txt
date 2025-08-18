@@ -16,21 +16,6 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 
 18-08-2025	^-
 
-18:30 Indonesian Liga 1	^-
-Persijap Jepara vs Persib Bandung	https://hls.baueahh10.com/live/sd-6MuTNFjrbF1aBuyeoZ.m3u8?txSecret=b3be0ff61f6de35170615d905e679ca5&txTime=68A45D12
-Persijap Jepara vs Persib Bandung	https://live.inplyr.com/room/434982.m3u8
-Persijap Jepara vs Persib Bandung	`*https://www.fctv33.net/football/indonesian-liga-1-match-4233522/persijap-jepara-vs-persib-bandung-08-2025.html
-
-20:00 Malaysian FA Cup	^-
-Negeri Sembilan vs PDRM	`*https://www.fctv33.net/football/malaysian-fa-cup-match-4255195/negeri-sembilan-vs-pdrm-fc-08-2025.html
-Kelantan United vs Kuala Lumpur	`*https://www.fctv33.net/football/malaysian-fa-cup-match-4255198/kelantan-the-real-warriors-vs-kuala-lumpur-city-fc-08-2025.html
-
-20:30 [l]International U17 Friendly[z]	^-
-Indonesia 🇮🇩 vs Mali 🇲🇱	https://bf.jalaplay.net/live/5004443_zsy.m3u8?txSecret=b14fa960716efe8745f776534eb1f935&txTime=68a32cfd
-Indonesia 🇮🇩 vs Mali 🇲🇱	https://bf.jlbflive.cc/live/322580_hd01.m3u8?txSecret=be8d46777e66faa69d5699618860f587&txTime=68a32ad4
-Indonesia 🇮🇩 vs Mali 🇲🇱	`*https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODQ5ODQ0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Indonesia 🇮🇩 vs Mali 🇲🇱	`*https://www.fctv33.net/football/international-friendly-match-4256362/indonesia-u17-vs-mali-u17-08-2025.html
-
 23:00 [g]DFB Pokal[z]	^-
 Preuben Munster vs Hertha Berlin	`*https://www.fctv33.net/football/dfb-pokal-match-4199935/preuben-munster-vs-hertha-berlin-08-2025.html
 Schweinfurt 05 FC vs Fortuna Dusseldorf	`*https://www.fctv33.net/football/dfb-pokal-match-4200057/schweinfurt-05-fc-vs-fortuna-dusseldorf-08-2025.html
