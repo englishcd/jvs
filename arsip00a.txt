@@ -14,30 +14,7 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-18-08-2025	^-
-
-23:00 [g]DFB Pokal[z]	^-
-Preuben Munster vs Hertha Berlin	`*https://www.fctv33.net/football/dfb-pokal-match-4199935/preuben-munster-vs-hertha-berlin-08-2025.html
-Schweinfurt 05 FC vs Fortuna Dusseldorf	`*https://www.fctv33.net/football/dfb-pokal-match-4200057/schweinfurt-05-fc-vs-fortuna-dusseldorf-08-2025.html
-Dynamo Dresden vs FSV Mainz 05	`*https://www.fctv33.net/football/dfb-pokal-match-4210721/dynamo-dresden-vs-1-fsv-mainz-05-08-2025.html
-
-23:00 [g]Coppa Italia[z]	^-
-Audace Cerignola vs Verona	`*https://www.fctv33.net/football/coppa-italia-match-4256744/audace-cerignola-vs-hellas-verona-08-2025.html
-
-23:30 [g]Coppa Italia[z]	^-
-Spezia vs Sampdoria	`*https://www.fctv33.net/football/coppa-italia-match-4238600/spezia-vs-sampdoria-08-2025.html
-
 19-08-2025	^-
-
-00:00 [l]CAF African Nations Championship[z]	^-
-South Africa 🇿🇦 vs Uganda 🇺🇬	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210482/south-africa-vs-uganda-08-2025.html
-Algeria 🇩🇿 vs Niger 🇳🇪	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210483/algeria-vs-niger-08-2025.html
-
-01:45 [g]DFB Pokal[z]	^-
-Rot-Weiss Essen vs Borussia Dortmund	`*https://www.fctv33.net/football/dfb-pokal-match-4198854/rot-weiss-essen-vs-borussia-dortmund-08-2025.html
-
-01:45 [g]Coppa Italia[z]	^-
-Udinese vs Carrarese	`*https://www.fctv33.net/football/coppa-italia-match-4229160/udinese-vs-carrarese-08-2025.html
 
 02:00 [y]Spanish La Liga[z]	^-
 Elche vs Real Betis	`*https://www.fctv33.net/football/spanish-la-liga-match-4226846/elche-vs-real-betis-08-2025.html
