@@ -17,9 +17,11 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 18-08-2025	^-
 
 15:30 Indonesian Liga 1	^-
+PSBS Biak Numfor vs Borneo FC	https://live.samuraitv.biz.id/p/ch1.html
 PSBS Biak Numfor vs Borneo FC	`*https://www.fctv33.net/football/indonesian-liga-1-match-4235462/psbs-biak-numfor--vs-borneo-fc-08-2025.html
 
 18:30 Indonesian Liga 1	^-
+Persijap Jepara vs Persib Bandung	https://live.samuraitv.biz.id/p/ch1.html
 Persijap Jepara vs Persib Bandung	`*https://www.fctv33.net/football/indonesian-liga-1-match-4233522/persijap-jepara-vs-persib-bandung-08-2025.html
 
 20:00 Malaysian FA Cup	^-
