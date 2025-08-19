@@ -16,14 +16,25 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 
 19-08-2025	^-
 
+16:30 [l]AFF Women’s Championship[z]	^-
+Vietnam vs Thailand	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+Vietnam vs Thailand	`*https://www.fctv33.net/football/aff-womens-championship-match-4259555/vietnam-women-vs-thailand-w-08-2025.html
+
+19:00 [g]Saudi Arabia Super Cup[z]	^-
+Al Ittihad Club vs Al Nassr FC	`*https://www.fctv33.net/football/saudi-arabia-super-cup-match-4234288/al-ittihad-club-vs-al-nassr-fc-08-2025.html
+
+19:30 [l]AFF Women’s Championship[z]	^-
+Australia vs Myanmar	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+Australia vs Myanmar	`*https://www.fctv33.net/football/aff-womens-championship-match-4259557/australia-w-u23-vs-myanmar-w-08-2025.html
+
+12-08-2025	^-
+
+00:00 [l]CAF African Nations Championship[z]	^-
+Sudan vs Senegal	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210477/sudan-vs-senegal-08-2025.html
+Nigeria vs Congo	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210480/nigeria-vs-republic-of-the-congo-08-2025.html
+
 02:00 [y]Spanish La Liga[z]	^-
-Elche vs Real Betis	`*https://www.fctv33.net/football/spanish-la-liga-match-4226846/elche-vs-real-betis-08-2025.html
-
-02:00 [y]English Premier League[z]	^-
-Leeds United vs Everton	`*https://www.fctv33.net/football/english-premier-league-match-4227030/leeds-united-vs-everton-08-2025.html
-
-02:15 [g]Coppa Italia[z]	^-
-Torino vs Modena	`*https://www.fctv33.net/football/coppa-italia-match-4228317/torino-vs-modena-08-2025.html
+Real Madrid vs Osasuna	`*https://www.fctv33.net/football/spanish-la-liga-match-4209574/real-madrid-vs-ca-osasuna-08-2025.html
 
 ^@	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **
