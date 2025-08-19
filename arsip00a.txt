@@ -1447,5 +1447,6 @@ Yomiuri TV 🇯🇵	`0i3`03ytv/index.m3u8
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=asahi1	`1https://anym3u8player.com/tv/video-player.php?url=https://worker-damp-poetry-68b1.1doi3.workers.dev/http://vthanh.utako.moe/TV_Asahi/index.m3u8
+https://yoembed.freesport.eu.org/api/data?sportId=1&timezone=id
 
 	^-
