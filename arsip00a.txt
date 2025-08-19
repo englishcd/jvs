@@ -14,17 +14,7 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 ^@	^-
 
-19-08-2025	^-
-
 Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
-
-19:00 [g]Saudi Arabia Super Cup[z]	^-
-Al Ittihad Club vs Al Nassr FC	https://hls.baueahh10.com/live/sd-6MuT7K3SHU4XyKHL5D.m3u8?txSecret=233266f626c851545f4a9381ee9b1da0&txTime=68A5A5C9
-Al Ittihad Club vs Al Nassr FC	`*https://www.fctv33.net/football/saudi-arabia-super-cup-match-4234288/al-ittihad-club-vs-al-nassr-fc-08-2025.html
-
-19:30 [l]AFF Women’s Championship[z]	^-
-Australia 🇦🇺 vs Myanmar 🇲🇲	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-Australia 🇦🇺 vs Myanmar 🇲🇲	`*https://www.fctv33.net/football/aff-womens-championship-match-4259557/australia-w-u23-vs-myanmar-w-08-2025.html
 
 20-08-2025	^-
 
@@ -75,12 +65,6 @@ GolTV 👇	00!0!0/9595?zyy
 	^-
 [w]Live Sport & TV Channels[z]	^-
 
-beIN Sports 1	http://125x.org:8080/bn1hd/index.m3u8
-beIN Sports 2	http://125x.org:8080/bn2hd/index.m3u8
-beIN Sports 3	http://125x.org:8080/bn3hd/index.m3u8
-beIN Sports 4	http://125x.org:8080/bn4hd/index.m3u8
-beIN Sports 5	http://125x.org:8080/bn5sd/index.m3u8
-beIN Sports 6	http://125x.org:8080/bn6hd/index.m3u8
 beIN Sports 1 🇦🇺	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd!!f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
 beIN Sports 2 🇦🇺	https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd!!9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
 beIN Sports 3 🇦🇺	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
