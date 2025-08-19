@@ -17,7 +17,11 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 ^=22.00 Egypt Premier League	^-
-^=Nat Bank of Egypt vs Kahraba Ismailia	`0https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3564307
+^=Bank of Egypt vs Kahraba Ismailia 1	`1https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3564307
+^=Bank of Egypt vs Kahraba Ismailia 2	`2https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3564307
+^=Bank of Egypt vs Kahraba Ismailia 3	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3564307
+^=Bank of Egypt vs Kahraba Ismailia 4	`4https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3564307
+^=Bank of Egypt vs Kahraba Ismailia 5	`5https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3564307
 
 20-08-2025	^-
 
