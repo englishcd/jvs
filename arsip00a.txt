@@ -11,29 +11,190 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 
 	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **
-^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
-^@	^-
+^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**  ^-
+^@  ^-
 
 Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 20-08-2025	^-
 
-00:00 [l]CAF African Nations Championship[z]	^-
-Sudan 🇸🇩 vs Senegal 🇸🇳	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3595855
-Sudan 🇸🇩 vs Senegal 🇸🇳	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210477/sudan-vs-senegal-08-2025.html
+05.00 Copa Libertadores	^-
+Velez Sarsfield vs Fortaleza EC CE	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3417754
 
-Nigeria 🇳🇬 vs Congo 🇨🇬	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3595854
-Nigeria 🇳🇬 vs Congo 🇨🇬	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4210480/nigeria-vs-republic-of-the-congo-08-2025.html
+05.00 Copa Sudamericana	^-
+CA Huracan vs CD Once Caldas	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3545924
 
-02:00 [y]Spanish La Liga[z]	^-
-Real Madrid vs Osasuna	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-Real Madrid vs Osasuna	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_laliga_tv/index.m3u8
-Real Madrid vs Osasuna	https://live.bbapcall.com/live/hd-en-1-4358245.m3u8?txSecret=bbd4b9eb768acbb8abc6d1cd995deb58&txTime=68A51C4E
-Real Madrid vs Osasuna	`*https://www.fctv33.net/football/spanish-la-liga-match-4209574/real-madrid-vs-ca-osasuna-08-2025.html
+05.30 Brazil Serie B	^-
+Operario Ferroviario EC PR vs Avai FC SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3538562
 
-^@	^-
+04.00 Costa Rica Cup	^-
+CS Uruguay de Coronado vs Sporting San Jose	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600410
+
+05.00 Colombia Primera B	^-
+Barranquilla FC vs Orsomarso SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3576104
+
+05.00 Venezuela Cup	^-
+Portuguesa FC vs Carabobo FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3614200
+
+05.00 Venezuela Cup	^-
+Academia Anzoategui FC vs UCV FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616688
+
+04.00 Brazil Campeonato Paulista Women	^-
+Ferroviaria SP vs Sao Paulo FC SP	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3529607
+
+07.00 CONCACAF Central American Cup	^-
+CD Plaza Amador vs Managua FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3604228
+
+07.00 Costa Rica Cup	^-
+Puntarenas FC vs CD Escorpiones Belen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600381
+
+07.00 CONCACAF Caribbean Cup	^-
+Mount Pleasant FC vs SV Robinhood	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600309
+
+07.00 CONCACAF Caribbean Cup	^-
+Cibao CF vs Cavaliers FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600313
+
+07.00 CONCACAF Champions Cup Women	^-
+Alianza vs Washington Spirit	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3599793
+
+07.30 Copa Libertadores	^-
+Sao Paulo FC SP vs Atletico Nacional Medellin	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3417747
+
+07.30 Copa Libertadores	^-
+Racing Club Avellaneda vs CA Penarol Montevideo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3417769
+
+07.30 Copa Sudamericana	^-
+Mushuc Runa SC vs CSD Independiente del Valle	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3545926
+
+07.30 Copa Sudamericana	^-
+Fluminense FC RJ vs America de Cali	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3545930
+
+07.30 Colombia Primera A	^-
+Independiente Santa Fe vs Envigado FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3606689
+
+09.00 CONCACAF Central American Cup	^-
+CD Aguila vs CD Olimpia Tegucigalpa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3604231
+
+09.00 Costa Rica Cup	^-
+Perez Zeledon vs Quepos Cambute FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600395
+
+09.00 CONCACAF Champions Cup Women	^-
+CF Pachuca vs FC Chorrillo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600319
+
+12.30 India Mumbai Super Division	^-
+Kopana FC vs South Mumbai United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616270
+
+14.30 Club Friendly Games	^-
+UCAM Murcia vs Orihuela CF	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617184
+
+14.30 Australia NPL Capital Territory U23	^-
+Gungahlin United U23 vs O Connor Knights SC U23	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616223
+
+14.30 India Mumbai Super Division	^-
+Mumbai Strikers vs Somaiya FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616231
+
+15.00 Croatia HNL League U19	^-
+HNK Hajduk Split U19 vs HNK Gorica U19	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3607107
+
+15.00 Croatia HNL League U19	^-
+Lokomotiva Zagreb U19 vs NK Rudes U19	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3607108
+
+15.00 Croatia HNL League U19	^-
+HNK Rijeka U19 vs NK Sesvete U19	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3607110
+
+15.00 Croatia HNL League U19	^-
+NK Varazdin U19 vs HNK Sibenik U19	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3607111
+
+15.30 Australia Queensland Premier League U23	^-
+Logan Lightning FC U23 vs Brisbane Strikers FC U23	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616266
+
+16.00 Australia NPL Capital Territory U23	^-
+Monaro Panthers U23 vs Cooma Tigers U23	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616225
+
+16.00 Czech Republic U19 1st Division	^-
+FC Slovan Liberec U19 vs Slavia Prague U19	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3613288
+
+16.30 Australia Cup	^-
+Avondale FC vs Brisbane City FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3604265
+
+16.30 Australia NPL Capital Territory	^-
+Gungahlin United FC vs O Connor Knights SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600338
+
+16.30 India Calcutta Premier Division	^-
+Patha Chakra vs Calcutta Customs	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3606326
+
+16.30 India Calcutta Premier Division	^-
+Police AC vs BSS Sporting Club	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3606327
+
+16.30 Australia NSW League One	^-
+Dulwich Hill FC vs UNSW FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616263
+
+16.30 Australia NPL Capital Territory Women	^-
+Belconnen United vs Canberra Olympic	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3615853
+
+16.30 Estonia Meistriliiga Women	^-
+FC Elva vs JK Tabasalu	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3401862
+
+16.45 Australia NPL Queensland U23	^-
+Sunshine Coast Wanderers U23 vs Gold Coast Knights FC U23	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616304
+
+17.00 Japan J.League	^-
+Machida Zelvia vs Gamba Osaka	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3053403
+
+17.00 Japan J.League	^-
+Sanfrecce Hiroshima vs Vissel Kobe	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3053404
+
+17.00 South Korea FA Cup	^-
+Jeonbuk Hyundai Motors vs Gangwon FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3567552
+
+17.15 Australia NPL Tasmania	^-
+Riverside Olympic FC vs Devonport City SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600333
+
+17.30 South Korea FA Cup	^-
+Gwangju FC vs Bucheon FC 1995	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3555943
+
+17.30 Australia Queensland Premier League	^-
+Logan Lightning vs Brisbane Strikers FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3615537
+
+18.30 Australia West State League 1	^-
+Dianella White Eagles SC vs UWA Nedlands FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616320
+
+18.35 Chinese Super League	^-
+Zhejiang Professional FC vs Tianjin Jinmen Tiger	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3064825
+
+18.35 Chinese FA Cup	^-
+Beijing Guoan vs Yunnan Yukun	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3596116
+
+18.35 Australia West State League 1	^-
+Joondalup City vs Curtin University SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616322
+
+19.00 Saudi Arabia Super Cup	^-
+AL Qadisiyah vs AL Ahli Saudi FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3612934
+
+19.00 England Professional Development League	^-
+Peterborough United U21 vs Queens Park Rangers U21	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600335
+
+19.00 Estonia Meistriliiga Women	^-
+Viimsi JK vs FC Flora Tallinn	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3401894
+
+19.00 ASEAN Club Championship Qualification	^-
+BG Pathum United FC vs Cong An Ha Noi FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3583108
+
+19.00 ASEAN Club Championship Qualification	^-
+Buriram United FC vs Selangor FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3599795
+
+20.00 Russian Cup	^-
+FC Legion Makhachkala vs FC Alania Vladikavkaz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602800
+
+20.00 Russian Cup	^-
+Zenit Penza vs FC Strogino Moscow	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602803
+
+20.00 Russian Cup	^-
+Torpedo Miass vs FC Volna Nizhny Novgorod Oblast	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602808
+
+^@  ^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **
-^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
+^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**  ^-
 
 	^-
 SpoTV 1 👇	00!0!2/1052588?zyy
@@ -1292,5 +1453,5 @@ Yomiuri TV 🇯🇵	`0i3`03ytv/index.m3u8
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=asahi1	`1https://anym3u8player.com/tv/video-player.php?url=https://worker-damp-poetry-68b1.1doi3.workers.dev/http://vthanh.utako.moe/TV_Asahi/index.m3u8
-  
+
 	^-
