@@ -36,14 +36,8 @@ Mumbai Strikers vs Somaiya FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?s
 
 15.00 Croatia HNL League U19	^-
 HNK Hajduk Split vs HNK Gorica	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3607107
-
-15.00 Croatia HNL League U19	^-
 Lokomotiva Zagreb vs NK Rudes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3607108
-
-15.00 Croatia HNL League U19	^-
 HNK Rijeka vs NK Sesvete	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3607110
-
-15.00 Croatia HNL League U19	^-
 NK Varazdin vs HNK Sibenik	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3607111
 
 15.30 Australia Queensland Premier League U23	^-
@@ -69,8 +63,6 @@ Brindabella Blues vs Belconnen United	`3https://embed-10-08-12-51.linkzhe.eu.org
 
 16.30 India Calcutta Premier Division	^-
 Patha Chakra vs Calcutta Customs	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3606326
-
-16.30 India Calcutta Premier Division	^-
 Police AC vs BSS Sporting Club	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3606327
 
 16.30 Australia NSW League One	^-
@@ -87,8 +79,6 @@ Sunshine Coast W vs Gold Coast Knights	`3https://embed-10-08-12-51.linkzhe.eu.or
 
 17.00 Japan J.League	^-
 Machida Zelvia vs Gamba Osaka	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3053403
-
-17.00 Japan J.League	^-
 Sanfrecce Hiroshima vs Vissel Kobe	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3053404
 
 17.00 South Korea FA Cup	^-
@@ -130,7 +120,7 @@ AL Qadisiyah vs AL Ahli Saudi FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embe
 19.00 England Pro Development League U21	^-
 Peterborough Utd vs Queens Park Rangers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600335
 
-19.00 Poland U19 CLJ
+19.00 Poland U19 CLJ	^-
 Gornik Zabrze vs Escola Varsovia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617137
 
 19.00 Estonia Meistriliiga Women	^-
@@ -138,8 +128,6 @@ Viimsi JK vs FC Flora Tallinn	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?s
 
 19.00 ASEAN Club Championship Qualification	^-
 BG Pathum United FC vs Cong An Ha Noi FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3583108
-
-19.00 ASEAN Club Championship Qualification	^-
 Buriram United FC vs Selangor FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3599795
 
 19:30 International Friendly (w) U16	^-
@@ -147,12 +135,24 @@ Indonesia vs Timor Leste	`*https://www.fctv33.net/football/international-friendl
 
 20.00 Russian Cup	^-
 Legion Makhachkala vs Alania Vladikavkaz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602800
-
-20.00 Russian Cup	^-
 Zenit Penza vs FC Strogino Moscow	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602803
-
-20.00 Russian Cup	^-
 Torpedo Miass vs Volna Nizhny Novgorod	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602808
+FK Astrakhan vs Pobeda Khasavyurt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602810
+
+20.00 Germany Bundesliga U19	^-
+TSV 1860 Munich vs Bayern Munich	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600344
+
+20.00 Norway Championship U19-Playoff	^-
+Stromsgodset vs Molde	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3612402
+Sogndal vs Bodoe/Glimt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3612403
+
+20.00 Paraguay Segunda Division	^-
+Tacuary Asuncion vs Independiente FBC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3596159
+Guarani de Fram vs Deportivo Capiata	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600397
+
+21.00 Russian Cup	^-
+Kosmos Dolgoprudny vs 2 Drots FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602444
+FC Mashuk KMV Pyatigorsk vs FC Spartak Nalchik	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602812
 
 	^-
 SpoTV 1 👇	00!0!2/1052588?zyy
