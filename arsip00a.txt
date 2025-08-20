@@ -54,6 +54,9 @@ NK Varazdin vs HNK Sibenik	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spor
 15.30 Australia Queensland Premier League U23	^-
 Logan Lightning FC vs Brisbane Strikers FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616266
 
+15.30 Club Friendly Games Women	^-
+Alhama CF vs Brighton & Hove Albion FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616831
+
 16.00 Australia NPL Capital Territory U23	^-
 Monaro Panthers vs Cooma Tigers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616225
 
@@ -65,6 +68,9 @@ Avondale FC vs Brisbane City FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed
 
 16.30 Australia NPL Capital Territory	^-
 Gungahlin United FC vs O Connor Knights	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600338
+
+16.30 Australia Capital Premier League	^-
+Brindabella Blues vs Belconnen United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616275
 
 16.30 India Calcutta Premier Division	^-
 Patha Chakra vs Calcutta Customs	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3606326
@@ -93,6 +99,9 @@ Sanfrecce Hiroshima vs Vissel Kobe	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 17.00 South Korea FA Cup	^-
 Jeonbuk Hyundai Motors vs Gangwon FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3567552
 
+17.00 Germany Bundesliga U19	^-
+FC Schalke 04 vs Arminia Bielefeld	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600325
+
 17.15 Australia NPL Tasmania	^-
 Riverside Olympic FC vs Devonport City SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600333
 
@@ -101,6 +110,9 @@ Gwangju FC vs Bucheon FC 1995	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?s
 
 17.30 Australia Queensland Premier League	^-
 Logan Lightning vs Brisbane Strikers FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3615537
+
+17.30 Australia Queensland Premier League 3	^-
+MT Gravatt Hawks vs Yeronga FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3606602
 
 18.00 ASEAN Club Championship Qualification	^-
 Dynamic Herb Cebu FC vs BG Tampines Rovers FC	`0MeWatch Live 5 🇸🇬	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
@@ -122,6 +134,9 @@ AL Qadisiyah vs AL Ahli Saudi FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embe
 
 19.00 England Pro Development League U21	^-
 Peterborough Utd vs Queens Park Rangers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600335
+
+19.00 Poland U19 CLJ
+Gornik Zabrze vs Escola Varsovia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617137
 
 19.00 Estonia Meistriliiga Women	^-
 Viimsi JK vs FC Flora Tallinn	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3401894
