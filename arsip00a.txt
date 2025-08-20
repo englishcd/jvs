@@ -68,6 +68,7 @@ BG Pathum United FC vs Cong An Ha Noi FC	`3https://embed-10-08-12-51.linkzhe.eu.
 Buriram United FC vs Selangor FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3599795
 
 19:30 International Friendly (w) U16	^-
+Indonesia vs Timor Leste	https://bf.jalaplay.net/live/322580_FHD1080.m3u8?txSecret=b400ae2978214c9cf915717f3c253666&txTime=68a5c079
 Indonesia vs Timor Leste	`*https://www.fctv33.net/football/international-friendly-match-4260236/indonesia-wu17-vs-timor-leste-w-u16-08-2025.html
 
 20.00 Russian Cup	^-
@@ -89,7 +90,7 @@ Guarani de Fram vs Deportivo Capiata	`3https://embed-10-08-12-51.linkzhe.eu.org/
 
 21.00 Russian Cup	^-
 Kosmos Dolgoprudny vs 2 Drots FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602444
-FC Mashuk KMV Pyatigorsk vs FC Spartak Nalchik	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602812
+Mashuk KMV Pyatigorsk vs Spartak Nalchik	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602812
 
 21.00 Russian Cup	^-
 Khimik Dzerzhinsk vs FC Amkar Perm	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3608055
