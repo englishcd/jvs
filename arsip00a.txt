@@ -18,9 +18,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 [g]20-08-2025[z]	^-
 
-05.30 Brazil Serie B	^-
-Operario Ferroviario EC PR vs Avai FC SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3538562
-
 07.00 CONCACAF Central American Cup	^-
 CD Plaza Amador vs Managua FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3604228
 
@@ -97,7 +94,7 @@ FC Slovan Liberec vs Slavia Prague	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 Avondale FC vs Brisbane City FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3604265
 
 16.30 Australia NPL Capital Territory	^-
-Gungahlin United FC vs O Connor Knights SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600338
+Gungahlin United FC vs O Connor Knights	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600338
 
 16.30 India Calcutta Premier Division	^-
 Patha Chakra vs Calcutta Customs	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3606326
