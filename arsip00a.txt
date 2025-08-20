@@ -9,11 +9,6 @@ ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 	^-
 [y]Live Football Events[z]	^-
 
-  ^-
-^@** Two Pop-Ups: Ads and The Live Streaming. **
-^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**  ^-
-^@  ^-
-
 Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 [g]20-08-2025[z]	^-
@@ -158,10 +153,6 @@ Zenit Penza vs FC Strogino Moscow	`3https://embed-10-08-12-51.linkzhe.eu.org/emb
 
 20.00 Russian Cup	^-
 Torpedo Miass vs Volna Nizhny Novgorod	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602808
-
-^@  ^-
-^@** Two Pop-Ups: Ads and The Live Streaming. **
-^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**  ^-
 
 	^-
 SpoTV 1 👇	00!0!2/1052588?zyy
