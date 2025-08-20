@@ -18,23 +18,8 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 [g]20-08-2025[z]	^-
 
-05.00 Copa Libertadores	^-
-Velez Sarsfield vs Fortaleza EC CE	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3417754
-
-05.00 Copa Sudamericana	^-
-CA Huracan vs CD Once Caldas	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3545924
-
 05.30 Brazil Serie B	^-
 Operario Ferroviario EC PR vs Avai FC SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3538562
-
-05.00 Colombia Primera B	^-
-Barranquilla FC vs Orsomarso SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3576104
-
-05.00 Venezuela Cup	^-
-Portuguesa FC vs Carabobo FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3614200
-
-05.00 Venezuela Cup	^-
-Academia Anzoategui FC vs UCV FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616688
 
 07.00 CONCACAF Central American Cup	^-
 CD Plaza Amador vs Managua FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3604228
