@@ -61,7 +61,8 @@ Logan Lightning vs Brisbane Strikers FC	`3https://embed-10-08-12-51.linkzhe.eu.o
 MT Gravatt Hawks vs Yeronga FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3606602
 
 18.00 ASEAN Club Championship Qualification	^-
-Dynamic Herb Cebu FC vs BG Tampines Rovers FC	`0MeWatch Live 5 🇸🇬	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+Dynamic Herb Cebu vs BG Tampines Rovers	`0https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+Dynamic Herb Cebu vs BG Tampines Rovers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3615458
 
 18.30 Australia West State League 1	^-
 Dianella White Eagles vs UWA Nedlands	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616320
