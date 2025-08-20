@@ -13,36 +13,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 [g]20-08-2025[z]	^-
 
-22.00 Egypt Premier League	^-
-Ceramica Cleopatra vs Enppi Club	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600390
-
-22.00 Russian Cup	^-
-FC Dynamo Bryansk vs Saturn Ramenskoye	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3607945
-
-22.00 Russian Cup	^-
-FK Veles Moscow vs FC Znamya Noginsk	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3607965
-
-22.00 Uzbekistan Super League	^-
-Sogdiana Jizzakh vs Dinamo Samarqand	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600392
-
-22.00 Portugal Liga Revelacao U23	^-
-Gil Vicente FC vs Academico Viseu	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3579432
-
-22.00 Slovakia Cup	^-
-Druzstevnik Latky vs SK Novohrad Lucenec	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3596270
-
-22.00 Slovakia Cup	^-
-SK Javornik Makov vs MSK Namestovo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3604654
-
-22.00 Croatia HNL League U19	^-
-NK Varazdin U19 vs HNK Sibenik U19	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3607111
-
-22.00 Finland Kolmonen	^-
-Niemisen Urheilijat vs Ylamyllyn Yllatys	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600400
-
-22.00 Georgia Cup	^-
-FC Spaeri vs FC Kolkheti 1913 Poti	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600334
-
 22.30 Russian Cup	^-
 Znamya Truda Orekhovo vs Dynamo Barnaul	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3607968
 
@@ -85,14 +55,11 @@ FKS Ukmerge vs FC Dziugas Telsiai B	`3https://embed-10-08-12-51.linkzhe.eu.org/e
 23.30 Lithuania 2 Lyga	^-
 FK Sveikata Kybartai vs FK Sirijus Klaipeda	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600356
 
-22.00 Finland Kolmonen	^-
-Niemisen Urheilijat vs Ylamyllyn Yllatys	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600400
-
 23.00 Finland Kolmonen	^-
-HoDy vs Aanekosken Huima / Suolahden Urho	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600406
+HoDy vs Aanekosken Huima Suolahden	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600406
 
 23.00 Poland IV Liga	^-
-Chemik Bydgoszcz vs GKS Lokietek Brzesc Kujawski	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3618793
+Chemik Bydgoszcz vs GKS Lokietek Brzesc	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3618793
 
 23.00 Poland IV Liga	^-
 RKS Lech Rypin vs LZS Mustang Ostaszewo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3619989
@@ -102,9 +69,6 @@ Ceramika Opoczno vs Ner Poddebice	`3https://embed-10-08-12-51.linkzhe.eu.org/emb
 
 23.00 Austria VFV Cup	^-
 SC Fussach vs Dornbirner SV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3615449
-
-22.00 Georgia Cup	^-
-FC Spaeri vs FC Kolkheti 1913 Poti	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600334
 
 23.00 Argentina Primera B Metropolitana Reserves	^-
 UAI Urquiza vs Comunicaciones Bsas	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3606340
@@ -124,19 +88,19 @@ FC Finnkurd vs Vantaan Jalkapalloseura 2	`3https://embed-10-08-12-51.linkzhe.eu.
 Ontinyent 1931 vs Yeclano Deportivo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3618193
 
 00.00 Club Friendly Games	^-
-UD Gijon Industrial vs CD Lealtad de Villaviciosa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3619604
+UD Gijon Industrial vs Lealtad Villaviciosa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3619604
 
 00.00 Club Friendly Games	^-
 CA Osasuna B vs CD Teruel	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3619605
 
 00.00 Portugal Liga Revelacao U23	^-
-Leixoes SC U23 vs FC Famalicao U23	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3579445
+Leixoes SC vs FC Famalicao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3579445
 
 00.00 Spain Copa Federacion	^-
 Mexico FC vs Las Rozas CF	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3599809
 
 00.00 Germany Regionalliga North	^-
-FSV Schoningen 2011 vs SV Werder Bremen II	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600394
+FSV Schoningen 2011 vs Werder Bremen II	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600394
 
 00.00 Germany Regionalliga North	^-
 Eintracht Norderstedt vs Hannover 96 II	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600439
@@ -148,7 +112,7 @@ VFB Lubeck vs FC St. Pauli II	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?s
 FC 08 Homburg Saar vs Bahlinger SC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600361
 
 00.00 Germany Regionalliga West	^-
-FC Schalke 04 II vs VfL Sportfreunde Lotte 1929	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600427
+FC Schalke 04 II vs Sportfreunde Lotte 1929	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600427
 
 00.00 Finland Kolmonen	^-
 GrIFK U23 vs EBK	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600436
@@ -157,7 +121,7 @@ GrIFK U23 vs EBK	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matc
 Real Betis vs Sevilla FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3619618
 
 00.00 Argentina Reserve League	^-
-San Lorenzo de Almagro vs Instituto AC Cordoba	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600447
+San Lorenzo Almagro vs Instituto Cordoba	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600447
 
 00.15 Finland Kakkonen Women	^-
 PPJ vs HIFK Helsinki	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3615454
@@ -169,7 +133,7 @@ FC Coruxo vs Pontevedra CF	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spor
 Real Avila CF vs CF Rayo Majadahonda	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617187
 
 00.30 Club Friendly Games	^-
-CD Palencia Cristo Atletico vs Gimnastica Segoviana CF	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3618397
+Palencia Cristo vs Gimnastica Segoviana	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3618397
 
 00.30 South Africa Premier Soccer League	^-
 Magesi FC vs Mamelodi Sundowns	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3570261
