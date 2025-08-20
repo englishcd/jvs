@@ -32,6 +32,9 @@ GolTV 👇	00!0!0/9595?zyy
 ^=	^-
 ^=stream-east	`0https://stream-east.soccer/
 ^=soccer-100	`0https://soccer-100.net/
+^=indosiar0	`0https://enz.gdplayertv.to/live-tv/indosiar/?embed=1
+^=indosiar1	`1https://enz.gdplayertv.to/live-tv/indosiar/?embed=1
+^=indosiar3	`3https://enz.gdplayertv.to/live-tv/indosiar/?embed=1
 ^=espn	`1https://streamtp11.com/global1.php?stream=espn
 ^=Ind0514r	!pt!205
 ^=Mentar! 8237	!pt!8237
@@ -1160,6 +1163,8 @@ HRT 2 🇭🇷	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.
 
 Arena Sport 1 Premium	`0https://streaming.sportsnews.id/p/arena1p.html
 Arena Sport 2 Premium	`0https://streaming.sportsnews.id/p/arena2p.html
+Arena Sport 1	`0https://zeeplayer2.pages.dev/arena1sp
+
 Arena Sport RS 1	`0https://streaming.sportsnews.id/p/arena1ser.html
 
 [w]ID Live Sport & TV Channels[z]	^-
