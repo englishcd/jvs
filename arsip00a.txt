@@ -102,6 +102,9 @@ Gwangju FC vs Bucheon FC 1995	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?s
 17.30 Australia Queensland Premier League	^-
 Logan Lightning vs Brisbane Strikers FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3615537
 
+18.00 ASEAN Club Championship Qualification	^-
+Dynamic Herb Cebu FC vs BG Tampines Rovers FC	`0MeWatch Live 5 🇸🇬	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+
 18.30 Australia West State League 1	^-
 Dianella White Eagles vs UWA Nedlands	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3616320
 
@@ -128,6 +131,9 @@ BG Pathum United FC vs Cong An Ha Noi FC	`3https://embed-10-08-12-51.linkzhe.eu.
 
 19.00 ASEAN Club Championship Qualification	^-
 Buriram United FC vs Selangor FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3599795
+
+19:30 International Friendly (w) U16
+Indonesia vs Timor Leste	`*https://www.fctv33.net/football/international-friendly-match-4260236/indonesia-wu17-vs-timor-leste-w-u16-08-2025.html
 
 20.00 Russian Cup	^-
 Legion Makhachkala vs Alania Vladikavkaz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3602800
@@ -341,6 +347,7 @@ Peacock Premier League	https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Liv
 Premiere 🇧🇷	i3!16/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd!!d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 Real Madrid TV EN	https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 Real Madrid TV ES	https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+RedBull TV	https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 RTA Sports	https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 RTK1	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
 RTL TV	https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd!!57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
@@ -1399,6 +1406,5 @@ Yomiuri TV 🇯🇵	`0i3`03ytv/index.m3u8
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=fctvlive	`0https://www.fctvlive.net/
 ^=asahi1	`1https://anym3u8player.com/tv/video-player.php?url=https://worker-damp-poetry-68b1.1doi3.workers.dev/http://vthanh.utako.moe/TV_Asahi/index.m3u8
-https://yoembed.freesport.eu.org/api/data?sportId=1&timezone=id
 
 	^-
