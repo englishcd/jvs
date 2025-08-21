@@ -61,6 +61,94 @@ GolTV 👇	00!0!0/9595?zyy
 ^=VolleyBall Live	`0https://wikisport.cc/play?token=s3c2LDmf00dxQBOoXZcEX3ZEbzBmeDVWVi9NVkpVZlZRL3VzTk5PcXQyMjN5T29Fb1JnV3IzK05GQWx6MFlpb1ZvZWhUTXBMcHJMb3VqWTJEMmVadDRBPQ
 
 	^-
+[w]ID Live Sport & TV Channels[z]	^-
+
+ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
+AniPlus	https://khano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
+ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+Bahana FM	https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
+CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
+Celestial Classic Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
+Celestial Movies	https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
+Celestial Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
+DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+DeiKids TV	https://e.siar.us/live/deikidstv.m3u8
+Dhoho TV- Kediri	https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
+dTVi	https://e.siar.us/live/dtvi.m3u8
+Entertainment	https://fta2!vfc!a90cb773466446b08595007bab12b920/index.mpd!!62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
+Ficom TV	https://v3.siar.us/ficomchannel/live/playlist.m3u8
+Galaxy Premium	https://fta1!vfc!45c0752c6b6b4397b80243ac9fed96fd/index.mpd!!0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+Garuda TV	https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+Rock Action	https://fta1!vfc!010bb28c19b64975b318d3b00f58b18b/index.mpd!!d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
+GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
+GTV	https://fta2!vfc!b8b9b1d5f80f45649b4a3619291551ab/index.mpd!!036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
+Hanacaraka	https://fta3!vfc!17c724036c5f4615bd0b8093126b5c44/index.mpd!!0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+iNews	https://allcutv.rctiplus.id/inews2023.m3u8?7
+iNews	https://fta2!vfc!7b0404cd6a8a4a908123f10774854e46/index.mpd!!8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
+iNews	`0https://embed.rctiplus.com/live/inews/inewsid
+InspiraTV	https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+Jawapos TV	https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
+K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
+Kids TV	https://fta3!vfc!9041826689ae4f9c9619576d411fa989/index.mpd!!ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+Kids TV	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
+KiX	https://khano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
+Kompas TV	https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+MD TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
+Mentari TV	http://103.226.232.199:9003/play/a05a/index.m3u8
+Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
+Musik Indonesia	https://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
+Musik Indonesia	https://v2.siar.us/mic/live/playlist.m3u8
+MNC TV	https://allcutv.rctiplus.id/mnctv2023.m3u8?7
+MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
+Muhammadiyah TV	https://e.siar.us/live/tvmu.m3u8
+Music TV	https://fta1!vfc!c20d75deb06f401aa89681a9e5054de7/index.mpd!!55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
+My Cinema Asia	https://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
+My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+MyKidz	https://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
+Nick Jr	https://fta1!vfc!27163af9499b4bcca2da96677b158efe/index.mpd!!c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
+RCTI	https://allcutv.rctiplus.id/rcti2023.m3u8?7
+RCTI	https://fta4!vfc!997ce8767b604fae9fce05379b3b8b3a/index.mpd!!d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
+RCTV Cirebon	https://v10.siar.us/rctv/live/playlist.m3u8
+Rock Entertainment	https://cdn.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
+RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
+Sampit TV	https://e.siar.us/live/sampit-tv.m3u8
+SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+Surabaya TV	https://e.siar.us/live/surabayatv.m3u8
+Thrill	https://khano.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a.m3u8
+Toonz Kids	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+Trans 7	https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+Trans 7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
+Trans TV	https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+Trans TV	https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8
+tvN Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
+tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
+TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+TVRI Sports	https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+TVRI World	https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+	^-
+Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+Sports ID 3	https://fta4!vfc!63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+Sports ID 4	https://fta4!vfc!2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+beIN Sports ID 1	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+beIN Sports ID 2	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+
+	^-
 [w]Live Sport & TV Channels[z]	^-
 
 beIN Sports 1 🇦🇺	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd!!f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
@@ -594,94 +682,6 @@ Sports 5 🇧🇷	`0https://sportzonline.si/channels/bra/br5.php
 Sports 6 🇧🇷	`0https://sportzonline.si/channels/bra/br6.php
 Sports 7 🇧🇷	`0https://sportzonline.si/channels/bra/br7.php
 Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
-
-	^-
-[w]ID Live Sport & TV Channels[z]	^-
-
-ID Moji	https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-AniPlus	https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
-AniPlus	https://khano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
-ANTV	https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
-Bahana FM	https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
-BTV	https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
-CCTV 4	https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
-Celestial Classic Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
-Celestial Movies	https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
-Celestial Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
-DAAI TV	https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
-DeiKids TV	https://e.siar.us/live/deikidstv.m3u8
-Dhoho TV- Kediri	https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
-dTVi	https://e.siar.us/live/dtvi.m3u8
-Entertainment	https://fta2!vfc!a90cb773466446b08595007bab12b920/index.mpd!!62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
-Ficom TV	https://v3.siar.us/ficomchannel/live/playlist.m3u8
-Galaxy Premium	https://fta1!vfc!45c0752c6b6b4397b80243ac9fed96fd/index.mpd!!0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
-Garuda TV	https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-Rock Action	https://fta1!vfc!010bb28c19b64975b318d3b00f58b18b/index.mpd!!d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
-GTV	https://allcutv.rctiplus.id/gtv2023.m3u8?7
-GTV	https://fta2!vfc!b8b9b1d5f80f45649b4a3619291551ab/index.mpd!!036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
-GTV	`0https://embed.rctiplus.com/live/gtv/inewsid
-Hanacaraka	https://fta3!vfc!17c724036c5f4615bd0b8093126b5c44/index.mpd!!0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
-Indosiar	https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-iNews	https://allcutv.rctiplus.id/inews2023.m3u8?7
-iNews	https://fta2!vfc!7b0404cd6a8a4a908123f10774854e46/index.mpd!!8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-iNews	`0https://embed.rctiplus.com/live/inews/inewsid
-InspiraTV	https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-Jawapos TV	https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
-K Plus	https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
-Kids TV	https://fta3!vfc!9041826689ae4f9c9619576d411fa989/index.mpd!!ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-Kids TV	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
-KiX	https://khano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
-Kompas TV	https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
-Kompas TV	https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
-MD TV	https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
-Mentari TV	http://103.226.232.199:9003/play/a05a/index.m3u8
-Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
-Metro TV	https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
-Musik Indonesia	https://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
-Musik Indonesia	https://v2.siar.us/mic/live/playlist.m3u8
-MNC TV	https://allcutv.rctiplus.id/mnctv2023.m3u8?7
-MNC TV	`0https://embed.rctiplus.com/live/mnctv/inewsid
-Muhammadiyah TV	https://e.siar.us/live/tvmu.m3u8
-Music TV	https://fta1!vfc!c20d75deb06f401aa89681a9e5054de7/index.mpd!!55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
-My Cinema Asia	https://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
-My Cinema Europe	https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-MyKidz	https://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
-Nick Jr	https://fta1!vfc!27163af9499b4bcca2da96677b158efe/index.mpd!!c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
-RCTI	https://allcutv.rctiplus.id/rcti2023.m3u8?7
-RCTI	https://fta4!vfc!997ce8767b604fae9fce05379b3b8b3a/index.mpd!!d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-RCTI	`0https://embed.rctiplus.com/live/rcti/inewsid
-RCTV Cirebon	https://v10.siar.us/rctv/live/playlist.m3u8
-Rock Entertainment	https://cdn.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
-RTV	https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-Sakti TV	https://saktitv.siar.us/saktitv/live/playlist.m3u8
-Sampit TV	https://e.siar.us/live/sampit-tv.m3u8
-SCTV	https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-Surabaya TV	https://e.siar.us/live/surabayatv.m3u8
-Thrill	https://khano.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a.m3u8
-Toonz Kids	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
-Trans 7	https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-Trans 7	https://donelfantastic.github.io/creativemedia/local/trans7ID.m3u8
-Trans TV	https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-Trans TV	https://donelfantastic.github.io/creativemedia/local/transtvID.m3u8
-tvN Movies	https://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
-tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
-tvOne	https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
-TVRI	https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-TVRI Sports	https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
-TVRI Sports	https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-TVRI World	https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-
-	^-
-Sports ID 1	https://fta2!vfc!89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-Sports ID 2	https://fta3!vfc!d2c68a3dfb644808b416bd90dcc92d5f/index.mpd!!911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-Sports ID 3	https://fta4!vfc!63c0da12bb4d48afbaf053f51dff2353/index.mpd!!4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-Sports ID 4	https://fta4!vfc!2fcc58ccec8c45e9aa094fb980eb642d/index.mpd!!b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-beIN Sports ID 1	https://fta4!vfc!3b0660e05eed4d769521eb0275aab3ab/index.mpd!!3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-beIN Sports ID 2	https://fta1!vfc!cfca527d0f16403396a71b2d3d54c32f/index.mpd!!3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-beIN Sports ID 3	https://fta3!vfc!a265695db5cb461095cbfefc02ad793b/index.mpd!!344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-beIN Sports ID 4	https://fta2!vfc!2e55bc8199044c27b1dbb827af65a04f/index.mpd!!aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-beIN Sports ID 5	https://fta3!vfc!fe4d00f07e2f43b789102b84b4d243a9/index.mpd!!c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 
 	^-
 [l]Sports & TV Channels[z] [w]for Desktop[z]	^-
