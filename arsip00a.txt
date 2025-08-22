@@ -67,7 +67,7 @@ Bournemouth AFC vs Wolves	`*https://www.fctv33.net/football/english-premier-leag
 Brentford vs Aston Villa	`*https://www.fctv33.net/football/english-premier-league-match-4223110/brentford-vs-aston-villa-08-2025.html
 
 21:00 [l]CAF African Nations Championship[z]	^-
-Uganda  vs Senegal 	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4260072/uganda-vs-senegal-08-2025.html
+Uganda 🇺🇬 vs Senegal 🇸🇳	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4260072/uganda-vs-senegal-08-2025.html
 
 21:30 [y]Netherlands Eredivisie[z]	^-
 Go Ahead Eagles vs Sparta Rotterdam	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200012/go-ahead-eagles-vs-sparta-rotterdam-08-2025.html
@@ -106,7 +106,7 @@ Nice vs AJ Auxerre	`*https://www.fctv33.net/football/french-ligue-1-match-421193
 Nacional da Madeira vs Sporting CP	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4219944/nacional-da-madeira-vs-sporting-cp-08-2025.html
 
 00:00 [l]CAF African Nations Championship[z]	^-
-Sudan  vs Algeria 	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4260073/sudan-vs-algeria-08-2025.html
+Sudan 🇸🇩 vs Algeria 🇩🇿	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4260073/sudan-vs-algeria-08-2025.html
 
 00:30 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Elche	`*https://www.fctv33.net/football/spanish-la-liga-match-4226847/atletico-madrid-vs-elche-08-2025.html
