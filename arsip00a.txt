@@ -18,33 +18,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 23-08-2005	^-
 
-23:30 [y]Bundesliga[z]	^-
-FC St. Pauli vs Borussia Dortmund	`*https://www.fctv33.net/football/bundesliga-match-4199641/fc-st-pauli-vs-borussia-dortmund-08-2025.html
-FC St. Pauli vs Borussia Dortmund	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3478624
-FC St. Pauli vs Borussia Dortmund	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd!!f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
-FC St. Pauli vs Borussia Dortmund	https://dtvxtream.com/sonyliv2/300273.m3u8
-FC St. Pauli vs Borussia Dortmund	https://z.1UK_SKY_SPORTS_FOOTBALL/index.m3u8
-
-23:30 [y]Italian Serie A[z]	^-
-Sassuolo vs Napoli	`*https://www.fctv33.net/football/italian-serie-a-match-4225848/sassuolo-vs-napoli-08-2025.html
-Sassuolo vs Napoli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3438964
-Sassuolo vs Napoli	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd!!6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
-Sassuolo vs Napoli	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-Sassuolo vs Napoli	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-Sassuolo vs Napoli	https://z.1UK_TNT_SPORTS_1/index.m3u8
-
-Genoa vs Lecce	`*https://www.fctv33.net/football/italian-serie-a-match-4227032/genoa-vs-lecce-08-2025.html
-Genoa vs Lecce	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3438946
-Genoa vs Lecce	https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd!!9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
-Genoa vs Lecce	https://a.00/1/out/u/dash/ESPN-3-HD/default.mpd!!0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
-
-23:30 [y]English Premier League[z]	^-
-Arsenal vs Leeds United	`*https://www.fctv33.net/football/english-premier-league-match-4226506/arsenal-vs-leeds-united-08-2025.html
-Arsenal vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3608288
-Arsenal vs Leeds United	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd!!6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-Arsenal vs Leeds United	https://z.1UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
-Arsenal vs Leeds United	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
-
 23:45 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs Groningen	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199118/psv-eindhoven-vs-groningen-08-2025.html
 PSV Eindhoven vs Groningen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3512736
