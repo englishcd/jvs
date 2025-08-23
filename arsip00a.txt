@@ -18,26 +18,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 23-08-2005	^-
 
-21:30 [y]Netherlands Eredivisie[z]	^-
-Go Ahead Eagles vs Sparta Rotterdam	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200012/go-ahead-eagles-vs-sparta-rotterdam-08-2025.html
-Go Ahead Eagles vs Sparta Rotterdam	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3512737
-
-22:00 [y]French Ligue 1[z]	^-
-Marseille vs Paris FC	`*https://www.fctv33.net/football/french-ligue-1-match-4217227/marseille-vs-paris-fc-08-2025.html
-Marseille vs Paris FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3499171
-Marseille vs Paris FC	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-
-22:00 [y]Portuguese Primera Liga[z]	^-
-Moreirense vs Vitoria Guimaraes	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4218390/moreirense-vs-vitoria-guimaraes-08-2025.html
-Moreirense vs Vitoria Guimaraes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3608878
-
-22:00 [y]Spanish La Liga[z]	^-
-Mallorca vs Real Club Celta de Vigo SAD	`*https://www.fctv33.net/football/spanish-la-liga-match-4225355/rcd-mallorca-vs-rc-celta-08-2025.html
-Mallorca vs Real Club Celta de Vigo SAD	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3486310
-Mallorca vs Real Club Celta de Vigo SAD	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-Mallorca vs Real Club Celta de Vigo SAD	https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,!!3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
-Mallorca vs Real Club Celta de Vigo SAD	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd!!8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
-
 23:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs Borussia Dortmund	`*https://www.fctv33.net/football/bundesliga-match-4199641/fc-st-pauli-vs-borussia-dortmund-08-2025.html
 FC St. Pauli vs Borussia Dortmund	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3478624
@@ -88,6 +68,7 @@ Sudan 🇸🇩 vs Algeria 🇩🇿	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 
 00:30 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Elche	`*https://www.fctv33.net/football/spanish-la-liga-match-4226847/atletico-madrid-vs-elche-08-2025.html
+Atletico Madrid vs Elche	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3486309
 Atletico Madrid vs Elche	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,!!3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
 Atletico Madrid vs Elche	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd!!8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
 Atletico Madrid vs Elche	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
