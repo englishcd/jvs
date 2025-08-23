@@ -18,12 +18,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 23-08-2005	^-
 
-18:30 [y]English Premier League[z]	^-
-Manchester City vs Tottenham Hotspur	`*https://www.fctv33.net/football/english-premier-league-match-4193839/manchester-city-vs-tottenham-hotspur-08-2025.html
-Manchester City vs Tottenham Hotspur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3596023
-Manchester City vs Tottenham Hotspur	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd!!6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-Manchester City vs Tottenham Hotspur	TNT Sports 1 🇬🇧	https://z.1UK_TNT_SPORTS_1/index.m3u8
-
 19:00 [g]Saudi Arabia Super Cup[z]	^-
 Al Nassr FC vs Al Ahli Jeddah	`*https://www.fctv33.net/football/saudi-arabia-super-cup-match-4260930/al-nassr-fc-vs-al-ahli-sfc-08-2025.html
 Al Nassr FC vs Al Ahli Jeddah	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3621398
@@ -31,20 +25,28 @@ Al Nassr FC vs Al Ahli Jeddah	https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/liv
 
 19:15 Malaysian Super League	^-
 Sabah vs Kelantan United	`*https://www.fctv33.net/football/malaysian-super-league-match-4238476/sabah-fc-vs-kelantan-the-real-warriors-08-2025.html
+Sabah vs Kelantan United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3608791
 
 19:30 [l]International Friendly (w) U16[z]	^-
 Singapore 🇸🇬 vs Australia 🇦🇺	`*https://www.fctv33.net/football/international-friendly-match-4260950/singapore-w-u16-vs-australia-w-u16-08-2025.html
 
 20:30 [y]Bundesliga[z]	^-
 Bayer Leverkusen vs TSG Hoffenheim	`*https://www.fctv33.net/football/bundesliga-match-4211441/bayer-04-leverkusen-vs-tsg-hoffenheim-08-2025.html
+Bayer Leverkusen vs TSG Hoffenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3478611
 Bayer Leverkusen vs TSG Hoffenheim	https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd!!9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
 
 Eintracht Frankfurt vs Werder Bremen	`*https://www.fctv33.net/football/bundesliga-match-4199954/eintracht-frankfurt-vs-sv-werder-bremen-08-2025.html
+Eintracht Frankfurt vs Werder Bremen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3478618
 Eintracht Frankfurt vs Werder Bremen	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd!!f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
 
 Union Berlin vs VfB Stuttgart	`*https://www.fctv33.net/football/bundesliga-match-4199946/1-fc-union-berlin-vs-vfb-stuttgart-08-2025.html
+Union Berlin vs VfB Stuttgart	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3478632
+
 SC Freiburg vs FC Augsburg	`*https://www.fctv33.net/football/bundesliga-match-4200011/sc-freiburg-vs-fc-augsburg-08-2025.html
+SC Freiburg vs FC Augsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3478631
+
 1. FC Heidenheim vs VfL Wolfsburg	`*https://www.fctv33.net/football/bundesliga-match-4200080/1-fc-heidenheim-1846-vs-vfl-wolfsburg-08-2025.html
+1. FC Heidenheim vs VfL Wolfsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3478612
 
 21:00 [y]English Premier League[z]	^-
 Bournemouth AFC vs Wolves	`*https://www.fctv33.net/football/english-premier-league-match-4196059/bournemouth-afc-vs-wolverhampton-wanderers-08-2025.html
