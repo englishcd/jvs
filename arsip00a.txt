@@ -24,6 +24,7 @@ Persija Jakarta vs Malut United	`*https://www.fctv33.net/football/indonesian-lig
 
 18:30 [y]English Premier League[z]	^-
 Manchester City vs Tottenham Hotspur	`*https://www.fctv33.net/football/english-premier-league-match-4193839/manchester-city-vs-tottenham-hotspur-08-2025.html
+Manchester City vs Tottenham Hotspur	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd!!6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
 
 19:00 Indonesian Liga 1	^-
 Persebaya Surabaya vs Bali United	`*https://www.fctv33.net/football/indonesian-liga-1-match-4229452/persebaya-surabaya-vs-bali-united-08-2025.html
@@ -136,6 +137,7 @@ GolTV 👇	00!0!0/9595?zyy
 ^=soccer-100	`0https://soccer-100.net/
 ^=indosiar0	`0https://enz.gdplayertv.to/live-tv/indosiar/?embed=1
 ^=espn	`1https://streamtp11.com/global1.php?stream=espn
+^=espn	`3https://streamtp11.com/global1.php?stream=espn
 ^=Ind0514r	!pt!205
 ^=Mentar! 8237	!pt!8237
 ^=Live Day	`0https://dlhd.click/
