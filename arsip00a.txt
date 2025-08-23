@@ -3,7 +3,6 @@
 [g]{s} Ⓗa0 Live Sports Events[z]	^-
 
 	^-
-ESPN 1 🇳🇱 👇	00!b0019201/index.m3u8
 👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
 
 	^-
@@ -17,55 +16,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 ^@	^-
 
 24-08-2005	^-
-
-00:00 [y]French Ligue 1[z]	^-
-Nice vs AJ Auxerre	`*https://www.fctv33.net/football/french-ligue-1-match-4211930/ogc-nice-vs-aj-auxerre-08-2025.html
-Nice vs AJ Auxerre	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3528871
-
-00:00 [y]Portuguese Primera Liga[z]	^-
-Nacional da Madeira vs Sporting CP	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4219944/nacional-da-madeira-vs-sporting-cp-08-2025.html
-Nacional da Madeira vs Sporting CP	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3486224
-Nacional da Madeira vs Sporting CP	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-
-00:00 [l]CAF African Nations Championship[z]	^-
-Sudan 🇸🇩 vs Algeria 🇩🇿	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4260073/sudan-vs-algeria-08-2025.html
-Sudan 🇸🇩 vs Algeria 🇩🇿	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3618851
-
-00:30 [y]Spanish La Liga[z]	^-
-Atletico Madrid vs Elche	`*https://www.fctv33.net/football/spanish-la-liga-match-4226847/atletico-madrid-vs-elche-08-2025.html
-Atletico Madrid vs Elche	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3486309
-Atletico Madrid vs Elche	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,!!3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
-Atletico Madrid vs Elche	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd!!8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
-Atletico Madrid vs Elche	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-
-01:45 [y]Italian Serie A[z]	^-
-AS Roma vs Bologna	`*https://www.fctv33.net/football/italian-serie-a-match-4231521/as-roma-vs-bologna-08-2025.html
-AS Roma vs Bologna	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3438917
-
-AC Milan vs Cremonese	`*https://www.fctv33.net/football/italian-serie-a-match-4231523/ac-milan-vs-cremonese-08-2025.html
-AC Milan vs Cremonese	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3438904
-
-02:00 [y]Netherlands Eredivisie[z]	^-
-SC Telstar vs Volendam	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199117/sc-telstar-vs-volendam-08-2025.html
-SC Telstar vs Volendam	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3512735
-
-02:05 [y]French Ligue 1[z]	^-
-Lyon vs Metz	`*https://www.fctv33.net/football/french-ligue-1-match-4212108/lyon-vs-metz-08-2025.html
-Lyon vs Metz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3609189
-
-02:30 [y]Portuguese Primera Liga[z]	^-
-Benfica vs CD Tondela	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4215971/benfica-vs-cd-tondela-08-2025.html
-Benfica vs CD Tondela	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3609220
-
-FC Arouca vs Rio Ave	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4219946/fc-arouca-vs-rio-ave-08-2025.html
-FC Arouca vs Rio Ave	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3609239
-
-02:30 [y]Spanish La Liga[z]	^-
-Levante vs FC Barcelona	`*https://www.fctv33.net/football/spanish-la-liga-match-4220868/levante-vs-fc-barcelona-08-2025.html
-Levante vs FC Barcelona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3486297
-
-03:30 [y]Argentine Division 1[z]	^-
-Rosario Central vs Newells Old Boys	`*https://www.fctv33.net/football/argentine-division-1-match-4107508/rosario-central-vs-club-atltico-newells-old-boys-08-2025.html
 
 06:00 [y]Canadian Premier League[z]	^-
 Atletico Ottawa vs Cavalry FC	`*https://www.fctv33.net/football/canadian-premier-league-match-4163606/atletico-ottawa-vs-cavalry-fc-08-2025.html
