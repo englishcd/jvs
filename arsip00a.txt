@@ -18,42 +18,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 23-08-2005	^-
 
-20:30 [y]Bundesliga[z]	^-
-Bayer Leverkusen vs TSG Hoffenheim	`*https://www.fctv33.net/football/bundesliga-match-4211441/bayer-04-leverkusen-vs-tsg-hoffenheim-08-2025.html
-Bayer Leverkusen vs TSG Hoffenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3478611
-Bayer Leverkusen vs TSG Hoffenheim	https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd!!9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
-
-Eintracht Frankfurt vs Werder Bremen	`*https://www.fctv33.net/football/bundesliga-match-4199954/eintracht-frankfurt-vs-sv-werder-bremen-08-2025.html
-Eintracht Frankfurt vs Werder Bremen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3478618
-Eintracht Frankfurt vs Werder Bremen	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd!!f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
-
-Union Berlin vs VfB Stuttgart	`*https://www.fctv33.net/football/bundesliga-match-4199946/1-fc-union-berlin-vs-vfb-stuttgart-08-2025.html
-Union Berlin vs VfB Stuttgart	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3478632
-
-SC Freiburg vs FC Augsburg	`*https://www.fctv33.net/football/bundesliga-match-4200011/sc-freiburg-vs-fc-augsburg-08-2025.html
-SC Freiburg vs FC Augsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3478631
-
-1. FC Heidenheim vs VfL Wolfsburg	`*https://www.fctv33.net/football/bundesliga-match-4200080/1-fc-heidenheim-1846-vs-vfl-wolfsburg-08-2025.html
-1. FC Heidenheim vs VfL Wolfsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3478612
-
-21:00 [y]English Premier League[z]	^-
-Bournemouth AFC vs Wolves	`*https://www.fctv33.net/football/english-premier-league-match-4196059/bournemouth-afc-vs-wolverhampton-wanderers-08-2025.html
-Bournemouth AFC vs Wolves	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3608182
-Bournemouth AFC vs Wolves	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-Bournemouth AFC vs Wolves	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd!!6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-
-Brentford vs Aston Villa	`*https://www.fctv33.net/football/english-premier-league-match-4223110/brentford-vs-aston-villa-08-2025.html
-Brentford vs Aston Villa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3608185
-Brentford vs Aston Villa	`0https://streaming.sportsnews.id/p/arena1p.html
-
-Burnley vs Sunderland A.F.C	`*https://www.fctv33.net/football/english-premier-league-match-4193835/burnley-vs-sunderland-08-2025.html
-Burnley vs Sunderland A.F.C	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3608181
-Burnley vs Sunderland A.F.C	`0https://zeeplayer2.pages.dev/arena1sp
-Burnley vs Sunderland A.F.C	https://z.1UK_SKY_SPORTS_MIX/index.m3u8
-
-21:00 [l]CAF African Nations Championship[z]	^-
-Uganda 🇺🇬 vs Senegal 🇸🇳	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4260072/uganda-vs-senegal-08-2025.html
-
 21:30 [y]Netherlands Eredivisie[z]	^-
 Go Ahead Eagles vs Sparta Rotterdam	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200012/go-ahead-eagles-vs-sparta-rotterdam-08-2025.html
 Go Ahead Eagles vs Sparta Rotterdam	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3512737
@@ -76,29 +40,34 @@ Mallorca vs Real Club Celta de Vigo SAD	https://otte.live.fly.ww.aiv-cdn.net/dub
 
 23:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs Borussia Dortmund	`*https://www.fctv33.net/football/bundesliga-match-4199641/fc-st-pauli-vs-borussia-dortmund-08-2025.html
+FC St. Pauli vs Borussia Dortmund	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3478624
 FC St. Pauli vs Borussia Dortmund	https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd!!f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
 FC St. Pauli vs Borussia Dortmund	https://dtvxtream.com/sonyliv2/300273.m3u8
 FC St. Pauli vs Borussia Dortmund	https://z.1UK_SKY_SPORTS_FOOTBALL/index.m3u8
 
 23:30 [y]Italian Serie A[z]	^-
 Sassuolo vs Napoli	`*https://www.fctv33.net/football/italian-serie-a-match-4225848/sassuolo-vs-napoli-08-2025.html
+Sassuolo vs Napoli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3438964
 Sassuolo vs Napoli	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd!!6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
 Sassuolo vs Napoli	https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd!!4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 Sassuolo vs Napoli	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 Sassuolo vs Napoli	https://z.1UK_TNT_SPORTS_1/index.m3u8
 
 Genoa vs Lecce	`*https://www.fctv33.net/football/italian-serie-a-match-4227032/genoa-vs-lecce-08-2025.html
+Genoa vs Lecce	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3438946
 Genoa vs Lecce	https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd!!9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
 Genoa vs Lecce	https://a.00/1/out/u/dash/ESPN-3-HD/default.mpd!!0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
 
 23:30 [y]English Premier League[z]	^-
 Arsenal vs Leeds United	`*https://www.fctv33.net/football/english-premier-league-match-4226506/arsenal-vs-leeds-united-08-2025.html
+Arsenal vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3608288
 Arsenal vs Leeds United	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd!!6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
 Arsenal vs Leeds United	https://z.1UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
 Arsenal vs Leeds United	https://z.1UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 
 23:45 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs Groningen	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199118/psv-eindhoven-vs-groningen-08-2025.html
+PSV Eindhoven vs Groningen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3512736
 PSV Eindhoven vs Groningen	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 PSV Eindhoven vs Groningen	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd!!8e3977c581333101a527776030e5d379:f726e9c49a640e932ec6a92685153772
 
@@ -106,13 +75,16 @@ PSV Eindhoven vs Groningen	https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/
 
 00:00 [y]French Ligue 1[z]	^-
 Nice vs AJ Auxerre	`*https://www.fctv33.net/football/french-ligue-1-match-4211930/ogc-nice-vs-aj-auxerre-08-2025.html
+Nice vs AJ Auxerre	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3528871
 
 00:00 [y]Portuguese Primera Liga[z]	^-
 Nacional da Madeira vs Sporting CP	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4219944/nacional-da-madeira-vs-sporting-cp-08-2025.html
+Nacional da Madeira vs Sporting CP	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3486224
 Nacional da Madeira vs Sporting CP	https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 
 00:00 [l]CAF African Nations Championship[z]	^-
 Sudan 🇸🇩 vs Algeria 🇩🇿	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4260073/sudan-vs-algeria-08-2025.html
+Sudan 🇸🇩 vs Algeria 🇩🇿	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3618851
 
 00:30 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Elche	`*https://www.fctv33.net/football/spanish-la-liga-match-4226847/atletico-madrid-vs-elche-08-2025.html
