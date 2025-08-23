@@ -50,13 +50,16 @@ SC Freiburg vs FC Augsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spor
 
 21:00 [y]English Premier League[z]	^-
 Bournemouth AFC vs Wolves	`*https://www.fctv33.net/football/english-premier-league-match-4196059/bournemouth-afc-vs-wolverhampton-wanderers-08-2025.html
+Bournemouth AFC vs Wolves	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3608182
 Bournemouth AFC vs Wolves	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 Bournemouth AFC vs Wolves	https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd!!6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
 
 Brentford vs Aston Villa	`*https://www.fctv33.net/football/english-premier-league-match-4223110/brentford-vs-aston-villa-08-2025.html
+Brentford vs Aston Villa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3608185
 Brentford vs Aston Villa	`0https://streaming.sportsnews.id/p/arena1p.html
 
 Burnley vs Sunderland A.F.C	`*https://www.fctv33.net/football/english-premier-league-match-4193835/burnley-vs-sunderland-08-2025.html
+Burnley vs Sunderland A.F.C	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3608181
 Burnley vs Sunderland A.F.C	`0https://zeeplayer2.pages.dev/arena1sp
 Burnley vs Sunderland A.F.C	https://z.1UK_SKY_SPORTS_MIX/index.m3u8
 
