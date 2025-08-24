@@ -17,10 +17,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 24-08-2005	^-
 
-17:15 [y]Netherlands Eredivisie[z]	^-
-SC Heerenveen vs FC Twente Enschede	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3515217
-SC Heerenveen vs FC Twente Enschede	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199155/sc-heerenveen-vs-fc-twente-enschede-08-2025.html
-
 19:00 [y]Switzerland Super League[z]	^-
 Grasshopper vs Winterthur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3515273
 Grasshopper vs Winterthur	`*https://www.fctv33.net/football/switzerland-super-league-match-4208084/grasshopper-vs-winterthur-08-2025.html
@@ -41,8 +37,10 @@ Penang vs Kuala Lumpur	`0https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bW
 19:30 [y]Netherlands Eredivisie[z]	^-
 NEC Nijmegen vs NAC Breda	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3515221
 NEC Nijmegen vs NAC Breda	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200020/nec-nijmegen-vs-nac-breda-08-2025.html
+NEC Nijmegen vs NAC Breda	`0https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yNzkwNzI3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 FC Utrecht vs Excelsior SBV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3515220
 FC Utrecht vs Excelsior SBV	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4201752/fc-utrecht-vs-excelsior-sbv-08-2025.html
+FC Utrecht vs Excelsior SBV	`3https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yNzkwNzI4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 19:30 [l]International Friendly (w) U16[z]	^-
 Indonesia vs Malaysia	`*https://www.fctv33.net/football/international-friendly-match-4261736/indonesia-wu16-vs-malaysia-u16w-08-2025.html
@@ -53,10 +51,14 @@ Negeri Sembilan vs Selangor	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spo
 Negeri Sembilan vs Selangor	`*https://www.fctv33.net/football/malaysian-super-league-match-4220881/negeri-sembilan-vs-selangor-fc-08-2025.html
 
 20:00 [y]French Ligue 1[z]	^-
+Lorient vs Rennes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3499162
 Lorient vs Rennes	`*https://www.fctv33.net/football/french-ligue-1-match-4217225/lorient-vs-stade-rennais-fc-08-2025.html
 
 20:00 [y]English Premier League[z]	^-
+Crystal Palace vs Nottingham Forest	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3608357
 Crystal Palace vs Nottingham Forest	`*https://www.fctv33.net/football/english-premier-league-match-4223051/crystal-palace-vs-nottingham-forest-08-2025.html
+Crystal Palace vs Nottingham Forest	`0https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MTQzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Everton vs Brighton Hove Albion	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3608350
 Everton vs Brighton Hove Albion	`*https://www.fctv33.net/football/english-premier-league-match-4226055/everton-vs-brighton-hove-albion-08-2025.html
 
 20:30 [y]Bundesliga[z]	^-
