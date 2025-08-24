@@ -17,13 +17,9 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 24-08-2005	^-
 
-10:00 [y]Mexico Liga MX[z]	^-
-CDSyC Cruz Azul vs Toluca	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194217/cruz-azul-vs-toluca-08-2025.html
-CDSyC Cruz Azul vs Toluca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3560415
-
 17:15 [y]Netherlands Eredivisie[z]	^-
-AZ Alkmaar vs PEC Zwolle	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199115/az-alkmaar-vs-pec-zwolle-08-2025.html
 SC Heerenveen vs FC Twente Enschede	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199155/sc-heerenveen-vs-fc-twente-enschede-08-2025.html
+SC Heerenveen vs FC Twente Enschede	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3515217
 
 19:00 [y]Switzerland Super League[z]	^-
 Grasshopper vs Winterthur	`*https://www.fctv33.net/football/switzerland-super-league-match-4208084/grasshopper-vs-winterthur-08-2025.html
