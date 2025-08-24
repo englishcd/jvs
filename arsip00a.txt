@@ -25,6 +25,91 @@ Atletico Ottawa vs Cavalry FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?s
 DC United vs Inter Miami CF	`*https://www.fctv33.net/football/united-states-major-league-soccer-match-4105220/dc-united-vs-inter-miami-cf-08-2025.html
 DC United vs Inter Miami CF	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2962787
 
+08:00 [y]Mexico Liga MX[z]	^-
+Mazatlan FC vs Tigres UANL	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194222/mazatlan-fc-vs-tigres-uanl-08-2025.html
+Mazatlan FC vs Tigres UANL	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3560410
+
+Monterrey vs Necaxa	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194225/monterrey-vs-necaxa-08-2025.html
+Monterrey vs Necaxa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3560413
+
+10:00 [y]Mexico Liga MX[z]	^-
+CDSyC Cruz Azul vs Toluca	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194217/cruz-azul-vs-toluca-08-2025.html
+CDSyC Cruz Azul vs Toluca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3560415
+
+17:15 [y]Netherlands Eredivisie[z]	^-
+AZ Alkmaar vs PEC Zwolle	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199115/az-alkmaar-vs-pec-zwolle-08-2025.html
+SC Heerenveen vs FC Twente Enschede	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199155/sc-heerenveen-vs-fc-twente-enschede-08-2025.html
+
+19:00 [y]Switzerland Super League[z]	^-
+Grasshopper vs Winterthur	`*https://www.fctv33.net/football/switzerland-super-league-match-4208084/grasshopper-vs-winterthur-08-2025.html
+
+19:15 Malaysian Super League	^-
+Kuching FA vs Johor Darul Takzim	`*https://www.fctv33.net/football/malaysian-super-league-match-4220882/kuching-city-fc-vs-johor-darul-tazim-fc-08-2025.html
+Penang vs Kuala Lumpur	`*https://www.fctv33.net/football/malaysian-super-league-match-4225917/penang-fc-vs-kuala-lumpur-city-fc-08-2025.html
+
+19:30 [y]Netherlands Eredivisie[z]	^-
+NEC Nijmegen vs NAC Breda	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200020/nec-nijmegen-vs-nac-breda-08-2025.html
+FC Utrecht vs Excelsior SBV	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4201752/fc-utrecht-vs-excelsior-sbv-08-2025.html
+
+20:00 [y]French Ligue 1[z]	^-
+Lorient vs Rennes	`*https://www.fctv33.net/football/french-ligue-1-match-4217225/lorient-vs-stade-rennais-fc-08-2025.html
+
+20:00 [y]English Premier League[z]	^-
+Crystal Palace vs Nottingham Forest	`*https://www.fctv33.net/football/english-premier-league-match-4223051/crystal-palace-vs-nottingham-forest-08-2025.html
+Everton vs Brighton Hove Albion	`*https://www.fctv33.net/football/english-premier-league-match-4226055/everton-vs-brighton-hove-albion-08-2025.html
+
+20:30 [y]Bundesliga[z]	^-
+FSV Mainz 05 vs FC Koln	`*https://www.fctv33.net/football/bundesliga-match-4208975/1-fsv-mainz-05-vs-fc-kln-08-2025.html
+
+21:30 [y]Portuguese Primera Liga[z]	^-
+FC Famalicao vs Gil Vicente	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4215997/fc-famalicao-vs-gil-vicente-08-2025.html
+
+21:45 [y]Netherlands Eredivisie[z]	^-
+AFC Ajax vs Heracles Almelo	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200016/afc-ajax-vs-heracles-almelo-08-2025.html
+
+22:00 [y]Spanish La Liga[z]	^-
+Osasuna vs Valencia	`*https://www.fctv33.net/football/spanish-la-liga-match-4209576/ca-osasuna-vs-valencia-cf-08-2025.html
+
+22:15 [y]French Ligue 1[z]	^-
+Strasbourg vs Nantes	`*https://www.fctv33.net/football/french-ligue-1-match-4200107/rc-strasbourg-alsace-vs-fc-nantes-08-2025.html
+Toulouse vs Stade Brestois	`*https://www.fctv33.net/football/french-ligue-1-match-4211933/toulouse-fc-vs-stade-brestois-29-08-2025.html
+Le Havre vs Lens	`*https://www.fctv33.net/football/french-ligue-1-match-4212064/havre-athletic-club-vs-rc-lens-08-2025.html
+
+22:30 [y]Bundesliga[z]	^-
+Br Monchengladbach vs Hamburger SV	`*https://www.fctv33.net/football/bundesliga-match-4212196/borussia-monchengladbach-vs-hamburger-sv-08-2025.html
+
+22:30 [y]English Premier League[z]	^-
+Fulham vs Manchester United	`*https://www.fctv33.net/football/english-premier-league-match-4226056/fulham-vs-manchester-united-08-2025.html
+
+23:30 [y]Italian Serie A[z]	^-
+Como vs Lazio	`*https://www.fctv33.net/football/italian-serie-a-match-4226544/como-vs-lazio-08-2025.html
+Cagliari vs Fiorentina	`*https://www.fctv33.net/football/italian-serie-a-match-4229166/cagliari-vs-fiorentina-08-2025.html
+
+25-08-2005	^-
+
+00:00 [y]Portuguese Primera Liga[z]	^-
+FC Porto vs Casa Pia AC	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4218388/fc-porto-vs-casa-pia-ac-08-2025.html
+
+00:30 [y]Spanish La Liga[z]	^-
+Real Sociedad vs RCD Espanyol	`*https://www.fctv33.net/football/spanish-la-liga-match-4227784/real-sociedad-vs-rcd-espanyol-de-barcelona-08-2025.html
+Villarreal vs Girona	`*https://www.fctv33.net/football/spanish-la-liga-match-4227797/villarreal-cf-vs-girona-fc-08-2025.html
+
+01:45 [y]Italian Serie A[z]	^-
+Juventus vs Parma	`*https://www.fctv33.net/football/italian-serie-a-match-4195839/juventus-vs-parma-08-2025.html
+Atalanta vs Pisa	`*https://www.fctv33.net/football/italian-serie-a-match-4235033/atalanta-vs-pisa-08-2025.html
+
+01:45 [y]French Ligue 1[z]	^-
+Lille vs Monaco	`*https://www.fctv33.net/football/french-ligue-1-match-4215357/losc-lille-vs-as-monaco-08-2025.html
+
+02:30 [y]Spanish La Liga[z]	^-
+Real Oviedo vs Real Madrid	`*https://www.fctv33.net/football/spanish-la-liga-match-4209575/real-oviedo-vs-real-madrid-08-2025.html
+
+02:30 [y]Portuguese Primera Liga[z]	^-
+Sporting Braga vs AVS Futebol SAD	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4215967/sporting-braga-vs-avs-futebol-sad-08-2025.html
+
+03:00 [y]Portuguese Primera Liga[z]	^-
+York United FC vs Pacific FC	`*https://www.fctv33.net/football/canadian-premier-league-match-4163627/york-united-fc-vs-pacific-fc-08-2025.html
+
 ^@	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
