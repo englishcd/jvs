@@ -82,7 +82,6 @@ GolTV 👇	00!0!0/9595?zyy
 ^=Jala Live	`0https://hanamas.com/
 ^=Huhu.To	`0https://huhu.to/
 ^=espn	`1https://streamtp11.com/global1.php?stream=espn
-^=TestIframe	`3https://www.fctv33.net/football/spanish-la-liga-match-4223510/athletic-club-vs-rayo-vallecano-08-2025.html
 
 	^-
 [w]Live Sport & TV Channels[z]	^-
