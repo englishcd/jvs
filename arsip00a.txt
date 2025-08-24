@@ -17,10 +17,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 24-08-2005	^-
 
-06:00 [y]Canadian Premier League[z]	^-
-Atletico Ottawa vs Cavalry FC	`*https://www.fctv33.net/football/canadian-premier-league-match-4163606/atletico-ottawa-vs-cavalry-fc-08-2025.html
-Atletico Ottawa vs Cavalry FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3402019
-
 06:30 [y]United States Major League Soccer[z]	^-
 DC United vs Inter Miami CF	`*https://www.fctv33.net/football/united-states-major-league-soccer-match-4105220/dc-united-vs-inter-miami-cf-08-2025.html
 DC United vs Inter Miami CF	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2962787
@@ -114,9 +110,8 @@ York United FC vs Pacific FC	`*https://www.fctv33.net/football/canadian-premier-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 
-	^-
-[l]Testing Internal Frame[z]	^-
-Levante vs FC Barcelona	`0https://www.fctv33.net/football/spanish-la-liga-match-4220868/levante-vs-fc-barcelona-08-2025.html
+^=	^-
+^=sofascore	`0https://www.sofascore.com/
 
 	^-
 SpoTV 1 👇	00!0!2/1052588?zyy
@@ -139,12 +134,11 @@ GolTV 👇	00!0!0/9595?zyy
 ^=	^-
 ^=stream-east	`0https://stream-east.soccer/
 ^=soccer-100	`0https://soccer-100.net/
-^=espn	`1https://streamtp11.com/global1.php?stream=espn
 ^=Live Day	`0https://dlhd.click/
 ^=Live Sports	`0https://www.marza12.shop/football.html
 ^=Jala Live	`0https://hanamas.com/
 ^=Huhu.To	`0https://huhu.to/
-^=VolleyBall Live	`0https://wikisport.cc/play?token=s3c2LDmf00dxQBOoXZcEX3ZEbzBmeDVWVi9NVkpVZlZRL3VzTk5PcXQyMjN5T29Fb1JnV3IzK05GQWx6MFlpb1ZvZWhUTXBMcHJMb3VqWTJEMmVadDRBPQ
+^=espn	`1https://streamtp11.com/global1.php?stream=espn
 
 	^-
 [w]Live Sport & TV Channels[z]	^-
