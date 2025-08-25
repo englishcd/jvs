@@ -8,6 +8,8 @@
 	^-
 [y]Live Football Events[z]	^-
 
+Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
+Live Soccer TV Guide	`0https://www.livesoccertv.com/
 Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 	^-
@@ -43,11 +45,6 @@ Lanus vs River Plate	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&
 ^@	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **	^-
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
-
-	^-
-[g]Schedule & Info[z]	^-
-Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
-Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
 	^-
 SpoTV 1 👇	00!0!2/1052588?zyy
