@@ -75,6 +75,11 @@ Lanus vs River Plate	`*https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉⚠️ Settings | Site settings | Pop-ups and redirects: Allow.👈[z]**	^-
 
 	^-
+[g]Schedule & Info[z]	^-
+Schedule Live Score	`0https://www.scorebat.com/embed/livescore/
+Live Soccer TV Guide	`0https://www.livesoccertv.com/
+
+	^-
 SpoTV 1 👇	00!0!2/1052588?zyy
 [l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
 [l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
@@ -93,7 +98,6 @@ GolTV 👇	00!0!0/9595?zyy
 ^=👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
 
 ^=	^-
-^=Schedule Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=stream-east	`0https://stream-east.soccer/
 ^=soccer-100	`0https://soccer-100.net/
 ^=Live Day	`0https://dlhd.click/
@@ -811,11 +815,6 @@ tvOne 🇮🇩	https://www.youtube.com/watch?v=yNKvkPJl-tg
 Musica Studios	https://www.youtube.com/watch?v=ss7DWVHdU2g
 Alip_Ba_Ta	/l.7/?listType=playlist&list=PLVboWDxQI2PEdSKtQzYYxm7AqOBiCPBF0
 All Sidemen Charity Matches	/l.7/?listType=playlist&list=PLjQjmbVy2qeXMCBiJMR9vCknZDO4ToozC
-
-	^-
-[g]Schedule & Info[z]	^-
-Schedule Live Score	`0https://www.scorebat.com/embed/livescore/
-Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
 	^-
 [g]Live Table, Stats & Live Scores[z]	^-
