@@ -17,24 +17,11 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 25-08-2005	^-
 
-06:00 [y]US Major League Soccer[z]	^-
-Charlotte FC vs New York Red Bulls	`*https://www.fctv33.net/football/united-states-major-league-soccer-match-4105203/charlotte-fc-vs-new-york-red-bulls-08-2025.html
-Charlotte FC vs New York Red Bulls	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2962844
-Charlotte FC vs New York Red Bulls	`0https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yNzQxNjU5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D
-
-06:00 [y]Mexico Liga MX[z]	^-
-Pumas U.N.A.M. vs Puebla	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194226/pumas-unam-vs-puebla-08-2025.html
-Pumas U.N.A.M. vs Puebla	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3590800
-
-08:00 [y]US Major League Soccer[z]	^-
-Seattle Sounders vs FC Kansas City	`*https://www.fctv33.net/football/united-states-major-league-soccer-match-4105241/seattle-sounders-vs-sporting-kansas-city-08-2025.html
-Seattle Sounders vs FC Kansas City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2962849
-Seattle Sounders vs FC Kansas City	`0https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yNzQxNjYwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D
-
-08:00 [y]Mexico Liga MX[z]	^-
-Atlas vs Club America	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194250/atlas-vs-club-america-08-2025.html
-Atlas vs Club America	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3590797
-Atlas vs Club America	`0https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yNzg0MjU3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D
+19:30 [l]International Friendly (w) U16[z]	^-
+Thailand vs Singapore	`*https://www.fctv33.net/football/international-friendly-match-4262212/thailand-w-u16-vs-singapore-w-u16-08-2025.html
+Thailand vs Singapore	`3https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODU1NjU5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Vietnam vs Myanmar	`*https://www.fctv33.net/football/international-friendly-match-4262224/vietnam-w-u16-vs-myanmar-w-u16-08-2025.html
+Vietnam vs Myanmar	`3https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0Y2hJZD0yODU1NjU4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 23:30 [y]Italian Serie A[z]	^-
 Udinese vs Verona	`*https://www.fctv33.net/football/italian-serie-a-match-4229161/udinese-vs-hellas-verona-08-2025.html
@@ -61,6 +48,18 @@ Sevilla vs Getafe	`*https://www.fctv33.net/football/spanish-la-liga-match-422350
 
 03:00 [y]Argentine Division 1[z]	^-
 Godoy Cruz Antonio vs Velez Sarsfield	`*https://www.fctv33.net/football/argentine-division-1-match-4107498/godoy-cruz-antonio-tomba-vs-velez-sarsfield-08-2025.html
+
+05:00 [y]Argentine Division 1[z]	^-
+Belgrano vs Central Cordoba SDE	`*https://www.fctv33.net/football/argentine-division-1-match-4107841/belgrano-vs-central-cordoba-sde-08-2025.html
+
+05:00 [y]Brazilian Serie A[z]	^-
+Palmeiras vs Sport Club do Recife	`*https://www.fctv33.net/football/brazilian-serie-a-match-4141853/palmeiras-vs-sport-club-do-recife-08-2025.html
+
+05:15 [y]Argentine Division 1[z]	^-
+Estudiantes Plata vs Aldosivi Mar Plata	`*https://www.fctv33.net/football/argentine-division-1-match-4107847/estudiantes-la-plata-vs-aldosivi-mar-del-plata-08-2025.html
+
+07:15 [y]Argentine Division 1[z]	^-
+Lanus vs River Plate	`*https://www.fctv33.net/football/argentine-division-1-match-4107516/club-atltico-lans-vs-river-plate-08-2025.html
 
 ^@	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **	^-
