@@ -91,6 +91,7 @@ GolTV 👇	00!0!0/9595?zyy
 ^=👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
 
 ^=	^-
+^=Schedule Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=stream-east	`0https://stream-east.soccer/
 ^=soccer-100	`0https://soccer-100.net/
 ^=Live Day	`0https://dlhd.click/
