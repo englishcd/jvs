@@ -76,7 +76,7 @@ Lanus vs River Plate	`*https://ppdd02.dtfjinikdinbiframe.shop/live.html?_pa=bWF0
 
 	^-
 [g]Schedule & Info[z]	^-
-Schedule Live Score	`0https://www.scorebat.com/embed/livescore/
+Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
 	^-
