@@ -737,62 +737,6 @@ Win Sports Plus 🇨🇴 2	!zz.winsports2
 Win Sports 🇨🇴	!zz.winsports
 
 	^-
-[g]YouTube Favorite Streaming[z]	^-
-
-Makkah Live	https://www.youtube.com/watch?v=rHWSRMcGGBQ
-Madinah Live	https://www.youtube.com/watch?v=rHWSRMcGGBQ
-The World Live. EarthTV	https://www.youtube.com/watch?v=HfgIFGbdGJ0
-Angry Birds 1	https://www.youtube.com/watch?v=vnqWVuU0sns
-Angry Birds 2	https://www.youtube.com/watch?v=7QJ9ZS4QC94
-Angry Birds 3	https://www.youtube.com/watch?v=fXtMKLzupEw
-Angry Birds 4	https://www.youtube.com/watch?v=nxBVdeRWJjA
-Bernard Bear 1	/l.7/?listType=playlist&list=PLKLzBLbyOE9sEOob_s-5lHUJgaVybxA_Y
-Bernard Bear 2	/l.7/?listType=playlist&list=PLKLzBLbyOE9sqBe3id3RQIW-wD8Ixuqcu
-Bernard Bear 3	/l.7/?listType=playlist&list=PLKLzBLbyOE9v87wMlANiaaI824wceKP94
-Bernard Bear 4	/l.7/?listType=playlist&list=PLKLzBLbyOE9vjDW6h5BGfXaJ_NFdngOAY
-Bernard Bear 5	/l.7/?listType=playlist&list=PLKLzBLbyOE9vUq8SxVXsX2W0diykafivr
-Boomerang: Tom & Jerry 1	https://www.youtube.com/watch?v=rEKifG2XUZg
-Boomerang: Tom & Jerry 2	https://www.youtube.com/watch?v=2UOwO_N17ms
-Boomerang: Tom & Jerry 3	https://www.youtube.com/watch?v=_XeGYNTiuSM
-Cartoon Network 1	https://www.youtube.com/watch?v=Zav9QFtN9Ss
-Cartoon Network 2	https://www.youtube.com/watch?v=uUCTOHriQCg
-Cartoonito	https://www.youtube.com/watch?v=p5l3ZS1jVUE
-Masha and The Bear	https://www.youtube.com/watch?v=ajK6TflcuBc
-Nicktoons	https://www.youtube.com/watch?v=5-6_PVhnZ0g
-Om Nom Stories	https://www.youtube.com/watch?v=Kh0ooK7g8oo
-SpongeBob 🇮🇩	https://www.youtube.com/watch?v=1Q6qVdiCA6Y
-Shaun the Sheep	https://www.youtube.com/watch?v=EZsmbpdjHRc
-Timmy & Friends	https://www.youtube.com/watch?v=MSXaxnnDOvY
-Muse Indonesia	https://www.youtube.com/watch?v=zI6anm6WXrE
-Mr. Bean Classic	https://www.youtube.com/watch?v=NOCisq9ASyM
-Mr. Bean Cartoon	https://www.youtube.com/watch?v=WL3a8k-9o88
-RailCowGirl	https://www.youtube.com/watch?v=czoEAKX9aaM
-Japan 4K	https://www.youtube.com/watch?v=cH7VBI4QQzA
-iQIYI Indonesia 1	https://www.youtube.com/watch?v=05aVrCzBlLE
-iQIYI Indonesia 2	https://www.youtube.com/watch?v=tsE096w7wlY
-JTBC Drama 🇰🇷 1	https://www.youtube.com/watch?v=LK3CXlk4qVo
-JTBC Drama 🇰🇷 2	https://www.youtube.com/watch?v=vke9y0FE-vo
-JTBC Drama 🇰🇷 3	https://www.youtube.com/watch?v=NEASZkDfyzA
-JTBC Drama 🇰🇷 4	https://www.youtube.com/watch?v=XYg58WbOVtY
-JTBC Drama 🇰🇷 5	https://www.youtube.com/watch?v=k56lD1GfnmY
-JTBC Drama 🇰🇷 6	https://www.youtube.com/watch?v=QocpB3PIgQw
-KBS World 🇰🇷	https://www.youtube.com/watch?v=OxQQsIvJTTU
-YTN Live 🇰🇷	https://www.youtube.com/watch?v=FJfwehhzIhw
-STV News Hokkaido 🇯🇵 1	https://www.youtube.com/watch?v=hA46WfBYdgo
-STV News Hokkaido 🇯🇵 2	https://www.youtube.com/watch?v=atuUrJCgCPM
-HTB Hokkaido News 24 🇯🇵	https://www.youtube.com/watch?v=7-Vky63lvek
-Just for Laughs Gags 1	https://www.youtube.com/watch?v=yDDjo0Yh7A0
-Just for Laughs Gags 2	https://www.youtube.com/watch?v=gAK55njYkIA
-Just for Laughs Gags 3	https://www.youtube.com/watch?v=goiHgK5Z1vU
-Just for Laughs Gags 4	https://www.youtube.com/watch?v=prRRorvO1Hk
-Just for Laughs Gags 5	https://www.youtube.com/watch?v=AxsCAFRj7c4
-Kompas 🇮🇩	https://www.youtube.com/watch?v=DOOrIxw5xOw
-tvOne 🇮🇩	https://www.youtube.com/watch?v=yNKvkPJl-tg
-Musica Studios	https://www.youtube.com/watch?v=ss7DWVHdU2g
-Alip_Ba_Ta	/l.7/?listType=playlist&list=PLVboWDxQI2PEdSKtQzYYxm7AqOBiCPBF0
-All Sidemen Charity Matches	/l.7/?listType=playlist&list=PLjQjmbVy2qeXMCBiJMR9vCknZDO4ToozC
-
-	^-
 [g]Live Table, Stats & Live Scores[z]	^-
 League Tables	`0https://m.tablesleague.com/
 England 🇬🇧 Premier League	`0https://www.scorebat.com/embed/competition/england-premier-league/
@@ -804,14 +748,6 @@ Netherlands 🇳🇱 Eredivisie	`0https://www.scorebat.com/embed/competition/net
 UEFA Champions League	`0https://www.scorebat.com/embed/league/uefa-champions-league/
 UEFA Europa League	`0https://www.scorebat.com/embed/league/uefa-europa-league/
 UEFA Conference League	`0https://www.scorebat.com/embed/league/uefa-conference-league/
-
-	^-
-[g]Info Update[z]	^-
-Timnas Indonesia 🇮🇩	`0https://xstalk.com/profile/TimnasIndonesia
-Asian Football Confederation	`0https://xstalk.com/profile/theafcdotcom
-FIFA World Cup	`0https://xstalk.com/profile/FIFAWorldCup
-UEFA Champions League	`0https://xstalk.com/profile/ChampionsLeague
-UEFA Europa League	`0https://xstalk.com/profile/EuropaLeague
 
 	^-
 [w]Relax Channels[z]	^-
@@ -1139,9 +1075,6 @@ DAZN Women's Football	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn
 Sky Sport F1	09!08blinear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/index_stereo.mpd!!000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
 
 	^-
-Dr. David Martin. World War 3 Global Catastrophe: Over 2 Billion Will Suffer Gruesome Vaccine Injuries	i0`00.lucky.harmony.reborn/videos/1022622816482685
-
-	^-
 ABC 🇯🇵	`0i3`03abc/index.m3u8
 Asahi TV 🇯🇵	`0i3`03TV_Asahi/index.m3u8
 BS TV 4K 🇯🇵	`0i3`03bstx4k/index.m3u8
@@ -1164,7 +1097,6 @@ Wowow Live 🇯🇵	`0i3`03wlive/index.m3u8
 Wowow Prime 🇯🇵	`0i3`03wprime/index.m3u8
 Yomiuri TV 🇯🇵	`0i3`03ytv/index.m3u8
 
-^=Jet Lee	i0`00.100027335414014/videos/303842773870234/
 ^=0dd-124	`0https://daddylivehd1.my/embed/stream-124.php
 ^=1dd-124	`1https://daddylivehd1.my/embed/stream-124.php
 ^=referrer 0	`0https://wayaxaz.blogspot.com/
