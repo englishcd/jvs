@@ -128,6 +128,10 @@ ESPN 🇲🇽 2	https://a.00/1/out/u/dash/ESPN-2-HD/default.mpd!!90e2e491c850a49
 ESPN 🇲🇽 3	https://a.00/1/out/u/dash/ESPN-3-HD/default.mpd!!0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
 ESPN 🇳🇱 1	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_1_fhd/index.m3u8
 ESPN 🇳🇱 2	https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/live_event_nl_espn_2_fhd/index.m3u8
+Arena Sport 1 Premium	`0https://streaming.sportsnews.id/p/arena1p.html
+Arena Sport 2 Premium	`0https://streaming.sportsnews.id/p/arena2p.html
+Arena Sport 1	`0https://zeeplayer2.pages.dev/arena1sp
+Arena Sport RS 1	`0https://streaming.sportsnews.id/p/arena1ser.html
 Fubo Sports	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Fubo TV	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 Nova Sport 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -1092,11 +1096,6 @@ VH1 Network	!yz~c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
 	^-
 HRT 1 🇭🇷	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd!!edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
 HRT 2 🇭🇷	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd!!994c79af863838109e7f3503bcd2aff9:d2c19650ad2a2ac77a95453b941a6f0e
-
-Arena Sport 1 Premium	`0https://streaming.sportsnews.id/p/arena1p.html
-Arena Sport 2 Premium	`0https://streaming.sportsnews.id/p/arena2p.html
-Arena Sport 1	`0https://zeeplayer2.pages.dev/arena1sp
-Arena Sport RS 1	`0https://streaming.sportsnews.id/p/arena1ser.html
 
 DAZN Women's Football	https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
 
