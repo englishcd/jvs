@@ -20,31 +20,51 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 27-08-2005	^-
 
-00:30 [l]CAF African Nations Championship[z]	^-
-Morocco 🇲🇦 vs Senegal 🇸🇳	`*https://www.fctv33.net/football/caf-african-nations-championship-match-4264425/morocco-vs-senegal-08-2025.html
-Morocco 🇲🇦 vs Senegal 🇸🇳	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3632454
+19:15 Malaysian Super League	^-
+Selangor vs Terengganu	`*https://www.fctv33.net/football/malaysian-super-league-match-4220912/selangor-fc-vs-terengganu-fc-08-2025.html
+Kuala Lumpur vs PDRM	`*https://www.fctv33.net/football/malaysian-super-league-match-4225916/kuala-lumpur-city-fc-vs-pdrm-fc-08-2025.html
 
-01:30 [g]English Football League Cup[z]	^-
-Wolves vs West Ham United	`*https://www.fctv33.net/football/english-football-league-cup-match-4256914/wolverhampton-wanderers-vs-west-ham-united-08-2025.html
-Wolves vs West Ham United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600898
+19:30 [l]International Friendly (w) U16[z]	^-
+Indonesia 🇮🇩 vs Australia 🇦🇺	`*https://www.fctv33.net/football/international-friendly-match-4266037/indonesia-wu16-vs-australia-women-u16-08-2025.html
 
-01:45 [g]English Football League Cup[z]	^-
-Bournemouth AFC vs Brentford	`*https://www.fctv33.net/football/english-football-league-cup-match-4257416/bournemouth-afc-vs-brentford-08-2025.html
-Bournemouth AFC vs Brentford	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600896
+23:30 [g]UEFA Europa League[z]	^-
+AEK Larnaca vs Brann	`*https://www.fctv33.net/football/uefa-europa-league-match-4257741/aek-larnaca-vs-brann-08-2025.html
+
+23:45 [g]UEFA Champions League[z]	^-
+Qarabag vs Ferencvarosi TC	`*https://www.fctv33.net/football/uefa-champions-league-match-4255424/qarabag-vs-ferencvarosi-tc-08-2025.html
+
+28-08-2005	^-
 
 01:45 [g]DFB Pokal[z]	^-
-Eintracht Braunschweig vs VfB Stuttgart	`*https://www.fctv33.net/football/dfb-pokal-match-4199947/eintracht-braunschweig-vs-vfb-stuttgart-08-2025.html
-Eintracht Braunschweig vs VfB Stuttgart	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3453664
+SV Wehen Wiesbaden vs Bayern Munchen	`*https://www.fctv33.net/football/dfb-pokal-match-4200402/sv-wehen-wiesbaden-vs-fc-bayern-munich-08-2025.html
+
+01:45 [g]English Football League Cup[z]	^-
+Fulham vs Bristol City	`*https://www.fctv33.net/football/english-football-league-cup-match-4256907/fulham-vs-bristol-city-08-2025.html
+Oxford United vs Brighton Hove Albion	`*https://www.fctv33.net/football/english-football-league-cup-match-4256917/oxford-united-vs-brighton-hove-albion-08-2025.html
+Everton vs Mansfield Town	`*https://www.fctv33.net/football/english-football-league-cup-match-4258963/everton-vs-mansfield-town-08-2025.html
+
+02:00 [y]Spanish La Liga[z]	^-
+Real Club Celta de Vigo vs Real Betis	`*https://www.fctv33.net/football/spanish-la-liga-match-4209652/rc-celta-vs-real-betis-08-2025.html
 
 02:00 [g]UEFA Champions League[z]	^-
-Sturm Graz vs Bodo Glimt	`*https://www.fctv33.net/football/uefa-champions-league-match-4255574/sturm-graz-vs-bodo-glimt-08-2025.html
-Sturm Graz vs Bodo Glimt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3573466
-Pafos FC vs Crvena Zvezda	`*https://www.fctv33.net/football/uefa-champions-league-match-4255602/pafos-fc-vs-crvena-zvezda-08-2025.html
-Pafos FC vs Crvena Zvezda	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3597874
+FC Copenhagen vs Basel	`*https://www.fctv33.net/football/uefa-champions-league-match-4255421/fc-copenhagen-vs-fc-basel-1893-08-2025.html
+Club Brugge vs Glasgow Rangers	`*https://www.fctv33.net/football/uefa-champions-league-match-4256899/club-brugge-vs-rangers-08-2025.html
+Benfica vs Fenerbahce	`*https://www.fctv33.net/football/uefa-champions-league-match-4257396/benfica-vs-fenerbahce-08-2025.html
 
 02:00 [g]English Football League Cup[z]	^-
-Sheffield Wednesday vs Leeds United	`*https://www.fctv33.net/football/english-football-league-cup-match-4256902/sheffield-wednesday-vs-leeds-united-08-2025.html
-Sheffield Wednesday vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3601256
+Grimsby Town vs Manchester United	`*https://www.fctv33.net/football/english-football-league-cup-match-4257984/grimsby-town-vs-manchester-united-08-2025.html
+
+06:00 [g]USL League One[z]	^-
+One Knoxville SC vs FC Naples	`*https://www.fctv33.net/football/usl-league-one-match-4148007/one-knoxville-sc-vs-fc-naples-08-2025.html
+
+07:00 [g]USL League One[z]	^-
+Forward Madison FC vs Texoma	`*https://www.fctv33.net/football/usl-league-one-match-4153005/forward-madison-fc-vs-texoma-08-2025.html
+
+07:00 [g]CFU Club Championship[z]	^-
+Moca FC vs Mount Pleasant FA	`*https://www.fctv33.net/football/cfu-club-championship-match-4262884/moca-fc-vs-mount-pleasant-fa-08-2025.html
+
+07:30 [g]Leagues Cup[z]	^-
+Inter Miami CF vs Orlando City	`*https://www.fctv33.net/football/leagues-cup-match-4261353/inter-miami-cf-vs-orlando-city-08-2025.html
 
 ^@	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **	^-
