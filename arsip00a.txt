@@ -9,6 +9,7 @@
 [y]Live Football Events[z]	^-
 
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
+^=Live Sports	`0https://www.marza12.shop/football.html
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
 Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
@@ -55,6 +56,7 @@ Vitoria Guimaraes vs FC Arouca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?
 
 00:30 [y]Spanish La Liga[z]	^-
 Girona vs Sevilla	`*https://www.fctv33.net/football/spanish-la-liga-match-4223509/girona-fc-vs-sevilla-fc-08-2025.html
+Girona vs Sevilla	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0MzE5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Girona vs Sevilla	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3486302
 
 00:45 [g]Argentine Division 1[z]	^-
@@ -63,12 +65,15 @@ San Lorenzo vs CA Huracan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sport
 
 01:00 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs SC Telstar	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199135/psv-eindhoven-vs-sc-telstar-08-2025.html
+PSV Eindhoven vs SC Telstar	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkwNzM0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 PSV Eindhoven vs SC Telstar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3531750
 
 01:45 [y]Italian Serie A[z]	^-
 Napoli vs Cagliari	`*https://www.fctv33.net/football/italian-serie-a-match-4225850/napoli-vs-cagliari-08-2025.html
+Napoli vs Cagliari	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NDk4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Napoli vs Cagliari	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3573867
 Pisa vs AS Roma	`*https://www.fctv33.net/football/italian-serie-a-match-4231524/pisa-vs-as-roma-08-2025.html
+Pisa vs AS Roma	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NTAwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Pisa vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3564863
 
 02:00 [y]Netherlands Eredivisie[z]	^-
@@ -121,7 +126,6 @@ GolTV 👇	00!0!0/9595?zyy
 ^=soccer-100	`0https://soccer-100.net/
 ^=NYT	`0https://www.nsfwyoutube.com/
 ^=Live Day	`0https://dlhd.click/
-^=Live Sports	`0https://www.marza12.shop/football.html
 ^=Jala Live	`0https://hanamas.com/
 ^=Huhu.To	`0https://huhu.to/
 ^=espn	`1https://streamtp11.com/global1.php?stream=espn
