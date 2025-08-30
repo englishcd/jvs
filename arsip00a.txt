@@ -84,20 +84,25 @@ Excelsior SBV vs FC Twente Enschede	`3https://embed-10-08-12-51.linkzhe.eu.org/e
 02:05 [y]French Ligue 1[z]	^-
 Toulouse vs Paris Saint Germain	`*https://www.fctv33.net/football/french-ligue-1-match-4200111/toulouse-fc-vs-paris-saint-germain-08-2025.html
 Toulouse vs Paris Saint Germain	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMDQ1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Toulouse vs Paris Saint Germain	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3586954
 
 02:30 [y]Spanish La Liga[z]	^-
 Real Madrid vs Mallorca	`*https://www.fctv33.net/football/spanish-la-liga-match-4209578/real-madrid-vs-rcd-mallorca-08-2025.html
 Real Madrid vs Mallorca	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0MzIxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Real Madrid vs Mallorca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3486314
 
 02:30 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs FC Porto	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4218392/sporting-cp-vs-fc-porto-08-2025.html
 Sporting CP vs FC Porto	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODE0NzU2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Sporting CP vs FC Porto	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3628254
 
 03:00 [g]Canadian Premier League[z]	^-
 Cavalry FC vs Forge FC	`*https://www.fctv33.net/football/canadian-premier-league-match-4163259/cavalry-fc-vs-forge-fc-08-2025.html
+Cavalry FC vs Forge FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3401991
 
 04:30 [g]Brazilian Serie A[z]	^-
 Botafogo RJ vs Bragantino	`*https://www.fctv33.net/football/brazilian-serie-a-match-4141860/botafogo-rj-vs-red-bull-bragantino-08-2025.html
+Botafogo RJ vs Bragantino	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3537179
 
 06:00 [g]Canadian Premier League[z]	^-
 Atletico Ottawa vs Vancouver FC	`*https://www.fctv33.net/football/canadian-premier-league-match-4163609/atletico-ottawa-vs-vancouver-fc-08-2025.html
