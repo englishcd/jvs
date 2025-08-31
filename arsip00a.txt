@@ -41,23 +41,26 @@ Angers vs Rennes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matc
 20:00 [y]English Premier League[z]	^-
 Nottingham Forest vs West Ham United	`*https://www.fctv33.net/football/english-premier-league-match-4220554/nottingham-forest-vs-west-ham-united-08-2025.html
 Nottingham Forest vs West Ham United	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MTU1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Nottingham Forest vs West Ham United	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3613662
+Nottingham Forest vs West Ham United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3613662
 
 20:30 [y]Bundesliga[z]	^-
 VfL Wolfsburg vs FSV Mainz 05	`*https://www.fctv33.net/football/bundesliga-match-4200082/vfl-wolfsburg-vs-1-fsv-mainz-05-08-2025.html
 VfL Wolfsburg vs FSV Mainz 05	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3539453
-
+s
 21:30 [g]Portuguese Primera Liga[z]	^-
 CD Tondela vs Estoril	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4215993/cd-tondela-vs-estoril-08-2025.html
 CD Tondela vs Estoril	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODE0NzU3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+CD Tondela vs Estoril	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3631132
 
 21:45 [y]Netherlands Eredivisie[z]	^-
 NAC Breda vs AZ Alkmaar	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199116/nac-breda-vs-az-alkmaar-08-2025.html
 NAC Breda vs AZ Alkmaar	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkwNzM5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+NAC Breda vs AZ Alkmaar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3534181
 
 22:00 [y]Spanish La Liga[z]	^-
 Real Club Celta de Vigo vs Villarreal	`*https://www.fctv33.net/football/spanish-la-liga-match-4225354/rc-celta-vs-villarreal-cf-08-2025.html
 Real Club Celta de Vigo vs Villarreal	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0MzE2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Real Club Celta de Vigo vs Villarreal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3486301
 
 22:15 [y]French Ligue 1[z]	^-
 Monaco vs Strasbourg	`*https://www.fctv33.net/football/french-ligue-1-match-4200120/as-monaco-vs-rc-strasbourg-alsace-08-2025.html
