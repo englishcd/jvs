@@ -20,29 +20,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 31-08-2005	^-
 
-19:30 [y]Netherlands Eredivisie[z]	^-
-PEC Zwolle vs FC Utrecht	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199131/pec-zwolle-vs-fc-utrecht-08-2025.html
-PEC Zwolle vs FC Utrecht	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkwNzM4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-PEC Zwolle vs FC Utrecht	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3534179
-Sparta Rotterdam vs Feyenoord	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4200018/sparta-rotterdam-vs-feyenoord-08-2025.html
-Sparta Rotterdam vs Feyenoord	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkwNzM3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Sparta Rotterdam vs Feyenoord	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3534180
-
-20:00 [y]English Premier League[z]	^-
-Brighton Hove Albion vs Manchester City	`*https://www.fctv33.net/football/english-premier-league-match-4193857/brighton-hove-albion-vs-manchester-city-08-2025.html
-Brighton Hove Albion vs Manchester City	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MTUwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Brighton Hove Albion vs Manchester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3613664
-
-20:00 [y]French Ligue 1[z]	^-
-Angers vs Rennes	`*https://www.fctv33.net/football/french-ligue-1-match-4200114/angers-sco-vs-stade-rennais-fc-08-2025.html
-Angers vs Rennes	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMDM3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Angers vs Rennes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3499156
-
-20:00 [y]English Premier League[z]	^-
-Nottingham Forest vs West Ham United	`*https://www.fctv33.net/football/english-premier-league-match-4220554/nottingham-forest-vs-west-ham-united-08-2025.html
-Nottingham Forest vs West Ham United	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MTU1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Nottingham Forest vs West Ham United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3613662
-
 20:30 [y]Bundesliga[z]	^-
 VfL Wolfsburg vs FSV Mainz 05	`*https://www.fctv33.net/football/bundesliga-match-4200082/vfl-wolfsburg-vs-1-fsv-mainz-05-08-2025.html
 VfL Wolfsburg vs FSV Mainz 05	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3539453
@@ -65,17 +42,22 @@ Real Club Celta de Vigo vs Villarreal	`3https://embed-10-08-12-51.linkzhe.eu.org
 22:15 [y]French Ligue 1[z]	^-
 Monaco vs Strasbourg	`*https://www.fctv33.net/football/french-ligue-1-match-4200120/as-monaco-vs-rc-strasbourg-alsace-08-2025.html
 Monaco vs Strasbourg	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMDQyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Monaco vs Strasbourg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3499161
 Le Havre vs Nice	`*https://www.fctv33.net/football/french-ligue-1-match-4211932/havre-athletic-club-vs-ogc-nice-08-2025.html
 Le Havre vs Nice	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMDM4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Le Havre vs Nice	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3630156
 Paris FC vs Metz	`*https://www.fctv33.net/football/french-ligue-1-match-4212149/paris-fc-vs-metz-08-2025.html
 Paris FC vs Metz	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMDQ0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Paris FC vs Metz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3545080
 
 22:30 [y]Bundesliga[z]	^-
 Borussia Dortmund vs Union Berlin	`*https://www.fctv33.net/football/bundesliga-match-4199650/borussia-dortmund-vs-1-fc-union-berlin-08-2025.html
+Borussia Dortmund vs Union Berlin	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3533986
 
 22:30 [y]English Premier League[z]	^-
 Liverpool vs Arsenal	`*https://www.fctv33.net/football/english-premier-league-match-4223053/liverpool-vs-arsenal-08-2025.html
 Liverpool vs Arsenal	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MTUzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Liverpool vs Arsenal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3613658
 
 23:30 [y]Italian Serie A[z]	^-
 Torino vs Fiorentina	`*https://www.fctv33.net/football/italian-serie-a-match-4194562/torino-vs-fiorentina-08-2025.html
