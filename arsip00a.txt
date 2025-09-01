@@ -22,10 +22,12 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 09:45 [g]US Major League Soccer[z]	^-
 Los Angeles FC vs San Diego FC	`*https://www.fctv33.net/football/united-states-major-league-soccer-match-4105223/los-angeles-fc-vs-san-diego-fc-09-2025.html
+Los Angeles FC vs San Diego FC	https://hls.suanzsd6.com/sd-6MtMPPbpCFzko7jNBR.m3u8?txSecret=37b22564d998a79754d4cd88a8b823ea&txTime=68B658F2
 Los Angeles FC vs San Diego FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3044553
 
 10:00 [g]Mexico Liga MX[z]	^-
 Club Tijuana vs Necaxa	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194239/club-tijuana-vs-necaxa-09-2025.html
+Club Tijuana vs Necaxa	https://hls.suanzsd6.com/sd-6MuSNiyauY3wyKP8n3.m3u8?txSecret=4266cdda3cdf644da9576fe92f9a2e15&txTime=68B658F2
 Club Tijuana vs Necaxa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3600696
 
 02-09-2005	^-
