@@ -10,6 +10,7 @@
 
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Sports	`0https://www.marza12.shop/football.html
+^=Blank	
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
 Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
@@ -19,10 +20,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 ^@	^-
 
 01-09-2005	^-
-
-19:00 [l]2025 CAFA Nations Cup[z]	^-
-India vs Iran	`*https://www.fctv33.net/football/2023-cafa-nations-cup-match-4266133/india-vs-iran-09-2025.html
-India vs Iran	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641031
 
 20:30 [l]U20 Gulf Cup[z]	^-
 Egypt vs Iraq	`*https://www.fctv33.net/football/u20-gulf-cup-match-4268452/egypt-u20-vs-iraq-u20-09-2025.html
@@ -72,9 +69,9 @@ GolTV 👇	00!0!0/9595?zyy
 ^=👉[l]{s} Ⓧa2 🤺eXtra TV Channels[z]👈	^^sa2
 
 ^=	^-
+^=Blank	
 ^=stream-east	`0https://stream-east.soccer/
 ^=soccer-100	`0https://soccer-100.net/
-^=NYT	`0https://www.nsfwyoutube.com/
 ^=Live Day	`0https://dlhd.click/
 ^=Jala Live	`0https://hanamas.com/
 ^=Huhu.To	`0https://huhu.to/
