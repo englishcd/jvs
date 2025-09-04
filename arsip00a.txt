@@ -62,7 +62,7 @@ Portugal 🇵🇹 vs Hungary 🇭🇺	`3https://embed-10-08-12-51.linkzhe.eu.org
 North Macedonia 🇲🇰 vs Bosnia 🇧🇦	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3659697
 
 22:00 [l]International Friendly[z]	^-
-Saudi Arabia 🇸🇦 vs North Macedonia 🇲🇰	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641757
+Saudi Arabia 🇸🇦 vs N Macedonia 🇲🇰	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641757
 
 22:00 [l]UEFA U21 Champ 2027 Qualification[z]	^-
 Belarus 🇧🇾 vs Belgium 🇧🇪	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641824
@@ -128,8 +128,8 @@ Slovakia 🇸🇰 vs Germany 🇩🇪	`*https://www.fctv33.net/football/fifa-wor
 Slovakia 🇸🇰 vs Germany 🇩🇪	https://ddkanqu.com/zhibo/23506.html
 Netherlands 🇳🇱 vs Poland 🇵🇱	`*https://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155954/netherlands-vs-poland-09-2025.html
 Netherlands 🇳🇱 vs Poland 🇵🇱	https://ddkanqu.com/zhibo/23505.html
-Luxembourg 🇱🇺 vs Northern Ireland 🇯🇪	`*https://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155961/luxembourg-vs-northern-ireland-09-2025.html
-Luxembourg 🇱🇺 vs Northern Ireland 🇯🇪	https://ddkanqu.com/zhibo/23504.html
+Luxembourg 🇱🇺 vs North Ireland 🇯🇪	`*https://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155961/luxembourg-vs-northern-ireland-09-2025.html
+Luxembourg 🇱🇺 vs North Ireland 🇯🇪	https://ddkanqu.com/zhibo/23504.html
 
 02:00 [l]World Cup Qualification (CAF)[z]	^-
 Cameroon 🇨🇲 vs Eswatini 🇸🇿	`*https://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856156/cameroon-vs-eswatini-09-2025.html
@@ -142,7 +142,7 @@ Mali 🇲🇱 vs Comoros 🇰🇲	`*https://www.fctv33.net/football/fifa-world-c
 Mali 🇲🇱 vs Comoros 🇰🇲	https://ddkanqu.com/zhibo/23511.html
 
 04:30 [l]World Cup Qualification (CONMEBOL)[z]	^-
-🇸🇷 Suriname  vs Panama 🇵🇦	https://ddkanqu.com/zhibo/23512.html
+Suriname 🇸🇷 vs Panama 🇵🇦	https://ddkanqu.com/zhibo/23512.html
 
 06:30 [l]World Cup Qualification (CONMEBOL)[z]	^-
 Colombia 🇨🇴 vs Bolivia 🇧🇴	`*https://www.fctv33.net/football/fifa-world-cup-qualification-conmebol-match-3834719/colombia-vs-bolivia-09-2025.html
