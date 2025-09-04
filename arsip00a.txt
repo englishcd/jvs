@@ -21,20 +21,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 05-09-2005	^-
 
-02:00 [l]World Cup Qualification (CAF)[z]	^-
-Cameroon 🇨🇲 vs Eswatini 🇸🇿	`*https://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856156/cameroon-vs-eswatini-09-2025.html
-Cameroon 🇨🇲 vs Eswatini 🇸🇿	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641800
-Cameroon 🇨🇲 vs Eswatini 🇸🇿	https://ddkanqu.com/zhibo/23508.html
-Algeria 🇩🇿 vs Botswana 🇧🇼	`*https://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856254/algeria-vs-botswana-09-2025.html
-Algeria 🇩🇿 vs Botswana 🇧🇼	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641822
-Algeria 🇩🇿 vs Botswana 🇧🇼	https://ddkanqu.com/zhibo/23510.html
-Tunisia 🇹🇳 vs Liberia 🇱🇷	`*https://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856416/tunisia-vs-liberia-09-2025.html
-Tunisia 🇹🇳 vs Liberia 🇱🇷	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641829
-Tunisia 🇹🇳 vs Liberia 🇱🇷	https://ddkanqu.com/zhibo/23509.html
-Mali 🇲🇱 vs Comoros 🇰🇲	`*https://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856729/mali-vs-comoros-09-2025.html
-Mali 🇲🇱 vs Comoros 🇰🇲	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641807
-Mali 🇲🇱 vs Comoros 🇰🇲	https://ddkanqu.com/zhibo/23511.html
-
 04:30 [l]World Cup Qualification (CONMEBOL)[z]	^-
 Suriname 🇸🇷 vs Panama 🇵🇦	`*https://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193221/suriname-vs-panama-09-2025.html
 Suriname 🇸🇷 vs Panama 🇵🇦	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641806
@@ -100,6 +86,8 @@ Indonesia 🇮🇩 vs Chinese Taipei 🇹🇼	`3https://embed-10-08-12-51.linkzh
 Romania 🇷🇴 vs Kosovo 🇽🇰	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188597/romania-u21-vs-kosovo-u21-09-2025.html
 
 23:00 [l]World Cup Qualification (CAF)[z]	^-
+Congo 🇨🇬 vs Tanzania 🇹🇿	`*https://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856152/republic-of-the-congo-vs-tanzania-09-2025.html
+Congo 🇨🇬 vs Tanzania 🇹🇿	https://ddkanqu.com/zhibo/23530.html
 Djibouti 🇩🇯 vs Burkina Faso 🇧🇫	`*https://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856176/djibouti-vs-burkina-faso-09-2025.html
 Djibouti 🇩🇯 vs Burkina Faso 🇧🇫	https://ddkanqu.com/zhibo/23528.html
 Uganda 🇺🇬 vs Mozambique 🇲🇿	`*https://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856251/uganda-vs-mozambique-09-2025.html
