@@ -116,6 +116,9 @@ Iceland 🇮🇸 vs Faroe Islands 🇫🇴	`*https://www.fctv33.net/football/uef
 00:30 [l]International U20 Friendly[z]	^-
 Portugal 🇵🇹 vs Czech Republic 🇨🇿	`*https://www.fctv33.net/football/international-friendly-match-4268519/portugal-u20-vs-czechia-republic-u20-09-2025.html
 
+01:00 [l]International Friendly[z]	^-
+Russia 🇷🇺 vs Jordan 🇯🇴	https://ddkanqu.com/zhibo/23500.html
+
 01:45 [l]World Cup Qualification (UEFA)[z]	^-
 Liechtenstein 🇱🇮 vs Belgium 🇧🇪	`*https://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4135668/liechtenstein-vs-belgium-09-2025.html
 Liechtenstein 🇱🇮 vs Belgium 🇧🇪	https://ddkanqu.com/zhibo/23503.html
@@ -138,14 +141,25 @@ Tunisia 🇹🇳 vs Liberia 🇱🇷	https://ddkanqu.com/zhibo/23509.html
 Mali 🇲🇱 vs Comoros 🇰🇲	`*https://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856729/mali-vs-comoros-09-2025.html
 Mali 🇲🇱 vs Comoros 🇰🇲	https://ddkanqu.com/zhibo/23511.html
 
+04:30 [l]World Cup Qualification (CONMEBOL)[z]	^-
+🇸🇷 Suriname  vs Panama 🇵🇦	https://ddkanqu.com/zhibo/23512.html
+
 06:30 [l]World Cup Qualification (CONMEBOL)[z]	^-
 Colombia 🇨🇴 vs Bolivia 🇧🇴	`*https://www.fctv33.net/football/fifa-world-cup-qualification-conmebol-match-3834719/colombia-vs-bolivia-09-2025.html
+Colombia 🇨🇴 vs Bolivia 🇧🇴	https://ddkanqu.com/zhibo/23513.html
 Uruguay 🇺🇾 vs Peru 🇵🇪	`*https://www.fctv33.net/football/fifa-world-cup-qualification-conmebol-match-3834720/uruguay-vs-peru-09-2025.html
+Uruguay 🇺🇾 vs Peru 🇵🇪	https://ddkanqu.com/zhibo/23514.html
 Paraguay 🇵🇾 vs Ecuador 🇪🇨	`*https://www.fctv33.net/football/fifa-world-cup-qualification-conmebol-match-3834721/paraguay-vs-ecuador-09-2025.html
+Paraguay 🇵🇾 vs Ecuador 🇪🇨	https://ddkanqu.com/zhibo/23515.html
 Argentina 🇦🇷 vs Venezuela 🇻🇪	`*https://www.fctv33.net/football/fifa-world-cup-qualification-conmebol-match-3834723/argentina-vs-venezuela-09-2025.html
+Argentina 🇦🇷 vs Venezuela 🇻🇪	https://ddkanqu.com/zhibo/23516.html
 
 07:30 [l]World Cup Qualification (CONMEBOL)[z]	^-
 Brazil 🇧🇷 vs Chile 🇨🇱	`*https://www.fctv33.net/football/fifa-world-cup-qualification-conmebol-match-3834722/brazil-vs-chile-09-2025.html
+Brazil 🇧🇷 vs Chile 🇨🇱	https://ddkanqu.com/zhibo/23518.html
+
+09:00 [l]World Cup Qualification (CONMEBOL)[z]	^-
+Guatemala 🇬🇹 vs El Salvador 🇸🇻	https://ddkanqu.com/zhibo/23519.html
 
 ^@	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **	^-
