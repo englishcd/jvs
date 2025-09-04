@@ -21,13 +21,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 04-09-2005	^-
 
-16:00 [l]Thai King's Cup[z]	^-
-Iraq 🇮🇶 vs Hong Kong 🇭🇰	`*https://www.fctv33.net/football/thai-kings-cup-match-4268820/iraq-vs-hong-kong-09-2025.html
-Iraq 🇮🇶 vs Hong Kong 🇭🇰	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641739
-
-17:00 [l]International U17 Friendly[z]	^-
-Portugal 🇵🇹 vs Italy 🇮🇹	`*https://www.fctv33.net/football/international-friendly-match-4269286/portugal-u17-vs-italy-u17-09-2025.html
-
 19:00 [l]CAFA Nations Cup[z]	^-
 Afghanistan 🇦🇫 vs India 🇮🇳	`*https://www.fctv33.net/football/cafa-nations-cup-match-4267367/afghanistan-vs-india-09-2025.html
 Afghanistan 🇦🇫 vs India 🇮🇳	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3654654
@@ -62,7 +55,7 @@ Portugal 🇵🇹 vs Hungary 🇭🇺	`3https://embed-10-08-12-51.linkzhe.eu.org
 North Macedonia 🇲🇰 vs Bosnia 🇧🇦	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3659697
 
 22:00 [l]International Friendly[z]	^-
-Saudi Arabia 🇸🇦 vs N Macedonia 🇲🇰	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641757
+Saudi Arabia 🇸🇦 vs North Macedonia 🇲🇰	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641757
 
 22:00 [l]UEFA U21 Champ 2027 Qualification[z]	^-
 Belarus 🇧🇾 vs Belgium 🇧🇪	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641824
@@ -101,12 +94,16 @@ Norway 🇳🇴 vs Finland 🇫🇮	`*https://www.fctv33.net/football/internatio
 Norway 🇳🇴 vs Finland 🇫🇮	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3121809
 Norway 🇳🇴 vs Finland 🇫🇮	https://ddkanqu.com/zhibo/23494.html
 Gibraltar 🇬🇮 vs Albania 🇦🇱	`*https://www.fctv33.net/football/international-friendly-match-4269276/gibraltar-vs-albania-09-2025.html
+Gibraltar 🇬🇮 vs Albania 🇦🇱	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617288
 
 23:00 [l]International U21 Friendly[z]	^-
 Denmark 🇩🇰 vs Norway 🇳🇴	`*https://www.fctv33.net/football/international-friendly-match-4271266/denmark-u21-vs-norway-u21-09-2025.html
 
 23:00 [l]UEFA U21 Champ 2027 Qualification[z]	^-
 Moldova 🇲🇩 vs Ireland 🇮🇪	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3636104
+
+23:30 [l]International Friendly[z]	^-
+UAE 🇦🇪 vs Syria 🇸🇾	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3636104
 
 05-09-2005	^-
 
@@ -128,8 +125,8 @@ Slovakia 🇸🇰 vs Germany 🇩🇪	`*https://www.fctv33.net/football/fifa-wor
 Slovakia 🇸🇰 vs Germany 🇩🇪	https://ddkanqu.com/zhibo/23506.html
 Netherlands 🇳🇱 vs Poland 🇵🇱	`*https://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155954/netherlands-vs-poland-09-2025.html
 Netherlands 🇳🇱 vs Poland 🇵🇱	https://ddkanqu.com/zhibo/23505.html
-Luxembourg 🇱🇺 vs North Ireland 🇯🇪	`*https://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155961/luxembourg-vs-northern-ireland-09-2025.html
-Luxembourg 🇱🇺 vs North Ireland 🇯🇪	https://ddkanqu.com/zhibo/23504.html
+Luxembourg 🇱🇺 vs Northern Ireland 🇯🇪	`*https://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155961/luxembourg-vs-northern-ireland-09-2025.html
+Luxembourg 🇱🇺 vs Northern Ireland 🇯🇪	https://ddkanqu.com/zhibo/23504.html
 
 02:00 [l]World Cup Qualification (CAF)[z]	^-
 Cameroon 🇨🇲 vs Eswatini 🇸🇿	`*https://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856156/cameroon-vs-eswatini-09-2025.html
@@ -142,6 +139,7 @@ Mali 🇲🇱 vs Comoros 🇰🇲	`*https://www.fctv33.net/football/fifa-world-c
 Mali 🇲🇱 vs Comoros 🇰🇲	https://ddkanqu.com/zhibo/23511.html
 
 04:30 [l]World Cup Qualification (CONMEBOL)[z]	^-
+Suriname 🇸🇷 vs Panama 🇵🇦	`*https://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193221/suriname-vs-panama-09-2025.html
 Suriname 🇸🇷 vs Panama 🇵🇦	https://ddkanqu.com/zhibo/23512.html
 
 06:30 [l]World Cup Qualification (CONMEBOL)[z]	^-
@@ -159,6 +157,7 @@ Brazil 🇧🇷 vs Chile 🇨🇱	`*https://www.fctv33.net/football/fifa-world-c
 Brazil 🇧🇷 vs Chile 🇨🇱	https://ddkanqu.com/zhibo/23518.html
 
 09:00 [l]World Cup Qualification (CONMEBOL)[z]	^-
+Guatemala 🇬🇹 vs El Salvador 🇸🇻	`*https://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4194190/guatemala-vs-el-salvador-09-2025.html
 Guatemala 🇬🇹 vs El Salvador 🇸🇻	https://ddkanqu.com/zhibo/23519.html
 
 ^@	^-
