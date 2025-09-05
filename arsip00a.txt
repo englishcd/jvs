@@ -21,11 +21,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 05-09-2005	^-
 
-09:00 [l]World Cup Qualification (CONMEBOL)[z]	^-
-Guatemala 🇬🇹 vs El Salvador 🇸🇻	`*https://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4194190/guatemala-vs-el-salvador-09-2025.html
-Guatemala 🇬🇹 vs El Salvador 🇸🇻	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3639074
-Guatemala 🇬🇹 vs El Salvador 🇸🇻	https://ddkanqu.com/zhibo/23519.html
-
 12:30 [g]CFA International Tournament[z]	^-
 Indonesia 🇮🇩 vs Cambodia 🇰🇭	`*https://www.fctv33.net/football/cfa-international-tournament-match-4273130/indonesia-vs-cambodia-09-2025.html
 
@@ -74,6 +69,7 @@ Lesotho 🇱🇸 vs South Africa 🇿🇦	`*https://www.fctv33.net/football/fifa
 Lesotho 🇱🇸 vs South Africa 🇿🇦	https://ddkanqu.com/zhibo/23531.html
 
 23:00 [l]UEFA U21 Champ Qualification[z]	^-
+Czech Republic 🇨🇿 vs Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189151/czechia-republic-u21-vs-scotland-u21-09-2025.html
 Sweden 🇸🇪 vs Armenia 🇦🇲	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189371/sweden-u21-vs-armenia-u21-09-2025.html
 Slovakia 🇸🇰 vs Andorra 🇦🇩	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189578/slovakia-u21-vs-andorra-u21-09-2025.html
 Estonia 🇪🇪 vs Switzerland 🇨🇭	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190567/estonia-u21-vs-switzerland-u21-09-2025.html
@@ -83,6 +79,7 @@ Lithuania 🇱🇹 vs Ukraine 🇺🇦	`*https://www.fctv33.net/football/uefa-eu
 Italy 🇮🇹 vs Montenegro 🇲🇪	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190062/italy-u21-vs-montenegro-u21-09-2025.html
 
 23:30 [l]UEFA U21 Champ Qualification[z]	^-
+Bulgaria 🇧🇬 vs Gibraltar 🇬🇮	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188463/bulgaria-u21-vs-gibraltar-u21-09-2025.html
 France 🇫🇷 vs Luxembourg 🇱🇺	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4191112/france-u21-vs-luxembourg-u21-09-2025.html
 
 23:30 [l]International U16 Friendly[z]	^-
@@ -141,6 +138,12 @@ Trinidad Tobago 🇹🇹 vs Curacao 🇨🇼	`*https://www.fctv33.net/football/f
 Trinidad Tobago 🇹🇹 vs Curacao 🇨🇼	https://ddkanqu.com/zhibo/23554.html
 Haiti 🇭🇹 vs Honduras 🇭🇳	`*https://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193437/haiti-vs-honduras-09-2025.html
 Haiti 🇭🇹 vs Honduras 🇭🇳	https://ddkanqu.com/zhibo/23555.html
+
+09:00 [l]World Cup Qualification (CONCACAF)[z]	^-
+Nicaragua 🇳🇮 vs Costa Rica 🇨🇷	`*https://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193180/nicaragua-vs-costa-rica-09-2025.html
+
+12:30 [g]CFA International Tournament[z]	^-
+Myanmar 🇲🇲 vs Indonesia 🇮🇩	`*https://www.fctv33.net/football/cfa-international-tournament-match-4273968/myanmar-vs-indonesia-09-2025.html
 
 ^@	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **	^-
