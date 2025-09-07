@@ -9,7 +9,6 @@
 [y]Live Football Events[z]	^-
 
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
-^=Live Sports	`0https://www.marza12.shop/football.html
 ^=Blank	
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
 Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
@@ -1149,12 +1148,15 @@ Wowow Live 🇯🇵	`0i3`03wlive/index.m3u8
 Wowow Prime 🇯🇵	`0i3`03wprime/index.m3u8
 Yomiuri TV 🇯🇵	`0i3`03ytv/index.m3u8
 
+^=fctvlive	`0https://www.fctv33.net/football.html
+^=Live Sports	`0https://www.marza12.shop/football.html
+^=Embed	`0https://yoembed.freesport.eu.org/api/data?sportId=1&timezone=id
+^=Watching	`0https://ddkanqu.com/
 ^=0dd-124	`0https://daddylivehd1.my/embed/stream-124.php
 ^=1dd-124	`1https://daddylivehd1.my/embed/stream-124.php
 ^=referrer 0	`0https://wayaxaz.blogspot.com/
 ^=soccer-100.net	`0https://soccer-100.net/
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
-^=fctvlive	`0https://www.fctvlive.net/
 ^=asahi1	`1https://anym3u8player.com/tv/video-player.php?url=https://worker-damp-poetry-68b1.1doi3.workers.dev/http://vthanh.utako.moe/TV_Asahi/index.m3u8
 
 	^-
