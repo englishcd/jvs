@@ -64,9 +64,11 @@ Uzbekistan 🇺🇿 vs Palestine 🇵🇸	`3https://embed-10-08-12-51.linkzhe.eu
 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Netherlands 🇳🇱	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641197
 
 18:00 [l]UEFA U21 Champ Qualification[z]	^-
+Gibraltar 🇬🇮 vs Czech 🇨🇿	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188471/gibraltar-u21-vs-czechia-republic-u21-09-2025.html
 Gibraltar 🇬🇮 vs Czech 🇨🇿	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3638962
 
 18:30 [l]International U20 Friendly[z]	^-
+Poland 🇵🇱 vs Portugal	🇵🇹`*https://www.fctv33.net/football/international-friendly-match-4276518/poland-u20-vs-portugal-u20-09-2025.html
 Poland 🇵🇱 vs Portugal	🇵🇹`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3656156
 
 18:30 [l]International Friendly[z]	^-
@@ -81,8 +83,8 @@ Australia 🇦🇺 vs China 🇨🇳	`*https://ppdd02.playerktidfintkd.shop/live
 Australia 🇦🇺 vs China 🇨🇳	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3655708
 
 18:45 [l]International Friendly[z]	^-
-Nepal 🇳🇵 vs Bangladesh 🇧🇩	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODY5NDI3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Nepal 🇳🇵 vs Bangladesh 🇧🇩	`*https://www.fctv33.net/football/international-friendly-match-4273084/nepal-vs-bangladesh-09-2025.html
+Nepal 🇳🇵 vs Bangladesh 🇧🇩	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODY5NDI3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Nepal 🇳🇵 vs Bangladesh 🇧🇩	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3672873
 
 19:00 [l]AFC U23 Asian Cup[z]	^-
@@ -159,7 +161,9 @@ Togo 🇹🇬 vs Sudan 🇸🇩	`*https://www.fctv33.net/football/fifa-world-cup
 Togo 🇹🇬 vs Sudan 🇸🇩	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNDk4NjM0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 23:00 [l]AFC U23 Asian Cup[z]	^-
+Jordan 🇯🇴 vs Turkmenistan 🇹🇲	`*https://www.fctv33.net/football/afc-u23-asian-cup-match-4267161/jordan-u23-vs-turkmenistan-u23-09-2025.html
 Jordan 🇯🇴 vs Turkmenistan 🇹🇲	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5NjIwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Tajikistan 🇹🇯 vs Syria 🇸🇾	`*https://www.fctv33.net/football/afc-u23-asian-cup-match-4224089/tajikistan-u23-vs-syria-u23-09-2025.html
 Tajikistan 🇹🇯 vs Syria 🇸🇾	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5NjIxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 23:00 [l]World Cup Qualification (UEFA)[z]	^-
@@ -174,9 +178,6 @@ Moldova 🇲🇩 vs Slovakia 🇸🇰	`*https://www.fctv33.net/football/uefa-eur
 Lithuania 🇱🇹 vs Hungary 🇭🇺	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189632/lithuania-u21-vs-hungary-u21-09-2025.html
 Norway 🇳🇴 vs Slovenia 🇸🇮	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190006/norway-u21-vs-slovenia-u21-09-2025.html
 Georgia 🇬🇪 vs Northern Ireland 🇯🇪	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4191111/georgia-u21-vs-northern-ireland-u21-09-2025.html
-
-23:00 [l]AFC U23 Asian Cup[z]	^-
-Tajikistan 🇹🇯 vs Syria 🇸🇾	`*https://www.fctv33.net/football/afc-u23-asian-cup-match-4224089/tajikistan-u23-vs-syria-u23-09-2025.html
 
 23:00 [l]International Friendly[z]	^-
 Estonia 🇪🇪 vs Andorra 🇦🇩	`*https://www.fctv33.net/football/international-friendly-match-4273083/estonia-vs-andorra-09-2025.html
@@ -194,6 +195,7 @@ Qatar 🇶🇦 vs Bahrain 🇧🇭	`*https://www.fctv33.net/football/afc-u23-asi
 Qatar 🇶🇦 vs Bahrain 🇧🇭	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5NjIyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 00:00 [l]International Friendly[z]	^-
+Jordan 🇯🇴 vs Dominican Republic 🇩🇴	`*https://www.fctv33.net/football/international-friendly-match-4273082/jordan-vs-dominican-republic-09-2025.html
 Jordan 🇯🇴 vs Dominican Republic 🇩🇴	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODY4MDg3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 00:00 [l]UEFA U21 Champ Qualification[z]	^-
@@ -235,6 +237,7 @@ Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 vs Canada 🇨🇦	`*https://www.fctv33.net/f
 Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 vs Canada 🇨🇦	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODY3MzU2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 02:00 [l]International Friendly[z]	^-
+Malta 🇲🇹 vs San Marino 🇸🇲	`*https://www.fctv33.net/football/international-friendly-match-4273055/malta-vs-san-marino-09-2025.html
 Malta 🇲🇹 vs San Marino 🇸🇲	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODY4MDg5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 02:00 [l]World Cup Qualification (CAF)[z]	^-
@@ -272,6 +275,7 @@ Jamaica 🇯🇲 vs Trinidad Tobago 🇹🇹	`*https://www.fctv33.net/football/f
 Jamaica 🇯🇲 vs Trinidad Tobago 🇹🇹	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg3MjAwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 08:00 [l]International Friendly[z]	^-
+Mexico 🇲🇽 vs South Korea 🇰🇷	`*https://www.fctv33.net/football/international-friendly-match-4261808/mexico-vs-south-korea-09-2025.html
 Mexico 🇲🇽 vs South Korea 🇰🇷	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODY3NjI4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 09:00 [l]World Cup Qualification (CONCACAF)[z]	^-
