@@ -159,9 +159,11 @@ Estonia 🇪🇪 vs Andorra 🇦🇩	`3https://embed-10-08-12-51.linkzhe.eu.org/
 
 23:15 [l]UEFA U21 Champ Qualification[z]	^-
 North Macedonia 🇲🇰 vs Italy 🇮🇹	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188600/north-macedonia-u21-vs-italy-u21-09-2025.html
+North Macedonia 🇲🇰 vs Italy 🇮🇹	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3636111
 
 23:30 [l]Elite League U20[z]	^-
 Germany 🇩🇪 vs Italy 🇮🇹	`*https://www.fctv33.net/football/elite-league-u20-match-4271282/germany-u20-vs-italy-u20-09-2025.html
+Germany 🇩🇪 vs Italy 🇮🇹	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3656173
 
 10-09-2005	^-
 
@@ -172,10 +174,14 @@ Qatar 🇶🇦 vs Bahrain 🇧🇭	`*https://ppdd02.playerktidfintkd.shop/live.h
 00:00 [l]International Friendly[z]	^-
 Jordan 🇯🇴 vs Dominican Republic 🇩🇴	`*https://www.fctv33.net/football/international-friendly-match-4273082/jordan-vs-dominican-republic-09-2025.html
 Jordan 🇯🇴 vs Dominican Republic 🇩🇴	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODY4MDg3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Jordan 🇯🇴 vs Dominican Republic 🇩🇴	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3668964
 
 00:00 [l]UEFA U21 Champ Qualification[z]	^-
 Kosovo 🇽🇰 vs Spain 🇪🇸	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188598/kosovo-u21-vs-spain-u21-09-2025.html
+Kosovo 🇽🇰 vs Spain 🇪🇸	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3636109
 Malta 🇲🇹 vs Greece 🇬🇷	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189316/malta-u21-vs-greece-u21-09-2025.html
+Malta 🇲🇹 vs Greece 🇬🇷	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3656225
+Turkiye 🇹🇷 vs Croatia 🇭🇷	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3636355
 
 00:30 [l]UEFA U21 Champ Qualification[z]	^-
 Luxembourg 🇱🇺 vs Faroe Islands 🇫🇴	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190359/luxembourg-u21-vs-faroe-islands-u21-09-2025.html
