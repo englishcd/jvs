@@ -23,18 +23,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 09-09-2005	^-
 
-17:00 [l]AFC U23 Asian Cup[z]	^-
-Uzbekistan 🇺🇿 vs Palestine 🇵🇸	`*https://www.fctv33.net/football/afc-u23-asian-cup-match-4225826/uzbekistan-u23-vs-palestine-u23-09-2025.html
-Uzbekistan 🇺🇿 vs Palestine 🇵🇸	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5NjA4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Uzbekistan 🇺🇿 vs Palestine 🇵🇸	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652429
-
-17:30 [l]International U19 Friendly[z]	^-
-England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Netherlands 🇳🇱	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641197
-
-18:00 [l]UEFA U21 Champ Qualification[z]	^-
-Gibraltar 🇬🇮 vs Czech 🇨🇿	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188471/gibraltar-u21-vs-czechia-republic-u21-09-2025.html
-Gibraltar 🇬🇮 vs Czech 🇨🇿	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3638962
-
 18:30 [l]International U20 Friendly[z]	^-
 Poland 🇵🇱 vs Portugal	🇵🇹`*https://www.fctv33.net/football/international-friendly-match-4276518/poland-u20-vs-portugal-u20-09-2025.html
 Poland 🇵🇱 vs Portugal	🇵🇹`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3656156
@@ -144,8 +132,10 @@ Togo 🇹🇬 vs Sudan 🇸🇩	`3https://embed-10-08-12-51.linkzhe.eu.org/embed
 23:00 [l]AFC U23 Asian Cup[z]	^-
 Jordan 🇯🇴 vs Turkmenistan 🇹🇲	`*https://www.fctv33.net/football/afc-u23-asian-cup-match-4267161/jordan-u23-vs-turkmenistan-u23-09-2025.html
 Jordan 🇯🇴 vs Turkmenistan 🇹🇲	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5NjIwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Jordan 🇯🇴 vs Turkmenistan 🇹🇲	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3655736
 Tajikistan 🇹🇯 vs Syria 🇸🇾	`*https://www.fctv33.net/football/afc-u23-asian-cup-match-4224089/tajikistan-u23-vs-syria-u23-09-2025.html
 Tajikistan 🇹🇯 vs Syria 🇸🇾	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5NjIxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Tajikistan 🇹🇯 vs Syria 🇸🇾	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3592444
 
 23:00 [l]World Cup Qualification (UEFA)[z]	^-
 Azerbaijan 🇦🇿 vs Ukraine 🇺🇦	`*https://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155516/azerbaijan-vs-ukraine-09-2025.html
@@ -163,9 +153,11 @@ Lithuania 🇱🇹 vs Hungary 🇭🇺	`3https://embed-10-08-12-51.linkzhe.eu.or
 Norway 🇳🇴 vs Slovenia 🇸🇮	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190006/norway-u21-vs-slovenia-u21-09-2025.html
 Norway 🇳🇴 vs Slovenia 🇸🇮	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3604860
 Georgia 🇬🇪 vs Northern Ireland 🇯🇪	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4191111/georgia-u21-vs-northern-ireland-u21-09-2025.html
+Georgia 🇬🇪 vs Northern Ireland 🇯🇪	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3655075
 
 23:00 [l]International Friendly[z]	^-
 Estonia 🇪🇪 vs Andorra 🇦🇩	`*https://www.fctv33.net/football/international-friendly-match-4273083/estonia-vs-andorra-09-2025.html
+Estonia 🇪🇪 vs Andorra 🇦🇩	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3252004
 
 23:15 [l]UEFA U21 Champ Qualification[z]	^-
 North Macedonia 🇲🇰 vs Italy 🇮🇹	`*https://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188600/north-macedonia-u21-vs-italy-u21-09-2025.html
