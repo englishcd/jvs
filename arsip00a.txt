@@ -49,35 +49,35 @@ Newcastle United vs Wolves	`*https://www.fctv33.net/football/english-premier-lea
 Everton vs Aston Villa	`*https://www.fctv33.net/football/english-premier-league-match-4196063/everton-vs-aston-villa-09-2025.html
 
 21:00 [y]English Premier League[z]	^-
-Fulham vs Leeds United	`*
+Fulham vs Leeds United	`*https://www.fctv33.net/football/english-premier-league-match-4220560/fulham-vs-leeds-united-09-2025.html
 
 21:15 [y]Spanish La Liga[z]	^-
-Real Sociedad vs Real Madrid	`*
+Real Sociedad vs Real Madrid	`*https://www.fctv33.net/football/spanish-la-liga-match-4209581/real-sociedad-vs-real-madrid-09-2025.html
 
 21:30 [y]Netherlands Eredivisie[z]	^-
-AFC Ajax vs PEC Zwolle	`*
+AFC Ajax vs PEC Zwolle	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199121/afc-ajax-vs-pec-zwolle-09-2025.html
 
-International Friendly Match Timnas U-17	`*
-indonesia vs North Macedonia	`*
+21:30 [y]Friendly Match U-17[z]	^-
+Indonesia vs North Macedonia	`*https://www.fctv33.net/football/international-friendly-match-timnas-u-17-match-4281808/indonesia-vs--north-macedonia-09-2025.html
 
 22:00 [y]French Ligue 1[z]	^-
-Nice vs Nantes	`*
+Nice vs Nantes	`*https://www.fctv33.net/football/french-ligue-1-match-4200122/ogc-nice-vs-fc-nantes-09-2025.html
 
 23:00 [y]Italian Serie A[z]	^-
-Juventus vs Inter Milan	`*
+Juventus vs Inter Milan	`*https://www.fctv33.net/football/italian-serie-a-match-4194563/juventus-vs-inter-milan-09-2025.html
 
 23:30 [y]English Premier League[z]	^-
-West Ham United vs Tottenham Hotspur	`*
+West Ham United vs Tottenham Hotspur	`*https://www.fctv33.net/football/english-premier-league-match-4193844/west-ham-united-vs-tottenham-hotspur-09-2025.html
 
 23:30 [y]Bundesliga[z]	^-
-Bayern Munchen vs Hamburger SV	`*
+Bayern Munchen vs Hamburger SV	`*https://www.fctv33.net/football/bundesliga-match-4199647/fc-bayern-munich-vs-hamburger-sv-09-2025.html
 
 23:30 [y]Spanish La Liga[z]	^-
-Athletic Bilbao vs Deportivo Alavés	`*
+Athletic Bilbao vs Deportivo Alavés	`*https://www.fctv33.net/football/spanish-la-liga-match-4220904/athletic-club-vs-deportivo-alavs-09-2025.html
 
 23:45 [y]Netherlands Eredivisie[z]	^-
-Go Ahead Eagles vs Volendam	`*
-NEC Nijmegen vs PSV Eindhoven	`*
+Go Ahead Eagles vs Volendam	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199125/go-ahead-eagles-vs-volendam-09-2025.html
+NEC Nijmegen vs PSV Eindhoven	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199133/nec-nijmegen-vs-psv-eindhoven-09-2025.html
 
 14-09-2005	^-
 
