@@ -31,7 +31,7 @@ Charlotte FC vs Inter Miami CF	https://ddkanqu.com/zhibo/23874.html
 
 07:00 [g]Brazilian Serie A[z]	^-
 Fluminense vs Corinthians Paulista	`*https://www.fctv33.net/football/brazilian-serie-a-match-4141529/fluminense-rj-vs-corinthians-paulista-sp-09-2025.html
-Fluminense vs Corinthians Paulista	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3631846
+Fluminense vs Corinthians Paulista	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3631846
 
 07:15 [g]Argentine Division 1[z]	^-
 Sarmiento Junin vs Aldosivi Mar Plata	`*https://www.fctv33.net/football/argentine-division-1-match-4107540/sarmiento-junin-vs-aldosivi-mar-del-plata-09-2025.html
@@ -47,14 +47,16 @@ Atlas vs Santos Laguna	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=
 Tigres UANL vs Club Leon	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194246/tigres-uanl-vs-club-leon-09-2025.html
 Tigres UANL vs Club Leon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617625
 
-Mexico: Mexico Liga MX
-10:00
-Toluca vs Puebla
-10:15
-Club America vs Chivas Guadalajara
-Indonesia: Indonesian Liga 2
-15:30
-Sriwijaya FC vs Garudayaksa
+10:00 [g]Mexico Liga MX[z]	^-
+Toluca vs Puebla	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194235/toluca-vs-puebla-09-2025.html
+Toluca vs Puebla	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617628
+
+10:15 [g]Mexico Liga MX[z]	^-
+Club America vs Chivas Guadalajara	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194244/club-america-vs-chivas-guadalajara-09-2025.html
+Club America vs Chivas Guadalajara	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617629
+
+15:30 Liga 2	^-
+Sriwijaya FC vs Garudayaksa	`*https://www.fctv33.net/football/indonesian-liga-2-match-4279022/sriwijaya-fc-vs-garudayaksa-09-2025.html
 
 ^@	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **	^-
