@@ -23,23 +23,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 14-09-2005	^-
 
-07:15 [g]Argentine Division 1[z]	^-
-Sarmiento Junin vs Aldosivi Mar Plata	`*https://www.fctv33.net/football/argentine-division-1-match-4107540/sarmiento-junin-vs-aldosivi-mar-del-plata-09-2025.html
-Sarmiento Junin vs Aldosivi Mar Plata	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3221246
-
-07:30 [g]US Major League Soccer[z]	^-
-San Jose Earthquakes vs Los Angeles	`*https://www.fctv33.net/football/united-states-major-league-soccer-match-4105277/san-jose-earthquakes-vs-los-angeles-fc-09-2025.html
-San Jose Earthquakes vs Los Angeles	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2963182
-San Jose Earthquakes vs Los Angeles	https://ddkanqu.com/zhibo/23882.html
-
-08:00 [g]Mexico Liga MX[z]	^-
-Atlas vs Santos Laguna	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194238/atlas-vs-santos-laguna-09-2025.html
-Atlas vs Santos Laguna	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617623
-Atlas vs Santos Laguna	https://ddkanqu.com/zhibo/23886.html
-Tigres UANL vs Club Leon	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194246/tigres-uanl-vs-club-leon-09-2025.html
-Tigres UANL vs Club Leon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617625
-Tigres UANL vs Club Leon	https://ddkanqu.com/zhibo/23887.html
-
 10:00 [g]Mexico Liga MX[z]	^-
 Toluca vs Puebla	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194235/toluca-vs-puebla-09-2025.html
 Toluca vs Puebla	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617628
@@ -55,12 +38,15 @@ Sriwijaya FC vs Garudayaksa	`*https://www.fctv33.net/football/indonesian-liga-2-
 
 17:15 [y]Netherlands Eredivisie[z]	^-
 Excelsior SBV vs Sparta Rotterdam	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199326/excelsior-sbv-vs-sparta-rotterdam-09-2025.html
+Excelsior SBV vs Sparta Rotterdam	https://ddkanqu.com/zhibo/23899.html
 
 17:30 [y]Italian Serie A[z]	^-
 AS Roma vs Torino	`*https://www.fctv33.net/football/italian-serie-a-match-4194561/as-roma-vs-torino-09-2025.html
+AS Roma vs Torino	`*https://ddkanqu.com/zhibo/23900.html
 
 19:00 [y]Spanish La Liga[z]	^-
 Real Club Celta de Vigo vs Girona	`*https://www.fctv33.net/football/spanish-la-liga-match-4223511/rc-celta-vs-girona-fc-09-2025.html
+Real Club Celta de Vigo vs Girona	https://ddkanqu.com/zhibo/23912.html
 
 19:00 Liga 1	^-
 Persija Jakarta vs Bali United	`*https://www.fctv33.net/football/indonesian-liga-1-match-4229472/persija-jakarta-vs-bali-united-09-2025.html
@@ -74,32 +60,42 @@ Kuching FA vs DPMM FC	`*https://www.fctv33.net/football/malaysian-fa-cup-match-4
 
 19:30 [y]Netherlands Eredivisie[z]	^-
 Heracles Almelo vs AZ Alkmaar	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199130/heracles-almelo-vs-az-alkmaar-09-2025.html
+Heracles Almelo vs AZ Alkmaar	https://ddkanqu.com/zhibo/23919.html
 FC Utrecht vs Groningen	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199134/fc-utrecht-vs-groningen-09-2025.html
+FC Utrecht vs Groningen	https://ddkanqu.com/zhibo/23920.html
 
 20:00 [y]English Premier League[z]	^-
 Burnley vs Liverpool	`*https://www.fctv33.net/football/english-premier-league-match-4193840/burnley-vs-liverpool-09-2025.html
+Burnley vs Liverpool	https://ddkanqu.com/zhibo/23925.html
 
 20:00 [y]Italian Serie A[z]	^-
 Pisa vs Udinese	`*https://www.fctv33.net/football/italian-serie-a-match-4194565/pisa-vs-udinese-09-2025.html
+Pisa vs Udinese	https://ddkanqu.com/zhibo/23923.html
 Atalanta vs Lecce	`*https://www.fctv33.net/football/italian-serie-a-match-4195847/atalanta-vs-lecce-09-2025.html
+Atalanta vs Lecce	https://ddkanqu.com/zhibo/23922.html
 
 20:00 [y]French Ligue 1[z]	^-
 Lille vs Toulouse	`*https://www.fctv33.net/football/french-ligue-1-match-4200129/losc-lille-vs-toulouse-fc-09-2025.html
+Lille vs Toulouse	https://ddkanqu.com/zhibo/23924.html
 
 20:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs FC Augsburg	`*https://www.fctv33.net/football/bundesliga-match-4199648/fc-st-pauli-vs-fc-augsburg-09-2025.html
+FC St. Pauli vs FC Augsburg	https://ddkanqu.com/zhibo/23927.html
 
 21:00 [g]Brazilian Serie A[z]	^-
 Bragantino vs Sport Club do Recife	`*https://www.fctv33.net/football/brazilian-serie-a-match-4141638/red-bull-bragantino-vs-sport-club-do-recife-09-2025.html
+Bragantino vs Sport Club do Recife	https://ddkanqu.com/zhibo/23928.html
 
 21:00 [g]Scottish Premiership[z]	^-
 Kilmarnock vs Celtic FC	`*https://www.fctv33.net/football/scottish-premiership-match-4206180/kilmarnock-vs-celtic-fc-09-2025.html
 
 21:15 [y]Spanish La Liga[z]	^-
 Levante vs Real Betis	`*https://www.fctv33.net/football/spanish-la-liga-match-4220877/levante-vs-real-betis-09-2025.html
+Levante vs Real Betis	https://ddkanqu.com/zhibo/23932.html
 
 21:30 [g]Portuguese Primera Liga[z]	^-
 Estrela Amadora vs Vitoria Guimaraes	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4215978/cf-estrela-amadora-sad-vs-vitoria-guimaraes-09-2025.html
+Estrela Amadora vs Vitoria Guimaraes	https://ddkanqu.com/zhibo/23938.html
 
 21:45 [y]Netherlands Eredivisie[z]	^-
 SC Telstar vs Fortuna Sittard	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199136/sc-telstar-vs-fortuna-sittard-09-2025.html
