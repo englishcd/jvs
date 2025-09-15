@@ -88,21 +88,19 @@ GolTV 👇	00!0!0/9595?zyy
 ^=espn	`1https://streamtp11.com/global1.php?stream=espn
 
 	^-
-HBO Plus	https://a.00/5/out/u/dash/HBO-PLUS-HD/default.mpd!!861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
-HBO Pop	https://a.00/5/out/u/dash/HBO-POP-HD/default.mpd!!bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
-HBO Xtreme	https://a.00/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 HBO	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd!!d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 HBO Cinemax	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd!!b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 HBO Family	https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd!!872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 HBO Hits	https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd!!b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 HBO Signature	https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd!!a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-Film Rise Horror	https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8
-Horror Canada	https://apollo.production-public.tubi.io/live/ac-filmrise-horror-canada.m3u8
-Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 Hits	https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd!!dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
 Kix	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd!!a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 Tap Action	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd!!bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 Tap Movies	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd!!71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+HBO Plus	https://a.00/5/out/u/dash/HBO-PLUS-HD/default.mpd!!861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+HBO Pop	https://a.00/5/out/u/dash/HBO-POP-HD/default.mpd!!bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+HBO Xtreme	https://a.00/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 
 [l]Embedded Channels[z]	^-
 Liga 1 Max	`0https://www.telegratishd.com/liga-1-max-en-vivo.html
