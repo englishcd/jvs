@@ -23,19 +23,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 16-09-2005	^-
 
-17:00 [g]AFC Champions League Elite[z]	^-
-Machida Zelvia vs FC Seoul	`*https://www.fctv33.net/football/afc-champions-league-elite-match-4268086/machida-zelvia-vs-football-club-seoul-09-2025.html
-Machida Zelvia vs FC Seoul	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611317
-Machida Zelvia vs FC Seoul	https://ddkanqu.com/zhibo/24019.html
-Gangwon FC vs Shanghai Shenhua	`*https://www.fctv33.net/football/afc-champions-league-elite-match-4268087/gangwon-football-club-vs-shanghai-shenhua-fc-09-2025.html
-Gangwon FC vs Shanghai Shenhua	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611324
-Gangwon FC vs Shanghai Shenhua	https://ddkanqu.com/zhibo/24020.html
-
-19:15 [g]AFC Champions League Elite[z]	^-
-Buriram United vs Johor Darul Takzim	`*https://www.fctv33.net/football/afc-champions-league-elite-match-4262159/buriram-united-vs-johor-darul-tazim-fc-09-2025.html
-Buriram United vs Johor Darul Takzim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611320
-Buriram United vs Johor Darul Takzim	https://ddkanqu.com/zhibo/24021.html
-
 20:45 [g]AFC Champions League 2[z]	^-
 ATK Mohun Bagan vs FC Ahal	`*https://www.fctv33.net/football/afc-champions-league-2-match-4258698/mohun-bagan-super-giant-vs-ahal-fk-09-2025.html
 ATK Mohun Bagan vs FC Ahal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3614373
@@ -49,9 +36,11 @@ Al Ahli (UAE) vs Tractor S.C.	https://ddkanqu.com/zhibo/24023.html
 23:45 [y]UEFA Champions League[z]	^-
 PSV Eindhoven vs Saint Gilloise	`*https://www.fctv33.net/football/uefa-champions-league-match-4269372/psv-eindhoven-vs-union-saint-gilloise-09-2025.html
 PSV Eindhoven vs Saint Gilloise	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODYxMTg2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+PSV Eindhoven vs Saint Gilloise	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3649695
 PSV Eindhoven vs Saint Gilloise	https://ddkanqu.com/zhibo/24024.html
 Athletic Bilbao vs Arsenal	`*https://www.fctv33.net/football/uefa-champions-league-match-4269435/athletic-club-vs-arsenal-09-2025.html
 Athletic Bilbao vs Arsenal	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODYxMTQyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Athletic Bilbao vs Arsenal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3649696
 Athletic Bilbao vs Arsenal	https://ddkanqu.com/zhibo/24025.html
 
 17-09-2005	^-
