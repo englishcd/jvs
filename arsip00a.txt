@@ -43,21 +43,25 @@ VfB Stuttgart vs FC St. Pauli	https://ddkanqu.com/zhibo/24155.html
 01:45 [y]Italian Serie A
 Lecce vs Cagliari	`*https://www.fctv33.net/football/italian-serie-a-match-4195846/lecce-vs-cagliari-09-2025.html
 Lecce vs Cagliari	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NTE3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Lecce vs Cagliari	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3651180
 Lecce vs Cagliari	https://ddkanqu.com/zhibo/24157.html
 
 01:45 [y]French Ligue 1[z]	^-
 Lyon vs Angers	`*https://www.fctv33.net/football/french-ligue-1-match-4200137/lyon-vs-angers-sco-09-2025.html
 Lyon vs Angers	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMDU5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Lyon vs Angers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3636472
 Lyon vs Angers	https://ddkanqu.com/zhibo/24158.html
 
 02:00 [g]English League Champ[z]	^-
 Middlesbrough vs West Bromwich	`*https://www.fctv33.net/football/english-football-league-championship-match-4203281/middlesbrough-vs-west-bromwich-albion-09-2025.html
 Middlesbrough vs West Bromwich	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzk4MDcyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Middlesbrough vs West Bromwich	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3684314
 Middlesbrough vs West Bromwich	https://ddkanqu.com/zhibo/24161.html
 
 02:00 [y]Spanish La Liga[z]	^-
 Real Betis vs Real Sociedad	`*https://www.fctv33.net/football/spanish-la-liga-match-4209602/real-betis-vs-real-sociedad-09-2025.html
 Real Betis vs Real Sociedad	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0MzM2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Real Betis vs Real Sociedad	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3486326
 Real Betis vs Real Sociedad	https://ddkanqu.com/zhibo/24160.html
 
 02:15 [g]Portuguese Primera Liga[z]	^-
@@ -159,6 +163,12 @@ Real Madrid vs RCD Espanyol	https://ddkanqu.com/zhibo/24227.html
 Volendam vs Excelsior SBV	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199120/volendam-vs-excelsior-sbv-09-2025.html
 Volendam vs Excelsior SBV	https://ddkanqu.com/zhibo/24229.html
 
+21:30 [y]Portuguese Primera Liga[z]	^-
+Santa Clara vs Alverca	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4215987/santa-clara-vs-alverca-09-2025.html
+Santa Clara vs Alverca	https://ddkanqu.com/zhibo/24231.html
+Nacional da Madeira vs FC Arouca	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4218398/nacional-da-madeira-vs-fc-arouca-09-2025.html
+Nacional da Madeira vs FC Arouca	https://ddkanqu.com/zhibo/24230.html
+
 22:00 [y]French Ligue 1[z]	^-
 Nantes vs Rennes	`*https://www.fctv33.net/football/french-ligue-1-match-4200125/fc-nantes-vs-stade-rennais-fc-09-2025.html
 Nantes vs Rennes	https://ddkanqu.com/zhibo/24232.html
@@ -179,6 +189,17 @@ Deportivo Alavés vs Sevilla	`*https://www.fctv33.net/football/spanish-la-liga-m
 
 23:45 [y]Netherlands Eredivisie[z]	^-
 Groningen vs SC Telstar	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199178/groningen-vs-sc-telstar-09-2025.html
+
+21-09-2005	^-
+
+00:00 [y]French Ligue 1[z]	^-
+Stade Brestois vs Nice	`*https://www.fctv33.net/football/french-ligue-1-match-4200159/stade-brestois-29-vs-ogc-nice-09-2025.html
+
+00:00 [g]Portuguese Primera Liga[z]	^-
+AVS Futebol SAD vs Benfica	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4215989/avs-futebol-sad-vs-benfica-09-2025.html
+
+00:30 [g]Argentine Division 1[z]	^-
+Barracas Central vs Sarmiento Junin	`*https://www.fctv33.net/football/argentine-division-1-match-4107576/barracas-central-vs-sarmiento-junin-09-2025.html
 
 ^@	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **	^-
