@@ -111,9 +111,11 @@ Imigresen FC vs Negeri Sembilan	`*https://www.fctv33.net/football/malaysian-supe
 
 18:30 [y]English Premier League[z]	^-
 Liverpool vs Everton	`*https://www.fctv33.net/football/english-premier-league-match-4193860/liverpool-vs-everton-09-2025.html
+Liverpool vs Everton	https://ddkanqu.com/zhibo/24192.html
 
 19:00 [y]Spanish La Liga[z]	^-
 Girona vs Levante	`*https://www.fctv33.net/football/spanish-la-liga-match-4220901/girona-fc-vs-levante-09-2025.html
+Girona vs Levante	https://ddkanqu.com/zhibo/24199.html
 
 19:00 Liga 1	^-
 Bali United vs PSIM Yogyakarta	`*https://www.fctv33.net/football/indonesian-liga-1-match-4229484/bali-united-vs-psim-yogyakarta-09-2025.html
@@ -123,33 +125,46 @@ Pekanbaru United vs PSMS Medan	`*https://www.fctv33.net/football/indonesian-liga
 
 20:00 [y]Italian Serie A[z]	^-
 Bologna vs Genoa	`*https://www.fctv33.net/football/italian-serie-a-match-4195843/bologna-vs-genoa-09-2025.html
+Bologna vs Genoa	https://ddkanqu.com/zhibo/24203.html
 
 20:00 Malaysian Super League	^-
 PDRM vs Kelantan United	`*https://www.fctv33.net/football/malaysian-super-league-match-4225919/pdrm-fc-vs-kelantan-the-real-warriors-09-2025.html
 
 20:30 [y]Bundesliga[z]	^-
 Hamburger SV vs 1. FC Heidenheim	`*https://www.fctv33.net/football/bundesliga-match-4199645/hamburger-sv-vs-1-fc-heidenheim-1846-09-2025.html
+Hamburger SV vs 1. FC Heidenheim	https://ddkanqu.com/zhibo/24207.html
 TSG Hoffenheim vs Bayern Munchen	`*https://www.fctv33.net/football/bundesliga-match-4199667/tsg-hoffenheim-vs-fc-bayern-munich-09-2025.html
+TSG Hoffenheim vs Bayern Munchen	https://ddkanqu.com/zhibo/24209.html
 FC Augsburg vs FSV Mainz 05	`*https://www.fctv33.net/football/bundesliga-match-4199668/fc-augsburg-vs-1-fsv-mainz-05-09-2025.html
+FC Augsburg vs FSV Mainz 05	https://ddkanqu.com/zhibo/24206.html
 Werder Bremen vs SC Freiburg	`*https://www.fctv33.net/football/bundesliga-match-4199952/sv-werder-bremen-vs-sc-freiburg-09-2025.html
+Werder Bremen vs SC Freiburg	https://ddkanqu.com/zhibo/24208.html
 
 21:00 [y]English Premier League[z]	^-
 BHA vs Tottenham Hotspur	`*https://www.fctv33.net/football/english-premier-league-match-4193842/brighton-hove-albion-vs-tottenham-hotspur-09-2025.html
+BHA vs Tottenham Hotspur	https://ddkanqu.com/zhibo/24216.html
 Burnley vs Nottingham Forest	`*https://www.fctv33.net/football/english-premier-league-match-4193855/burnley-vs-nottingham-forest-09-2025.html
+Burnley vs Nottingham Forest	https://ddkanqu.com/zhibo/24213.html
 West Ham United vs Crystal Palace	`*https://www.fctv33.net/football/english-premier-league-match-4193870/west-ham-united-vs-crystal-palace-09-2025.html
+West Ham United vs Crystal Palace	https://ddkanqu.com/zhibo/24214.html
 Wolves vs Leeds United	`*https://www.fctv33.net/football/english-premier-league-match-4196062/wolverhampton-wanderers-vs-leeds-united-09-2025.html
+Wolves vs Leeds United	https://ddkanqu.com/zhibo/24215.html
 
 21:15 [y]Spanish La Liga[z]	^-
 Real Madrid vs RCD Espanyol	`*https://www.fctv33.net/football/spanish-la-liga-match-4209588/real-madrid-vs-rcd-espanyol-de-barcelona-09-2025.html
+Real Madrid vs RCD Espanyol	https://ddkanqu.com/zhibo/24227.html
 
 21:30 [y]Netherlands Eredivisie[z]	^-
 Volendam vs Excelsior SBV	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199120/volendam-vs-excelsior-sbv-09-2025.html
+Volendam vs Excelsior SBV	https://ddkanqu.com/zhibo/24229.html
 
 22:00 [y]French Ligue 1[z]	^-
 Nantes vs Rennes	`*https://www.fctv33.net/football/french-ligue-1-match-4200125/fc-nantes-vs-stade-rennais-fc-09-2025.html
+Nantes vs Rennes	https://ddkanqu.com/zhibo/24232.html
 
 23:00 [y]Italian Serie A[z]	^-
 Verona vs Juventus	`*https://www.fctv33.net/football/italian-serie-a-match-4194585/hellas-verona-vs-juventus-09-2025.html
+Verona vs Juventus	https://ddkanqu.com/zhibo/24242.html
 
 23:30 [y]English Premier League[z]	^-
 Manchester United vs Chelsea	`*https://www.fctv33.net/football/english-premier-league-match-4193854/manchester-united-vs-chelsea-09-2025.html
