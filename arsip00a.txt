@@ -23,11 +23,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 20-09-2005	^-
 
-13:30 Liga 2	^-
-Persipura Jayapura vs PSIS Semarang	`*https://www.fctv33.net/football/indonesian-liga-2-match-4283046/persipura-jayapura-vs-psis-semarang-09-2025.html
-Persipura Jayapura vs PSIS Semarang	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODczNzQzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Persipura Jayapura vs PSIS Semarang	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3708745
-
 15:30 Liga 1	^-
 Dewa United FC vs PSBS Biak Numfor	`*https://www.fctv33.net/football/indonesian-liga-1-match-4229492/dewa-united-fc-vs-psbs-biak-numfor-09-2025.html
 Dewa United FC vs PSBS Biak Numfor	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODI2MTk1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -40,6 +35,7 @@ Garudayaksa FC vs Persekat Tegal	`*https://ppdd02.playerktidfintkd.shop/live.htm
 16:00 Malaysian Super League	^-
 Imigresen FC vs Negeri Sembilan	`*https://www.fctv33.net/football/malaysian-super-league-match-4220909/imigresen-fc-vs-negeri-sembilan-09-2025.html
 Imigresen FC vs Negeri Sembilan	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODIyMzE0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Imigresen FC vs Negeri Sembilan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3699569
 
 18:30 [y]English Premier League[z]	^-
 Liverpool vs Everton	`*https://www.fctv33.net/football/english-premier-league-match-4193860/liverpool-vs-everton-09-2025.html
