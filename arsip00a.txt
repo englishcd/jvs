@@ -23,37 +23,14 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 20-09-2005	^-
 
-05:00 [g]Argentine Division 1[z]	^-
-CA Huracan vs Racing Club	`*https://www.fctv33.net/football/argentine-division-1-match-4107585/ca-huracan-vs-racing-club-de-avellaneda-09-2025.html
-CA Huracan vs Racing Club	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzc2MTkxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-CA Huracan vs Racing Club	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3090329
-CA Huracan vs Racing Club	https://ddkanqu.com/zhibo/24164.html
-
-05:15 [g]Argentine Division 1[z]	^-
-San Martin S Juan vs Velez Sarsfield	`*https://www.fctv33.net/football/argentine-division-1-match-4107567/san-martin-san-juan-vs-velez-sarsfield-09-2025.html
-San Martin S Juan vs Velez Sarsfield	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3221261
-San Martin S Juan vs Velez Sarsfield	https://ddkanqu.com/zhibo/24165.html
-
-07:15 [g]Argentine Division 1[z]	^-
-Lanus vs CA Platense	`*https://www.fctv33.net/football/argentine-division-1-match-4107578/club-atltico-lans-vs-ca-platense-09-2025.html
-Lanus vs CA Platense	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzc2MTkzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Lanus vs CA Platense	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3221263
-Lanus vs CA Platense	https://ddkanqu.com/zhibo/24167.html
-
-08:00 [g]Mexico Liga MX[z]	^-
-CDSyC Cruz Azul vs FC Juarez	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194255/cruz-azul-vs-fc-juarez-09-2025.html
-CDSyC Cruz Azul vs FC Juarez	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617638
-CDSyC Cruz Azul vs FC Juarez	https://ddkanqu.com/zhibo/24168.html
-Necaxa vs Puebla	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194259/necaxa-vs-puebla-09-2025.html
-Necaxa vs Puebla	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617637
-Necaxa vs Puebla	https://ddkanqu.com/zhibo/24169.html
-
 10:00 [g]Mexico Liga MX[z]	^-
 Mazatlan FC vs Atlas	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194252/mazatlan-fc-vs-atlas-09-2025.html
+Mazatlan FC vs Atlas	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617639
 Mazatlan FC vs Atlas	https://ddkanqu.com/zhibo/24170.html
 
 10:05 [g]Mexico Liga MX[z]	^-
 Club Tijuana vs Club Leon	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194265/club-tijuana-vs-club-leon-09-2025.html
+Club Tijuana vs Club Leon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3617641
 Club Tijuana vs Club Leon	https://ddkanqu.com/zhibo/24171.html
 
 13:30 Liga 2	^-
@@ -133,33 +110,43 @@ Verona vs Juventus	https://ddkanqu.com/zhibo/24242.html
 
 23:30 [y]English Premier League[z]	^-
 Manchester United vs Chelsea	`*https://www.fctv33.net/football/english-premier-league-match-4193854/manchester-united-vs-chelsea-09-2025.html
+Manchester United vs Chelsea	https://ddkanqu.com/zhibo/24251.html
 
 23:30 [y]Bundesliga[z]	^-
 RB Leipzig vs FC Koln	`*https://www.fctv33.net/football/bundesliga-match-4200021/rb-leipzig-vs-fc-kln-09-2025.html
+RB Leipzig vs FC Koln	https://ddkanqu.com/zhibo/24248.html
 
 23:30 [y]Spanish La Liga[z]	^-
 Villarreal vs Osasuna	`*https://www.fctv33.net/football/spanish-la-liga-match-4209591/villarreal-cf-vs-ca-osasuna-09-2025.html
+Villarreal vs Osasuna	https://ddkanqu.com/zhibo/24249.html
 Deportivo Alavés vs Sevilla	`*https://www.fctv33.net/football/spanish-la-liga-match-4220906/deportivo-alavs-vs-sevilla-fc-09-2025.html
+Deportivo Alavés vs Sevilla	https://ddkanqu.com/zhibo/24250.html
 
 23:45 [y]Netherlands Eredivisie[z]	^-
 Groningen vs SC Telstar	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199178/groningen-vs-sc-telstar-09-2025.html
+Groningen vs SC Telstar	https://ddkanqu.com/zhibo/24256.html
 
 21-09-2005	^-
 
 00:00 [y]French Ligue 1[z]	^-
 Stade Brestois vs Nice	`*https://www.fctv33.net/football/french-ligue-1-match-4200159/stade-brestois-29-vs-ogc-nice-09-2025.html
+Stade Brestois vs Nice	https://ddkanqu.com/zhibo/24257.html
 
 00:00 [g]Portuguese Primera Liga[z]	^-
 AVS Futebol SAD vs Benfica	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4215989/avs-futebol-sad-vs-benfica-09-2025.html
+AVS Futebol SAD vs Benfica	https://ddkanqu.com/zhibo/24258.html
 
 00:30 [g]Argentine Division 1[z]	^-
 Barracas Central vs Sarmiento Junin	`*https://www.fctv33.net/football/argentine-division-1-match-4107576/barracas-central-vs-sarmiento-junin-09-2025.html
+Barracas Central vs Sarmiento Junin	https://ddkanqu.com/zhibo/24261.html
 
 01:00 [y]Netherlands Eredivisie[z]	^-
 Fortuna Sittard vs FC Utrecht	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199176/fortuna-sittard-vs-fc-utrecht-09-2025.html
+Fortuna Sittard vs FC Utrecht	https://ddkanqu.com/zhibo/24263.html
 
 01:00 [g]Saudi Professional League[z]	^-
 Al Nassr FC vs Al-Riyadh	`*https://www.fctv33.net/football/saudi-professional-league-match-4255998/al-nassr-fc-vs-al-riyadh-09-2025.html
+Al Nassr FC vs Al-Riyadh	https://ddkanqu.com/zhibo/24262.html
 
 ^@	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **	^-
