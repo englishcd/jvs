@@ -36,6 +36,7 @@ Marseille vs Paris Saint Germain	https://ddkanqu.com/zhibo/24380.html
 
 02:00 [g]Canadian Premier League[z]	^-
 Atletico Ottawa vs Forge FC	`*https://www.fctv33.net/football/canadian-premier-league-match-4163633/atletico-ottawa-vs-forge-fc.html
+Atletico Ottawa vs Forge FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3401997
 
 02:00 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Getafe	`*https://www.fctv33.net/football/spanish-la-liga-match-4279806/fc-barcelona-vs-getafe.html
@@ -45,9 +46,11 @@ FC Barcelona vs Getafe	https://ddkanqu.com/zhibo/24381.html
 
 05:00 [g]Argentine Division 1[z]	^-
 Argentinos Juniors vs Banfield	`*https://www.fctv33.net/football/argentine-division-1-match-4107861/argentinos-juniors-vs-banfield.html
+Argentinos Juniors vs Banfield	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3221262
 
 05:00 [g]Canadian Premier League[z]	^-
 Vancouver FC vs York United FC	`*https://www.fctv33.net/football/canadian-premier-league-match-4163635/vancouver-fc-vs-york-united-fc.html
+Vancouver FC vs York United FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3402052
 
 07:15 [g]Argentine Division 1[z]	^-
 Boca Juniors vs Central Cordoba SDE	`*https://www.fctv33.net/football/argentine-division-1-match-4107600/boca-juniors-vs-central-cordoba-sde.html
