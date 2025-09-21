@@ -54,12 +54,15 @@ Armed Forces FC vs Seoul Phoenix	`*https://www.fctv33.net/football/malaysia-a1-s
 
 17:15 [y]Netherlands Eredivisie[z]	^-
 PEC Zwolle vs Go Ahead Eagles	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199153/pec-zwolle-vs-go-ahead-eagles.html
+PEC Zwolle vs Go Ahead Eagles	https://ddkanqu.com/zhibo/24307.html
 
 17:30 [y]Italian Serie A[z]	^-
 Lazio vs AS Roma	`*https://www.fctv33.net/football/italian-serie-a-match-4194577/lazio-vs-as-roma.html
+Lazio vs AS Roma	https://ddkanqu.com/zhibo/24308.html
 
 19:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Real Celta de Vigo	`*https://www.fctv33.net/football/spanish-la-liga-match-4209614/rayo-vallecano-vs-rc-celta.html
+Rayo Vallecano vs Real Celta de Vigo	https://ddkanqu.com/zhibo/24321.html
 
 19:00 Indonesian Liga 1	^-
 PSM Makassar vs Persija Jakarta	`*https://www.fctv33.net/football/indonesian-liga-1-match-4229491/psm-makassar-vs-persija-jakarta.html
@@ -73,73 +76,98 @@ Johor Darul Takzim vs Sabah	`*https://www.fctv33.net/football/malaysian-super-le
 
 19:30 [y]Netherlands Eredivisie[z]	^-
 PSV Eindhoven vs AFC Ajax	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199126/psv-eindhoven-vs-afc-ajax.html
+PSV Eindhoven vs AFC Ajax	https://ddkanqu.com/zhibo/24327.html
 SC Heerenveen vs NEC Nijmegen	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199179/sc-heerenveen-vs-nec-nijmegen.html
+SC Heerenveen vs NEC Nijmegen	https://ddkanqu.com/zhibo/24329.html
 
 20:00 [y]English Premier League[z]	^-
 Bournemouth AFC vs Newcastle United	`*https://www.fctv33.net/football/english-premier-league-match-4193848/bournemouth-afc-vs-newcastle-united.html
+Bournemouth AFC vs Newcastle United	https://ddkanqu.com/zhibo/24331.html
 Sunderland AFC vs Aston Villa	`*https://www.fctv33.net/football/english-premier-league-match-4193871/sunderland-vs-aston-villa.html
+Sunderland AFC vs Aston Villa	https://ddkanqu.com/zhibo/24334.html
 
 20:00 [y]Italian Serie A[z]	^-
 Torino vs Atalanta	`*https://www.fctv33.net/football/italian-serie-a-match-4194573/torino-vs-atalanta.html
+Torino vs Atalanta	https://ddkanqu.com/zhibo/24330.html
 Cremonese vs Parma	`*https://www.fctv33.net/football/italian-serie-a-match-4195845/cremonese-vs-parma.html
+Cremonese vs Parma	https://ddkanqu.com/zhibo/24333.html
 
 20:00 [y]French Ligue 1[z]	^-
 Paris FC vs Strasbourg	`*https://www.fctv33.net/football/french-ligue-1-match-4200149/paris-fc-vs-rc-strasbourg-alsace.html
+Paris FC vs Strasbourg	https://ddkanqu.com/zhibo/24332.html
 
 20:30 [y]Bundesliga[z]	^-
 Eintracht Frankfurt vs Union Berlin	`*https://www.fctv33.net/football/bundesliga-match-4199679/eintracht-frankfurt-vs-1-fc-union-berlin.html
+Eintracht Frankfurt vs Union Berlin	https://ddkanqu.com/zhibo/24337.html
 
 21:00 [g]English League Championship[z]	^-
 Bristol City vs Oxford United	`*https://www.fctv33.net/football/english-football-league-championship-match-4203561/bristol-city-vs-oxford-united.html
+Bristol City vs Oxford United	https://ddkanqu.com/zhibo/24341.html
 
 21:15 [y]Spanish La Liga[z]	^-
 Mallorca vs Atletico Madrid	`*https://www.fctv33.net/football/spanish-la-liga-match-4209593/rcd-mallorca-vs-atletico-madrid.html
+Mallorca vs Atletico Madrid	https://ddkanqu.com/zhibo/24345.html
 
 21:30 [g]Portuguese Primera Liga[z]	^-
 CD Tondela vs Estrela da Amadora	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4216010/cd-tondela-vs-cf-estrela-amadora-sad.html
+CD Tondela vs Estrela da Amadora	https://ddkanqu.com/zhibo/24348.html
 
 21:45 [y]Netherlands Eredivisie[z]	^-
 AZ Alkmaar vs Feyenoord	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199139/az-alkmaar-vs-feyenoord.html
+AZ Alkmaar vs Feyenoord	https://ddkanqu.com/zhibo/24349.html
 
 22:15 [y]French Ligue 1[z]	^-
 AJ Auxerre vs Toulouse	`*https://www.fctv33.net/football/french-ligue-1-match-4200123/aj-auxerre-vs-toulouse-fc.html
+AJ Auxerre vs Toulouse	https://ddkanqu.com/zhibo/24355.html
 Monaco vs Metz	`*https://www.fctv33.net/football/french-ligue-1-match-4200134/as-monaco-vs-metz.html
+Monaco vs Metz	https://ddkanqu.com/zhibo/24357.html
 Le Havre vs Lorient	`*https://www.fctv33.net/football/french-ligue-1-match-4200153/havre-athletic-club-vs-lorient.html
+Le Havre vs Lorient	https://ddkanqu.com/zhibo/24356.html
 
 22:30 [y]English Premier League[z]	^-
 Arsenal vs Manchester City	`*https://www.fctv33.net/football/english-premier-league-match-4193897/arsenal-vs-manchester-city.html
+Arsenal vs Manchester City	https://ddkanqu.com/zhibo/24359.html
 
 22:30 [y]Bundesliga[z]	^-
 Bayer Leverkusen vs Br Monchengladbach	`*https://www.fctv33.net/football/bundesliga-match-4199949/bayer-04-leverkusen-vs-borussia-monchengladbach.html
+Bayer Leverkusen vs Br Monchengladbach	https://ddkanqu.com/zhibo/24360.html
 
 23:00 [y]Italian Serie A[z]	^-
 Fiorentina vs Como	`*https://www.fctv33.net/football/italian-serie-a-match-4194574/fiorentina-vs-como.html
+Fiorentina vs Como	https://ddkanqu.com/zhibo/24362.html
 
 23:30 [y]Spanish La Liga[z]	^-
 Elche vs Real Oviedo	`*https://www.fctv33.net/football/spanish-la-liga-match-4209607/elche-vs-real-oviedo.html
+Elche vs Real Oviedo	https://ddkanqu.com/zhibo/24365.html
 
 22-09-2005	^-
 
 00:00 [g]Portuguese Primera Liga[z]	^-
 Gil Vicente vs Estoril	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4216013/gil-vicente-vs-estoril.html
+Gil Vicente vs Estoril	https://ddkanqu.com/zhibo/24371.html
 
 00:30 [g]Argentine Division 1[z]	^-
 Independiente vs San Lorenzo	`*https://www.fctv33.net/football/argentine-division-1-match-4107862/ca-independiente-vs-san-lorenzo.html
+Independiente vs San Lorenzo	https://ddkanqu.com/zhibo/24377.html
 
 00:30 [y]Bundesliga[z]	^-
 Borussia Dortmund vs VfL Wolfsburg	`*https://www.fctv33.net/football/bundesliga-match-4199652/borussia-dortmund-vs-vfl-wolfsburg.html
+Borussia Dortmund vs VfL Wolfsburg	https://ddkanqu.com/zhibo/24376.html
 
 01:45 [y]Italian Serie A[z]	^-
 Inter Milan vs Sassuolo	`*https://www.fctv33.net/football/italian-serie-a-match-4194564/inter-milan-vs-sassuolo.html
+Inter Milan vs Sassuolo	https://ddkanqu.com/zhibo/24379.html
 
 01:45 [y]French Ligue 1[z]	^-
 Marseille vs Paris Saint Germain	`*https://www.fctv33.net/football/french-ligue-1-match-4200133/marseille-vs-paris-saint-germain.html
+Marseille vs Paris Saint Germain	https://ddkanqu.com/zhibo/24380.html
 
 02:00 [g]Canadian Premier League[z]	^-
 Atletico Ottawa vs Forge FC	`*https://www.fctv33.net/football/canadian-premier-league-match-4163633/atletico-ottawa-vs-forge-fc.html
 
 02:00 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Getafe	`*https://www.fctv33.net/football/spanish-la-liga-match-4279806/fc-barcelona-vs-getafe.html
+FC Barcelona vs Getafe	https://ddkanqu.com/zhibo/24381.html
 
 05:00 [g]Argentine Division 1[z]	^-
 Argentinos Juniors vs Banfield	`*https://www.fctv33.net/football/argentine-division-1-match-4107861/argentinos-juniors-vs-banfield.html
