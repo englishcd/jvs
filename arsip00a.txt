@@ -23,21 +23,48 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 22-09-2005	^-
 
+15:30 Liga 1	^-
+Arema FC vs Persib Bandung	`*https://www.fctv33.net/football/indonesian-liga-1-match-4229504/arema-fc-vs-persib-bandung-09-2025.html
+Arema FC vs Persib Bandung	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3598873
+
+15:30 Liga 2	^-
+Persikad Depok vs Sriwijaya FC	`*https://www.fctv33.net/football/indonesian-liga-2-match-4283042/persikad-depok-vs-sriwijaya-fc-09-2025.html
+Adhyaksa FC Banten vs FC Bekasi City	`*https://www.fctv33.net/football/indonesian-liga-2-match-4283043/adhyaksa-fc-banten-vs-fc-bekasi-city-09-2025.html
+Adhyaksa FC Banten vs FC Bekasi City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3694980
+
+19:00 Liga 1	^-
+Borneo FC vs Persis Solo FC	`*https://www.fctv33.net/football/indonesian-liga-1-match-4229479/borneo-fc-vs-persis-solo-fc-09-2025.html
+Borneo FC vs Persis Solo FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3638266
+
+19:00 Liga 2	^-
+Sumsel United vs Persiraja Aceh	`*https://www.fctv33.net/football/indonesian-liga-2-match-4283041/sumsel-united-vs-persiraja-aceh-09-2025.html
+
+19:15 Malaysian Super League	^-
+DPMM FC vs Kuala Lumpur	`*https://www.fctv33.net/football/malaysian-super-league-match-4221015/dpmm-fc-vs-kuala-lumpur-city-fc-09-2025.html
+DPMM FC vs Kuala Lumpur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3695009
+
+23-09-2005	^-
+
+01:00 [y]French Ligue 1[z]	^-
+Marseille vs Paris Saint Germain	`*https://www.fctv33.net/football/french-ligue-1-match-4200133/marseille-vs-paris-saint-germain-09-2025.html
+
+01:00 [g]Saudi Arabia Kings Cup[z]	^-
+Abha vs Al Shabab Riyadh	`*https://www.fctv33.net/football/saudi-arabia-kings-cup-match-4239108/abha-vs-al-shabab-fc-09-2025.html
+
+01:30 [g]Saudi Arabia Kings Cup[z]	^-
+Al-adalh vs Al Hilal SFC	`*https://www.fctv33.net/football/saudi-arabia-kings-cup-match-4196011/al-adalah-vs-al-hilal-09-2025.html
+
+01:45 [y]Italian Serie A[z]	^-
+Napoli vs Pisa	`*https://www.fctv33.net/football/italian-serie-a-match-4194589/napoli-vs-pisa-09-2025.html
+
+02:15 [g]Portuguese Primera Liga[z]	^-
+Sporting CP vs Moreirense	`*https://www.fctv33.net/football/portuguese-primera-liga-match-4216024/sporting-cp-vs-moreirense-09-2025.html
+
 05:00 [g]Argentine Division 1[z]	^-
-Argentinos Juniors vs Banfield	`*https://www.fctv33.net/football/argentine-division-1-match-4107861/argentinos-juniors-vs-banfield.html
-Argentinos Juniors vs Banfield	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3221262
+Estudiantes Plata vs Defensa Justicia	`*https://www.fctv33.net/football/argentine-division-1-match-4107626/estudiantes-la-plata-vs-defensa-y-justicia-09-2025.html
 
-05:00 [g]Canadian Premier League[z]	^-
-Vancouver FC vs York United FC	`*https://www.fctv33.net/football/canadian-premier-league-match-4163635/vancouver-fc-vs-york-united-fc.html
-Vancouver FC vs York United FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3402052
-
-07:15 [g]Argentine Division 1[z]	^-
-Boca Juniors vs Central Cordoba SDE	`*https://www.fctv33.net/football/argentine-division-1-match-4107600/boca-juniors-vs-central-cordoba-sde.html
-Boca Juniors vs Central Cordoba SDE	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzc2MTg3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-
-08:00 [g]US Major League Soccer[z]	^-
-Los Angeles FC vs Real Salt Lake	`*https://www.fctv33.net/football/united-states-major-league-soccer-match-4105279/los-angeles-fc-vs-real-salt-lake.html
-Los Angeles FC vs Real Salt Lake	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzQxNzA5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+07:00 [g]Argentine Division 1[z]	^-
+Belgrano vs Newells Old Boys	`*https://www.fctv33.net/football/argentine-division-1-match-4107592/belgrano-vs-club-atltico-newells-old-boys-09-2025.html
 
 ^@	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **	^-
