@@ -29,7 +29,7 @@ Ballon d'Or Award/Gala Balón de Oro	`*https://www.fctv33.net/football/ballon-do
 07:00 [g]Argentine Division 1[z]	^-
 Belgrano vs Newells Old Boys	`*https://www.fctv33.net/football/argentine-division-1-match-4107592/belgrano-vs-club-atltico-newells-old-boys-09-2025.html
 Belgrano vs Newells Old Boys	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzc2MTg2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Belgrano vs Newells Old Boys	`3https://embedsports.top/embed/alpha/belgrano-cordoba-vs-newell-s-old-boys/1
+Belgrano vs Newells Old Boys	`0https://embedsports.top/embed/alpha/belgrano-cordoba-vs-newell-s-old-boys/1
 Belgrano vs Newells Old Boys	https://ddkanqu.com/zhibo/24419.html
 
 22:00 [y]Coppa Italia[z]	^-
@@ -69,6 +69,9 @@ Wrexham vs Reading	https://ddkanqu.com/zhibo/24445.html
 Wigan Athletic vs Wycombe Wanderers	`*https://www.fctv33.net/football/english-football-league-cup-match-4280118/wigan-athletic-vs-wycombe-wanderers-09-2025.html
 Wigan Athletic vs Wycombe Wanderers	https://ddkanqu.com/zhibo/24443.html
 Lincoln City vs Chelsea	`*https://www.fctv33.net/football/english-football-league-cup-match-4280119/lincoln-city-vs-chelsea-09-2025.html
+^=Lincoln City vs Chelsea	`0https://footylive.net/football/match/4541096/lincoln-chelsea
+^=Lincoln City vs Chelsea	`1https://footylive.net/football/match/4541096/lincoln-chelsea
+^=Lincoln City vs Chelsea	`3https://footylive.net/football/match/4541096/lincoln-chelsea
 Lincoln City vs Chelsea	https://ddkanqu.com/zhibo/24448.html
 Fulham vs Cambridge United	`*https://www.fctv33.net/football/english-football-league-cup-match-4280127/fulham-vs-cambridge-united-09-2025.html
 Fulham vs Cambridge United	https://ddkanqu.com/zhibo/24446.html
