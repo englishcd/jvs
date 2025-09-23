@@ -11,6 +11,7 @@
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=fctvlive	`0https://www.fctv33.net/football.html
 ^=Live Sports	`0https://www.marza12.shop/football.html
+^=footylive	`0https://footylive.net/
 ^=Watching	`0https://ddkanqu.com/
 ^=Blank	
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
