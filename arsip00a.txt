@@ -24,23 +24,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 24-09-2005	^-
 
-05:00 [g]CONMEBOL Copa Libertadores[z]	^-
-Racing Club vs Velez Sarsfield	`*https://www.fctv33.net/football/conmebol-copa-libertadores-match-4261998/racing-club-de-avellaneda-vs-velez-sarsfield-09-2025.html
-Racing Club vs Velez Sarsfield	https://ddkanqu.com/zhibo/24454.html
-
-07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
-Fluminense RJ vs Lanus	`*https://www.fctv33.net/football/conmebol-copa-sudamericana-match-4262594/fluminense-rj-vs-club-atltico-lans-09-2025.html
-Fluminense RJ vs Lanus	https://ddkanqu.com/zhibo/24456.html
-
-08:00 [g]Mexico Liga MX[z]	^-
-Puebla vs Pachuca	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194258/puebla-vs-pachuca-09-2025.html
-Puebla vs Pachuca	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0Mjg2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Puebla vs Pachuca	https://ddkanqu.com/zhibo/24458.html
-Chivas Guadalajara vs Necaxa	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194264/chivas-guadalajara-vs-necaxa-09-2025.html
-Chivas Guadalajara vs Necaxa	`0https://footylive.net/football/match/4476727/guadalajara-u21-necaxa-u21
-Chivas Guadalajara vs Necaxa	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0Mjg1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Chivas Guadalajara vs Necaxa	https://ddkanqu.com/zhibo/24457.html
-
 10:00 [g]Mexico Liga MX[z]	^-
 FC Juarez vs Pumas UNAM	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194266/fc-juarez-vs-pumas-unam-09-2025.html
 FC Juarez vs Pumas UNAM	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0Mjg4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -48,6 +31,79 @@ FC Juarez vs Pumas UNAM	https://ddkanqu.com/zhibo/24460.html
 Club Leon vs Mazatlan FC	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194268/club-leon-vs-mazatlan-fc-09-2025.html
 Club Leon vs Mazatlan FC	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0Mjg3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Club Leon vs Mazatlan FC	https://ddkanqu.com/zhibo/24462.html
+
+19:00 [g]Asean Club Champ[z]	^-
+BG Pathum United vs Buriram United	`*https://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261097/bg-pathum-united-vs-buriram-united-09-2025.html
+
+19:30 [g]Asean Club Champ[z]	^-
+Cong An Nhan Dan vs Dynamic Herb Cebu	`*https://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4260377/cong-an-ha-noi-fc-vs-dynamic-herb-cebu-09-2025.html
+
+20:00 [g]Asean Club Champ[z]	^-
+Selangor vs Tampines Rovers FC	`*https://www.fctv33.net/football/asean-club-championship-shopee-cup-match-4261096/selangor-fc-vs-tampines-rovers-fc-09-2025.html
+
+22:00 [y]Coppa Italia[z]	^-
+Parma vs Spezia	`*https://www.fctv33.net/football/coppa-italia-match-4280101/parma-vs-spezia-09-2025.html
+
+23:30 [y]Coppa Italia[z]	^-
+Verona vs Venezia	`*https://www.fctv33.net/football/coppa-italia-match-4280102/hellas-verona-vs-venezia-09-2025.html
+
+23:45 [y]UEFA Europa League[z]	^-
+Midtjylland vs Sturm Graz	`*https://www.fctv33.net/football/uefa-europa-league-match-4282955/midtjylland-vs-sturm-graz-09-2025.html
+
+25-09-2005	^-
+
+00:00 [y]Spanish La Liga[z]	^-
+Getafe vs Deportivo Alavés	`*https://www.fctv33.net/football/spanish-la-liga-match-4209608/getafe-vs-deportivo-alavs-09-2025.html
+
+01:00 [y]Netherlands Eredivisie[z]	^-
+AZ Alkmaar vs PEC Zwolle	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199115/az-alkmaar-vs-pec-zwolle-09-2025.html
+
+01:45 [y]English League Cup[z]	^-
+Newcastle United vs Bradford City	`*https://www.fctv33.net/football/english-football-league-cup-match-4279794/newcastle-united-vs-bradford-city-09-2025.html
+Huddersfield Town vs Manchester City	`*https://www.fctv33.net/football/english-football-league-cup-match-4279795/huddersfield-town-vs-manchester-city-09-2025.html
+Tottenham Hotspur vs Doncaster Rovers	`*https://www.fctv33.net/football/english-football-league-cup-match-4280122/tottenham-hotspur-vs-doncaster-rovers-09-2025.html
+
+02:00 [y]UEFA Europa League[z]	^-
+Crvena Zvezda vs Celtic FC	`*https://www.fctv33.net/football/uefa-europa-league-match-4269836/crvena-zvezda-vs-celtic-fc-09-2025.html
+Malmo FF vs Ludogorets Razgrad	`*https://www.fctv33.net/football/uefa-europa-league-match-4270178/malmo-ff-vs-ludogorets-razgrad-09-2025.html
+SC Freiburg vs Basel	`*https://www.fctv33.net/football/uefa-europa-league-match-4279497/sc-freiburg-vs-fc-basel-1893-09-2025.html
+Real Betis vs Nottingham Forest	`*https://www.fctv33.net/football/uefa-europa-league-match-4279804/real-betis-vs-nottingham-forest-09-2025.html
+
+02:00 [y]English League Cup[z]	^-
+Port Vale vs Arsenal	`*https://www.fctv33.net/football/english-football-league-cup-match-4280117/port-vale-vs-arsenal-09-2025.html
+
+02:00 [y]UEFA Europa League[z]	^-
+Dinamo Zagreb vs Fenerbahce	`*https://www.fctv33.net/football/uefa-europa-league-match-4280146/dinamo-zagreb-vs-fenerbahce-09-2025.html
+Nice vs AS Roma	`*https://www.fctv33.net/football/uefa-europa-league-match-4280973/ogc-nice-vs-as-roma-09-2025.html
+
+02:00 [y]Coppa Italia[z]	^-
+Como vs Sassuolo	`*https://www.fctv33.net/football/coppa-italia-match-4281150/como-vs-sassuolo-09-2025.html
+
+02:00 [y]UEFA Europa League[z]	^-
+Sporting Braga vs Feyenoord	`*https://www.fctv33.net/football/uefa-europa-league-match-4281996/sporting-braga-vs-feyenoord-09-2025.html
+
+02:30 [y]Spanish La Liga[z]	^-
+Real Sociedad vs Mallorca	`*https://www.fctv33.net/football/spanish-la-liga-match-4209604/real-sociedad-vs-rcd-mallorca-09-2025.html
+Atletico Madrid vs Rayo Vallecano	`*https://www.fctv33.net/football/spanish-la-liga-match-4209616/atletico-madrid-vs-rayo-vallecano-09-2025.html
+
+05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
+Atletico Mineiro vs Bolivar	`*https://www.fctv33.net/football/conmebol-copa-sudamericana-match-4262004/atletico-mineiro-vs-bolivar-09-2025.html
+
+05:30 [g]Brazilian Serie A[z]	^-
+Vasco da Gama vs Bahia	`*https://www.fctv33.net/football/brazilian-serie-a-match-4141776/clube-de-regatas-vasco-da-gama-vs-bahia-09-2025.html
+Gremio (RS) vs Botafogo RJ	`*https://www.fctv33.net/football/brazilian-serie-a-match-4141782/gremio-rs-vs-botafogo-rj-09-2025.html
+
+06:30 [g]US Major League Soccer[z]	^-
+New York City FC vs Inter Miami CF	`*https://www.fctv33.net/football/united-states-major-league-soccer-match-4105299/new-york-city-fc-vs-inter-miami-cf-09-2025.html
+
+07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
+Depor Once Caldas vs Indep Jose Teran	`*https://www.fctv33.net/football/conmebol-copa-sudamericana-match-4262005/deportiva-once-caldas-vs-independiente-del-valle-09-2025.html
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+Palmeiras vs River Plate	`*https://www.fctv33.net/football/conmebol-copa-libertadores-match-4262155/palmeiras-vs-river-plate-09-2025.html
+
+08:00 [g]Mexico Liga MX[z]	^-
+Tigres UANL vs Atlas	`*https://www.fctv33.net/football/mexico-liga-mx-match-4194263/tigres-uanl-vs-atlas-09-2025.html
 
 ^@	^-
 ^@** Two Pop-Ups: Ads and The Live Streaming. **	^-
