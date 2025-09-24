@@ -13,9 +13,6 @@ Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Sports	`0https://www.marza12.shop/football.html
 ^=footylive	`0https://footylive.net/
 ^=Watching	`0https://ddkanqu.com/
-^=sportyhunter	`0https://sportyhunter.com/sport/football
-^=Betis3	`3https://sportyhunter.com/match/slg-Real-Betis-vs-Nottingham-Forest-jDvHMjP3wJUL3PKnMoKnaD
-^=Betis1	`1https://sportyhunter.com/match/slg-Real-Betis-vs-Nottingham-Forest-jDvHMjP3wJUL3PKnMoKnaD
 ^=Blank	
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
 Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
@@ -26,13 +23,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 ^@	^-
 
 25-09-2005	^-
-
-01:00 [y]Netherlands Eredivisie[z]	^-
-AZ Alkmaar vs PEC Zwolle	`*https://www.fctv33.net/football/netherlands-eredivisie-match-4199115/az-alkmaar-vs-pec-zwolle-09-2025.html
-AZ Alkmaar vs PEC Zwolle	`0https://footylive.net/football/match/4453617/az-alkmaar-pec-zwolle
-AZ Alkmaar vs PEC Zwolle	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkwNzI1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-AZ Alkmaar vs PEC Zwolle	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3613494
-AZ Alkmaar vs PEC Zwolle	https://ddkanqu.com/zhibo/24472.html
 
 01:45 [y]English League Cup[z]	^-
 Huddersfield Town vs Manchester City	`*https://www.fctv33.net/football/english-football-league-cup-match-4279795/huddersfield-town-vs-manchester-city-09-2025.html
