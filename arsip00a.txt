@@ -22,21 +22,6 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 ^@**[w]👉⚠️ 🔒|Site settings | Pop-ups and redirects: Allow.👈[z]**[]**[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]**	^-
 ^@	^-
 
-24-09-2005	^-
-
-23:30 [y]Coppa Italia[z]	^-
-Verona vs Venezia	`*https://www.fctv33.net/football/coppa-italia-match-4280102/hellas-verona-vs-venezia-09-2025.html
-Verona vs Venezia	`0https://footylive.net/football/match/4529356/hellas-verona-venezia
-Verona vs Venezia	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODUyNjM5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Verona vs Venezia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3684210
-Verona vs Venezia	https://ddkanqu.com/zhibo/24467.html
-
-23:45 [y]UEFA Europa League[z]	^-
-Midtjylland vs Sturm Graz	`*https://www.fctv33.net/football/uefa-europa-league-match-4282955/midtjylland-vs-sturm-graz-09-2025.html
-Midtjylland vs Sturm Graz	`0https://footylive.net/football/match/4538907/fc-midtjylland-sturm-graz
-Midtjylland vs Sturm Graz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652499
-Midtjylland vs Sturm Graz	https://ddkanqu.com/zhibo/24468.html
-
 25-09-2005	^-
 
 00:00 [y]Spanish La Liga[z]	^-
@@ -122,15 +107,18 @@ Como vs Sassuolo	https://ddkanqu.com/zhibo/24484.html
 Atletico Madrid vs Rayo Vallecano	`*https://www.fctv33.net/football/spanish-la-liga-match-4209616/atletico-madrid-vs-rayo-vallecano-09-2025.html
 Atletico Madrid vs Rayo Vallecano	`0https://footylive.net/football/match/4467532/atletico-madrid-rayo-vallecano
 Atletico Madrid vs Rayo Vallecano	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0MzQ1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Atletico Madrid vs Rayo Vallecano	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3488703
 Atletico Madrid vs Rayo Vallecano	https://ddkanqu.com/zhibo/24486.html
 Real Sociedad vs Mallorca	`*https://www.fctv33.net/football/spanish-la-liga-match-4209604/real-sociedad-vs-rcd-mallorca-09-2025.html
 Real Sociedad vs Mallorca	`0https://footylive.net/football/match/4467534/real-sociedad-mallorca
 Real Sociedad vs Mallorca	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0MzUxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Real Sociedad vs Mallorca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3488712
 Real Sociedad vs Mallorca	https://ddkanqu.com/zhibo/24487.html
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Atletico Mineiro vs Bolivar	`*https://www.fctv33.net/football/conmebol-copa-sudamericana-match-4262004/atletico-mineiro-vs-bolivar-09-2025.html
 Atletico Mineiro vs Bolivar	`*https://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODU1NjcyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Atletico Mineiro vs Bolivar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652990
 Atletico Mineiro vs Bolivar	https://ddkanqu.com/zhibo/24488.html
 
 05:30 [g]Brazilian Serie A[z]	^-
