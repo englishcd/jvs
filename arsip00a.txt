@@ -13,6 +13,7 @@ Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Sports	`0https://www.marza12.shop/football.html
 ^=footylive	`0https://footylive.net/
 ^=Watching	`0https://ddkanqu.com/
+^=Celtic	`0https://sportyhunter.com/match/slg-FK-Crvena-zvezda-vs-Celtic-o1yZRkpseGW6QT89XzVQ1X
 ^=Blank	
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
 Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
