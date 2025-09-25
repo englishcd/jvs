@@ -4,11 +4,11 @@
 
 	^-
 ^@Install 2 Chrome Browser Extensions: [].a/.b Two Pop-Ups: Ads and The Live Streaming. .a/.b	^-
-^@1. Moesif Origin/CORS Changer.[].a/.b[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z].a/.b	^-
-^@2. Ignore X=Frame headers.[].a👉Use Firefox with Extension: Ignore X-Frame-Options!👈[z].a	^-
-^@[].b👉Use Chrome! Not Firefox nor the "Default" Browser!👈[z].b	^-
-^@[].c👉Use your Default-Factory Internet-Browser!👈[z].c	^-
-^@	^-
+^@[].a/.b[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z].a/.b	^-
+^#1. Moesif Origin/CORS Changer.[].a👉Use Firefox with Extension: Ignore X-Frame-Options!👈[z].a	^-
+^#2. Ignore X=Frame headers.[].b👉Use Chrome! Not Firefox nor the "Default" Browser!👈[z].b	^-
+^#[].c👉Use your Default-Factory Internet-Browser!👈[z].c	^-
+^#	^-
 
 25-09-2005	^-
 
@@ -113,13 +113,12 @@ Estudiantes La Plata vs Flamengo	https://ddkanqu.com/zhibo/24521.html
 
 	^-
 ^@Install 2 Chrome Browser Extensions: [].a/.b Two Pop-Ups: Ads and The Live Streaming. .a/.b	^-
-^@1. Moesif Origin/CORS Changer.[].a/.b[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z].a/.b	^-
-^@2. Ignore X=Frame headers.[].a👉Use Firefox with Extension: Ignore X-Frame-Options!👈[z].a	^-
-^@[].b👉Use Chrome! Not Firefox nor the "Default" Browser!👈[z].b	^-
-^@[].c👉Use your Default-Factory Internet-Browser!👈[z].c	^-
-^@	^-
+^@[].a/.b[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z].a/.b	^-
+^#1. Moesif Origin/CORS Changer.[].a👉Use Firefox with Extension: Ignore X-Frame-Options!👈[z].a	^-
+^#2. Ignore X=Frame headers.[].b👉Use Chrome! Not Firefox nor the "Default" Browser!👈[z].b	^-
+^#[].c👉Use your Default-Factory Internet-Browser!👈[z].c	^-
+^#	^-
 
-	^-
 🌐 [y]Join Our Facebook Group:[z] [l]blogtv.pages.dev[z]	^+https://www.facebook.com/groups/2244887909267695/
 🌐 [y]Join Our Telegram Channel:[z] [g]ontvr.blogspot.com[z]	^+https://t.me/s/ontvr_blogspot_com
 
