@@ -1,3 +1,4 @@
+^=	^-
 [g]{s} Ⓗa0 Live Sports Events[z]	^-
 
 [y]Live Football Events[z]	^-
@@ -123,6 +124,7 @@ HBO Plus	https://a.00/5/out/u/dash/HBO-PLUS-HD/default.mpd!!861ab989089891d84ad0
 HBO Pop	https://a.00/5/out/u/dash/HBO-POP-HD/default.mpd!!bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
 HBO Xtreme	https://a.00/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+^=Blank	
 
 [l]Embedded Channels[z]	^-
 Liga 1 Max	`0https://www.telegratishd.com/liga-1-max-en-vivo.html
