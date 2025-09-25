@@ -13,6 +13,7 @@ Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 ^=Live Sports	`0https://www.marza12.shop/football.html
 ^=footylive	`0https://footylive.net/
 ^=Watching	`0https://ddkanqu.com/
+^=Barcelona	`0https://footylive.net/football/match/4469125/real-oviedo-fc-barcelona
 ^=Blank	
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
 Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
