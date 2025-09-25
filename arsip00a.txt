@@ -38,6 +38,7 @@ Semen Padang vs Bali United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spo
 
 19:00 Liga 1	^-
 Dewa United FC vs Persebaya Surabaya	`Ahttps://www.fctv33.net/football/indonesian-liga-1-match-4229502/dewa-united-fc-vs-persebaya-surabaya-09-2025.html
+Dewa United FC vs Persebaya Surabaya	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3657488
 
 19:15 Malaysian Super League	^-
 DPMM FC vs Kelantan United	`Ahttps://www.fctv33.net/football/malaysian-super-league-match-4221142/dpmm-fc-vs-kelantan-the-real-warriors-09-2025.html
@@ -276,6 +277,36 @@ Sport 4 🇱🇹	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561202/i
 Tipik	https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd!!adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 TUDN 🇲🇽	https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 TUDN 🇺🇸	https://a.00/1/out/u/dash/TUDN-HD/default.mpd!!2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+
+Sport TV 1 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv1.php
+Sport TV 2 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv2.php
+Sport TV 3 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv3.php
+Sport TV 4 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv4.php
+Sport TV 5 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv5.php
+Eleven Sports 1 🇵🇹	`0https://sportsonline.si/channels/pt/eleven1.php
+Eleven Sports 2 🇵🇹	`0https://sportsonline.si/channels/pt/eleven2.php
+Eleven Sports 3 🇵🇹	`0https://sportsonline.si/channels/pt/eleven3.php
+
+Sports 1 🇬🇧	`0https://sportzonline.si/channels/hd/hd1.php
+Sports 2 🇬🇧	`0https://sportzonline.si/channels/hd/hd2.php
+Sports 3 🇩🇪	`0https://sportzonline.si/channels/hd/hd3.php
+Sports 4 🇬🇧	`0https://sportzonline.si/channels/hd/hd4.php
+Sports 5 🇬🇧	`0https://sportzonline.si/channels/hd/hd5.php
+Sports 6 🇪🇸	`0https://sportzonline.si/channels/hd/hd6.php
+Sports 7 🇮🇹	`0https://sportzonline.si/channels/hd/hd7.php
+Sports 8 🇬🇧	`0https://sportzonline.si/channels/hd/hd8.php
+Sports 9 🇬🇧	`0https://sportzonline.si/channels/hd/hd9.php
+Sports 10 🇫🇷	`0https://sportzonline.si/channels/hd/hd10.php
+Sports 11 🇬🇧	`0https://sportzonline.si/channels/hd/hd11.php
+
+Sports 1 🇧🇷	`0https://sportzonline.si/channels/bra/br1.php
+Sports 2 🇧🇷	`0https://sportzonline.si/channels/bra/br2.php
+Sports 3 🇧🇷	`0https://sportzonline.si/channels/bra/br3.php
+Sports 4 🇧🇷	`0https://sportzonline.si/channels/bra/br4.php
+Sports 5 🇧🇷	`0https://sportzonline.si/channels/bra/br5.php
+Sports 6 🇧🇷	`0https://sportzonline.si/channels/bra/br6.php
+Sports 7 🇧🇷	`0https://sportzonline.si/channels/bra/br7.php
+Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
 
 	^-
 🌐 [y]Join Our Facebook Group:[z] [l]blogtv.pages.dev[z]	^+https://www.facebook.com/groups/2244887909267695/
@@ -629,36 +660,6 @@ FIFA+ 🇫🇷	https://jmp2.uk/sam-FRBA3300037Y7.m3u8?7
 FIFA+ 🇬🇧	https://jmp2.uk/sam-GBBD1100008YW.m3u8?7
 FIFA+ 🇮🇹	https://jmp2.uk/sam-ITBD1000002HF.m3u8?7
 FIFA+ 🇺🇸	https://jmp2.uk/sam-USBD12000255B.m3u8?7
-
-Sport TV 1 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv1.php
-Sport TV 2 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv2.php
-Sport TV 3 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv3.php
-Sport TV 4 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv4.php
-Sport TV 5 🇵🇹	`0https://sportsonline.si/channels/pt/sporttv5.php
-Eleven Sports 1 🇵🇹	`0https://sportsonline.si/channels/pt/eleven1.php
-Eleven Sports 2 🇵🇹	`0https://sportsonline.si/channels/pt/eleven2.php
-Eleven Sports 3 🇵🇹	`0https://sportsonline.si/channels/pt/eleven3.php
-
-Sports 1 🇬🇧	`0https://sportzonline.si/channels/hd/hd1.php
-Sports 2 🇬🇧	`0https://sportzonline.si/channels/hd/hd2.php
-Sports 3 🇩🇪	`0https://sportzonline.si/channels/hd/hd3.php
-Sports 4 🇬🇧	`0https://sportzonline.si/channels/hd/hd4.php
-Sports 5 🇬🇧	`0https://sportzonline.si/channels/hd/hd5.php
-Sports 6 🇪🇸	`0https://sportzonline.si/channels/hd/hd6.php
-Sports 7 🇮🇹	`0https://sportzonline.si/channels/hd/hd7.php
-Sports 8 🇬🇧	`0https://sportzonline.si/channels/hd/hd8.php
-Sports 9 🇬🇧	`0https://sportzonline.si/channels/hd/hd9.php
-Sports 10 🇫🇷	`0https://sportzonline.si/channels/hd/hd10.php
-Sports 11 🇬🇧	`0https://sportzonline.si/channels/hd/hd11.php
-
-Sports 1 🇧🇷	`0https://sportzonline.si/channels/bra/br1.php
-Sports 2 🇧🇷	`0https://sportzonline.si/channels/bra/br2.php
-Sports 3 🇧🇷	`0https://sportzonline.si/channels/bra/br3.php
-Sports 4 🇧🇷	`0https://sportzonline.si/channels/bra/br4.php
-Sports 5 🇧🇷	`0https://sportzonline.si/channels/bra/br5.php
-Sports 6 🇧🇷	`0https://sportzonline.si/channels/bra/br6.php
-Sports 7 🇧🇷	`0https://sportzonline.si/channels/bra/br7.php
-Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
 
 	^-
 [l]Sports & TV Channels[z] [w]for Desktop[z]	^-
