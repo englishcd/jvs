@@ -1,12 +1,28 @@
+	^-
+^=	^-
+^=fctvlive	`0https://www.fctv33.net/football.html
+^=Live Sports	`0https://www.marza12.shop/football.html
+^=footylive	`0https://footylive.net/
+^=Watching	`0https://ddkanqu.com/
 ^=Blank	
 ^=	^-
+	^-
+🌐 [y]Join Our Facebook Group:[z] [l]blogtv.pages.dev[z]	^+https://www.facebook.com/groups/2244887909267695/
+🌐 [y]Join Our Telegram Channel:[z] [g]ontvr.blogspot.com[z]	^+https://t.me/s/ontvr_blogspot_com
+
+	^-
+Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
+Live Soccer TV Guide	`0https://www.livesoccertv.com/
+Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
+
+	^-
 [g]{s} Ⓗa0 Live Sports Events[z]	^-
 
 [y]Live Football Events[z]	^-
 
 	^-
-^@[].a/.b Two Pop-Ups: Ads and The Live Streaming. .a/.b	^-
-^@[].a/.b[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z].a/.b	^-
+^@[].a Two Pop-Ups: Ads and The Live Streaming. .a	^-
+^@[].a[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z].a	^-
 ^#Install 2 Chrome Browser Extensions: [].a👉Use Firefox with Extension: Ignore X-Frame-Options!👈[z].a	^-
 ^#1. Moesif Origin/CORS Changer.[].b👉Use Chrome! Not Firefox nor the "Default" Browser!👈[z].b	^-
 ^#2. Ignore X=Frame headers.[].c👉Use your Default-Factory Internet-Browser!👈[z].c	^-
@@ -81,8 +97,8 @@ Benfica vs Gil Vicente	`Ahttps://ppdd02.playerktidfintkd.shop/live.html?_pa=bWF0
 Benfica vs Gil Vicente	https://ddkanqu.com/zhibo/24554.html
 
 	^-
-^@[].a/.b Two Pop-Ups: Ads and The Live Streaming. .a/.b	^-
-^@[].a/.b[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z].a/.b	^-
+^@[].a Two Pop-Ups: Ads and The Live Streaming. .a	^-
+^@[].a[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z].a	^-
 ^#Install 2 Chrome Browser Extensions: [].a👉Use Firefox with Extension: Ignore X-Frame-Options!👈[z].a	^-
 ^#1. Moesif Origin/CORS Changer.[].b👉Use Chrome! Not Firefox nor the "Default" Browser!👈[z].b	^-
 ^#2. Ignore X=Frame headers.[].c👉Use your Default-Factory Internet-Browser!👈[z].c	^-
@@ -314,20 +330,6 @@ Sports 5 🇧🇷	`0https://sportzonline.si/channels/bra/br5.php
 Sports 6 🇧🇷	`0https://sportzonline.si/channels/bra/br6.php
 Sports 7 🇧🇷	`0https://sportzonline.si/channels/bra/br7.php
 Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
-
-	^-
-🌐 [y]Join Our Facebook Group:[z] [l]blogtv.pages.dev[z]	^+https://www.facebook.com/groups/2244887909267695/
-🌐 [y]Join Our Telegram Channel:[z] [g]ontvr.blogspot.com[z]	^+https://t.me/s/ontvr_blogspot_com
-
-	^-
-Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
-^=fctvlive	`0https://www.fctv33.net/football.html
-^=Live Sports	`0https://www.marza12.shop/football.html
-^=footylive	`0https://footylive.net/
-^=Watching	`0https://ddkanqu.com/
-^=Blank	
-Live Soccer TV Guide	`0https://www.livesoccertv.com/
-Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 	^-
 👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
