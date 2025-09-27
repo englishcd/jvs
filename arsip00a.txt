@@ -30,6 +30,12 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 27-09-2005	^-
 
+08:00 [g]Mexico Liga MX[z]	^-
+FC Juarez vs Club Leon	`Ahttps://www.fctv33.net/football/mexico-liga-mx-match-4194278/fc-juarez-vs-club-leon-09-2025.html
+
+10:00 [g]Mexico Liga MX[z]	^-
+Puebla vs Chivas Guadalajara	`Ahttps://www.fctv33.net/football/mexico-liga-mx-match-4194276/puebla-vs-chivas-guadalajara-09-2025.html
+
 14:30 [g]Korean K League 1[z]	^-
 Daegu FC vs Ulsan Hyundai FC	`Ahttps://www.fctv33.net/football/korean-k-league-1-match-4109457/daegu-football-club-vs-ulsan-hd-fc-09-2025.html
 
@@ -67,6 +73,78 @@ Negeri Sembilan vs Sabah	`Ahttps://www.fctv33.net/football/malaysian-super-leagu
 FSV Mainz 05 vs Borussia Dortmund	`Ahttps://www.fctv33.net/football/bundesliga-match-4199651/1-fsv-mainz-05-vs-borussia-dortmund-09-2025.html
 FC St. Pauli vs Bayer Leverkusen	`Ahttps://www.fctv33.net/football/bundesliga-match-4199664/fc-st-pauli-vs-bayer-04-leverkusen-09-2025.html
 VfL Wolfsburg vs RB Leipzig	`Ahttps://www.fctv33.net/football/bundesliga-match-4199680/vfl-wolfsburg-vs-rb-leipzig-09-2025.html
+
+21:00 [y]English Premier League[z]	^-
+Manchester City vs Burnley	`Ahttps://www.fctv33.net/football/english-premier-league-match-4193858/manchester-city-vs-burnley-09-2025.html
+Crystal Palace vs Liverpool	`Ahttps://www.fctv33.net/football/english-premier-league-match-4193859/crystal-palace-vs-liverpool-09-2025.html
+Chelsea vs Brighton Hove Albion	`Ahttps://www.fctv33.net/football/english-premier-league-match-4193865/chelsea-vs-brighton-hove-albion-09-2025.html
+Leeds United vs Bournemouth AFC	`Ahttps://www.fctv33.net/football/english-premier-league-match-4193880/leeds-united-vs-bournemouth-afc-09-2025.html
+
+21:00 [g]English Football League[z]	^-
+Oxford United vs Sheffield United	`Ahttps://www.fctv33.net/football/english-football-league-championship-match-4203288/oxford-united-vs-sheffield-united-09-2025.html
+
+21:15 [y]Spanish La Liga[z]	^-
+Atletico Madrid vs Real Madrid	`Ahttps://www.fctv33.net/football/spanish-la-liga-match-4209635/atletico-madrid-vs-real-madrid-09-2025.html
+
+21:30 [y]Netherlands Eredivisie[z]	^-
+AFC Ajax vs NAC Breda	`Ahttps://www.fctv33.net/football/netherlands-eredivisie-match-4199154/afc-ajax-vs-nac-breda-09-2025.html
+
+22:00 [y]French Ligue 1[z]	^-
+Lorient vs Monaco	`Ahttps://www.fctv33.net/football/french-ligue-1-match-4200148/lorient-vs-as-monaco-09-2025.html
+
+22:30 [g]Portuguese Primera Liga[z]	^-
+Santa Clara vs CD Tondela	`Ahttps://www.fctv33.net/football/portuguese-primera-liga-match-4216008/santa-clara-vs-cd-tondela-09-2025.html
+
+23:00 [y]Italian Serie A[z]	^-
+Juventus vs Atalanta	`Ahttps://www.fctv33.net/football/italian-serie-a-match-4194584/juventus-vs-atalanta-09-2025.html
+
+23:30 [y]English Premier League[z]	^-
+Nottingham Forest vs Sunderland AFC	`Ahttps://www.fctv33.net/football/english-premier-league-match-4193878/nottingham-forest-vs-sunderland-09-2025.html
+
+23:30 [y]Bundesliga[z]	^-
+Br Monchengladbach vs E Frankfurt	`Ahttps://www.fctv33.net/football/bundesliga-match-4199722/borussia-monchengladbach-vs-eintracht-frankfurt-09-2025.html
+
+23:30 [y]Spanish La Liga[z]	^-
+Mallorca vs Deportivo Alavés	`Ahttps://www.fctv33.net/football/spanish-la-liga-match-4209637/rcd-mallorca-vs-deportivo-alavs-09-2025.html
+
+23:45 [y]Netherlands Eredivisie[z]	^-
+Volendam vs PEC Zwolle	`Ahttps://www.fctv33.net/football/netherlands-eredivisie-match-4199150/volendam-vs-pec-zwolle-09-2025.html
+
+28-09-2005	^-
+
+00:00 [y]French Ligue 1[z]	^-
+Toulouse vs Nantes	`Ahttps://www.fctv33.net/football/french-ligue-1-match-4200157/toulouse-fc-vs-fc-nantes-09-2025.html
+
+00:00 [g]Portuguese Primera Liga[z]	^-
+Estrela da Amadora vs AVS Futebol	`Ahttps://www.fctv33.net/football/portuguese-primera-liga-match-4216009/cf-estrela-amadora-sad-vs-avs-futebol-sad-09-2025.html
+
+01:00 [y]Netherlands Eredivisie[z]	^-
+Excelsior SBV vs PSV Eindhoven	`Ahttps://www.fctv33.net/football/netherlands-eredivisie-match-4199149/excelsior-sbv-vs-psv-eindhoven-09-2025.html
+
+01:45 [y]Italian Serie A[z]	^-
+Cagliari vs Inter Milan	`Ahttps://www.fctv33.net/football/italian-serie-a-match-4194583/cagliari-vs-inter-milan-09-2025.html
+
+02:00 [y]English Premier League[z]	^-
+Tottenham Hotspur vs Wolves	`Ahttps://www.fctv33.net/football/english-premier-league-match-4193867/tottenham-hotspur-vs-wolverhampton-wanderers-09-2025.html
+
+02:00 [y]Spanish La Liga[z]	^-
+Villarreal vs Athletic Bilbao	`Ahttps://www.fctv33.net/football/spanish-la-liga-match-4209627/villarreal-cf-vs-athletic-club-09-2025.html
+
+02:05 [y]French Ligue 1[z]	^-
+Paris Saint Germain vs AJ Auxerre	`Ahttps://www.fctv33.net/football/french-ligue-1-match-4200130/paris-saint-germain-vs-aj-auxerre-09-2025.html
+
+02:30 [g]Portuguese Primera Liga[z]	^-
+Estoril vs Sporting CP	`Ahttps://www.fctv33.net/football/portuguese-primera-liga-match-4216014/estoril-vs-sporting-cp-09-2025.html
+
+03:00 [l]U20 World Cup[z]	^-
+Japan vs Egypt	`Ahttps://www.fctv33.net/football/fifa-u20-world-cup-match-4189088/japan-u20-vs-egypt-u20-09-2025.html
+
+03:30 [g]US Major League Soccer[z]	^-
+Toronto FC vs Inter Miami CF	`Ahttps://www.fctv33.net/football/united-states-major-league-soccer-match-4105210/toronto-fc-vs-inter-miami-cf-09-2025.html
+
+06:00 [l]U20 World Cup[z]	^-
+Paraguay vs Panama	`Ahttps://www.fctv33.net/football/fifa-u20-world-cup-match-4188968/paraguay-u20-vs-panama-u20-09-2025.html
+Chile vs New Zealand	`Ahttps://www.fctv33.net/football/fifa-u20-world-cup-match-4189408/chile-u20-vs-new-zealand-u20-09-2025.html
 
 	^-
 ^@[].a Two Pop-Ups: Ads and The Live Streaming. .a	^-
