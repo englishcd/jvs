@@ -240,6 +240,19 @@ HBO Xtreme	https://a.00/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db
 Movies Now	https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd!!40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 ^=Blank	
 
+	^-
+👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
+
+	^-
+SpoTV 1 👇	00!0!2/1052588?zyy
+[l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
+[l]{h} Ⓒb1[z] America [y]Sports & TV[z]	^^hb1
+[l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
+
+	^-
+GolTV 👇	00!0!0/9595?zyy
+[y]Sports & TV[z] [l]PlayList[z] #1	^^h10
+
 [l]Embedded Channels[z]	^-
 Liga 1 Max	`0https://www.telegratishd.com/liga-1-max-en-vivo.html
 TUDN	`0https://www.telegratishd.com/tudn-en-vivo.html
@@ -460,19 +473,6 @@ Sports 5 🇧🇷	`0https://sportzonline.si/channels/bra/br5.php
 Sports 6 🇧🇷	`0https://sportzonline.si/channels/bra/br6.php
 Sports 7 🇧🇷	`0https://sportzonline.si/channels/bra/br7.php
 Sports 8 🇧🇷	`0https://sportzonline.si/channels/bra/br8.php
-
-	^-
-👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
-
-	^-
-SpoTV 1 👇	00!0!2/1052588?zyy
-[l]{h} Ⓥc1[z] Asia Africa [y]Plus Live Sports[z]	^^h1
-[l]{h} Ⓞb0[z] Europe [y]Sports & TV[z]	^^hb0
-[l]{h} Ⓒb1[z] America [y]Sports & TV[z]	^^hb1
-
-	^-
-GolTV 👇	00!0!0/9595?zyy
-[y]Sports & TV[z] [l]PlayList[z] #1	^^h10
 
 	^-
 [l]{s} Ⓜa1 🤹Multi Drama 🇨🇳 🇰🇷 Sub 🆔[z]	^^sa1
