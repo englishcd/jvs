@@ -48,13 +48,16 @@ Adhyaksa Banten vs Persikad Depok	`Ahttps://www.fctv33.net/football/indonesian-l
 
 17:15 [y]Netherlands Eredivisie[z]	^-
 NEC Nijmegen vs AZ Alkmaar	`Ahttps://www.fctv33.net/football/netherlands-eredivisie-match-4199174/nec-nijmegen-vs-az-alkmaar.html
+NEC Nijmegen vs AZ Alkmaar	`0https://footylive.net/football/match/4453591/n.e.c.-nijmegen-az-alkmaar
 
 17:30 [y]Italian Serie A[z]	^-
 Sassuolo vs Udinese	`Ahttps://www.fctv33.net/football/italian-serie-a-match-4194581/sassuolo-vs-udinese.html
+Sassuolo vs Udinese	`0https://footylive.net/football/match/4445893/sassuolo-udinese
 Sassuolo vs Udinese	https://ddkanqu.com/zhibo/24692.html
 
 19:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Sevilla	`Ahttps://www.fctv33.net/football/spanish-la-liga-match-4209680/rayo-vallecano-vs-sevilla-fc.html
+Rayo Vallecano vs Sevilla	`0https://footylive.net/football/match/4467524/rayo-vallecano-sevilla
 Rayo Vallecano vs Sevilla	https://ddkanqu.com/zhibo/24701.html
 
 19:00 Liga 1	^-
@@ -68,46 +71,59 @@ Kuching FA vs Imigresen FC	`Ahttps://www.fctv33.net/football/malaysian-super-lea
 
 19:30 [y]Netherlands Eredivisie	^-
 FC Utrecht vs SC Heerenveen	`Ahttps://www.fctv33.net/football/netherlands-eredivisie-match-4199182/fc-utrecht-vs-sc-heerenveen.html
+FC Utrecht vs SC Heerenveen	`0https://footylive.net/football/match/4453590/utrecht-heerenveen
 FC Utrecht vs SC Heerenveen	https://ddkanqu.com/zhibo/24710.html
 Groningen vs Feyenoord	`Ahttps://www.fctv33.net/football/netherlands-eredivisie-match-4199183/groningen-vs-feyenoord.html
+Groningen vs Feyenoord	`0https://footylive.net/football/match/4453593/groningen-feyenoord
 Groningen vs Feyenoord	https://ddkanqu.com/zhibo/24711.html
 
 20:00 [y]English Premier League[z]	^-
 Aston Villa vs Fulham	`Ahttps://www.fctv33.net/football/english-premier-league-match-4193940/aston-villa-vs-fulham.html
+Aston Villa vs Fulham	`0https://footylive.net/football/match/4452796/aston-villa-fulham
 Aston Villa vs Fulham	https://ddkanqu.com/zhibo/24715.html
 
 20:00 [y]Italian Serie A[z]	^-
 AS Roma vs Verona	`Ahttps://www.fctv33.net/football/italian-serie-a-match-4194578/as-roma-vs-hellas-verona.html
+AS Roma vs Verona	`0https://footylive.net/football/match/4445376/as-roma-hellas-verona
 AS Roma vs Verona	https://ddkanqu.com/zhibo/24713.html
 Pisa vs Fiorentina	`Ahttps://www.fctv33.net/football/italian-serie-a-match-4194590/pisa-vs-fiorentina.html
+Pisa vs Fiorentina	`0https://footylive.net/football/match/4445377/pisa-fiorentina
 Pisa vs Fiorentina	https://ddkanqu.com/zhibo/24714.html
 
 20:00 [y]French Ligue 1[z]	^-
 Nice vs Paris FC	`Ahttps://www.fctv33.net/football/french-ligue-1-match-4200158/ogc-nice-vs-paris-fc.html
+Nice vs Paris FC	`0https://footylive.net/football/match/4464264/ogc-nice-paris-fc
 Nice vs Paris FC	https://ddkanqu.com/zhibo/24712.html
 
 20:30 [y]Bundesliga[z]	^-
 SC Freiburg vs TSG Hoffenheim	`Ahttps://www.fctv33.net/football/bundesliga-match-4199704/sc-freiburg-vs-tsg-hoffenheim.html
+SC Freiburg vs TSG Hoffenheim	`0https://footylive.net/football/match/4464881/freiburg-hoffenheim
 SC Freiburg vs TSG Hoffenheim	https://ddkanqu.com/zhibo/24717.html
 
 21:15 [y]Spanish La Liga[z]	^-
 Elche vs Real Club Celta de Vigo	`Ahttps://www.fctv33.net/football/spanish-la-liga-match-4209666/elche-vs-rc-celta.html
+Elche vs Real Club Celta de Vigo	`0https://footylive.net/football/match/4469129/elche-celta-vigo
 Elche vs Real Club Celta de Vigo	https://ddkanqu.com/zhibo/24723.html
 
 21:45 [y]Netherlands Eredivisie[z]	^-
 SC Telstar vs Go Ahead Eagles	`Ahttps://www.fctv33.net/football/netherlands-eredivisie-match-4199164/sc-telstar-vs-go-ahead-eagles.html
+SC Telstar vs Go Ahead Eagles	`0https://footylive.net/football/match/4454356/telstar-go-ahead-eagles
 SC Telstar vs Go Ahead Eagles	https://ddkanqu.com/zhibo/24733.html
 
 22:15 [y]French Ligue 1[z]	^-
 Metz vs Le Havre	`Ahttps://www.fctv33.net/football/french-ligue-1-match-4200135/metz-vs-havre-athletic-club.html
+Metz vs Le Havre	`0https://footylive.net/football/match/4464044/metz-le-havre
 Metz vs Le Havre	https://ddkanqu.com/zhibo/24739.html
 Angers vs Stade Brestois	`Ahttps://www.fctv33.net/football/french-ligue-1-match-4200136/angers-sco-vs-stade-brestois-29.html
+Angers vs Stade Brestois	`0https://footylive.net/football/match/4464047/angers-brest
 Angers vs Stade Brestois	https://ddkanqu.com/zhibo/24737.html
 Lille vs Lyon	`Ahttps://www.fctv33.net/football/french-ligue-1-match-4200181/losc-lille-vs-lyon.html
+Lille vs Lyon	`0https://footylive.net/football/match/4464043/lille-lyon
 Lille vs Lyon	https://ddkanqu.com/zhibo/24738.html
 
 22:30 [y]English Premier League[z]	^-
 Newcastle United vs Arsenal	`Ahttps://www.fctv33.net/football/english-premier-league-match-4193883/newcastle-united-vs-arsenal.html
+Newcastle United vs Arsenal	`0https://footylive.net/football/match/4452791/newcastle-united-arsenal
 Newcastle United vs Arsenal	https://ddkanqu.com/zhibo/24741.html
 
 22:30 [y]Bundesliga[z]	^-
@@ -116,20 +132,24 @@ FC Koln vs VfB Stuttgart	https://ddkanqu.com/zhibo/24740.html
 
 23:00 [y]Italian Serie A[z]	^-
 Lecce vs Bologna	`Ahttps://www.fctv33.net/football/italian-serie-a-match-4195848/lecce-vs-bologna.html
+Lecce vs Bologna	`0https://footylive.net/football/match/4445380/lecce-bologna
 Lecce vs Bologna	https://ddkanqu.com/zhibo/24743.html
 
 23:30 [y]Spanish La Liga[z]	^-
 FC Barcelona vs Real Sociedad	`Ahttps://www.fctv33.net/football/spanish-la-liga-match-4209653/fc-barcelona-vs-real-sociedad.html
+FC Barcelona vs Real Sociedad	`0https://footylive.net/football/match/4467526/fc-barcelona-real-sociedad
 FC Barcelona vs Real Sociedad	https://ddkanqu.com/zhibo/24746.html
 
 29-09-2005	^-
 
 00:00 [g]Portuguese Primera Liga[z]	^-
 Sporting Braga vs Nacional Madeira	`Ahttps://www.fctv33.net/football/portuguese-primera-liga-match-4216018/sporting-braga-vs-nacional-da-madeira.html
+Sporting Braga vs Nacional Madeira	`0https://footylive.net/football/match/4475154/sc-braga-nacional-madeira
 Sporting Braga vs Nacional Madeira	https://ddkanqu.com/zhibo/24752.html
 
 00:30 [y]Bundesliga[z]	^-
 Union Berlin vs Hamburger SV	`Ahttps://www.fctv33.net/football/bundesliga-match-4199660/1-fc-union-berlin-vs-hamburger-sv.html
+Union Berlin vs Hamburger SV	`0https://footylive.net/football/match/4464877/union-berlin-hamburger-sv
 Union Berlin vs Hamburger SV	https://ddkanqu.com/zhibo/24756.html
 
 01:15 [g]Argentine Division 1[z]	^-
