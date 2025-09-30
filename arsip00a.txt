@@ -30,43 +30,40 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 
 30-09-2005	^-
 
-06:00 [l]U20 World Cup[z]	^-
-Colombia vs Saudi Arabia	`Ahttps://www.fctv33.net/football/fifa-u20-world-cup-match-4189087/colombia-u20-vs-saudi-arabia-u20.html
-Colombia vs Saudi Arabia	`Ahttps://ppdd04.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzgxNzgwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Colombia vs Saudi Arabia	`0https://footylive.net/football/match/4442639/colombia-u20-saudi-arabia-u20
-Colombia vs Saudi Arabia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3669046
-USA vs New Caledonia	`Ahttps://www.fctv33.net/football/fifa-u20-world-cup-match-4189603/usa-u20-vs-new-caledonia-u20.html
-USA vs New Caledonia	`Ahttps://ppdd04.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzgxNzc0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-USA vs New Caledonia	`0https://footylive.net/football/match/4440129/usa-u20-new-caledonia-u20
-USA vs New Caledonia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3726319
-
 15:45 Malaysian FA Cup	^-
 Sabah vs Bunga Raya	`Ahttps://www.fctv33.net/football/malaysian-fa-cup-match-4255201/sabah-fc-vs-bunga-raya.html
 
 17:00 [g]AFC Champions League Elite[z]	^-
 FC Seoul vs Buriram United	`Ahttps://www.fctv33.net/football/afc-champions-league-elite-match-4262160/football-club-seoul-vs-buriram-united.html
+FC Seoul vs Buriram United	`0https://footylive.net/football/match/4527847/fc-seoul-buriram-united
 FC Seoul vs Buriram United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611322
 FC Seoul vs Buriram United	https://ddkanqu.com/zhibo/24805.html
 Hiroshima Sanfrecce vs Shanghai Port	`Ahttps://www.fctv33.net/football/afc-champions-league-elite-match-4283093/sanfrecce-hiroshima-vs-shanghai-port-fc.html
+Hiroshima Sanfrecce vs Shanghai Port	`0https://footylive.net/football/match/4527848/hiroshima-sanfrecce-shanghai-port
 Hiroshima Sanfrecce vs Shanghai Port	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611321
 Hiroshima Sanfrecce vs Shanghai Port	https://ddkanqu.com/zhibo/24806.html
 
 19:15 [g]AFC Champions League Elite[z]	^-
 Chengdu Better City FC vs Gangwon FC	`Ahttps://www.fctv33.net/football/afc-champions-league-elite-match-4283091/chengdu-rongcheng-fc-vs-gangwon-football-club.html
+Chengdu Better City FC vs Gangwon FC	`0https://footylive.net/football/match/4527846/chengdu-rongcheng-gangwon-fc
 Chengdu Better City FC vs Gangwon FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611326
 Chengdu Better City FC vs Gangwon FC	https://ddkanqu.com/zhibo/24808.html
 Johor Darul Takzim vs Machida Zelvia	`Ahttps://www.fctv33.net/football/afc-champions-league-elite-match-4283092/johor-darul-tazim-fc-vs-machida-zelvia.html
+Johor Darul Takzim vs Machida Zelvia	`0https://footylive.net/football/match/4527845/johor-darul-ta%E2%80%99zim-machida-zelvia
 Johor Darul Takzim vs Machida Zelvia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611328
 Johor Darul Takzim vs Machida Zelvia	https://ddkanqu.com/zhibo/24807.html
 
 23:00 [g]AFC Champions League Elite[z]	^-
 Al-Sadd vs Al-Sharjah	`Ahttps://www.fctv33.net/football/afc-champions-league-elite-match-4265486/al-sadd-vs-al-sharjah.html
+Al-Sadd vs Al-Sharjah	`0https://footylive.net/football/match/4527762/al-sadd-sharjah-sc
 Al-Sadd vs Al-Sharjah	https://ddkanqu.com/zhibo/24811.html
 
 23:45 [y]UEFA Champions League[z]	^-
 Atalanta vs Club Brugge	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4283743/atalanta-vs-club-brugge.html
+Atalanta vs Club Brugge	`0https://footylive.net/football/match/4538457/atalanta-club-brugge
 Atalanta vs Club Brugge	https://ddkanqu.com/zhibo/24815.html
 FC Kairat Almaty vs Real Madrid	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4283744/fc-kairat-almaty-vs-real-madrid.html
+FC Kairat Almaty vs Real Madrid	`0https://footylive.net/football/match/4538450/kairat-almaty-real-madrid
 FC Kairat Almaty vs Real Madrid	https://ddkanqu.com/zhibo/24816.html
 
 01-10-2005	^-
@@ -77,22 +74,30 @@ Valencia vs Real Oviedo	https://ddkanqu.com/zhibo/24884.html
 
 01:15 [g]AFC Champions League Elite[z]	^-
 Al Ittihad Club vs Al Ahli UAE	`Ahttps://www.fctv33.net/football/afc-champions-league-elite-match-4258431/al-ittihad-club-vs-shabab-al-ahli.html
+Al Ittihad Club vs Al Ahli UAE	`0https://footylive.net/football/match/4526684/ittihad-jeddah-shabab-al-ahly
 Al Ittihad Club vs Al Ahli UAE	https://ddkanqu.com/zhibo/24820.html
 
 02:00 [y]UEFA Champions League[z]	^-
 Bodo Glimt vs Tottenham Hotspur	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4268410/bodo-glimt-vs-tottenham-hotspur.html
+Bodo Glimt vs Tottenham Hotspur	`0https://footylive.net/football/match/4539893/bod%C3%B8-/-glimt-u19-tottenham-u19
 Bodo Glimt vs Tottenham Hotspur	https://ddkanqu.com/zhibo/24833.html
 Inter Milan vs Slavia Praha	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4268482/inter-milan-vs-slavia-praha.html
+Inter Milan vs Slavia Praha	`0https://footylive.net/football/match/4538470/inter-milan-slavia-praha
 Inter Milan vs Slavia Praha	https://ddkanqu.com/zhibo/24835.html
 Chelsea vs Benfica	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4280120/chelsea-vs-benfica.html
+Chelsea vs Benfica	`0https://footylive.net/football/match/4538463/chelsea-benfica
 Chelsea vs Benfica	https://ddkanqu.com/zhibo/24837.html
 Galatasaray vs Liverpool	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4280978/galatasaray-vs-liverpool.html
+Galatasaray vs Liverpool	`0https://footylive.net/football/match/4538478/galatasaray-liverpool
 Galatasaray vs Liverpool	https://ddkanqu.com/zhibo/24834.html
 Atletico Madrid vs Eintracht Frankfurt	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4283740/atletico-madrid-vs-eintracht-frankfurt.html
+Atletico Madrid vs Eintracht Frankfurt	`0https://footylive.net/football/match/4538461/atletico-madrid-eintracht-frankfurt
 Atletico Madrid vs Eintracht Frankfurt	https://ddkanqu.com/zhibo/24832.html
 Marseille vs AFC Ajax	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4283741/marseille-vs-afc-ajax.html
+Marseille vs AFC Ajax	`0https://footylive.net/football/match/4538480/olympique-de-marseille-ajax
 Marseille vs AFC Ajax	https://ddkanqu.com/zhibo/24831.html
 Pafos FC vs Bayern Munchen	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4283742/pafos-fc-vs-fc-bayern-munich.html
+Pafos FC vs Bayern Munchen	`0https://footylive.net/football/match/4538481/pafos-fc-bayern-munich
 Pafos FC vs Bayern Munchen	https://ddkanqu.com/zhibo/24836.html
 
 03:00 [l]U20 World Cup[z]	^-
