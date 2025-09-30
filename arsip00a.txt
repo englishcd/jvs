@@ -3,7 +3,7 @@
 ^=fctvlive	`0https://www.fctv33.net/football.html
 ^=Live Sports	`0https://www.marza12.shop/football.html
 ^=footylive	`0https://footylive.net/
-^=Watching	`0https://ddkanqu.com/
+^=Watching	`0https://ddkanq.vip/
 ^=Blank	
 ^=	^-
 	^-
@@ -34,31 +34,31 @@ Ballon d'Or 2025	https://www.youtube.com/watch?v=NS8HBDDD9FY
 Bodo Glimt vs Tottenham Hotspur	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4268410/bodo-glimt-vs-tottenham-hotspur.html
 Bodo Glimt vs Tottenham Hotspur	`0https://footylive.net/football/match/4539893/bod%C3%B8-/-glimt-u19-tottenham-u19
 Bodo Glimt vs Tottenham Hotspur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652490
-Bodo Glimt vs Tottenham Hotspur	https://ddkanqu.com/zhibo/24833.html
+Bodo Glimt vs Tottenham Hotspur	https://ddkanq.vip/zhibo/24833.html
 Inter Milan vs Slavia Praha	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4268482/inter-milan-vs-slavia-praha.html
 Inter Milan vs Slavia Praha	`0https://footylive.net/football/match/4538470/inter-milan-slavia-praha
 Inter Milan vs Slavia Praha	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652493
-Inter Milan vs Slavia Praha	https://ddkanqu.com/zhibo/24835.html
+Inter Milan vs Slavia Praha	https://ddkanq.vip/zhibo/24835.html
 Chelsea vs Benfica	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4280120/chelsea-vs-benfica.html
 Chelsea vs Benfica	`0https://footylive.net/football/match/4538463/chelsea-benfica
 Chelsea vs Benfica	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652498
-Chelsea vs Benfica	https://ddkanqu.com/zhibo/24837.html
+Chelsea vs Benfica	https://ddkanq.vip/zhibo/24837.html
 Galatasaray vs Liverpool	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4280978/galatasaray-vs-liverpool.html
 Galatasaray vs Liverpool	`0https://footylive.net/football/match/4538478/galatasaray-liverpool
 Galatasaray vs Liverpool	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652491
-Galatasaray vs Liverpool	https://ddkanqu.com/zhibo/24834.html
+Galatasaray vs Liverpool	https://ddkanq.vip/zhibo/24834.html
 Atletico Madrid vs Eintracht Frankfurt	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4283740/atletico-madrid-vs-eintracht-frankfurt.html
 Atletico Madrid vs Eintracht Frankfurt	`0https://footylive.net/football/match/4538461/atletico-madrid-eintracht-frankfurt
 Atletico Madrid vs Eintracht Frankfurt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652489
-Atletico Madrid vs Eintracht Frankfurt	https://ddkanqu.com/zhibo/24832.html
+Atletico Madrid vs Eintracht Frankfurt	https://ddkanq.vip/zhibo/24832.html
 Marseille vs AFC Ajax	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4283741/marseille-vs-afc-ajax.html
 Marseille vs AFC Ajax	`0https://footylive.net/football/match/4538480/olympique-de-marseille-ajax
 Marseille vs AFC Ajax	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652495
-Marseille vs AFC Ajax	https://ddkanqu.com/zhibo/24831.html
+Marseille vs AFC Ajax	https://ddkanq.vip/zhibo/24831.html
 Pafos FC vs Bayern Munchen	`Ahttps://www.fctv33.net/football/uefa-champions-league-match-4283742/pafos-fc-vs-fc-bayern-munich.html
 Pafos FC vs Bayern Munchen	`0https://footylive.net/football/match/4538481/pafos-fc-bayern-munich
 Pafos FC vs Bayern Munchen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652500
-Pafos FC vs Bayern Munchen	https://ddkanqu.com/zhibo/24836.html
+Pafos FC vs Bayern Munchen	https://ddkanq.vip/zhibo/24836.html
 
 03:00 [l]U20 World Cup[z]	^-
 Panama vs Ukraine	`Ahttps://www.fctv33.net/football/fifa-u20-world-cup-match-4188969/panama-u20-vs-ukraine-u20.html
@@ -69,6 +69,7 @@ Egypt vs New Zealand	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&
 05:00 [g]Argentine Division 1[z]	^-
 Newells Old Boys vs Estudiantes Plata	`Ahttps://www.fctv33.net/football/argentine-division-1-match-4107615/club-atltico-newells-old-boys-vs-estudiantes-la-plata.html
 Newells Old Boys vs Estudiantes Plata	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3221264
+Newells Old Boys vs Estudiantes Plata	https://ddkanq.vip/zhibo/24839.html
 
 06:00 [l]U20 World Cup[z]	^-
 Korea Republic vs Paraguay	`Ahttps://www.fctv33.net/football/fifa-u20-world-cup-match-4188970/south-korea-u20-vs-paraguay-u20.html
