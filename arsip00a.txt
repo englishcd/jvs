@@ -29,6 +29,9 @@ Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
 02-10-2005	^-
 
+14:00 [g]AFC U23 Asian Cup[z]	^-
+AFC U23 Asian Cup Final Draw	`Ahttps://www.fctv33.net/football/afc-champions-league-2-match-4295274/afc-vs-u23-asian-cup-final-draw.html
+
 14:45 [g]AFC Champions League 2[z]	^-
 FC Macarthur vs Beijing Guoan	`Ahttps://www.fctv33.net/football/afc-champions-league-2-match-4259860/macarthur-fc-vs-beijing-guoan-fc.html
 FC Macarthur vs Beijing Guoan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610668
