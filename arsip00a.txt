@@ -29,13 +29,6 @@ Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
 04-10-2005	^-
 
-17:00 [g]Japanese J1 League[z]	^-
-Kyoto Sanga vs Kawasaki Frontale	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105580/kyoto-sanga-vs-kawasaki-frontale.html
-Kyoto Sanga vs Kawasaki Frontale	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzAxOTAyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Kyoto Sanga vs Kawasaki Frontale	`0https://footylive.net/football/match/4315769/kyoto-kawasaki-frontale
-Kyoto Sanga vs Kawasaki Frontale	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3053467
-Kyoto Sanga vs Kawasaki Frontale	https://ddkanq.vip/zhibo/24974.html
-
 18:30 [y]English Premier League[z]	^-
 Leeds United vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193873/leeds-united-vs-tottenham-hotspur.html
 Leeds United vs Tottenham Hotspur	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MTk1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -62,15 +55,18 @@ PSIS Semarang vs Barito Putera	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?
 19:15 Malaysian Super League	^-
 Sabah vs Kuching FA	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220962/sabah-fc-vs-kuching-city-fc.html
 Sabah vs Kuching FA	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODIyMzI3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Sabah vs Kuching FA	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3734663
 
 20:00 [y]Italian Serie A[z]	^-
 Lazio vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194616/lazio-vs-torino.html
 Lazio vs Torino	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NTM3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Lazio vs Torino	`0https://footylive.net/football/match/4445371/lazio-torino
+Lazio vs Torino	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3714014
 Lazio vs Torino	https://ddkanq.vip/zhibo/24996.html
 Parma vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194636/parma-vs-lecce.html
 Parma vs Lecce	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NTM5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Parma vs Lecce	`0https://footylive.net/football/match/4445369/parma-lecce
+Parma vs Lecce	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3714012
 Parma vs Lecce	https://ddkanq.vip/zhibo/24997.html
 
 20:30 [y]Bundesliga[z]	^-
