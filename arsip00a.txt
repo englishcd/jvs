@@ -29,31 +29,19 @@ Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
 04-10-2005	^-
 
-12:00 [g]Japanese J1 League[z]	^-
-Albirex Niigata vs Fagiano Okayama	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105537/albirex-niigata-vs-fagiano-okayama.html
-Albirex Niigata vs Fagiano Okayama	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzAxODk4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Albirex Niigata vs Fagiano Okayama	`0https://footylive.net/football/match/4364787/niigata-okayama
-Albirex Niigata vs Fagiano Okayama	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3053470
-Albirex Niigata vs Fagiano Okayama	https://ddkanq.vip/zhibo/24967.html
-
-12:00 [g]Korean K League 1[z]	^-
-Gwangju Football Club vs Daegu FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4109477/gwangju-football-club-vs-daegu-football-club.html
-Gwangju Football Club vs Daegu FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3039701
-Gwangju Football Club vs Daegu FC	https://ddkanq.vip/zhibo/24968.html
-
-13:00 [g]Japanese J1 League[z]	^-
-Avispa Fukuoka vs Yokohama FC	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105576/avispa-fukuoka-vs-yokohama-fc.html
-Avispa Fukuoka vs Yokohama FC	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzAxODk5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Avispa Fukuoka vs Yokohama FC	`0https://footylive.net/football/match/4315768/fukuoka-yokohama-fc
-Avispa Fukuoka vs Yokohama FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3053475
-Avispa Fukuoka vs Yokohama FC	https://ddkanq.vip/zhibo/24969.html
-
 14:00 [g]Japanese J1 League[z]	^-
 Hiroshima Sanfrecce vs Machida Zelvia	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105351/sanfrecce-hiroshima-vs-machida-zelvia.html
 Hiroshima Sanfrecce vs Machida Zelvia	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzAxOTA0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Hiroshima Sanfrecce vs Machida Zelvia	`0https://footylive.net/football/match/4315770/hiroshima-sanfrecce-machida-zelvia
 Hiroshima Sanfrecce vs Machida Zelvia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3053472
 Hiroshima Sanfrecce vs Machida Zelvia	https://ddkanq.vip/zhibo/24970.html
+
+14:33 [g]Japanese J1 League[z]	^-
+Avispa Fukuoka vs Yokohama FC	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105576/avispa-fukuoka-vs-yokohama-fc.html
+Avispa Fukuoka vs Yokohama FC	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzAxODk5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Avispa Fukuoka vs Yokohama FC	`0https://footylive.net/football/match/4315768/fukuoka-yokohama-fc
+Avispa Fukuoka vs Yokohama FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3053475
+Avispa Fukuoka vs Yokohama FC	https://ddkanq.vip/zhibo/24969.html
 
 15:00 [g]Japanese J1 League[z]	^-
 Urawa Red Diamonds vs Vissel Kobe	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105619/urawa-red-diamonds-vs-vissel-kobe.html
