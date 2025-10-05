@@ -30,8 +30,127 @@ Live Soccer TV Guide	`0https://www.livesoccertv.com/
 05-10-2005	^-
 
 06:30 [g]US Major League Soccer[z]	^-
-Inter Miami CF vs New England Revolution	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4105141/inter-miami-cf-vs-new-england-revolution-10-2025.html
+Inter Miami CF vs New England Revolution	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4105141/inter-miami-cf-vs-new-england-revolution.html
 Inter Miami CF vs New England Revolution	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2963453
+
+07:15 [g]Argentine Division 1[z]	^-
+Lanus vs San Lorenzo	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107643/club-atltico-lans-vs-san-lorenzo.html
+
+08:00 [g]Mexico Liga MX[z]	^-
+Club Leon vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194279/club-leon-vs-toluca.html
+Tigres UANL vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194283/tigres-uanl-vs-cruz-azul.html
+
+10:05 [g]Mexico Liga MX[z]	^-
+Club America vs Santos Laguna	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194284/club-america-vs-santos-laguna.html
+
+12:00 [g]Korean K League 1[z]	^-
+Gimcheon Sangmu vs Ulsan Hyundai	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4114617/gimcheon-sangmu-football-club-vs-ulsan-hd-fc.html
+
+13:00 [g]Japanese J1 League[z]	^-
+Kashima Antlers vs Gamba Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105534/kashima-antlers-vs-gamba-osaka.html
+
+15:30 Liga 2	^-
+Persipal Palu vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284503/persipal-palu-vs-pss-sleman.html
+Persekat Tegal vs Adhyaksa FC Banten	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284753/persekat-tegal-vs-adhyaksa-fc-banten.html
+
+16:00 Malaysian Super League	^-
+Imigresen FC vs Selangor	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220960/imigresen-fc-vs-selangor-fc.html
+
+17:15 [y]Netherlands Eredivisie[z]	^-
+Twente Enschede vs Heracles Almelo	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199189/fc-twente-enschede-vs-heracles-almelo.html
+
+17:30 [y]Italian Serie A[z]	^-
+Udinese vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194607/udinese-vs-cagliari.html
+
+18:00 [g]English Football League[z]	^-
+Ipswich Town vs Norwich City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203529/ipswich-town-vs-norwich-city.html
+
+19:00 [y]Spanish La Liga[z]	^-
+Deportivo Alavés vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209664/deportivo-alavs-vs-elche.html
+
+19:00 Liga 2	^-
+Deltras Sidoarjo vs Persiku Kudus	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284496/deltras-sidoarjo-vs-persiku-kudus.html
+
+19:30 [y]Netherlands Eredivisie[z]	^-
+Feyenoord vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199191/feyenoord-vs-fc-utrecht.html
+
+20:00 [y]English Premier League[z]	^-
+Wolves vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193866/wolverhampton-wanderers-vs-brighton-hove-albion.html
+Newcastle United vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193884/newcastle-united-vs-nottingham-forest.html
+Aston Villa vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193903/aston-villa-vs-burnley.html
+Everton vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193910/everton-vs-crystal-palace.html
+
+20:00 [y]Italian Serie A[z]	^-
+Fiorentina vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194618/fiorentina-vs-as-roma.html
+Bologna vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194647/bologna-vs-pisa.html
+
+20:00 [y]French Ligue 1[z]	^-
+Lyon vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200165/lyon-vs-toulouse-fc.html
+
+20:00 Malaysian Super League	^-
+PDRM vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220964/pdrm-fc-vs-johor-darul-tazim-fc.html
+
+20:30 [y]Bundesliga[z]	^-
+VfB Stuttgart vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199659/vfb-stuttgart-vs-1-fc-heidenheim-1846.html
+
+20:30 Liga 2	^-
+Persiraja Aceh vs Garudayaksa FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284752/persiraja-aceh-vs-garudayaksa-fc.html
+
+21:15 [y]Spanish La Liga[z]	^-
+Sevilla vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209670/sevilla-fc-vs-fc-barcelona.html
+
+21:30 [g]Portuguese Primera Liga[z]	^-
+FC Arouca vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216065/fc-arouca-vs-fc-famalicao.html
+
+21:45 [y]Netherlands Eredivisie[z]	^-
+AZ Alkmaar vs SC Telstar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199187/az-alkmaar-vs-sc-telstar.html
+
+22:15 [y]French Ligue 1[z]	^-
+Le Havre vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200168/havre-athletic-club-vs-stade-rennais-fc.html
+Monaco vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200187/as-monaco-vs-ogc-nice.html
+Strasbourg vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200191/rc-strasbourg-alsace-vs-angers-sco.html
+
+22:30 [y]English Premier League[z]	^-
+Brentford vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193905/brentford-vs-manchester-city.html
+
+22:30 [y]Bundesliga[z]	^-
+Hamburger SV vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199658/hamburger-sv-vs-1-fsv-mainz-05.html
+
+23:00 [y]Italian Serie A[z]	^-
+Napoli vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194650/napoli-vs-genoa.html
+
+23:30 [y]Spanish La Liga[z]	^-
+Real Sociedad vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209657/real-sociedad-vs-rayo-vallecano.html
+RCD Espanyol vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209689/rcd-espanyol-de-barcelona-vs-real-betis.html
+
+06-10-2005	^-
+
+00:30 [y]Bundesliga[z]	^-
+Br Monchengladbach vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199753/borussia-monchengladbach-vs-sc-freiburg.html
+
+01:00 [y]Netherlands Eredivisie[z]	^-
+Go Ahead Eagles vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199227/go-ahead-eagles-vs-nec-nijmegen.html
+
+01:15 [g]Portuguese Primera Liga[z]	^-
+Sporting CP vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216033/sporting-cp-vs-sporting-braga.html
+
+01:45 [y]Italian Serie A[z]	^-
+Juventus vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194610/juventus-vs-ac-milan.html
+
+01:45 [y]French Ligue 1[z]	^-
+Lille vs Paris Saint Germain PSG	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200178/losc-lille-vs-paris-saint-germain.html
+
+02:00 [g]Brazilian Serie A[z]	^-
+Sao Paulo vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141689/sao-paulo-vs-palmeiras.html
+
+02:00 [y]Spanish La Liga[z]	^-
+Real Celta Vigo vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209683/rc-celta-vs-atletico-madrid.html
+
+03:15 [g]Portuguese Primera Liga[z]	^-
+FC Porto vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216026/fc-porto-vs-benfica.html
+
+04:30 [g]Brazilian Serie A[z]	^-
+Bahia vs Flamengo	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141651/bahia-vs-cr-flamengo.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. .f	^-
@@ -41,7 +160,7 @@ Inter Miami CF vs New England Revolution	`3https://embed-10-08-12-51.linkzhe.eu.
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome browser for other streaming videos!👈[z].c	^-
 ^#	^-
 
-K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p6Ph7ybs-ExykQE-Zz78&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 HBO Plus	https://a.00/5/out/u/dash/HBO-PLUS-HD/default.mpd!!861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
 HBO Pop	https://a.00/5/out/u/dash/HBO-POP-HD/default.mpd!!bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
 HBO Xtreme	https://a.00/5/out/u/dash/HBO-XTREME-HD/default.mpd!!bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
@@ -774,7 +893,6 @@ TV 6 🇲🇾	`0https://rtm-player.glueapi.io/latest/h/6
 TV 8 🇲🇾	https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd!!a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
 TV 9 🇲🇾	https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd!!1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
 TV Selangor 🇲🇾	https://mana2.lu-mau-apaan-sih-waduhhh.workers.dev/tvs/index.m3u8
-Movies KR	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 TBS	https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 Viki Plex	https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p6Ph7ybs-ExykQE-Zz78&ads.plex_id=60d4edd8b2fdec002c14112f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 WBC	https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
