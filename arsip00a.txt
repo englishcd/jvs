@@ -29,21 +29,23 @@ Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
 05-10-2005	^-
 
-07:15 [g]Argentine Division 1[z]	^-
-Lanus vs San Lorenzo	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107643/club-atltico-lans-vs-san-lorenzo.html
-
 08:00 [g]Mexico Liga MX[z]	^-
 Club Leon vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194279/club-leon-vs-toluca.html
+Club Leon vs Toluca	https://ddkanq.vip/zhibo/25086.html
 Tigres UANL vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194283/tigres-uanl-vs-cruz-azul.html
+Tigres UANL vs CDSyC Cruz Azul	https://ddkanq.vip/zhibo/25085.html
 
 10:05 [g]Mexico Liga MX[z]	^-
 Club America vs Santos Laguna	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194284/club-america-vs-santos-laguna.html
+Club America vs Santos Laguna	https://ddkanq.vip/zhibo/25090.html
 
 12:00 [g]Korean K League 1[z]	^-
 Gimcheon Sangmu vs Ulsan Hyundai	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4114617/gimcheon-sangmu-football-club-vs-ulsan-hd-fc.html
+Gimcheon Sangmu vs Ulsan Hyundai	https://ddkanq.vip/zhibo/25091.html
 
 13:00 [g]Japanese J1 League[z]	^-
 Kashima Antlers vs Gamba Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105534/kashima-antlers-vs-gamba-osaka.html
+Kashima Antlers vs Gamba Osaka	https://ddkanq.vip/zhibo/25093.html
 
 15:30 Liga 2	^-
 Persipal Palu vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284503/persipal-palu-vs-pss-sleman.html
@@ -54,70 +56,94 @@ Imigresen FC vs Selangor	`Fhttps://www.fctv33.net/football/malaysian-super-leagu
 
 17:15 [y]Netherlands Eredivisie[z]	^-
 Twente Enschede vs Heracles Almelo	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199189/fc-twente-enschede-vs-heracles-almelo.html
+Twente Enschede vs Heracles Almelo	https://ddkanq.vip/zhibo/25099.html
 
 17:30 [y]Italian Serie A[z]	^-
 Udinese vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194607/udinese-vs-cagliari.html
+Udinese vs Cagliari	https://ddkanq.vip/zhibo/25100.html
 
 18:00 [g]English Football League[z]	^-
 Ipswich Town vs Norwich City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203529/ipswich-town-vs-norwich-city.html
+Ipswich Town vs Norwich City	https://ddkanq.vip/zhibo/25102.html
 
 19:00 [y]Spanish La Liga[z]	^-
 Deportivo Alavés vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209664/deportivo-alavs-vs-elche.html
+Deportivo Alavés vs Elche	https://ddkanq.vip/zhibo/25114.html
 
 19:00 Liga 2	^-
 Deltras Sidoarjo vs Persiku Kudus	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284496/deltras-sidoarjo-vs-persiku-kudus.html
 
 19:30 [y]Netherlands Eredivisie[z]	^-
 Feyenoord vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199191/feyenoord-vs-fc-utrecht.html
+Feyenoord vs FC Utrecht	https://ddkanq.vip/zhibo/25122.html
 
 20:00 [y]English Premier League[z]	^-
 Wolves vs Brighton Hove Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193866/wolverhampton-wanderers-vs-brighton-hove-albion.html
+Wolves vs Brighton Hove Albion	https://ddkanq.vip/zhibo/25130.html
 Newcastle United vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193884/newcastle-united-vs-nottingham-forest.html
+Newcastle United vs Nottingham Forest	https://ddkanq.vip/zhibo/25129.html
 Aston Villa vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193903/aston-villa-vs-burnley.html
+Aston Villa vs Burnley	https://ddkanq.vip/zhibo/25128.html
 Everton vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193910/everton-vs-crystal-palace.html
+Everton vs Crystal Palace	https://ddkanq.vip/zhibo/25124.html
 
 20:00 [y]Italian Serie A[z]	^-
 Fiorentina vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194618/fiorentina-vs-as-roma.html
+Fiorentina vs AS Roma	https://ddkanq.vip/zhibo/25127.html
 Bologna vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194647/bologna-vs-pisa.html
+Bologna vs Pisa	https://ddkanq.vip/zhibo/25126.html
 
 20:00 [y]French Ligue 1[z]	^-
 Lyon vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200165/lyon-vs-toulouse-fc.html
+Lyon vs Toulouse	https://ddkanq.vip/zhibo/25125.html
 
 20:00 Malaysian Super League	^-
 PDRM vs Johor Darul Takzim	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4220964/pdrm-fc-vs-johor-darul-tazim-fc.html
 
 20:30 [y]Bundesliga[z]	^-
 VfB Stuttgart vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199659/vfb-stuttgart-vs-1-fc-heidenheim-1846.html
+VfB Stuttgart vs 1. FC Heidenheim	https://ddkanq.vip/zhibo/25132.html
 
 20:30 Liga 2	^-
 Persiraja Aceh vs Garudayaksa FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284752/persiraja-aceh-vs-garudayaksa-fc.html
 
 21:15 [y]Spanish La Liga[z]	^-
 Sevilla vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209670/sevilla-fc-vs-fc-barcelona.html
+Sevilla vs FC Barcelona	https://ddkanq.vip/zhibo/25138.html
 
 21:30 [g]Portuguese Primera Liga[z]	^-
 FC Arouca vs FC Famalicao	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216065/fc-arouca-vs-fc-famalicao.html
+FC Arouca vs FC Famalicao	https://ddkanq.vip/zhibo/25144.html
 
 21:45 [y]Netherlands Eredivisie[z]	^-
 AZ Alkmaar vs SC Telstar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199187/az-alkmaar-vs-sc-telstar.html
+AZ Alkmaar vs SC Telstar	https://ddkanq.vip/zhibo/25146.html
 
 22:15 [y]French Ligue 1[z]	^-
 Le Havre vs Rennes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200168/havre-athletic-club-vs-stade-rennais-fc.html
+Le Havre vs Rennes	https://ddkanq.vip/zhibo/25152.html
 Monaco vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200187/as-monaco-vs-ogc-nice.html
+Monaco vs Nice	https://ddkanq.vip/zhibo/25150.html
 Strasbourg vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200191/rc-strasbourg-alsace-vs-angers-sco.html
+Strasbourg vs Angers	https://ddkanq.vip/zhibo/25151.html
 
 22:30 [y]English Premier League[z]	^-
 Brentford vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193905/brentford-vs-manchester-city.html
+Brentford vs Manchester City	https://ddkanq.vip/zhibo/25154.html
 
 22:30 [y]Bundesliga[z]	^-
 Hamburger SV vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199658/hamburger-sv-vs-1-fsv-mainz-05.html
+Hamburger SV vs FSV Mainz 05	https://ddkanq.vip/zhibo/25153.html
 
 23:00 [y]Italian Serie A[z]	^-
 Napoli vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194650/napoli-vs-genoa.html
+Napoli vs Genoa	https://ddkanq.vip/zhibo/25195.html
 
 23:30 [y]Spanish La Liga[z]	^-
 Real Sociedad vs Rayo Vallecano	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209657/real-sociedad-vs-rayo-vallecano.html
+Real Sociedad vs Rayo Vallecano	https://ddkanq.vip/zhibo/25199.html
 RCD Espanyol vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209689/rcd-espanyol-de-barcelona-vs-real-betis.html
+RCD Espanyol vs Real Betis	https://ddkanq.vip/zhibo/25198.html
 
 06-10-2005	^-
 
