@@ -29,16 +29,6 @@ Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
 05-10-2005	^-
 
-08:00 [g]Mexico Liga MX[z]	^-
-Club Leon vs Toluca	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194279/club-leon-vs-toluca.html
-Club Leon vs Toluca	`0https://footylive.net/football/match/4444576/leon-toluca
-Club Leon vs Toluca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3718516
-Club Leon vs Toluca	https://ddkanq.vip/zhibo/25086.html
-Tigres UANL vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194283/tigres-uanl-vs-cruz-azul.html
-Tigres UANL vs CDSyC Cruz Azul	`0https://footylive.net/football/match/4444575/tigres-uanl-cruz-azul
-Tigres UANL vs CDSyC Cruz Azul	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3718514
-Tigres UANL vs CDSyC Cruz Azul	https://ddkanq.vip/zhibo/25085.html
-
 10:05 [g]Mexico Liga MX[z]	^-
 Club America vs Santos Laguna	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194284/club-america-vs-santos-laguna.html
 Club America vs Santos Laguna	`0https://footylive.net/football/match/4444574/club-america-santos-laguna
@@ -211,9 +201,11 @@ Br Monchengladbach vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-m
 
 01:00 [y]Netherlands Eredivisie[z]	^-
 Go Ahead Eagles vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199227/go-ahead-eagles-vs-nec-nijmegen.html
+Go Ahead Eagles vs NEC Nijmegen	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkwNzc1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 01:15 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216033/sporting-cp-vs-sporting-braga.html
+Sporting CP vs Sporting Braga	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODE0NzkzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 01:45 [y]Italian Serie A[z]	^-
 Juventus vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194610/juventus-vs-ac-milan.html
