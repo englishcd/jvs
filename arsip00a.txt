@@ -29,10 +29,6 @@ Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
 05-10-2005	^-
 
-06:30 [g]US Major League Soccer[z]	^-
-Inter Miami CF vs New England Revolution	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4105141/inter-miami-cf-vs-new-england-revolution.html
-Inter Miami CF vs New England Revolution	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2963453
-
 07:15 [g]Argentine Division 1[z]	^-
 Lanus vs San Lorenzo	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107643/club-atltico-lans-vs-san-lorenzo.html
 
