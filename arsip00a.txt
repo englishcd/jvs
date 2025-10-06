@@ -11,6 +11,16 @@
 🌐 [y]Join Our Telegram Channel:[z] [g]ontvr.blogspot.com[z]	^+https://t.me/s/ontvr_blogspot_com
 
 	^-
+NHL Network	`0https://embedstreams.top/embed/alpha/nhl-network/1
+NFL Network	`0https://embedsports.top/embed/alpha/nfl-network/1
+WWE Network	`0https://embedstreams.top/embed/alpha/wwe-network/1
+NBA TV	`0https://embedsports.top/embed/alpha/nba-tv/1
+MLB Network	`0https://embedstreams.top/embed/alpha/mlb-network/1
+Tennis Network	`0https://embedstreams.top/embed/alpha/tennis-channel/1
+Sky Sports F1	`0https://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
+Fox NRL TV	`0https://embedstreams.top/embed/alpha/fox-nrl-tv/1
+
+	^-
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
@@ -69,16 +79,6 @@ Deportivo Riestra vs Velez Sarsfield	https://ddkanq.vip/zhibo/25246.html
 ^#1. Moesif Origin/CORS Changer.[].i👉Use your Default-Factory Internet-Browser!👈[z].i	^-
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome browser for other streaming videos!👈[z].c	^-
 ^#	^-
-
-	^-
-NHL Network	`0https://embedstreams.top/embed/alpha/nhl-network/1
-NFL Network	`0https://embedsports.top/embed/alpha/nfl-network/1
-WWE Network	`0https://embedstreams.top/embed/alpha/wwe-network/1
-NBA TV	`0https://embedsports.top/embed/alpha/nba-tv/1
-MLB Network	`0https://embedstreams.top/embed/alpha/mlb-network/1
-Tennis Network	`0https://embedstreams.top/embed/alpha/tennis-channel/1
-Sky Sports F1	`0https://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
-Fox NRL TV	`0https://embedstreams.top/embed/alpha/fox-nrl-tv/1
 
 	^-
 K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
