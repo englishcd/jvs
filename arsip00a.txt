@@ -8,14 +8,14 @@
 ^=	^-
 
 	^-
-NHL Network	`0https://embedstreams.top/embed/alpha/nhl-network/1
-NFL Network	`0https://embedsports.top/embed/alpha/nfl-network/1
-WWE Network	`0https://embedstreams.top/embed/alpha/wwe-network/1
-NBA TV	`0https://embedsports.top/embed/alpha/nba-tv/1
-MLB Network	`0https://embedstreams.top/embed/alpha/mlb-network/1
-Tennis Network	`0https://embedstreams.top/embed/alpha/tennis-channel/1
-Sky Sports F1	`0https://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
-Fox NRL TV	`0https://embedstreams.top/embed/alpha/fox-nrl-tv/1
+NHL Network	`Shttps://embedstreams.top/embed/alpha/nhl-network/1
+NFL Network	`Shttps://embedsports.top/embed/alpha/nfl-network/1
+WWE Network	`Shttps://embedstreams.top/embed/alpha/wwe-network/1
+NBA TV	`Shttps://embedsports.top/embed/alpha/nba-tv/1
+MLB Network	`Shttps://embedstreams.top/embed/alpha/mlb-network/1
+Tennis Network	`Shttps://embedstreams.top/embed/alpha/tennis-channel/1
+Sky Sports F1	`Shttps://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
+Fox NRL TV	`Shttps://embedstreams.top/embed/alpha/fox-nrl-tv/1
 
 	^-
 🌐 [y]Join Our Facebook Group:[z] [l]blogtv.pages.dev[z]	^+https://www.facebook.com/groups/2244887909267695/
