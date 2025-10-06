@@ -11,16 +11,6 @@
 🌐 [y]Join Our Telegram Channel:[z] [g]ontvr.blogspot.com[z]	^+https://t.me/s/ontvr_blogspot_com
 
 	^-
-NHL Network	`0https://embedstreams.top/embed/alpha/nhl-network/1
-NFL Network	`0https://embedsports.top/embed/alpha/nfl-network/1
-WWE Network	`0https://embedstreams.top/embed/alpha/wwe-network/1
-NBA TV	`0https://embedsports.top/embed/alpha/nba-tv/1
-MLB Network	`0https://embedstreams.top/embed/alpha/mlb-network/1
-Tennis Network	`0https://embedstreams.top/embed/alpha/tennis-channel/1
-Sky Sports F1	`0https://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
-Fox NRL TV	`0https://embedstreams.top/embed/alpha/fox-nrl-tv/1
-
-	^-
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
@@ -39,32 +29,19 @@ Live Soccer TV Guide	`0https://www.livesoccertv.com/
 
 06-10-2005	^-
 
-08:00 [g]US Major League Soccer[z]	^-
-Los Angeles FC vs Atlanta United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4105262/los-angeles-fc-vs-atlanta-united.html
-Los Angeles FC vs Atlanta United	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzQxNzQwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Los Angeles FC vs Atlanta United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2963497
-Los Angeles FC vs Atlanta United	https://ddkanq.vip/zhibo/25239.html
-
-08:00 [g]Mexico Liga MX[z]	^-
-Pumas UNAM vs Chivas Guadalajara	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194286/pumas-unam-vs-chivas-guadalajara.html
-Pumas UNAM vs Chivas Guadalajara	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0MzEwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Pumas UNAM vs Chivas Guadalajara	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3718512
-Pumas UNAM vs Chivas Guadalajara	https://ddkanq.vip/zhibo/25240.html
-
-10:05 [g]Mexico Liga MX[z]	^-
-Club Tijuana vs Monterrey	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194280/club-tijuana-vs-monterrey.html
-Club Tijuana vs Monterrey	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3739689
-Club Tijuana vs Monterrey	https://ddkanq.vip/zhibo/25241.html
-
 15:30 Liga 2	^-
 Kendal Tornado FC vs Persi Balikpapan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284502/kendal-tornado-fc-vs-persiba-balikpapan.html
+Kendal Tornado FC vs Persi Balikpapan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3742990
 FC Bekasi City vs Sumsel United	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4285209/fc-bekasi-city-vs-sumsel-united.html
+FC Bekasi City vs Sumsel United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3742989
 
 15:45 Malaysia A1 Semi-Pro League	^-
 Kedah vs UM-Damansara United	`Fhttps://www.fctv33.net/football/malaysia-a1-semi-pro-league-match-4295902/kedah-da-fc-vs-um-damansara-united.html
+Kedah vs UM-Damansara United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3734426
 
 19:00 Indonesian Liga 2	^-
 Perse Lamongan vs Persipura Jayapura	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284685/persela-lamongan-vs-persipura-jayapura.html
+Perse Lamongan vs Persipura Jayapura	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3743000
 
 07-10-2005	^-
 
@@ -79,6 +56,16 @@ Deportivo Riestra vs Velez Sarsfield	https://ddkanq.vip/zhibo/25246.html
 ^#1. Moesif Origin/CORS Changer.[].i👉Use your Default-Factory Internet-Browser!👈[z].i	^-
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome browser for other streaming videos!👈[z].c	^-
 ^#	^-
+
+	^-
+NHL Network	`0https://embedstreams.top/embed/alpha/nhl-network/1
+NFL Network	`0https://embedsports.top/embed/alpha/nfl-network/1
+WWE Network	`0https://embedstreams.top/embed/alpha/wwe-network/1
+NBA TV	`0https://embedsports.top/embed/alpha/nba-tv/1
+MLB Network	`0https://embedstreams.top/embed/alpha/mlb-network/1
+Tennis Network	`0https://embedstreams.top/embed/alpha/tennis-channel/1
+Sky Sports F1	`0https://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
+Fox NRL TV	`0https://embedstreams.top/embed/alpha/fox-nrl-tv/1
 
 	^-
 K-Movies	https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
