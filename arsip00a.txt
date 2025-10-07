@@ -33,30 +33,7 @@ Fox NRL TV	`Shttps://embedstreams.top/embed/alpha/fox-nrl-tv/1
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome browser for other streaming videos!👈[z].c	^-
 ^#	^-
 
-07-10-2005	^-
-
-19:30 [l]UEFA U17 Football Championship[z]	^-
-Estonia vs Montenegro	`Fhttps://www.fctv33.net/football/uefa-european-u17-football-championship-match-4259983/estonia-u17-vs-montenegro-u17.html
-Estonia vs Montenegro	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODQ2MTA5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Ukraine vs Italy	`Fhttps://www.fctv33.net/football/uefa-european-u17-football-championship-match-4259984/ukraine-u17-vs-italy-u17.html
-Ukraine vs Italy	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODQ2MTA4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-
-23:45 [g]UEFA Women's Champions League[z]	^-
-Juventus vs Benfica	`Fhttps://www.fctv33.net/football/uefa-womens-champions-league-match-4287030/juventus-women-vs-benfica-women.html
-Juventus vs Benfica	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg0NzYwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Juventus vs Benfica	`0https://footylive.net/football/match/4558033/juventus-(w)-benfica-(w)
-Juventus vs Benfica	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3717803
-
 08-10-2005	^-
-
-02:00 [g]UEFA Women's Champions League[z]	^-
-Barcelona vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-womens-champions-league-match-4289583/barcelona-women-vs-bayern-munchen-women.html
-Barcelona vs Bayern Munchen	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg0NzYyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Barcelona vs Bayern Munchen	`0https://footylive.net/football/match/4558031/fc-barcelona-(w)-bayern-munchen-(w)
-Arsenal vs Lyon	`Fhttps://www.fctv33.net/football/uefa-womens-champions-league-match-4290106/arsenal-women-vs-ol-lyonnes-women.html
-Arsenal vs Lyon	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg0NzYxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Paris FC vs Oud Heverlee Leuven	`Fhttps://www.fctv33.net/football/uefa-womens-champions-league-match-4287140/paris-fc-women-vs-oud-heverlee-leuven-women.html
-Paris FC vs Oud Heverlee Leuven	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg0NzYzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 02:30 [l]U20 World Cup[z]	^-
 Ukraine vs Spain	`Fhttps://www.fctv33.net/football/fifa-u20-world-cup-match-4297370/ukraine-u20-vs-spain-u20.html
@@ -68,10 +45,45 @@ Chile vs Mexico	`Fhttps://www.fctv33.net/football/fifa-u20-world-cup-match-42970
 Chile vs Mexico	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg2NzQwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Chile vs Mexico	`0https://footylive.net/football/match/4585641/chile-u20-mexico-u20
 
+20:00 [l]World Cup CAF Qualifiers[z]	^-
+Libya vs Cape Verde	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856185/libya-vs-cape-verde-10-2025.html
+Mauritius vs Cameroon	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856186/mauritius-vs-cameroon-10-2025.html
+Eswatini vs Angola	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856187/eswatini-vs-angola-10-2025.html
+Ethiopia vs Guinea Bissau	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856191/ethiopia-vs-guinea-bissau-10-2025.html
+
+20:30 [g]UEFA U19 Championship[z]	^-
+Slovenia vs Austria	`Fhttps://www.fctv33.net/football/uefa-european-u19-football-championship-match-4295444/slovenia-u19-vs-austria-u19-10-2025.html
+
+22:00 [l]World Cup AFC Qualifiers[z]	^-
+Oman vs Qatar	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-afc-match-4227710/oman-vs-qatar-10-2025.html
+
+23:00 [l]World Cup CAF Qualifiers[z]	^-
+Djibouti vs Egypt	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856192/djibouti-vs-egypt-10-2025.html
+Sierra Leone vs Burkina Faso	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856193/sierra-leone-vs-burkina-faso-10-2025.html
+Comoros vs Madagascar	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856737/comoros-vs-madagascar-10-2025.html
+Chad vs Mali	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856738/chad-vs-mali-10-2025.html
+Central African Republic vs Ghana	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856741/central-african-republic-vs-ghana-10-2025.html
+
+23:45 [g]UEFA Women's Champions League[z]	^-
+FC Twente Enschede vs Chelsea FC	`Fhttps://www.fctv33.net/football/uefa-womens-champions-league-match-4290206/fc-twente-enschede-women-vs-chelsea-fc-women-10-2025.html
+Real Madrid vs AS Roma	`Fhttps://www.fctv33.net/football/uefa-womens-champions-league-match-4291099/real-madrid-women-vs-as-roma-women-10-2025.html
+
 09-10-2005	^-
 
-00:15 [l]World Cup Asian Qualifiers[z]	^-
+00:00 [l]International Friendly[z]	^-
+Gibraltar vs New Caledonia	`Fhttps://www.fctv33.net/football/international-friendly-match-4295839/gibraltar-vs-new-caledonia-10-2025.html
+
+00:15 [l]World Cup AFC Qualifiers[z]	^-
+Indonesia vs Saudi Arabia	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-afc-match-4271263/indonesia-vs-saudi-arabia-10-2025.html
 Indonesia vs Saudi Arabia	https://ddkanq.vip/zhibo/25270.html
+
+02:00 [g]UEFA Women's Champions League[z]	^-
+VfL Wolfsburg vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-womens-champions-league-match-4287824/vfl-wolfsburg-women-vs-paris-saint-germain-women-10-2025.html
+St. Polten vs Atletico de Madrid （w）	`Fhttps://www.fctv33.net/football/uefa-womens-champions-league-match-4290026/st-polten-women-vs-atletico-de-madrid-women-10-2025.html
+Manchester United vs Valerenga	`Fhttps://www.fctv33.net/football/uefa-womens-champions-league-match-4290105/manchester-united-women-vs-valerenga-women-10-2025.html
+
+02:30 [l]U20 World Cup[z]	^-
+Argentina vs Nigeria	`Fhttps://www.fctv33.net/football/fifa-u20-world-cup-match-4297368/argentina-u20-vs-nigeria-u20-10-2025.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. .f	^-
