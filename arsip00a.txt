@@ -9,15 +9,6 @@
 ^=	^-
 
 	^-
-NHL Network	`Shttps://embedstreams.top/embed/alpha/nhl-network/1
-NFL Network	`Shttps://embedsports.top/embed/alpha/nfl-network/1
-WWE Network	`Shttps://embedstreams.top/embed/alpha/wwe-network/1
-NBA TV	`Shttps://embedsports.top/embed/alpha/nba-tv/1
-MLB Network	`Shttps://embedstreams.top/embed/alpha/mlb-network/1
-Tennis Network	`Shttps://embedstreams.top/embed/alpha/tennis-channel/1
-Sky Sports F1	`Shttps://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
-
-	^-
 🌐 [y]Join Our Facebook Group:[z] [l]blogtv.pages.dev[z]	^+https://www.facebook.com/groups/2244887909267695/
 🌐 [y]Join Our Telegram Channel:[z] [g]ontvr.blogspot.com[z]	^+https://t.me/s/ontvr_blogspot_com
 
@@ -147,6 +138,14 @@ Colombia vs South Africa	`Fhttps://www.fctv33.net/football/fifa-u20-world-cup-ma
 Colombia vs South Africa	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg2NzQ2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Colombia vs South Africa	`0https://footylive.net/football/match/4587895/colombia-u20-south-africa-u20
 
+06:00 [l]U20 World Cup[z]	^-
+Japan vs France	`Fhttps://www.fctv33.net/football/fifa-u20-world-cup-match-4297366/japan-u20-vs-france-u20-10-2025.html
+Japan vs France	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg2NzQ4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Japan vs France	`0https://footylive.net/football/match/4587897/japan-u20-france-u20
+Paraguay vs Norway U20	`Fhttps://www.fctv33.net/football/fifa-u20-world-cup-match-4297367/paraguay-u20-vs-norway-u20-10-2025.html
+Paraguay vs Norway U20	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg2NzQ3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Paraguay vs Norway U20	`0https://footylive.net/football/match/4587896/paraguay-u20-norway-u20
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. .f	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z].f	^-
@@ -170,6 +169,15 @@ Timnas Indonesia	`0https://xstalk.com/profile/TimnasIndonesia
 	^-
 Schedule & Live Score	`0https://www.scorebat.com/embed/livescore/
 Live Soccer TV Guide	`0https://www.livesoccertv.com/
+
+	^-
+NHL Network	`Shttps://embedstreams.top/embed/alpha/nhl-network/1
+NFL Network	`Shttps://embedsports.top/embed/alpha/nfl-network/1
+WWE Network	`Shttps://embedstreams.top/embed/alpha/wwe-network/1
+NBA TV	`Shttps://embedsports.top/embed/alpha/nba-tv/1
+MLB Network	`Shttps://embedstreams.top/embed/alpha/mlb-network/1
+Tennis Network	`Shttps://embedstreams.top/embed/alpha/tennis-channel/1
+Sky Sports F1	`Shttps://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
 
 	^-
 👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
