@@ -1,10 +1,7 @@
 	^-
 ^=	^-
-^=SKYSPORTS1	http://mains.services/live/bshorty/Zv5le07a0J/3a3f7ae8-8967-4580-b030-4a66fea7167b.ts?zyy
-^=EuroSport 1	`0https://www.tvspacehd.com/2023/03/eurosport-1.html
 ^=fctvlive	`0https://www.fctv33.net/football.html
 ^=Live Sports	`0https://www.marza12.shop/football.html
-^=footylive	`0https://footylive.net/
 ^=Watching	`0https://ddkanq.vip/
 ^=Blank	
 ^=	^-
@@ -26,14 +23,6 @@
 ^#	^-
 
 10-10-2005	^-
-
-15:30 Liga 2	^-
-Persiku Kudus vs Barito Putera	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284499/persiku-kudus-vs-barito-putera.html
-Persiku Kudus vs Barito Putera	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg2Mjk5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Persiku Kudus vs Barito Putera	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3755172
-Pekanbaru United vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284510/pekanbaru-united-vs-sriwijaya-fc.html
-Pekanbaru United vs Sriwijaya FC	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg2MzAwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Pekanbaru United vs Sriwijaya FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3755238
 
 17:20 [l]International Friendly[z]	^-
 Japan vs Paraguay	`Fhttps://www.fctv33.net/football/international-friendly-match-4261807/japan-vs-paraguay.html
@@ -219,6 +208,42 @@ NBA TV	`Shttps://embedsports.top/embed/alpha/nba-tv/1
 MLB Network	`Shttps://embedstreams.top/embed/alpha/mlb-network/1
 Tennis Network	`Shttps://embedstreams.top/embed/alpha/tennis-channel/1
 Sky Sports F1	`Shttps://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
+
+	^-
+Sky Sports 1	http://mains.services/live/bshorty/Zv5le07a0J/3a3f7ae8-8967-4580-b030-4a66fea7167b.ts?zyy
+Sky Sports 2	http://mains.services/live/bshorty/Zv5le07a0J/6048d24e-681a-41ce-b7f6-0ed78c7d5f55.ts?zyy
+Sky Sports 3	http://mains.services/live/bshorty/Zv5le07a0J/6439eff4-b6a6-4d9b-abd0-9b4ea844439b.ts?zyy
+Sky Sports 4	http://mains.services/live/bshorty/Zv5le07a0J/03e6b7c2-32ff-4d7d-90a1-798a35905074.ts?zyy
+Sky Sports 5	http://mains.services/live/bshorty/Zv5le07a0J/f625580c-d706-491f-907b-2baad2c4117e.ts?zyy
+Sky Sports 6	http://mains.services/live/bshorty/Zv5le07a0J/9f04c0ed-39d9-446a-bc2a-c24d953adcab.ts?zyy
+Sky Sports 7	http://mains.services/live/bshorty/Zv5le07a0J/3e68d3de-5e71-41e0-9781-0cf763002a8c.ts?zyy
+Sky Sports 8 PL	http://mains.services/live/bshorty/Zv5le07a0J/7e851290-f8c3-4259-8ace-e45b71ed26ab.ts?zyy
+Sky Sports 9	http://mains.services/live/bshorty/Zv5le07a0J/45531087-726e-49cc-a815-9ccbdd8cb59d.ts?zyy
+Sky Sports Select	http://mains.services/live/bshorty/Zv5le07a0J/703b63c9-b5fd-446e-a221-5f87f5ab48ec.ts?zyy
+TNT Sports 1	http://mains.services/live/bshorty/Zv5le07a0J/6c5b4010-afa9-4e64-921b-263217b936da.ts?zyy
+TNT Sports 2	http://mains.services/live/bshorty/Zv5le07a0J/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.ts?zyy
+TNT Sports 3	http://mains.services/live/bshorty/Zv5le07a0J/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts?zyy
+TNT Sports 4	http://mains.services/live/bshorty/Zv5le07a0J/26a00017-1496-468f-8693-93df9e1b846f.ts?zyy
+Sky Sports Main Event	http://mains.services/live/bshorty/Zv5le07a0J/58c0e1ee-ae2e-4694-bb66-3e3eb6c57634.ts?zyy
+Sky Sports Premier League	http://mains.services/live/bshorty/Zv5le07a0J/c303e484-7208-4695-a34e-c962db644a86.ts?zyy
+Sky Sports Football	http://mains.services/live/bshorty/Zv5le07a0J/607a00ed-5cf2-45f6-9e37-1e352fe4ef20.ts?zyy
+Sky Sports Uno	http://mains.services/live/bshorty/Zv5le07a0J/ec6efe14-0b62-48d1-afa7-eca4f9770c16.ts?zyy
+Sky Sports Calcio	http://mains.services/live/bshorty/Zv5le07a0J/d41ab134-6dd8-4026-b0ef-27e8391fc46e.ts?zyy
+Now Sports Premier League 1	http://mains.services/live/bshorty/Zv5le07a0J/e9301034-7ab8-4915-86f2-9e092bb06134.ts?zyy
+Now Sports Premier League 2	http://mains.services/live/bshorty/Zv5le07a0J/41176be7-518a-4f04-a721-7d89161cf8fc.ts?zyy
+Now Sports Premier League 3	http://mains.services/live/bshorty/Zv5le07a0J/cbceee38-4772-4b22-b2bb-797ce06177ed.ts?zyy
+Now Sports Premier League 4	http://mains.services/live/bshorty/Zv5le07a0J/7367b8b8-f459-4be2-aee2-5e3f5e8d1f7e.ts?zyy
+Now Sports Premier League 5	http://mains.services/live/bshorty/Zv5le07a0J/5655f0f0-79f8-404d-a44c-128ef2e3c74d.ts?zyy
+Now Sports Premier League 6	http://mains.services/live/bshorty/Zv5le07a0J/93aa194a-e771-4070-9ee3-055230acc379.ts?zyy
+Now Sports Premier League TV	http://mains.services/live/bshorty/Zv5le07a0J/5153cfce-c89d-4937-901f-98bb480d35e5.ts?zyy
+Now Sports 1	http://mains.services/live/bshorty/Zv5le07a0J/82910fbe-545f-46aa-9087-4fb36c3faf17.ts?zyy
+Now Sports 2	http://mains.services/live/bshorty/Zv5le07a0J/8408dc5b-6b47-420d-aea8-3663518fd9d5.ts?zyy
+Now Sports 3	http://mains.services/live/bshorty/Zv5le07a0J/e59bdd37-d1c4-45f9-b307-50f91968fa1a.ts?zyy
+Now Sports 4	http://mains.services/live/bshorty/Zv5le07a0J/322241c0-e471-4ec9-82d1-2fb889181131.ts?zyy
+Now Sports 5	http://mains.services/live/bshorty/Zv5le07a0J/c116e69d-aa7a-4256-8fdc-5f76c305556e.ts?zyy
+Now Sports 6	http://mains.services/live/bshorty/Zv5le07a0J/68883709-7baf-47c8-9e3f-7f9977e63893.ts?zyy
+Now Sports 7	http://mains.services/live/bshorty/Zv5le07a0J/f36f7b89-f034-4923-b9b8-77d3764169f8.ts?zyy
+USA Network East	http://mains.services/live/bshorty/Zv5le07a0J/3c446837-2d88-4a34-bcb9-7a2d026848a4.ts?zyy
 
 	^-
 👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
