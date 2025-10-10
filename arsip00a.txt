@@ -25,11 +25,6 @@
 
 10-10-2005	^-
 
-06:00 [l]U20 World Cup[z]	^-
-Morocco vs Korea Republic	`Fhttps://www.fctv33.net/football/fifa-u20-world-cup-match-4297201/morocco-u20-vs-south-korea-u20.html
-Morocco vs Korea Republic	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg2NzUwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Morocco vs Korea Republic	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3764816
-
 07:00 [l]World Cup CONCACAF Qualifiers[z]	^-
 Nicaragua vs Haiti	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193183/nicaragua-vs-haiti.html
 Nicaragua vs Haiti	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg3MjA5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -38,46 +33,95 @@ Nicaragua vs Haiti	https://ddkanq.vip/zhibo/25315.html
 
 09:00 [l]World Cup CONCACAF Qualifiers[z]	^-
 Honduras vs Costa Rica	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193190/honduras-vs-costa-rica.html
-Honduras vs Costa Rica	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg3MjA4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Honduras vs Costa Rica	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3729480
-Honduras vs Costa Rica	https://ddkanq.vip/zhibo/25319.html
 
 17:20 [l]International Friendly[z]	^-
 Japan vs Paraguay	`Fhttps://www.fctv33.net/football/international-friendly-match-4261807/japan-vs-paraguay.html
-Japan vs Paraguay	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3755177
-Japan vs Paraguay	https://ddkanq.vip/zhibo/25322.html
 
 18:30 [l]International U23 Friendly[z]	^-
 China vs Thailand	`Fhttps://www.fctv33.net/football/international-friendly-match-4293355/china-u23-vs-thailand-u23.html
 
-19:00 [l]World Cup CAF Qualifiers[z]	^-
-South Sudan vs Senegal	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856687/south-sudan-vs-senegal.html
-South Sudan vs Senegal	https://ddkanq.vip/zhibo/25324.html
-
 19:45 [l]International Friendly[z]	^-
 Uruguay vs Dominican Republic	`Fhttps://www.fctv33.net/football/international-friendly-match-4296783/uruguay-vs-dominican-republic.html
-Uruguay vs Dominican Republic	`Fhttps://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3744191
 
 20:00 [l]International U23 Friendly[z]	^-
 Indonesia 🇮🇩 vs India 🇮🇳	`Fhttps://www.fctv33.net/football/international-friendly-match-4296786/indonesia-u23-vs-india-u23.html
 
 20:00 [l]World Cup CAF Qualifiers[z]	^-
+South Sudan vs Senegal	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856687/south-sudan-vs-senegal.html
 Togo vs Democratic Rep Congo	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856688/togo-vs-democratic-republic-of-the-congo.html
-Togo vs Democratic Rep Congo	https://ddkanq.vip/zhibo/25327.html
 Sudan vs Mauritania	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856689/sudan-vs-mauritania.html
-Sudan vs Mauritania	https://ddkanq.vip/zhibo/25328.html
 Gambia vs Gabon	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3857094/gambia-vs-gabon.html
-Gambia vs Gabon	https://ddkanq.vip/zhibo/25329.html
 Seychelles vs Ivory Coast	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3857097/seychelles-vs-cote-divoire.html
-Seychelles vs Ivory Coast	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3753791
-Seychelles vs Ivory Coast	https://ddkanq.vip/zhibo/25326.html
 
 21:00 [l]World Cup UEFA Qualifiers[z]	^-
 Kazakhstan vs Liechtenstein	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4135663/kazakhstan-vs-liechtenstein.html
-Kazakhstan vs Liechtenstein	https://ddkanq.vip/zhibo/25330.html
 
 21:00 [l]Elite League U20[z]	^-
 Romania vs Czech Republic	`Fhttps://www.fctv33.net/football/elite-league-u20-match-4296796/romania-u20-vs-czechia-republic-u20.html
+
+23:00 [l]World CupCAF Qualifiers[z]	^-
+Sao Tome Principe vs Tunisia	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856412/sao-tome---principe-vs-tunisia.html
+Lesotho vs Nigeria	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856672/lesotho-vs-nigeria.html
+Zimbabwe vs South Africa	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856674/zimbabwe-vs-south-africa.html
+Rwanda vs Benin	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856679/rwanda-vs-benin.html
+
+23:00 [l]UEFA U21 Champ Qualifiers[z]	^-
+Poland vs Montenegro	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188610/poland-u21-vs-montenegro-u21.html
+Germany vs Greece	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189315/germany-u21-vs-greece-u21.html
+Moldova vs England	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189594/moldova-u21-vs-england-u21.html
+Ukraine vs Hungary	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189633/ukraine-u21-vs-hungary-u21.html
+Denmark vs Austria	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189830/denmark-u21-vs-austria-u21.html
+Estonia vs Luxembourg	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190361/estonia-u21-vs-luxembourg-u21.html
+Faroe Islands vs France	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190363/faroe-islands-u21-vs-france-u21.html
+Bosnia-Herzegovina vs Netherlands	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190385/bosnia-herzegovina-u21-vs-netherlands-u21.html
+
+23:00 [l]Elite League U20[z]	^-
+Portugal vs Germany	`Fhttps://www.fctv33.net/football/elite-league-u20-match-4270911/portugal-u20-vs-germany-u20.html
+
+23:00 [l]International Friendly[z]	^-
+Bolivia vs Jordan	`Fhttps://www.fctv33.net/football/international-friendly-match-4297070/bolivia-vs-jordan.html
+
+23:00 [l]International U21 Friendly[z]	^-
+Romania vs Serbia	`Fhttps://www.fctv33.net/football/international-friendly-match-4298408/romania-u21-vs-serbia-u21.html
+
+23:15 [l]UEFA U21 Champ Qualifiers[z]	^-
+Italy vs Sweden	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188615/italy-u21-vs-sweden-u21.html
+
+23:30 [l]UEFA U21 Champ Qualifiers[z]	^-
+Switzerland vs Iceland	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190360/switzerland-u21-vs-iceland-u21.html
+
+11-10-2005	^-
+
+00:00 [l]UEFA U21 Champ Qualifiers[z]	^-
+Turkey vs Lithuania	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189065/turkiye-u21-vs-lithuania-u21.html
+Wales vs Belgium	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189819/wales-u21-vs-belgium-u21.html
+
+01:45 [l]World Cup qualification (UEFA)[z]	^-
+Belgium vs North Macedonia	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4135667/belgium-vs-north-macedonia.html
+Kosovo vs Slovenia	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155505/kosovo-vs-slovenia.html
+Sweden vs Switzerland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155509/sweden-vs-switzerland.html
+France vs Azerbaijan	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155514/france-vs-azerbaijan.html
+Iceland vs Ukraine	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155515/iceland-vs-ukraine.html
+Northern Ireland vs Slovakia	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155531/northern-ireland-vs-slovakia.html
+Germany vs Luxembourg	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155535/germany-vs-luxembourg.html
+
+04:00 [l]World CupCONCACAF Qqualifiers[z]	^-
+Suriname vs Guatemala	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193227/suriname-vs-guatemala.html
+
+05:00 [l]World CupCONCACAF Qqualifiers[z]	^-
+Bermuda vs Trinidad Tobago	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193441/bermuda-vs-trinidad-tobago.html
+
+06:00 [l]World CupCONCACAF Qqualifiers[z]	^-
+Curacao vs Jamaica	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193438/curacao-vs-jamaica.html
+
+06:00 [l]International Friendly[z]	^-
+Chile vs Peru	`Fhttps://www.fctv33.net/football/international-friendly-match-4297066/chile-vs-peru.html
+
+06:30 [l]International Friendly[z]	^-
+Canada vs Australia	`Fhttps://www.fctv33.net/football/international-friendly-match-4261806/canada-vs-australia.html
+
+07:30 [l]International Friendly[z]	^-
+USA vs Ecuador	`Fhttps://www.fctv33.net/football/international-friendly-match-4261805/usa-vs-ecuador.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. .f	^-
