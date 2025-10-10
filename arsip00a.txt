@@ -52,6 +52,7 @@ Moldova vs England	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&ma
 Ukraine vs Hungary	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189633/ukraine-u21-vs-hungary-u21.html
 Ukraine vs Hungary	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3742032
 Denmark vs Austria	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189830/denmark-u21-vs-austria-u21.html
+Denmark vs Austria	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3755465
 Estonia vs Luxembourg	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190361/estonia-u21-vs-luxembourg-u21.html
 Estonia vs Luxembourg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3742038
 Faroe Islands vs France	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190363/faroe-islands-u21-vs-france-u21.html
@@ -117,7 +118,7 @@ Germany vs Luxembourg	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y
 Germany vs Luxembourg	https://ddkanq.vip/zhibo/25355.html
 
 02:00 [l]International U21 Friendly[z]	^-
-Spainvs Norway	`Fhttps://www.fctv33.net/football/international-friendly-match-4297067/spain-u21-vs-norway-u21-10-2025.html
+Spain vs Norway	`Fhttps://www.fctv33.net/football/international-friendly-match-4297067/spain-u21-vs-norway-u21-10-2025.html
 
 04:00 [l]World Cup CONCACAF Qualifiers[z]	^-
 Suriname vs Guatemala	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193227/suriname-vs-guatemala.html
