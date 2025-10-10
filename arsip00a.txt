@@ -31,6 +31,9 @@ Honduras vs Costa Rica	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualific
 17:20 [l]International Friendly[z]	^-
 Japan vs Paraguay	`Fhttps://www.fctv33.net/football/international-friendly-match-4261807/japan-vs-paraguay.html
 
+18:30 [l]International U23 Friendly[z]	^-
+China vs Thailand	`Fhttps://www.fctv33.net/football/international-friendly-match-4293355/china-u23-vs-thailand-u23.html
+
 19:45 [l]International Friendly[z]	^-
 Uruguay vs Dominican Republic	`Fhttps://www.fctv33.net/football/international-friendly-match-4296783/uruguay-vs-dominican-republic.html
 
@@ -71,6 +74,9 @@ Portugal vs Germany	`Fhttps://www.fctv33.net/football/elite-league-u20-match-427
 
 23:00 [l]International Friendly[z]	^-
 Bolivia vs Jordan	`Fhttps://www.fctv33.net/football/international-friendly-match-4297070/bolivia-vs-jordan.html
+
+23:00 [l]International U21 Friendly[z]	^-
+Romania vs Serbia	`Fhttps://www.fctv33.net/football/international-friendly-match-4298408/romania-u21-vs-serbia-u21.html
 
 23:15 [l]UEFA U21 Champ Qualifiers[z]	^-
 Italy vs Sweden	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188615/italy-u21-vs-sweden-u21.html
