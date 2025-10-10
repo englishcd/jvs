@@ -1,6 +1,7 @@
 	^-
 ^=	^-
 ^=SKYSPORTS1	http://mains.services/live/bshorty/Zv5le07a0J/3a3f7ae8-8967-4580-b030-4a66fea7167b.ts?zyy
+^=EuroSport 1	https://www.tvspacehd.com/2023/03/eurosport-1.html
 ^=fctvlive	`0https://www.fctv33.net/football.html
 ^=Live Sports	`0https://www.marza12.shop/football.html
 ^=footylive	`0https://footylive.net/
