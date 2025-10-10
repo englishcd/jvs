@@ -15,11 +15,11 @@
 [y]Live Football Events[z]	^-
 
 	^-
-^@[].f Two Pop-Ups: Ads and The Live Streaming. .f	^-
-^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z].f	^-
-^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox with Extension: Ignore X-Frame-Options!👈[z].f	^-
-^#1. Moesif Origin/CORS Changer.[].i👉Use your Default-Factory Internet-Browser!👈[z].i	^-
-^#2. Ignore X=Frame headers.[].c👉Use Chrome browser for other streaming videos!👈[z].c	^-
+^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
+^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
+^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox with Extension: Ignore X-Frame-Options!👈[z]f.	^-
+^#1. Moesif Origin/CORS Changer.[].i👉Use Via Browser or the Default-Factory Internet-Browser!👈[z]i.	^-
+^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
 10-10-2005	^-
@@ -186,11 +186,11 @@ El Salvador vs Panama	`Fhttps://ppdd05.playerktidfintkd.shop/live.html?_pa=bWF0Y
 El Salvador vs Panama	https://ddkanq.vip/zhibo/25370.html
 
 	^-
-^@[].f Two Pop-Ups: Ads and The Live Streaming. .f	^-
-^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z].f	^-
-^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox with Extension: Ignore X-Frame-Options!👈[z].f	^-
-^#1. Moesif Origin/CORS Changer.[].i👉Use your Default-Factory Internet-Browser!👈[z].i	^-
-^#2. Ignore X=Frame headers.[].c👉Use Chrome browser for other streaming videos!👈[z].c	^-
+^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
+^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
+^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox with Extension: Ignore X-Frame-Options!👈[z]f.	^-
+^#1. Moesif Origin/CORS Changer.[].i👉Use Via Browser or the Default-Factory Internet-Browser!👈[z]i.	^-
+^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
 	^-
