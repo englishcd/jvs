@@ -24,20 +24,6 @@
 
 12-10-2005	^-
 
-06:00 [l]U20 World Cup[z]	^-
-Mexico vs Argentina	`Fhttps://www.fctv33.net/football/fifa-u20-world-cup-match-4298352/mexico-u20-vs-argentina-u20.html
-Mexico vs Argentina	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3773798
-
-06:30 [g]US Major League Soccer[z]	^-
-Inter Miami CF vs Atlanta United	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4105122/inter-miami-cf-vs-atlanta-united.html
-Inter Miami CF vs Atlanta United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3531269
-
-06:30 [l]International Friendly[z]	^-
-Grenada vs Cuba	`Fhttps://www.fctv33.net/football/international-friendly-match-4297850/grenada-vs-cuba.html
-
-08:00 [l]International Friendly[z]	^-
-Mexico vs Colombia	`Fhttps://www.fctv33.net/football/international-friendly-match-4261804/mexico-vs-colombia.html
-
 15:30 Liga 2	^-
 PSS Sleman vs Kendal Tornado FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284505/pss-sleman-vs-kendal-tornado-fc.html
 Sumsel United vs Persekat Tegal	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284758/sumsel-united-vs-persekat-tegal.html
@@ -54,6 +40,9 @@ San Marino vs Cyprus	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualificat
 20:30 Liga 2	^-
 Persiraja Aceh vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284756/persiraja-aceh-vs-fc-bekasi-city.html
 
+23:00 [l]World Cup CAF Qualifiers[z]	^-
+Chad vs Central African Republic	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856740/chad-vs-central-african-republic.html
+
 23:00 [l]World Cup UEFA Qualifiers[z]	^-
 Scotland vs Belarus	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155544/scotland-vs-belarus.html
 Faroe Islands vs Czech	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155979/faroe-islands-vs-czechia.html
@@ -67,6 +56,7 @@ Malta vs Bosnia-Herzegovina	`Fhttps://www.fctv33.net/football/international-frie
 01:45 [l]World Cup UEFA Qualifiers[z]	^-
 Romania vs Austria	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155542/romania-vs-austria.html
 Denmark vs Greece	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155545/denmark-vs-greece.html
+Lithuania vs Poland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155859/lithuania-vs-poland.html
 Croatia vs Gibraltar	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155969/croatia-vs-gibraltar.html
 
 02:00 [l]World Cup CAF Qualifiers[z]	^-
@@ -78,6 +68,9 @@ Mali vs Madagascar	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualificatio
 
 03:00 [l]U20 World Cup[z]	^-
 USA vs Morocco	`Fhttps://www.fctv33.net/football/fifa-u20-world-cup-match-4298539/usa-u20-vs-morocco-u20.html
+
+06:00 [l]U20 World Cup[z]	^-
+Norway vs France	`Fhttps://www.fctv33.net/football/fifa-u20-world-cup-match-4298481/norway-u20-vs-france-u20.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
