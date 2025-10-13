@@ -24,12 +24,18 @@
 
 13-10-2005	^-
 
+16:00 [l]International Friendly U19[z]	^-
+Italy vs Scotland	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3770198
+
+17:00 [l]International Friendly U19[z]	^-
+Slovakia vs Finland	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3785862
+
 19:45 [l]International Friendly[z]	^-
 Uzbekistan vs Uruguay	`Fhttps://www.fctv33.net/football/international-friendly-match-4298611/uzbekistan-vs-uruguay.html
 Uzbekistan vs Uruguay	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg3NzUxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Uzbekistan vs Uruguay	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3744192
 
-20:00 [l]International Friendly[z]	^-
+20:00 [l]International Friendly U23[z]	^-
 Indonesia 🇮🇩 vs India 🇮🇳	`Fhttps://www.fctv33.net/football/international-friendly-match-4298010/indonesia-u23-vs-india-u23.html
 Indonesia 🇮🇩 vs India 🇮🇳	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg3Mjg2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Indonesia 🇮🇩 vs India 🇮🇳	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3784367
@@ -51,6 +57,9 @@ South Sudan vs Togo	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualificati
 South Sudan vs Togo	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNDk4NjQwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 South Sudan vs Togo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2600001
 South Sudan vs Togo	https://ddkanq.vip/zhibo/25447.html
+
+20:20 [l]International Friendly U23[z]	^-
+United Arab Emirates vs Jordan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3786387
 
 21:00 [l]Elite League U20[z]	^-
 Portugal vs Germany	`Fhttps://www.fctv33.net/football/elite-league-u20-match-4270910/portugal-u20-vs-germany-u20.html
@@ -78,16 +87,22 @@ Lesotho vs Zimbabwe	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2h
 Lesotho vs Zimbabwe	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2600023
 Lesotho vs Zimbabwe	https://ddkanq.vip/zhibo/25468.html
 
+23:30 [l]UEFA U21 Champ Qualifiers[z]	^-
+France vs Estonia	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190362/france-u21-vs-estonia-u21.html
+France vs Estonia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3694701
+
 23:00 [l]International Friendly[z]	^-
 Montenegro vs Liechtenstein	`Fhttps://www.fctv33.net/football/international-friendly-match-4298623/montenegro-vs-liechtenstein.html
 Montenegro vs Liechtenstein	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg3NzUyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Montenegro vs Liechtenstein	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3039099
 
-23:30 [l]UEFA U21 Champ Qualifiers[z]	^-
-France vs Estonia	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190362/france-u21-vs-estonia-u21.html
-France vs Estonia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3694701
+23:00 [l]International Friendly U19[z]	^-
+Malta vs Belarus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3785872
 
 14-10-2005	^-
+
+00:00 [l]International Friendly[z]	^-
+Algeria vs Palestine	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3786500
 
 01:45 [l]World Cup UEFA Qualifiers[z]	^-
 North Macedonia vs Kazakhstan	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4135662/north-macedonia-vs-kazakhstan.html
