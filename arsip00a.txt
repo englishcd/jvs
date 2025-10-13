@@ -37,67 +37,101 @@ Costa Rica vs Nicaragua	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId
 15:00 [l]International Friendly U23[z]	^-
 China vs Thailand	`Fhttps://www.fctv33.net/football/international-friendly-match-4293354/china-u23-vs-thailand-u23.html
 
+16:00 [l]International Friendly U19[z]	^-
+Netherlands vs France	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3784374
+Romania vs Cyprus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3788060
+
+17:00 [l]International Friendly U19[z]	^-
+Poland vs Turkey	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3787470
+
 17:00 [l]UEFA U19 Football Champ[z]	^-
 Luxembourg vs Slovenia	`Fhttps://www.fctv33.net/football/uefa-european-u19-football-championship-match-4297376/luxembourg-u19-vs-slovenia-u19.html
+Luxembourg vs Slovenia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3749234
 
 17:30 [l]Japanese Challenge Cup[z]	^-
 Japan vs Brazil	`Fhttps://www.fctv33.net/football/japanese-challenge-cup-match-4265544/japan-vs-brazil.html
+Japan vs Brazil	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3768470
 
 17:30 [l]AFC Asian Cup[z]	^-
 Maldives vs Tajikistan	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099591/maldives-vs-tajikistan.html
+Maldives vs Tajikistan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3769477
 Chinese Taipei vs Thailand	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099603/chinese-taipei-vs-thailand.html
+Chinese Taipei vs Thailand	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3751512
 Myanmar vs Syrian	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099878/myanmar-vs-syria.html
+Myanmar vs Syrian	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3767580
 
 18:00 [l]AFC Asian Cup[z]	^-
 Philippines vs Timor Leste	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099592/philippines-vs-timor-leste.html
+Philippines vs Timor Leste	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3764275
 
 18:00 [l]International Friendly[z]	^-
 South Korea vs Paraguay	`Fhttps://www.fctv33.net/football/international-friendly-match-4261803/south-korea-vs-paraguay.html
+South Korea vs Paraguay	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3772396
 
 19:00 [l]AFC Asian Cup[z]	^-
 Hong Kong vs Bangladesh	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099610/hong-kong-vs-bangladesh.html
+Hong Kong vs Bangladesh	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3767577
 
 19:30 [l]AFC Asian Cup[z]	^-
 Nepal vs Vietnam	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099638/nepal-vs-vietnam.html
+Nepal vs Vietnam	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3769483
 
 20:00 [l]World Cup CAF Qualifiers[z]	^-
 Seychelles vs Gambia	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3857100/seychelles-vs-gambia.html
+Seychelles vs Gambia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3768055
 
 20:00 [l]AFC Asian Cup[z]	^-
 Malaysia vs Laos	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099641/malaysia-vs-laos.html
+Malaysia vs Laos	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3744193
 
 20:00 [l]UEFA U17 Football Champ[z]	^-
 Moldova vs Belarus	`Fhttps://www.fctv33.net/football/uefa-european-u17-football-championship-match-4259277/moldova-u17-vs-belarus-u17.html
 Norway vs Belgium	`Fhttps://www.fctv33.net/football/uefa-european-u17-football-championship-match-4259278/norway-u17-vs-belgium-u17.html
+
+20:45 [l]International Friendly U19[z]	^-
+Portugal vs Denmark	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3784376
 
 20:45 [l]AFC Asian Cup[z]	^-
 Turkmenistan vs Sri Lanka	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099606/turkmenistan-vs-sri-lanka.html
 
 21:00 [l]AFC Asian Cup[z]	^-
 India vs Singapore	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099605/india-vs-singapore.html
+India vs Singapore	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3767579
 
 21:00 [l]UEFA U21 Champ Qualifiers[z]	^-
 Latvia vs Greece	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189319/latvia-u21-vs-greece-u21.html
+Latvia vs Greece	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3742046
 
 22:00 [l]UEFA U21 Champ Qualifiers[z]	^-
 Azerbaijan vs Scotland	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188469/azerbaijan-u21-vs-scotland-u21.html
+Azerbaijan vs Scotland	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3742048
 Iceland vs Luxembourg	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190364/iceland-u21-vs-luxembourg-u21.html
+Iceland vs Luxembourg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3742055
 
 22:00 [l]UEFA U19 Football Champ[z]	^-
 Germany vs Norway	`Fhttps://www.fctv33.net/football/uefa-european-u19-football-championship-match-4297438/germany-u19-vs-norway-u19.html
+Germany vs Norway	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3769515
+Kosovo vs Armenia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3769522
 
 23:00 [l]World Cup CAF Qualifiers[z]	^-
 Algeria vs Uganda	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856261/algeria-vs-uganda.html
+Algeria vs Uganda	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3751787
 Somalia vs Mozambique	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856264/somalia-vs-mozambique.html
+Somalia vs Mozambique	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3769533
 Guinea vs Botswana	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856265/guinea-vs-botswana.html
+Guinea vs Botswana	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3769524
 South Africa vs Rwanda	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856690/south-africa-vs-rwanda.html
+South Africa vs Rwanda	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3751784
 Nigeria vs Benin	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3856692/nigeria-vs-benin.html
+Nigeria vs Benin	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3768054
 
 23:00 [l]AFC Asian Cup[z]	^-
 Bhutan vs Lebanon	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4100269/bhutan-vs-lebanon.html
+Bhutan vs Lebanon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3769478
 
 23:00 [l]World Cup UEFA Qualifiers[z]	^-
 Estonia vs Moldova	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4156473/estonia-vs-moldova.html
+Estonia vs Moldova	`Fhttps://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2880266
 
 23:00 [l]UEFA U21 Champ Qualifiers[z]	^-
 Bulgaria vs Czech Republic	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188468/bulgaria-u21-vs-czechia-republic-u21.html
@@ -124,6 +158,7 @@ Northern Ireland vs Germany	`Fhttps://www.fctv33.net/football/uefa-european-u21-
 
 00:00 [l]AFC Asian Cup[z]	^-
 Afghanistan vs Pakistan	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099876/afghanistan-vs-pakistan.html
+Afghanistan vs Pakistan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3769482
 Yemen vs Brunei Darussalam	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4100268/yemen-vs-brunei-darussalam.html
 
 00:00 [l]UEFA U21 Champ Qualifiers[z]	^-
