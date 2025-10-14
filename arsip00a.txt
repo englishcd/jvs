@@ -65,6 +65,9 @@ South Korea vs Paraguay	`Fhttps://www.fctv33.net/football/international-friendly
 South Korea vs Paraguay	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3772396
 South Korea vs Paraguay	https://ddkanq.vip/zhibo/25484.html
 
+19:00 [l]International Friendly U21[z]	^-
+Uzbekistan vs Kazakhstan	`Fhttps://www.fctv33.net/football/international-friendly-match-4300229/uzbekistan-u20-vs-kazakhstan-u21.html
+
 19:00 [l]AFC Asian Cup[z]	^-
 Hong Kong vs Bangladesh	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4099610/hong-kong-vs-bangladesh.html
 Hong Kong vs Bangladesh	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3767577
@@ -162,6 +165,7 @@ Norway vs New Zealand	https://ddkanq.vip/zhibo/25496.html
 Italy vs Armenia	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188614/italy-u21-vs-armenia-u21.html
 
 23:30 [l]UEFA U21 Champ Qualifiers[z]	^-
+Spain vs Finland	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188613/spain-u21-vs-finland-u21.html
 Northern Ireland vs Germany	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189320/northern-ireland-u21-vs-germany-u21.html
 
 15-10-2005	^-
@@ -218,6 +222,28 @@ Ivory Coast vs Kenya	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualificat
 Ivory Coast vs Kenya	https://ddkanq.vip/zhibo/25516.html
 Gabon vs Burundi	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-3857099/gabon-vs-burundi.html
 Gabon vs Burundi	https://ddkanq.vip/zhibo/25515.html
+
+06:00 [l]World Cup CONCACAF Qualifiers[z]	^-
+Curacao vs Trinidad Tobago	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193440/curacao-vs-trinidad-tobago.html
+
+07:00 [l]World Cup CONCACAF Qualifiers[z]	^-
+Jamaica vs Bermuda	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193444/jamaica-vs-bermuda.html
+
+07:00 [l]International Friendly[z]	^-
+Canada vs Colombia	`Fhttps://www.fctv33.net/football/international-friendly-match-4298641/canada-vs-colombia.html
+Puerto Rico vs Argentina	`Fhttps://www.fctv33.net/football/international-friendly-match-4299287/puerto-rico-vs-argentina.html
+
+08:00 [l]World Cup CONCACAF Qualifiers[z]	^-
+Panama vs Suriname	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193222/panama-vs-suriname.html
+
+08:00 [l]International Friendly[z]	^-
+USA vs Australia	`Fhttps://www.fctv33.net/football/international-friendly-match-4261801/usa-vs-australia.html
+
+09:00 [l]World Cup CONCACAF Qualifiers[z]	^-
+El Salvador vs Guatemala	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193226/el-salvador-vs-guatemala.html
+
+09:30 [l]International Friendly[z]	^-
+Mexico vs Ecuador	`Fhttps://www.fctv33.net/football/international-friendly-match-4261802/mexico-vs-ecuador.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
