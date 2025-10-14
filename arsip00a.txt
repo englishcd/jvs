@@ -142,10 +142,16 @@ Switzerland vs Northern Ireland	`3https://embed-10-08-12-51.linkzhe.eu.org/embed
 
 23:15 [l]UEFA U21 Champ Qualifiers[z]	^-
 Italy vs Armenia	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188614/italy-u21-vs-armenia-u21.html
+Italy vs Armenia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3769191
 
 23:30 [l]UEFA U21 Champ Qualifiers[z]	^-
 Spain vs Finland	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188613/spain-u21-vs-finland-u21.html
+Spain vs Finland	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3742053
 Northern Ireland vs Germany	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189320/northern-ireland-u21-vs-germany-u21.html
+Northern Ireland vs Germany	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3769205
+
+23:30 [l]International Friendly U21[z]	^-
+Netherlands vs Lithuania	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3789204
 
 15-10-2005	^-
 
@@ -156,25 +162,33 @@ Afghanistan vs Pakistan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId
 Afghanistan vs Pakistan	https://ddkanq.vip/zhibo/25500.html
 Yemen vs Brunei Darussalam	`Fhttps://www.fctv33.net/football/afc-asian-cup-match-4100268/yemen-vs-brunei-darussalam.html
 Yemen vs Brunei Darussalam	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzA5NjMxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Yemen vs Brunei Darussalam	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3769499
 Yemen vs Brunei Darussalam	https://ddkanq.vip/zhibo/25501.html
 
 00:00 [l]UEFA U21 Champ Qualifiers[z]	^-
 Gibraltar vs Portugal	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188480/gibraltar-u21-vs-portugal-u21.html
+Gibraltar vs Portugal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3742051
 Malta vs Georgia	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189322/malta-u21-vs-georgia-u21.html
+Malta vs Georgia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3742049
 Faroe Islands vs Switzerland	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190367/faroe-islands-u21-vs-switzerland-u21.html
+Faroe Islands vs Switzerland	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3742045
 
 00:00 [l]World Cup AFC Qualifiers[z]	^-
 Qatar vs United Arab Emirates	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-afc-match-4227709/qatar-vs-united-arab-emirates.html
 Qatar vs United Arab Emirates	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODU4ODA3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Qatar vs United Arab Emirates	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716036
 Qatar vs United Arab Emirates	https://ddkanq.vip/zhibo/25503.html
 
 00:00 [l]International Friendly[z]	^-
 Russia vs Bolivia	`Fhttps://www.fctv33.net/football/international-friendly-match-4298395/russia-vs-bolivia.html
 Russia vs Bolivia	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg3ODA0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Russia vs Bolivia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3597077
 Albania vs Jordan	`Fhttps://www.fctv33.net/football/international-friendly-match-4298646/albania-vs-jordan.html
+Albania vs Jordan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3718131
 
 01:00 [l]UEFA U21 Champ Qualifiers[z]	^-
 Belgium vs Denmark	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189816/belgium-u21-vs-denmark-u21.html
+Belgium vs Denmark	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3749159
 
 01:45 [l]World Cup UEFA Qualifiers[z]	^-
 Turkey vs Georgia	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155518/turkiye-vs-georgia.html
