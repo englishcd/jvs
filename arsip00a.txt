@@ -24,21 +24,6 @@
 
 18-10-2005	^-
 
-15:30 Liga 1	^-
-Borneo FC vs Persik Kediri	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229556/borneo-fc-vs-persik-kediri.html
-Borneo FC vs Persik Kediri	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODI2MjIyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Borneo FC vs Persik Kediri	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3770993
-
-15:30 Liga 2	^-
-FC Bekasi City vs Garudayaksa FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284754/fc-bekasi-city-vs-garudayaksa-fc.html
-FC Bekasi City vs Garudayaksa FC	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg5MzEyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-FC Bekasi City vs Garudayaksa FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3781646
-Pekanbaru United vs Sumsel United	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4284761/pekanbaru-united-vs-sumsel-united.html
-Pekanbaru United vs Sumsel United	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg5MzE0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Barito Putera vs Persela Lamongan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4285206/barito-putera-vs-persela-lamongan.html
-Barito Putera vs Persela Lamongan	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg5MzExJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Barito Putera vs Persela Lamongan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3781595
-
 18:30 [y]English Premier League[z]	^-
 Nottingham Forest vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193926/nottingham-forest-vs-chelsea.html
 Nottingham Forest vs Chelsea	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjA1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -1324,6 +1309,12 @@ Wowow Cinema 🇯🇵	`0i3`03wcinema/index.m3u8
 Wowow Live 🇯🇵	`0i3`03wlive/index.m3u8
 Wowow Prime 🇯🇵	`0i3`03wprime/index.m3u8
 Yomiuri TV 🇯🇵	`0i3`03ytv/index.m3u8
+
+Racing TV	https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3u8
+Tennis TV	https://dddd.dracwoundshop.eu.org/tennis1.m3u8
+Chess TV	https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
+Fubo Sports	https://livetv-fa.tubi.video/fubo/5.m3u8
+Golf TV	https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
 
 ^=0dd-124	`0https://daddylivehd1.my/embed/stream-124.php
 ^=1dd-124	`1https://daddylivehd1.my/embed/stream-124.php
