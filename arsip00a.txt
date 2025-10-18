@@ -72,6 +72,7 @@ FC Koln vs FC Augsburg	https://ddkanq.vip/zhibo/25665.html
 FSV Mainz 05 vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199677/1-fsv-mainz-05-vs-bayer-04-leverkusen.html
 FSV Mainz 05 vs Bayer Leverkusen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3668564
 FSV Mainz 05 vs Bayer Leverkusen	https://ddkanq.vip/zhibo/25667.html
+FSV Mainz 05 vs Bayer Leverkusen	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 RB Leipzig vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199689/rb-leipzig-vs-hamburger-sv.html
 RB Leipzig vs Hamburger SV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3668563
 RB Leipzig vs Hamburger SV	https://ddkanq.vip/zhibo/25668.html
@@ -478,7 +479,7 @@ Sky Live Event 3	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd!!561
 Sky Live Event 4	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd!!a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
 Sky Live Event 5	https://a.00/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd!!6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
 Sky Live Event 6	https://a.00/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd!!ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
-Sky Sports 24 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+Sky Sports Bundesliga 🇩🇪	https://a.00/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd!!d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 Sky Sports Max	https://a.00/3/out/u/dash/SKY-SPORTS-HD/default.mpd!!335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 Sport 1 🇩🇪	https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR!!98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
 Sport 4 🇱🇹	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561202/index.mpd!!da335a7a2a174bb29914ed868a6b1534:0659b8027b98c0e4d94b033841a8eb0d
