@@ -24,22 +24,6 @@
 
 18-10-2005	^-
 
-18:30 [y]English Premier League[z]	^-
-Nottingham Forest vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193926/nottingham-forest-vs-chelsea.html
-Nottingham Forest vs Chelsea	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjA1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Nottingham Forest vs Chelsea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3733711
-Nottingham Forest vs Chelsea	https://ddkanq.vip/zhibo/25643.html
-Nottingham Forest vs Chelsea	https://hls.suanzsd6.com/hd-en-6MuT7Jyjgm3gJjTBpb.m3u8?txSecret=2f1354e0040b91538527f724b380c2bf&txTime=68F4C944
-Nottingham Forest vs Chelsea	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)/master.mpd!!043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
-Nottingham Forest vs Chelsea	https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd!!1b0d41ddf54a37a6b6caa0484bb3df40:0892217616382e2faf84f6de3847cc7d
-Nottingham Forest vs Chelsea	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-
-18:30 [g]English Football League Championship[z]	^-
-Oxford United vs Derby County	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203708/oxford-united-vs-derby-county.html
-Oxford United vs Derby County	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzk4MTIxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Oxford United vs Derby County	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3757838
-Oxford United vs Derby County	https://ddkanq.vip/zhibo/25645.html
-
 19:00 [y]Spanish La Liga[z]	^-
 Sevilla vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209728/sevilla-fc-vs-rcd-mallorca.html
 Sevilla vs Mallorca	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0MzgyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -77,31 +61,41 @@ Terengganu vs Kuching FA	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportI
 
 20:30 [y]Bundesliga[z]	^-
 FC Koln vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199670/fc-kln-vs-fc-augsburg.html
+FC Koln vs FC Augsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3668568
 FC Koln vs FC Augsburg	https://ddkanq.vip/zhibo/25665.html
 1. FC Heidenheim vs Werder Bremen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199672/1-fc-heidenheim-1846-vs-sv-werder-bremen.html
+1. FC Heidenheim vs Werder Bremen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3668567
 1. FC Heidenheim vs Werder Bremen	https://ddkanq.vip/zhibo/25666.html
 FSV Mainz 05 vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199677/1-fsv-mainz-05-vs-bayer-04-leverkusen.html
+FSV Mainz 05 vs Bayer Leverkusen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3668564
 FSV Mainz 05 vs Bayer Leverkusen	https://ddkanq.vip/zhibo/25667.html
 RB Leipzig vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199689/rb-leipzig-vs-hamburger-sv.html
+RB Leipzig vs Hamburger SV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3668563
 RB Leipzig vs Hamburger SV	https://ddkanq.vip/zhibo/25668.html
 VfL Wolfsburg vs VfB Stuttgart	`Fhttps://www.fctv33.net/football/bundesliga-match-4199691/vfl-wolfsburg-vs-vfb-stuttgart.html
+VfL Wolfsburg vs VfB Stuttgart	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3668569
 VfL Wolfsburg vs VfB Stuttgart	https://ddkanq.vip/zhibo/25669.html
 
 21:00 [y]English Premier League[z]	^-
 Manchester City vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193906/manchester-city-vs-everton.html
 Manchester City vs Everton	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjA0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Manchester City vs Everton	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3733719
 Manchester City vs Everton	https://ddkanq.vip/zhibo/25674.html
 Burnley vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193907/burnley-vs-leeds-united.html
 Burnley vs Leeds United	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjAwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Burnley vs Leeds United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3733705
 Burnley vs Leeds United	https://ddkanq.vip/zhibo/25670.html
 Crystal Palace vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193913/crystal-palace-vs-bournemouth-afc.html
 Crystal Palace vs Bournemouth AFC	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjAxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Crystal Palace vs Bournemouth AFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3733708
 Crystal Palace vs Bournemouth AFC	https://ddkanq.vip/zhibo/25671.html
 Brighton Hove Albion vs Newcastle Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193925/brighton-hove-albion-vs-newcastle-united.html
 Brighton Hove Albion vs Newcastle Utd	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MTk5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Brighton Hove Albion vs Newcastle Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3733720
 Brighton Hove Albion vs Newcastle Utd	https://ddkanq.vip/zhibo/25673.html
 Sunderland AFC vs Wolves	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193930/sunderland-vs-wolverhampton-wanderers.html
 Sunderland AFC vs Wolves	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjA2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Sunderland AFC vs Wolves	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3733717
 Sunderland AFC vs Wolves	https://ddkanq.vip/zhibo/25672.html
 
 21:15 [y]Spanish La Liga[z]	^-
