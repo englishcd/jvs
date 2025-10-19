@@ -81,6 +81,9 @@ Liverpool vs Manchester United	`Fhttps://www.fctv33.net/football/english-premier
 Liverpool vs Manchester United	`Fhttps://ppdd06.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjAzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Liverpool vs Manchester United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3733722
 Liverpool vs Manchester United	https://ddkanq.vip/zhibo/25819.html
+Liverpool vs Manchester United	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)/master.mpd!!043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
+Liverpool vs Manchester United	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd!!ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+Liverpool vs Manchester United	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 
 22:30 [y]Bundesliga[z]	^-
 FC St. Pauli vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199697/fc-st-pauli-vs-tsg-hoffenheim.html
@@ -161,7 +164,7 @@ Sky Sports F1	`Shttps://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
 Racing TV	https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3u8
 Tennis TV	https://dddd.dracwoundshop.eu.org/tennis1.m3u8
 Chess TV	https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
-Fubo Sports	https://livetv-fa.tubi.video/fubo/5.m3u8
+Fubo Sports 1	https://livetv-fa.tubi.video/fubo/5.m3u8
 Golf TV	https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
 
 	^-
@@ -552,7 +555,6 @@ Universo East	https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/cha
 Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd!!a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
 Universo West	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-west)/master.mpd!!8af41461cac43b0791958320e60d821b:3590b4e7796f9ee6ac82e1a6ddca75b6
 USA Network East	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)/master.mpd!!043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
-USA Network West	https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd!!333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 Varzesh	https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
 Willow Sports	https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd!!1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 XFC MMA	https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
