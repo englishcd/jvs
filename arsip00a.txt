@@ -1,6 +1,5 @@
 	^-
 ^=	^-
-^=FC Barcelona vs Olympiakos Piraeus	`0https://www.fctv33.net/football/uefa-champions-league-match-4283735/fc-barcelona-vs-olympiakos-piraeus.html
 ^=fctvlive	`0https://www.fctv33.net/football.html
 ^=Live Sports	`0https://www.marza12.shop/football.html
 ^=Watching	`0https://ddkanq.vip/
@@ -18,8 +17,8 @@
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
-^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox with Extension: Ignore X-Frame-Options!👈[z]f.	^-
-^#1. Moesif Origin/CORS Changer.[].i👉Use Via Browser or the Default-Factory Internet-Browser!👈[z]i.	^-
+^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox or Yandex browser with Extension: Ignore X-Frame-Options!👈[z]f.	^-
+^#1. Moesif Origin/CORS Changer.[].i👉Use Factory Internet-Browser Samsung/Vivo/Via Browser!👈[z]i.	^-
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
@@ -98,8 +97,8 @@ Indep Jose Teran vs Atletico Mineiro	https://ddkanq.vip/zhibo/25908.html
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
-^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox with Extension: Ignore X-Frame-Options!👈[z]f.	^-
-^#1. Moesif Origin/CORS Changer.[].i👉Use Via Browser or the Default-Factory Internet-Browser!👈[z]i.	^-
+^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox or Yandex browser with Extension: Ignore X-Frame-Options!👈[z]f.	^-
+^#1. Moesif Origin/CORS Changer.[].i👉Use Factory Internet-Browser Samsung/Vivo/Via Browser!👈[z]i.	^-
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
