@@ -18,92 +18,93 @@
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
 ^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox or Yandex browser with Extension: Ignore X-Frame-Options!👈[z]f.	^-
-^#1. Moesif Origin/CORS Changer.[].i👉Use Factory Internet-Browser Samsung/Vivo/Via Browser!👈[z]i.	^-
+^#1. Moesif Origin/CORS Changer.[].i👉Use Plain Internet Browser: Samsung browser or Via browser!👈[z]i.	^-
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-23:00 [g]AFC Champions League Elite[z]	^-
-Al Ahli UAE vs Nasaf Qarshi	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258433/shabab-al-ahli-vs-nasaf-qarshi.html
-Al Ahli UAE vs Nasaf Qarshi	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611360
-Al Ahli UAE vs Nasaf Qarshi	https://ddkanq.vip/zhibo/25886.html
-
-23:45 [y]UEFA Champions League[z]	^-
-FC Barcelona vs Olympiakos Piraeus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283735/fc-barcelona-vs-olympiakos-piraeus.html
-FC Barcelona vs Olympiakos Piraeus	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODYxMTI2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-FC Barcelona vs Olympiakos Piraeus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3727296
-FC Barcelona vs Olympiakos Piraeus	https://ddkanq.vip/zhibo/25888.html
-FC Barcelona vs Olympiakos Piraeus	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-FC Barcelona vs Olympiakos Piraeus	https://live2-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd!!dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
-FC Kairat Almaty vs Pafos FC	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283736/fc-kairat-almaty-vs-pafos-fc.html
-FC Kairat Almaty vs Pafos FC	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODYxMjA4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-FC Kairat Almaty vs Pafos FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3737691
-FC Kairat Almaty vs Pafos FC	https://ddkanq.vip/zhibo/25887.html
-FC Kairat Almaty vs Pafos FC	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-FC Kairat Almaty vs Pafos FC	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-FC Kairat Almaty vs Pafos FC	https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,!!4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
-
 22-10-2005	^-
-
-01:15 [g]AFC Champions League Elite[z]	^-
-Al Hilal SFC vs Al-Sadd	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4265488/al-hilal-vs-al-sadd.html
-Al Hilal SFC vs Al-Sadd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611367
-Al Hilal SFC vs Al-Sadd	https://ddkanq.vip/zhibo/25889.html
-
-01:45 [g]English Football League[z]	^-
-Derby County vs Norwich City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203738/derby-county-vs-norwich-city.html
-Derby County vs Norwich City	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzk4MTI5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Derby County vs Norwich City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3777607
-Derby County vs Norwich City	https://ddkanq.vip/zhibo/25891.html
-Hull City vs Leicester City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203751/hull-city-vs-leicester-city.html
-Hull City vs Leicester City	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzk4MTMwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Hull City vs Leicester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3777593
-Hull City vs Leicester City	https://ddkanq.vip/zhibo/25892.html
-
-02:00 [g]English Football League[z]	^-
-Bristol City vs Southampton	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203737/bristol-city-vs-southampton.html
-Bristol City vs Southampton	https://ddkanq.vip/zhibo/25904.html
-
-02:00 [y]UEFA Champions League[z]	^-
-Arsenal vs Atletico Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268427/arsenal-vs-atletico-madrid.html
-Arsenal vs Atletico Madrid	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODYxMTMyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Arsenal vs Atletico Madrid	https://ddkanq.vip/zhibo/25900.html
-PSV Eindhoven vs Napoli	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268504/psv-eindhoven-vs-napoli.html
-PSV Eindhoven vs Napoli	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODYxMTgzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-PSV Eindhoven vs Napoli	https://ddkanq.vip/zhibo/25899.html
-Saint Gilloise vs Inter Milan	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268505/union-saint-gilloise-vs-inter-milan.html
-Saint Gilloise vs Inter Milan	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODYxMTExJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Saint Gilloise vs Inter Milan	https://ddkanq.vip/zhibo/25902.html
-Newcastle United vs Benfica	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4280121/newcastle-united-vs-benfica.html
-Newcastle United vs Benfica	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODYxMTU0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Newcastle United vs Benfica	https://ddkanq.vip/zhibo/25898.html
-Bayer Leverkusen vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283732/bayer-04-leverkusen-vs-paris-saint-germain.html
-Bayer Leverkusen vs Paris Saint Germain	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODYxMDc3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Bayer Leverkusen vs Paris Saint Germain	https://ddkanq.vip/zhibo/25901.html
-FC Copenhagen vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283733/fc-copenhagen-vs-borussia-dortmund.html
-FC Copenhagen vs Borussia Dortmund	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODYxMTIzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-FC Copenhagen vs Borussia Dortmund	https://ddkanq.vip/zhibo/25897.html
-Villarreal vs Manchester City	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283734/villarreal-cf-vs-manchester-city.html
-Villarreal vs Manchester City	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODYxMDg5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Villarreal vs Manchester City	https://ddkanq.vip/zhibo/25903.html
-
-05:15 [g]Argentine Division 1[z]	^-
-Atlético Unión vs Defensa Y Justicia	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107725/club-atltico-unin-vs-defensa-y-justicia.html
-Atlético Unión vs Defensa Y Justicia	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzc2MjU3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Atlético Unión vs Defensa Y Justicia	https://ddkanq.vip/zhibo/25905.html
-
-05:30 [g]USL League One[z]	^-
-Portland Hearts vs Spokane Velocity	`Fhttps://www.fctv33.net/football/usl-league-one-match-4155434/portland-hearts-of-pine-vs-spokane-velocity.html
 
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 Indep Jose Teran vs Atletico Mineiro	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4290123/independiente-del-valle-vs-atletico-mineiro.html
 Indep Jose Teran vs Atletico Mineiro	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODgyMDQ2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Indep Jose Teran vs Atletico Mineiro	https://ddkanq.vip/zhibo/25908.html
 
+10:00 [g]Mexico Liga MX[z]	^-
+Mazatlan FC vs Santos Laguna	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194304/mazatlan-fc-vs-santos-laguna.html
+Monterrey vs FC Juarez	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194298/monterrey-vs-fc-juarez.html
+
+15:30 Liga 1	^-
+PSIM Yogyakarta vs Dewa United FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229641/psim-yogyakarta-vs-dewa-united-fc.html
+
+17:00 [g]AFC Champions League 2[z]	^-
+Gamba Osaka vs Nam Dinh FC	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4267311/gamba-osaka-vs-thep-xanh-nam-dinh-fc.html
+
+17:00 [g]AFC Champions League Elite[z]	^-
+Gangwon FC vs Vissel Kobe	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283086/gangwon-football-club-vs-vissel-kobe.html
+
+19:15 [g]AFC Champions League 2[z]	^-
+Ratchaburi FC vs Eastern AA Team	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4261346/ratchaburi-fc-vs-eastern-football-team.html
+
+19:15 [g]AFC Champions League Elite[z]	^-
+Shanghai Shenhua vs FC Seoul	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283085/shanghai-shenhua-fc-vs-football-club-seoul.html
+
+20:45 [g]AFC Champions League 2[z]	^-
+FK Andijon vs Al Khaldiya	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259256/fk-andijon-vs-al-khaldiya.html
+FC Istiklol Dushanbe vs Al Zawraa	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4281110/fc-istiklol-dushanbe-vs-al-zawraa.html
+FC Goa vs Al Nassr FC	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4281112/fc-goa-vs-al-nassr-fc.html
+
+22:00 [g]GCC Champions League[z]	^-
+Sitra vs Zakho	`Fhttps://www.fctv33.net/football/gcc-champions-league-match-4293544/sitra-vs-zakho-sc.html
+
+22:30 [g]GCC Champions League[z]	^-
+Al-Nahda Muscat vs Al Rayyan	`Fhttps://www.fctv33.net/football/gcc-champions-league-match-4294788/al-nahda-sc-vs-al-rayyan.html
+
+23:00 [g]AFC Champions League 2[z]	^-
+Al-Ahli Doha vs Arkadag FK	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259252/al-ahli-doha-vs-arkadag-fk.html
+
+23:45 [g]UEFA Champions League[z]	^-
+Athletic Bilbao vs Qarabag	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268381/athletic-club-vs-qarabag.html
+Galatasaray vs Bodo Glimt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283731/galatasaray-vs-bodo-glimt.html
+
+23-10-2005	^-
+
+01:15 [g]AFC Champions League 2[z]	^-
+Al-Muharraq vs Al-Wasl	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259296/al-muharraq-vs-al-wasl-sc.html
+
+01:45 [g]English Football League[z]	^-
+Swansea City vs Queens Park Rangers	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203741/swansea-city-vs-queens-park-rangers.html
+Wrexham vs Oxford United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203748/wrexham-vs-oxford-united.html
+Watford vs West Bromwich WBA	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203749/watford-vs-west-bromwich-albion.html
+
+02:00 [g]English Football League[z]	^-
+Sheffield Wednesday vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203740/sheffield-wednesday-vs-middlesbrough.html
+
+02:00 [g]UEFA Champions League[z]	^-
+Bayern Munchen vs Club Brugge	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268133/fc-bayern-munich-vs-club-brugge.html
+Eintracht Frankfurt vs Liverpool	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268450/eintracht-frankfurt-vs-liverpool.html
+Atalanta vs Slavia Praha	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283726/atalanta-vs-slavia-praha.html
+Chelsea vs AFC Ajax	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283727/chelsea-vs-afc-ajax.html
+Monaco vs Tottenham Hotspur	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283728/as-monaco-vs-tottenham-hotspur.html
+Real Madrid vs Juventus	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283729/real-madrid-vs-juventus.html
+Sporting CP vs Marseille	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283730/sporting-cp-vs-marseille.html
+
+05:00 [g]Brazilian Serie A[z]	^-
+Bahia vs Internacional RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141717/bahia-vs-internacional-rs.html
+
+05:30 [g]Canadian Premier League[z]	^-
+HFX Wanderers FC vs York United FC	`Fhttps://www.fctv33.net/football/canadian-premier-league-match-4302612/hfx-wanderers-fc-vs-york-united-fc.html
+
+07:30 [g]CONMEBOL Copa Libertadores[z]	^-
+Flamengo vs Racing Club	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4290118/cr-flamengo-vs-racing-club-de-avellaneda.html
+
+07:30 [g]US Major League Soccer[z]	^-
+Chicago Fire vs Orlando City	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4302493/chicago-fire-vs-orlando-city.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
 ^#Install 2 Chrome Browser Extensions: [].f👉Use Firefox or Yandex browser with Extension: Ignore X-Frame-Options!👈[z]f.	^-
-^#1. Moesif Origin/CORS Changer.[].i👉Use Factory Internet-Browser Samsung/Vivo/Via Browser!👈[z]i.	^-
+^#1. Moesif Origin/CORS Changer.[].i👉Use Plain Internet Browser: Samsung browser or Via browser!👈[z]i.	^-
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
