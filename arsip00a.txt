@@ -24,15 +24,6 @@
 
 24-10-2005	^-
 
-05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
-Universidad de Chile vs Lanus	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4290122/universidad-de-chile-vs-club-atltico-lans.html
-Universidad de Chile vs Lanus	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODgyMDQ5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Universidad de Chile vs Lanus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3730295
-Universidad de Chile vs Lanus	https://ddkanq.vip/zhibo/26045.html
-
-06:00 [l]International Friendly Women[z]	^-
-USA vs Portugal	`Fhttps://www.fctv33.net/football/international-friendly-match-4301602/usa-women-vs-portugal-women.html
-
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 Liga Dep. Univ Quito vs Palmeiras	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4290119/liga-dep-universitaria-quito-vs-palmeiras.html
 Liga Dep. Univ Quito vs Palmeiras	`Fhttps://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODgyMDcwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -41,6 +32,78 @@ Liga Dep. Univ Quito vs Palmeiras	https://ddkanq.vip/zhibo/26047.html
 
 09:00 [l]International Friendly Women[z]	^-
 Mexico vs New Zealand	`Fhttps://www.fctv33.net/football/international-friendly-match-4301601/mexico-women-vs-new-zealand-women.html
+
+15:30 Liga 1	^-
+PSBS Biak Numfor vs Persebaya Surabaya	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229598/psbs-biak-numfor-vs-persebaya-surabaya.html
+
+15:30 Liga 2	^-
+Persekat Tegal vs Pekanbaru United	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4286621/persekat-tegal-vs-pekanbaru-united.html
+
+15:35 [g]Australia A-League[z]	^-
+Newcastle Jets vs Melbourne Victory	`Fhttps://www.fctv33.net/football/australia-a-league-match-4284959/newcastle-jets-vs-melbourne-victory.html
+
+19:00 Liga 1	^-
+Madura United vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229595/madura-united-vs-persija-jakarta.html
+
+19:00 [g]Thai League 1[z]	^-
+Port FC vs Muang Thong United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266217/port-fc-vs-muangthong-united.html
+
+19:00 Liga 2	^-
+Sumsel United vs Adhyaksa FC Banten	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4286620/sumsel-united-vs-adhyaksa-fc-banten.html
+
+20:00 Malaysian Super League	^-
+Kelantan United vs Melaka FC	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221061/kelantan-the-real-warriors-vs-melaka-fc.html
+
+25-10-2005	^-
+
+01:00 [y]Netherlands Eredivisie[z]	^-
+SC Heerenveen vs NAC Breda	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199214/sc-heerenveen-vs-nac-breda.html
+
+01:00 [g]Saudi Professional League[z]	^-
+Al Ittihad Club vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256131/al-ittihad-club-vs-al-hilal.html
+
+01:30 [y]Bundesliga[z]	^-
+Werder Bremen vs Union Berlin	`Fhttps://www.fctv33.net/football/bundesliga-match-4199696/sv-werder-bremen-vs-1-fc-union-berlin.html
+
+01:45 [y]Italian Serie A[z]	^-
+AC Milan vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194678/ac-milan-vs-pisa.html
+
+01:45 [y]Belgian Pro League[z]	^-
+Charleroi vs Anderlecht	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199042/rc-sporting-charleroi-vs-anderlecht.html
+
+01:45 [y]French Ligue 1[z]	^-
+Paris FC vs Nantes	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200241/paris-fc-vs-fc-nantes.html
+
+02:00 [g]Argentine Division 1[z]	^-
+Sarmiento Junin vs Rosario Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107524/sarmiento-junin-vs-rosario-central.html
+
+02:00 [y]English Premier League[z]	^-
+Leeds United vs West Ham United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193944/leeds-united-vs-west-ham-united.html
+
+02:00 [g]English Football League[z]	^-
+Preston North End vs Sheffield United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203887/preston-north-end-vs-sheffield-united.html
+
+02:00 [y]Spanish La Liga[z]	^-
+Real Sociedad vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209754/real-sociedad-vs-sevilla-fc.html
+
+02:15 [g]Portuguese Primera Liga[z]	^-
+Alverca vs Gil Vicente	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216049/alverca-vs-gil-vicente.html
+
+04:00 [g]Argentine Division 1[z]	^-
+Independiente vs CA Platense	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107838/ca-independiente-vs-ca-platense.html
+
+04:00 [g]CNL Women[z]	^-
+Bolivia vs Ecuador	`Fhttps://www.fctv33.net/football/cnl-w-match-4302520/bolivia-women-vs-ecuador-women.html
+Venezuela vs Chile	`Fhttps://www.fctv33.net/football/cnl-w-match-4302521/venezuela-women-vs-chile-women.html
+
+07:00 [g]US Major League Soccer[z]	^-
+Inter Miami CF vs Nashville	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4302516/inter-miami-cf-vs-nashville.html
+
+08:00 [g]USL Championship[z]	^-
+New Mexico United vs Rhode Island	`Fhttps://www.fctv33.net/football/usl-championship-match-4127069/new-mexico-united-vs-rhode-island.html
+
+08:00 [g]Mexico Liga MX[z]	^-
+FC Juarez vs Puebla	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194314/fc-juarez-vs-puebla.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
