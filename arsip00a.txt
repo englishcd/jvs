@@ -24,21 +24,6 @@
 
 25-10-2005	^-
 
-12:00 [g]Japanese J1 League[z]	^-
-Yokohama Marinos vs Hiroshima S	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105360/yokohama-f-marinos-vs-sanfrecce-hiroshima.html
-
-12:00 [g]Japanese J1 League[z]	^-
-Urawa Red Diamonds vs Machida Zelvia	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105367/urawa-red-diamonds-vs-machida-zelvia.html
-FC Tokyo vs Fagiano Okayama	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105409/fc-tokyo-vs-fagiano-okayama.html
-Shimizu S-Pulse vs Tokyo Verdy	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105502/shimizu-s-pulse-vs-tokyo-verdy.html
-Kyoto Sanga vs Kashima Antlers	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105567/kyoto-sanga-vs-kashima-antlers.html
-Kashiwa Reysol vs Yokohama FC	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105574/kashiwa-reysol-vs-yokohama-fc.html
-Nagoya Grampus vs Gamba Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105600/nagoya-grampus-vs-gamba-osaka.html
-
-12:00 [g]Korean K League 1[z]	^-
-Gwangju Football Club vs FC Anyang	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302833/gwangju-football-club-vs-fc-anyang.html
-Jeonbuk Hyundai vs Gimcheon Sangmu	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302834/jeonbuk-hyundai-motors-vs-gimcheon-sangmu-football-club.html
-
 13:00 [g]Japanese J1 League[z]	^-
 Cerezo Osaka vs Kawasaki Frontale	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105599/cerezo-osaka-vs-kawasaki-frontale.html
 
