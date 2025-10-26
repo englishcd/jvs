@@ -25,22 +25,6 @@
 
 26-10-2005	^-
 
-19:15 Malaysian Super League[z]	^-
-Selangor vs Kuala Lumpur	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221056/selangor-fc-vs-kuala-lumpur-city-fc-10-2025.html
-Selangor vs Kuala Lumpur	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3808261
-
-19:30 [g]Belgian Pro League[z]	^-
-Royal Antwerp vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199041/royal-antwerp-vs-club-brugge-10-2025.html
-Royal Antwerp vs Club Brugge	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693510
-Royal Antwerp vs Club Brugge	https://ddkanq.vip/zhibo/26245.html
-
-19:30 [g]CAF Champions League[z]	^-
-Mamelodi Sundowns vs Remo Stars	`Fhttps://www.fctv33.net/football/caf-champions-league-match-4299172/mamelodi-sundowns-vs-remo-stars-10-2025.html
-
-19:30 [g]AFC Challenge League[z]	^-
-Dewa United FC vs Phnom Penh FC	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4300465/dewa-united-fc-vs-phnom-penh-crown-fc-10-2025.html
-Dewa United FC vs Phnom Penh FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641410
-
 20:00 [y]Spanish La Liga[z]	^-
 Mallorca vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209738/rcd-mallorca-vs-levante-10-2025.html
 Mallorca vs Levante	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3572257
@@ -79,6 +63,8 @@ Arsenal vs Crystal Palace	https://play7ba.peodlc.com/sport/202_4301696_2.m3u8?tx
 Verona vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194646/hellas-verona-vs-cagliari-10-2025.html
 Verona vs Cagliari	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3754248
 Verona vs Cagliari	https://ddkanq.vip/zhibo/26258.html
+Verona vs Cagliari	https://live.bbapcall.com/live/hd-en-1-4339538.m3u8?txSecret=bbaea2433befbb152fcc1cb8bce62340&txTime=68FE6FE5
+Verona vs Cagliari	https://live5.bh6taiye.com/live/61060851_6817c0ccdaff462777ac1656917ac976_h1080p.m3u8
 Sassuolo vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194653/sassuolo-vs-as-roma-10-2025.html
 Sassuolo vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3754355
 Sassuolo vs AS Roma	https://ddkanq.vip/zhibo/26257.html
