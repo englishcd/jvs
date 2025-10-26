@@ -25,42 +25,6 @@
 
 26-10-2005	^-
 
-21:30 [y]Bundesliga[z]	^-
-Bayer Leverkusen vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199720/bayer-04-leverkusen-vs-sc-freiburg-10-2025.html
-Bayer Leverkusen vs SC Freiburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693313
-Bayer Leverkusen vs SC Freiburg	https://ddkanq.vip/zhibo/26267.html
-Bayer Leverkusen vs SC Freiburg	https://live2.bh6taiye.com/live/61513734_fa3a25f0463dc745a6c9a56458536c66_h1080p.m3u8
-Bayer Leverkusen vs SC Freiburg	https://hls.suanzsd6.com/hd-en-6MuT7Y1jqohiNLd5C3.m3u8?txSecret=3bf9252be881c6389c8059fc6549a41e&txTime=68FF807B
-
-22:00 [g]Belgian Pro League[z]	^-
-Cercle Brugge vs Zulte-Waregem	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199048/cercle-brugge-vs-zulte-waregem-10-2025.html
-Cercle Brugge vs Zulte-Waregem	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693510
-Cercle Brugge vs Zulte-Waregem	https://ddkanq.vip/zhibo/26270.html
-
-22:15 [y]Spanish La Liga[z]	^-
-Real Madrid vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209742/real-madrid-vs-fc-barcelona-10-2025.html
-Real Madrid vs FC Barcelona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3572265
-Real Madrid vs FC Barcelona	https://ddkanq.vip/zhibo/26272.html
-Real Madrid vs FC Barcelona	https://a.00/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-Real Madrid vs FC Barcelona	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-Real Madrid vs FC Barcelona	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-Real Madrid vs FC Barcelona	https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd!!0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-Real Madrid vs FC Barcelona	https://play7ba.peodlc.com/sport/202_4301844_1.m3u8?txSecret=52e307450c51ae7f0f99109a0ec0c75e&txTime=1761492327
-Real Madrid vs FC Barcelona	https://hls.suanzsd6.com/hd-en-6MuSsYdpeVWWRXjdqZ.m3u8?txSecret=5bd47fd10bd3237f0fc5d775c8f3aac9&txTime=68FF8CEF
-
-22:30 [g]Portuguese Primera Liga[z]	^-
-FC Famalicao vs Vitoria Guimaraes	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216046/fc-famalicao-vs-vitoria-guimaraes-10-2025.html
-FC Famalicao vs Vitoria Guimaraes	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3763539
-FC Famalicao vs Vitoria Guimaraes	https://ddkanq.vip/zhibo/26280.html
-Estoril vs Nacional da Madeira	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216062/estoril-vs-nacional-da-madeira-10-2025.html
-Estoril vs Nacional da Madeira	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3763541
-Estoril vs Nacional da Madeira	https://ddkanq.vip/zhibo/26279.html
-
-22:45 [y]Netherlands Eredivisie[z]	^-
-AZ Alkmaar vs FC Utrecht	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199275/az-alkmaar-vs-fc-utrecht-10-2025.html
-AZ Alkmaar vs FC Utrecht	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693488
-AZ Alkmaar vs FC Utrecht	https://ddkanq.vip/zhibo/26281.html
-
 23:15 [y]French Ligue 1[z]	^-
 Rennes vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200237/stade-rennais-fc-vs-ogc-nice-10-2025.html
 Rennes vs Nice	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693484
@@ -91,44 +55,55 @@ Fiorentina vs Bologna	https://ddkanq.vip/zhibo/26293.html
 
 00:30 [g]Belgian Pro League[z]	^-
 Racing Genk vs LaLouviere	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199046/racing-genk-vs-raal-la-louvire-10-2025.html
+Racing Genk vs LaLouviere	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693507
 Racing Genk vs LaLouviere	https://ddkanq.vip/zhibo/26296.html
 
 00:30 [y]Spanish La Liga[z]	^-
 Osasuna vs Real Celta de Vigo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209757/ca-osasuna-vs-rc-celta-10-2025.html
+Osasuna vs Real Celta de Vigo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3572246
 Osasuna vs Real Celta de Vigo	https://ddkanq.vip/zhibo/26291.html
 
 01:00 [g]Portuguese Primera Liga[z]	^-
 CD Tondela vs Sporting CP	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216056/cd-tondela-vs-sporting-cp-10-2025.html
+CD Tondela vs Sporting CP	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3763893
 CD Tondela vs Sporting CP	https://ddkanq.vip/zhibo/26299.html
 
 01:00 [g]Canadian Premier League[z]	^-
 Forge FC vs Atletico Ottawa	`Fhttps://www.fctv33.net/football/canadian-premier-league-match-4303426/forge-fc-vs-atletico-ottawa-10-2025.html
+Forge FC vs Atletico Ottawa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3808979
 
 01:15 [g]Belgian Pro League[z]	^-
 Saint Gilloise vs Sint-Truidense	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199044/union-saint-gilloise-vs-sint-truidense-10-2025.html
+Saint Gilloise vs Sint-Truidense	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693511
 Saint Gilloise vs Sint-Truidense	https://ddkanq.vip/zhibo/26302.html
 
 02:00 [y]Netherlands Eredivisie[z]	^-
 Go Ahead Eagles vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199215/go-ahead-eagles-vs-excelsior-sbv-10-2025.html
+Go Ahead Eagles vs Excelsior SBV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693486
 Go Ahead Eagles vs Excelsior SBV	https://ddkanq.vip/zhibo/26307.html
 
 02:45 [y]Italian Serie A[z]	^-
 Lazio vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194677/lazio-vs-juventus-10-2025.html
+Lazio vs Juventus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3754268
 Lazio vs Juventus	https://ddkanq.vip/zhibo/26310.html
 
 02:45 [y]French Ligue 1[z]	^-
 Lyon vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200234/lyon-vs-rc-strasbourg-alsace-10-2025.html
+Lyon vs Strasbourg	`Fhttps://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3701331
 Lyon vs Strasbourg	https://ddkanq.vip/zhibo/26309.html
 
 03:00 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209753/rayo-vallecano-vs-deportivo-alavs-10-2025.html
+Rayo Vallecano vs Deportivo Alavés	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3572250
 Rayo Vallecano vs Deportivo Alavés	https://ddkanq.vip/zhibo/26304.html
 
 03:00 [l]International Friendly Women[z]	^-
 USA vs Portugal	`Fhttps://www.fctv33.net/football/international-friendly-match-4304294/usa-women-vs-portugal-women-10-2025.html
+USA vs Portugal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3808924
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 Sporting Braga vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216066/sporting-braga-vs-casa-pia-ac-10-2025.html
+Sporting Braga vs Casa Pia AC	`Fhttps://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3764134
 Sporting Braga vs Casa Pia AC	https://ddkanq.vip/zhibo/26313.html
 
 04:30 [g]US Major League Soccer[z]	^-
