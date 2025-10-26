@@ -25,47 +25,6 @@
 
 26-10-2005	^-
 
-21:00 [y]English Premier League[z]	^-
-Wolves vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193932/wolverhampton-wanderers-vs-burnley-10-2025.html
-Wolves vs Burnley	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3759427
-Wolves vs Burnley	https://ddkanq.vip/zhibo/26261.html
-Wolves vs Burnley	https://play7ba.peodlc.com/sport/202_4301695_1.m3u8?txSecret=9d86bd9475ec462dbc53b7e2f16db466&txTime=1761487865
-Wolves vs Burnley	https://hls.suanzsd6.com/hd-en-6MuT7JxGPJyyyX2f9H.m3u8?txSecret=e72e14d9e1a523b682cabba6de2fa51d&txTime=68FF7A70
-Bournemouth AFC vs Nottingham Forest	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193956/bournemouth-afc-vs-nottingham-forest-10-2025.html
-Bournemouth AFC vs Nottingham Forest	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3759423
-Bournemouth AFC vs Nottingham Forest	https://ddkanq.vip/zhibo/26260.html
-Bournemouth AFC vs Nottingham Forest	https://bf.njscwh.com/live/sd-1-4343252.m3u8?txSecret=64471baa7b87c247ca77b435fd1052df&txTime=68fe2cda
-Bournemouth AFC vs Nottingham Forest	https://hls.suanzsd6.com/hd-en-6MuT7JxG3kr2sxjmzf.m3u8?txSecret=944e4a4489d5ff95828acfbc007c03d0&txTime=68FF7BC4
-Aston Villa vs Manchester City	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193986/aston-villa-vs-manchester-city-10-2025.html
-Aston Villa vs Manchester City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3759424
-Aston Villa vs Manchester City	https://ddkanq.vip/zhibo/26263.html
-Aston Villa vs Manchester City	https://play7ba.peodlc.com/sport/202_4301698_2.m3u8?txSecret=1366864c7a66017df28da027d80e6f04&txTime=1761487940
-Aston Villa vs Manchester City	https://hls.suanzsd6.com/hd-en-6MuT7JxG3NsEBAUcTh.m3u8?txSecret=32b156686c28b28e7a2ef7e11779b20f&txTime=68FF7BC4
-Arsenal vs Crystal Palace	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193996/arsenal-vs-crystal-palace-10-2025.html
-Arsenal vs Crystal Palace	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3759408
-Arsenal vs Crystal Palace	https://ddkanq.vip/zhibo/26262.html
-Arsenal vs Crystal Palace	https://live2.bh6taiye.com/live/61300669_971ac69bbc17f5131eeb33dcd52c50b9_h1080p.m3u8
-Arsenal vs Crystal Palace	https://play7ba.peodlc.com/sport/202_4301696_2.m3u8?txSecret=4db9921b01e211f433f6c63bb8d84dc2&txTime=1761487119
-
-21:00 [y]Italian Serie A[z]	^-
-Verona vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194646/hellas-verona-vs-cagliari-10-2025.html
-Verona vs Cagliari	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3754248
-Verona vs Cagliari	https://ddkanq.vip/zhibo/26258.html
-Verona vs Cagliari	https://live.bbapcall.com/live/hd-en-1-4339538.m3u8?txSecret=bbaea2433befbb152fcc1cb8bce62340&txTime=68FE6FE5
-Verona vs Cagliari	https://live5.bh6taiye.com/live/61060851_6817c0ccdaff462777ac1656917ac976_h1080p.m3u8
-Sassuolo vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194653/sassuolo-vs-as-roma-10-2025.html
-Sassuolo vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3754355
-Sassuolo vs AS Roma	https://ddkanq.vip/zhibo/26257.html
-Sassuolo vs AS Roma	https://live.bbapcall.com/live/hd-en-1-4339535.m3u8?txSecret=8db7da5a6965ddb7cfedc53ddd8d2427&txTime=68FE6FDB
-Sassuolo vs AS Roma	https://live1.bh6taiye.com/live/61060857_d33e74fcd7e3d54c5379fdd5bf7e6ee4_h1080p.m3u8
-
-21:00 [y]French Ligue 1[z]	^-
-Lille vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200259/losc-lille-vs-metz-10-2025.html
-Lille vs Metz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3701329
-Lille vs Metz	https://ddkanq.vip/zhibo/26259.html
-Lille vs Metz	https://live.bbapcall.com/live/hd-en-1-4347753.m3u8?txSecret=cc3e3acb35ba5eba3de059e6bc97e09d&txTime=68FE6FEF
-Lille vs Metz	https://play7ba.peodlc.com/sport/202_4301700_1.m3u8?txSecret=4058a38e878bcb9bd7819928f42dc99f&txTime=1761487806
-
 21:30 [y]Bundesliga[z]	^-
 Bayer Leverkusen vs SC Freiburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199720/bayer-04-leverkusen-vs-sc-freiburg-10-2025.html
 Bayer Leverkusen vs SC Freiburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3693313
