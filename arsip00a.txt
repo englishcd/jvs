@@ -25,9 +25,34 @@
 
 27-10-2005	^-
 
-08:30 [g]US Major League Soccer[z]	^-
-San Diego FC vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4303734/san-diego-fc-vs-portland-timbers-10-2025.html
-San Diego FC vs Portland Timbers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3818817
+15:00 [g]Australia A-League[z]	^-
+FC Macarthur vs Adelaide United	`Fhttps://www.fctv33.net/football/australia-a-league-match-4299560/macarthur-fc-vs-adelaide-united.html
+
+19:00 Liga 1
+Persib Bandung vs Persis Solo FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229636/persib-bandung-vs-persis-solo-fc.html
+
+18:00 [l]International Friendly Women U19[z]	^-
+Netherlands vs Germany	`Fhttps://www.fctv33.net/football/international-friendly-match-4303942/netherlands-women-u19-vs-germany-women-u19.html
+
+28-10-2005	^-
+
+00:30 [l]International Friendly Women U23[z]	^-
+Sweden vs Germany	`Fhttps://www.fctv33.net/football/international-friendly-match-4303962/sweden-women-u23-vs-germany-women-u23.html
+
+02:00 [g]Argentine Division 1[z]	^-
+Barracas Central vs Boca Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107652/barracas-central-vs-boca-juniors.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Real Betis vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209780/real-betis-vs-atletico-madrid.html
+
+03:15 [g]Portuguese Primera Liga[z]	^-
+Moreirense vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216071/moreirense-vs-fc-porto.html
+
+05:45 [g]US Major League Soccer[z]	^-
+FC Cincinnati vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4302515/fc-cincinnati-vs-columbus-crew.html
+
+08:00 [g]US Major League Soccer[z]	^-
+Minnesota United vs Seattle Sounders	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4302518/minnesota-united-fc-vs-seattle-sounders.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
