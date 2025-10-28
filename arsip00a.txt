@@ -56,6 +56,7 @@ Norway vs Japan	`Fhttps://www.fctv33.net/football/international-friendly-match-4
 
 00:00 [l]UEFA WNL Women[z]	^-
 Austria vs Czech	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4303743/austria-women-vs-czechia-women.html
+Turkey vs Kosovo	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4200788/turkiye-women-vs-kosovo-women.html
 
 00:15 [l]International Friendly Women[z]	^-
 Italy vs Brazil	`Fhttps://www.fctv33.net/football/international-friendly-match-4304216/italy-women-vs-brazil-women.html
@@ -75,6 +76,7 @@ Hertha Berlin vs SV Elversberg	`Fhttps://www.fctv33.net/football/dfb-pokal-match
 
 00:45 [y]Netherlands KNVB Cup[z]	^-
 Gemert vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4296612/gemert-vs-fortuna-sittard.html
+Den Bosch vs ADO Den Haag	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4302023/den-bosch-vs-ado-den-haag.html
 
 01:00 [l]UEFA WNL Women[z]	^-
 Sweden vs Spain	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4213193/sweden-women-vs-spain-women.html
@@ -100,65 +102,28 @@ Inter de Valdemoro vs Getafe	`Fhttps://www.fctv33.net/football/copa-del-rey-matc
 Maracena vs Valencia	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4302051/maracena-vs-valencia-cf.html
 Rayo Majadahonda vs Talavera Reina	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301481/cf-rayo-majadahonda-vs-cf-talavera-de-la-reina.html
 CD Roda vs Granada CF	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4300921/cd-roda-vs-granada-cf.html
-UD San Fernando vs Albacete Balompié	`F
-CD Guadalajara vs Cacereno	`F
-29/10
-02:00
+UD San Fernando vs Albacete Balompié	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301045/ud-san-fernando-vs-albacete-balompi-sad.html
+CD Guadalajara vs Cacereno	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301143/cd-guadalajara-vs-cacereno.html
+Deportivo Tropezon vs Cultural Leonesa	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301194/club-deportivo-tropezon-vs-cultural-leonesa.html
+Rayo Majadahonda vs Talavera Reina	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301481/cf-rayo-majadahonda-vs-cf-talavera-de-la-reina.html
+Inter de Valdemoro vs Getafe	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301559/inter-de-valdemoro-vs-getafe.html
+Maracena vs Valencia	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4302051/maracena-vs-valencia-cf.html
 
-Club Deportivo Tropezon
-VS
-
-Cultural Leonesa
-
-29/10
-02:00
-
-CF Rayo Majadahonda
-VS
-
-CF Talavera de la Reina
-
-29/10
-02:00
-
-Inter de Valdemoro
-VS
-
-Getafe
-
-29/10
-02:00
-
-Maracena
-VS
-
-Valencia
-
-02:30 [y]Copa del Rey[z]	^-
-29/10
-02:30
-
-RSD Alcala Henares
-VS
-
-Tenerife
-
-
-Spain: 
-Copa del Rey
-29/10
-02:30
-
-Utebo FC
-VS
-
-SD Huesca
-
-
+02:00 [y]Netherlands KNVB Cup[z]	^-
+Katwijk vs Vitesse Arnhem	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4301112/katwijk-vs-vitesse-arnhem.html
+Helmond Sport vs PEC Zwolle	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4301228/helmond-sport-vs-pec-zwolle.html
+VV Capelle vs Roda JC	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4302021/vv-capelle-vs-roda-jc.html
 
 02:00 [l]U17 Women's World Cup[z]	^-
 North Korea vs Morocco	`Fhttps://www.fctv33.net/football/fifa-u17-womens-world-cup-match-4303568/north-korea-u17-women-vs-morocco-u17-women.html
 Italy vs Nigeria	`Fhttps://www.fctv33.net/football/fifa-u17-womens-world-cup-match-4303569/italy-u17-women-vs-nigeria-u17-women.html
+
+02:30 [y]Copa del Rey[z]	^-
+RSD Alcala Henares vs Tenerife	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301208/rsd-alcala-henares-vs-tenerife.html
+Utebo FC vs SD Huesca	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301230/utebo-fc-vs-sd-huesca.html
+
+02:00 [l]International Friendly Women[z]	^-
+Scotland vs Switzerland	`Fhttps://www.fctv33.net/football/international-friendly-match-4304224/scotland-women-vs-switzerland-women.html
 
 02:45 [y]Italian Serie A[z]	^-
 Atalanta vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194716/atalanta-vs-ac-milan.html
