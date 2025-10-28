@@ -26,10 +26,6 @@
 
 28-10-2005	^-
 
-18:45 Malaysian FA Cup	^-
-Kuching FA vs Terengganu	`Fhttps://www.fctv33.net/football/malaysian-fa-cup-match-4301085/kuching-city-fc-vs-terengganu-fc.html
-Kuching FA vs Terengganu	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3814429
-
 19:00 [l]International Friendly Women U23[z]	^-
 Finland vs Mexico	`Fhttps://www.fctv33.net/football/international-friendly-match-4304291/finland-women-u23-vs-mexico-w-u23.html
 Finland vs Mexico	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3833006
@@ -61,13 +57,17 @@ Austria vs Czech	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4303743/austri
 
 00:15 [l]International Friendly Women[z]	^-
 Italy vs Brazil	`Fhttps://www.fctv33.net/football/international-friendly-match-4304216/italy-women-vs-brazil-women.html
+Italy vs Brazil	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3814558
 
 00:30 [y]Italian Serie A[z]	^-
 Lecce vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194704/lecce-vs-napoli.html
+Lecce vs Napoli	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3704304
 
 00:30 [y]DFB Pokal[z]	^-
 Eintracht Frankfurt vs Br Dortmund	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4283022/eintracht-frankfurt-vs-borussia-dortmund.html
+Eintracht Frankfurt vs Br Dortmund	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652420
 1. FC Heidenheim vs Hamburger SV	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4284128/1-fc-heidenheim-1846-vs-hamburger-sv.html
+1. FC Heidenheim vs Hamburger SV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652397
 VfL Wolfsburg vs Holstein Kiel	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4301133/vfl-wolfsburg-vs-holstein-kiel.html
 Hertha Berlin vs SV Elversberg	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4301225/hertha-berlin-vs-sv-elversberg.html
 
