@@ -26,10 +26,6 @@
 
 28-10-2005	^-
 
-20:00 [g]AFC Challenge League[z]	^-
-Bashundhara Kings vs Al-Ansar LIB	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4279338/bashundhara-kings-vs-al-ansar-sc.html
-Bashundhara Kings vs Al-Ansar LIB	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641370
-
 22:10 [g]Saudi Arabia Kings Cup[z]	^-
 Al-Akhdoud vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-arabia-kings-cup-match-4301772/al-okhdood-vs-al-hilal.html
 Al-Akhdoud vs Al Hilal SFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3814562
@@ -105,17 +101,17 @@ SD Logrones vs Racing Santander	`3https://embed-10-08-12-51.linkzhe.eu.org/embed
 England vs Australia	`Fhttps://www.fctv33.net/football/international-friendly-match-4300980/england-women-vs-australia-women.html
 
 02:00 [y]Copa del Rey[z]	^-
-Inter de Valdemoro vs Getafe	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301559/inter-de-valdemoro-vs-getafe.html
-Maracena vs Valencia	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4302051/maracena-vs-valencia-cf.html
-Rayo Majadahonda vs Talavera Reina	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301481/cf-rayo-majadahonda-vs-cf-talavera-de-la-reina.html
+CD Guadalajara vs Cacereno	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301143/cd-guadalajara-vs-cacereno.html
+CD Guadalajara vs Cacereno	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3794595
 CD Roda vs Granada CF	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4300921/cd-roda-vs-granada-cf.html
 CD Roda vs Granada CF	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3794593
-UD San Fernando vs Albacete Balompié	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301045/ud-san-fernando-vs-albacete-balompi-sad.html
-CD Guadalajara vs Cacereno	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301143/cd-guadalajara-vs-cacereno.html
-Deportivo Tropezon vs Cultural Leonesa	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301194/club-deportivo-tropezon-vs-cultural-leonesa.html
-Rayo Majadahonda vs Talavera Reina	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301481/cf-rayo-majadahonda-vs-cf-talavera-de-la-reina.html
 Inter de Valdemoro vs Getafe	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301559/inter-de-valdemoro-vs-getafe.html
+Inter de Valdemoro vs Getafe	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3794594
+Rayo Majadahonda vs Talavera Reina	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301481/cf-rayo-majadahonda-vs-cf-talavera-de-la-reina.html
+Rayo Majadahonda vs Talavera Reina	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3794599
+Deportivo Tropezon vs Cultural Leonesa	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301194/club-deportivo-tropezon-vs-cultural-leonesa.html
 Maracena vs Valencia	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4302051/maracena-vs-valencia-cf.html
+UD San Fernando vs Albacete Balompié	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301045/ud-san-fernando-vs-albacete-balompi-sad.html
 
 02:00 [y]Netherlands KNVB Cup[z]	^-
 Katwijk vs Vitesse Arnhem	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4301112/katwijk-vs-vitesse-arnhem.html
