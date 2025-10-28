@@ -129,6 +129,10 @@ Uruguay vs Argentina	`Fhttps://www.fctv33.net/football/cnl-w-match-4303561/urugu
 05:45 [g]US Major League Soccer[z]	^-
 Charlotte FC vs New York City FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4302514/charlotte-fc-vs-new-york-city-fc.html
 
+06:00 [l]CNL Women[z]	^-
+Ecuador vs Colombia	`Fhttps://www.fctv33.net/football/cnl-w-match-4303529/ecuador-women-vs-colombia-women.html
+Paraguay vs Venezuela	`Fhttps://www.fctv33.net/football/cnl-w-match-4303551/paraguay-women-vs-venezuela-women.html
+
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 Atletico Mineiro vs Indep Jose Teran	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4290121/atletico-mineiro-vs-independiente-del-valle.html
 
