@@ -26,14 +26,6 @@
 
 28-10-2005	^-
 
-19:00 [l]International Friendly Women U23[z]	^-
-Finland vs Mexico	`Fhttps://www.fctv33.net/football/international-friendly-match-4304291/finland-women-u23-vs-mexico-w-u23.html
-Finland vs Mexico	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3833006
-
-19:15 Malaysian FA Cup[z]	^-
-Johor Darul Takzim vs Penang	`Fhttps://www.fctv33.net/football/malaysian-fa-cup-match-4301084/johor-darul-tazim-fc-vs-penang-fc.html
-Johor Darul Takzim vs Penang	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3814488
-
 20:00 [g]AFC Challenge League[z]	^-
 Bashundhara Kings vs Al-Ansar LIB	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4279338/bashundhara-kings-vs-al-ansar-sc.html
 Bashundhara Kings vs Al-Ansar LIB	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641370
@@ -48,6 +40,7 @@ USA vs Netherlands	`Fhttps://www.fctv33.net/football/fifa-u17-womens-world-cup-m
 
 23:00 [g]AFC Challenge League[z]	^-
 Al Kuwait SC vs Al-Seeb	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4279335/al-kuwait-sc-vs-al-seeb-sc.html
+Al Kuwait SC vs Al-Seeb	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641372
 
 29-10-2005	^-
 
@@ -56,7 +49,9 @@ Norway vs Japan	`Fhttps://www.fctv33.net/football/international-friendly-match-4
 
 00:00 [l]UEFA WNL Women[z]	^-
 Austria vs Czech	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4303743/austria-women-vs-czechia-women.html
+Austria vs Czech	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3817004
 Turkey vs Kosovo	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4200788/turkiye-women-vs-kosovo-women.html
+Turkey vs Kosovo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3816985
 
 00:15 [l]International Friendly Women[z]	^-
 Italy vs Brazil	`Fhttps://www.fctv33.net/football/international-friendly-match-4304216/italy-women-vs-brazil-women.html
