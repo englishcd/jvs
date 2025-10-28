@@ -72,11 +72,14 @@ Eintracht Frankfurt vs Br Dortmund	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 1. FC Heidenheim vs Hamburger SV	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4284128/1-fc-heidenheim-1846-vs-hamburger-sv.html
 1. FC Heidenheim vs Hamburger SV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652397
 VfL Wolfsburg vs Holstein Kiel	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4301133/vfl-wolfsburg-vs-holstein-kiel.html
+VfL Wolfsburg vs Holstein Kiel	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652450
 Hertha Berlin vs SV Elversberg	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4301225/hertha-berlin-vs-sv-elversberg.html
+Hertha Berlin vs SV Elversberg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3652452
 
 00:45 [y]Netherlands KNVB Cup[z]	^-
 Gemert vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4296612/gemert-vs-fortuna-sittard.html
 Den Bosch vs ADO Den Haag	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4302023/den-bosch-vs-ado-den-haag.html
+Den Bosch vs ADO Den Haag	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3814565
 
 01:00 [l]UEFA WNL Women[z]	^-
 Sweden vs Spain	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4213193/sweden-women-vs-spain-women.html
