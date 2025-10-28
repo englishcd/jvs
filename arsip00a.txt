@@ -53,6 +53,8 @@ Al Kuwait SC vs Al-Seeb	`Fhttps://www.fctv33.net/football/afc-challenge-league-m
 
 00:00 [l]International Friendly Women[z]	^-
 Norway vs Japan	`Fhttps://www.fctv33.net/football/international-friendly-match-4300981/norway-women-vs-japan-women.html
+
+00:00 [l]UEFA WNL Women[z]	^-
 Austria vs Czech	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4303743/austria-women-vs-czechia-women.html
 
 00:15 [l]International Friendly Women[z]	^-
@@ -80,9 +82,15 @@ Sweden vs Spain	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4213193/sweden-
 01:00 [y]Copa del Rey[z]	^-
 Ourense CF vs Real Oviedo	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4300935/ourense-cf-vs-real-oviedo.html
 Constancia vs Girona	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301180/constancia-vs-girona-fc.html
+Atletico Tordesillas vs Burgos CF	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301457/atletico-tordesillas-vs-burgos-cf.html
 
 01:00 [g]Saudi Arabia Kings Cup[z]	^-
 Al Nassr FC vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-arabia-kings-cup-match-4301986/al-nassr-fc-vs-al-ittihad-club.html
+
+01:30 [y]Copa del Rey[z]	^-
+Union Langreo vs Racing de Ferrol	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301092/union-langreo-vs-racing-de-ferrol.html
+UCAM Murcia vs Cadiz	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301492/ucam-murcia-vs-cadiz.html
+SD Logrones vs Racing Santander	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301497/sd-logrones-vs-racing-santander.html
 
 02:00 [l]International Friendly Women[z]	^-
 England vs Australia	`Fhttps://www.fctv33.net/football/international-friendly-match-4300980/england-women-vs-australia-women.html
@@ -90,6 +98,63 @@ England vs Australia	`Fhttps://www.fctv33.net/football/international-friendly-ma
 02:00 [y]Copa del Rey[z]	^-
 Inter de Valdemoro vs Getafe	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301559/inter-de-valdemoro-vs-getafe.html
 Maracena vs Valencia	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4302051/maracena-vs-valencia-cf.html
+Rayo Majadahonda vs Talavera Reina	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301481/cf-rayo-majadahonda-vs-cf-talavera-de-la-reina.html
+CD Roda vs Granada CF	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4300921/cd-roda-vs-granada-cf.html
+UD San Fernando vs Albacete Balompié	`F
+CD Guadalajara vs Cacereno	`F
+29/10
+02:00
+
+Club Deportivo Tropezon
+VS
+
+Cultural Leonesa
+
+29/10
+02:00
+
+CF Rayo Majadahonda
+VS
+
+CF Talavera de la Reina
+
+29/10
+02:00
+
+Inter de Valdemoro
+VS
+
+Getafe
+
+29/10
+02:00
+
+Maracena
+VS
+
+Valencia
+
+02:30 [y]Copa del Rey[z]	^-
+29/10
+02:30
+
+RSD Alcala Henares
+VS
+
+Tenerife
+
+
+Spain: 
+Copa del Rey
+29/10
+02:30
+
+Utebo FC
+VS
+
+SD Huesca
+
+
 
 02:00 [l]U17 Women's World Cup[z]	^-
 North Korea vs Morocco	`Fhttps://www.fctv33.net/football/fifa-u17-womens-world-cup-match-4303568/north-korea-u17-women-vs-morocco-u17-women.html
@@ -110,8 +175,12 @@ Wycombe Wanderers vs Fulham	`Fhttps://www.fctv33.net/football/english-football-l
 02:45 [y]DFB Pokal[z]	^-
 St. Pauli vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4301479/fc-st-pauli-vs-tsg-hoffenheim.html
 
+02:00 [l]International Friendly Women[z]	^-
+Wales vs Poland	`Fhttps://www.fctv33.net/football/international-friendly-match-4304226/wales-women-vs-poland-women.html
+
 03:00 [y]Copa del Rey[z]	^-
 Toledo vs Sevilla	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301087/toledo-vs-sevilla-fc.html
+Negreira vs Real Sociedad	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301947/negreira-vs-real-sociedad.html
 
 03:00 [y]English Football League Cup[z]	^-
 Wrexham vs Cardiff City	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4301141/wrexham-vs-cardiff-city.html
@@ -119,8 +188,11 @@ Wrexham vs Cardiff City	`Fhttps://www.fctv33.net/football/english-football-leagu
 03:00 [y]Netherlands KNVB Cup[z]	^-
 VVV Venlo vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4301322/vvv-venlo-vs-sc-heerenveen.html
 
-03:00 [y]Copa del Rey[z]	^-
-Negreira vs Real Sociedad	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301947/negreira-vs-real-sociedad.html
+03:10 [l]International Friendly Women[z]	^-
+France vs Germany	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4214667/france-women-vs-germany-women.html
+
+03:15 [g]Portuguese League Cup[z]	^-
+Sporting CP vs Alverca	`Fhttps://www.fctv33.net/football/portuguese-league-cup-match-4216070/sporting-cp-vs-alverca.html
 
 04:00 [l]CNL Women[z]	^-
 Chile vs Bolivia	`Fhttps://www.fctv33.net/football/cnl-w-match-4303526/chile-women-vs-bolivia-women.html
@@ -135,6 +207,9 @@ Paraguay vs Venezuela	`Fhttps://www.fctv33.net/football/cnl-w-match-4303551/para
 
 07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
 Atletico Mineiro vs Indep Jose Teran	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4290121/atletico-mineiro-vs-independiente-del-valle.html
+
+09:00 [g]CONCACAF Central American Cup[z]	^-
+CD Motagua vs Cartagines Deportiva	`Fhttps://www.fctv33.net/football/concacaf-central-american-cup-match-4301661/cd-motagua-vs-cs-cartagines.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
