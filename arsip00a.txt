@@ -25,24 +25,112 @@
 
 28-10-2005	^-
 
-00:30 [l]International Friendly Women U23[z]	^-
-Sweden vs Germany	`Fhttps://www.fctv33.net/football/international-friendly-match-4303962/sweden-women-u23-vs-germany-women-u23.html
+16:00 [l]International Friendly Women U19[z]	^-
+Romania vs Sweden	`Fhttps://www.fctv33.net/football/international-friendly-match-4304827/romania-women-u19-vs-sweden-women-u18.html
 
-02:00 [g]Argentine Division 1[z]	^-
-Barracas Central vs Boca Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107652/barracas-central-vs-boca-juniors.html
-Barracas Central vs Boca Juniors	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3800724
+17:00 [l]International Friendly Women U19[z]	^-
+Spain vs France	`Fhttps://www.fctv33.net/football/international-friendly-match-4304321/spain-women-u19-vs-france-women-u19.html
 
-03:00 [y]Spanish La Liga[z]	^-
-Real Betis vs Atletico Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209780/real-betis-vs-atletico-madrid.html
+18:45 Malaysian FA Cup	^-
+Kuching FA vs Terengganu	`Fhttps://www.fctv33.net/football/malaysian-fa-cup-match-4301085/kuching-city-fc-vs-terengganu-fc.html
 
-03:15 [g]Portuguese Primera Liga[z]	^-
-Moreirense vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216071/moreirense-vs-fc-porto.html
+19:00 [l]International Friendly Women U23[z]	^-
+Finland vs Mexico	`Fhttps://www.fctv33.net/football/international-friendly-match-4304291/finland-women-u23-vs-mexico-w-u23.html
+
+19:15 Malaysian FA Cup[z]	^-
+Johor Darul Takzim vs Penang	`Fhttps://www.fctv33.net/football/malaysian-fa-cup-match-4301084/johor-darul-tazim-fc-vs-penang-fc.html
+
+20:00 [g]AFC Challenge League[z]	^-
+Bashundhara Kings vs Al-Ansar LIB	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4279338/bashundhara-kings-vs-al-ansar-sc.html
+
+22:10 [g]Saudi Arabia Kings Cup[z]	^-
+Al-Akhdoud vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/saudi-arabia-kings-cup-match-4301772/al-okhdood-vs-al-hilal.html
+
+22:30 [l]U17 Women's World Cup[z]	^-
+Brasil vs China	`Fhttps://www.fctv33.net/football/fifa-u17-womens-world-cup-match-4303570/brazil-u17-women-vs-china-u17-women.html
+USA vs Netherlands	`Fhttps://www.fctv33.net/football/fifa-u17-womens-world-cup-match-4303571/usa-u17-women-vs-netherlands-u17-women.html
+
+23:00 [g]AFC Challenge League[z]	^-
+Al Kuwait SC vs Al-Seeb	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4279335/al-kuwait-sc-vs-al-seeb-sc.html
+
+29-10-2005	^-
+
+00:00 [l]International Friendly Women[z]	^-
+Norway vs Japan	`Fhttps://www.fctv33.net/football/international-friendly-match-4300981/norway-women-vs-japan-women.html
+Austria vs Czech	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4303743/austria-women-vs-czechia-women.html
+
+00:15 [l]International Friendly Women[z]	^-
+Italy vs Brazil	`Fhttps://www.fctv33.net/football/international-friendly-match-4304216/italy-women-vs-brazil-women.html
+
+00:30 [y]Italian Serie A[z]	^-
+Lecce vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194704/lecce-vs-napoli.html
+
+00:30 [y]DFB Pokal[z]	^-
+Eintracht Frankfurt vs Br Dortmund	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4283022/eintracht-frankfurt-vs-borussia-dortmund.html
+1. FC Heidenheim vs Hamburger SV	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4284128/1-fc-heidenheim-1846-vs-hamburger-sv.html
+VfL Wolfsburg vs Holstein Kiel	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4301133/vfl-wolfsburg-vs-holstein-kiel.html
+Hertha Berlin vs SV Elversberg	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4301225/hertha-berlin-vs-sv-elversberg.html
+
+00:45 [y]Netherlands KNVB Cup[z]	^-
+Gemert vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4296612/gemert-vs-fortuna-sittard.html
+
+01:00 [l]UEFA WNL Women[z]	^-
+Sweden vs Spain	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4213193/sweden-women-vs-spain-women.html
+
+01:00 [y]Copa del Rey[z]	^-
+Ourense CF vs Real Oviedo	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4300935/ourense-cf-vs-real-oviedo.html
+Constancia vs Girona	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301180/constancia-vs-girona-fc.html
+
+01:00 [g]Saudi Arabia Kings Cup[z]	^-
+Al Nassr FC vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-arabia-kings-cup-match-4301986/al-nassr-fc-vs-al-ittihad-club.html
+
+02:00 [l]International Friendly Women[z]	^-
+England vs Australia	`Fhttps://www.fctv33.net/football/international-friendly-match-4300980/england-women-vs-australia-women.html
+
+02:00 [y]Copa del Rey[z]	^-
+Inter de Valdemoro vs Getafe	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301559/inter-de-valdemoro-vs-getafe.html
+Maracena vs Valencia	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4302051/maracena-vs-valencia-cf.html
+
+02:00 [l]U17 Women's World Cup[z]	^-
+North Korea vs Morocco	`Fhttps://www.fctv33.net/football/fifa-u17-womens-world-cup-match-4303568/north-korea-u17-women-vs-morocco-u17-women.html
+Italy vs Nigeria	`Fhttps://www.fctv33.net/football/fifa-u17-womens-world-cup-match-4303569/italy-u17-women-vs-nigeria-u17-women.html
+
+02:45 [y]Italian Serie A[z]	^-
+Atalanta vs AC Milan	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194716/atalanta-vs-ac-milan.html
+
+02:45 [y]DFB Pokal[z]	^-
+Br Monchengladbach vs Karlsruher SC	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4300919/borussia-monchengladbach-vs-karlsruher-sc.html
+Energie Cottbus vs RB Leipzig	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4301088/energie-cottbus-vs-rb-leipzig.html
+FC Augsburg vs VfL Bochum	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4301132/fc-augsburg-vs-vfl-bochum-1848.html
+
+02:45 [y]English Football League Cup[z]	^-
+Grimsby Town vs Brentford	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4301139/grimsby-town-vs-brentford.html
+Wycombe Wanderers vs Fulham	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4301140/wycombe-wanderers-vs-fulham.html
+
+02:45 [y]DFB Pokal[z]	^-
+St. Pauli vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/dfb-pokal-match-4301479/fc-st-pauli-vs-tsg-hoffenheim.html
+
+03:00 [y]Copa del Rey[z]	^-
+Toledo vs Sevilla	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301087/toledo-vs-sevilla-fc.html
+
+03:00 [y]English Football League Cup[z]	^-
+Wrexham vs Cardiff City	`Fhttps://www.fctv33.net/football/english-football-league-cup-match-4301141/wrexham-vs-cardiff-city.html
+
+03:00 [y]Netherlands KNVB Cup[z]	^-
+VVV Venlo vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4301322/vvv-venlo-vs-sc-heerenveen.html
+
+03:00 [y]Copa del Rey[z]	^-
+Negreira vs Real Sociedad	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301947/negreira-vs-real-sociedad.html
+
+04:00 [l]CNL Women[z]	^-
+Chile vs Bolivia	`Fhttps://www.fctv33.net/football/cnl-w-match-4303526/chile-women-vs-bolivia-women.html
+Uruguay vs Argentina	`Fhttps://www.fctv33.net/football/cnl-w-match-4303561/uruguay-women-vs-argentina-women.html
 
 05:45 [g]US Major League Soccer[z]	^-
-FC Cincinnati vs Columbus Crew	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4302515/fc-cincinnati-vs-columbus-crew.html
+Charlotte FC vs New York City FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4302514/charlotte-fc-vs-new-york-city-fc.html
 
-08:00 [g]US Major League Soccer[z]	^-
-Minnesota United vs Seattle Sounders	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4302518/minnesota-united-fc-vs-seattle-sounders.html
+07:30 [g]CONMEBOL Copa Sudamericana[z]	^-
+Atletico Mineiro vs Indep Jose Teran	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4290121/atletico-mineiro-vs-independiente-del-valle.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
