@@ -26,14 +26,6 @@
 
 28-10-2005	^-
 
-17:00 [l]International Friendly Women U19[z]	^-
-Spain vs France	`Fhttps://www.fctv33.net/football/international-friendly-match-4304321/spain-women-u19-vs-france-women-u19.html
-Spain vs France	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3820449
-
-18:00 [l]International Friendly Women U19[z]	^-
-Portugal vs USA	`Fhttps://www.fctv33.net/football/international-friendly-match-4304326/portugal-u19-women-vs-usa-women-u19.html
-Portugal vs USA	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3820451
-
 18:45 Malaysian FA Cup	^-
 Kuching FA vs Terengganu	`Fhttps://www.fctv33.net/football/malaysian-fa-cup-match-4301085/kuching-city-fc-vs-terengganu-fc.html
 Kuching FA vs Terengganu	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3814429
@@ -44,6 +36,7 @@ Finland vs Mexico	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&mat
 
 19:15 Malaysian FA Cup[z]	^-
 Johor Darul Takzim vs Penang	`Fhttps://www.fctv33.net/football/malaysian-fa-cup-match-4301084/johor-darul-tazim-fc-vs-penang-fc.html
+Johor Darul Takzim vs Penang	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3814488
 
 20:00 [g]AFC Challenge League[z]	^-
 Bashundhara Kings vs Al-Ansar LIB	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4279338/bashundhara-kings-vs-al-ansar-sc.html
