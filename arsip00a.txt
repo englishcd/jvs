@@ -73,24 +73,33 @@ Hertha Berlin vs SV Elversberg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?
 
 00:45 [y]Netherlands KNVB Cup[z]	^-
 Gemert vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4296612/gemert-vs-fortuna-sittard.html
+Gemert vs Fortuna Sittard	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3814628
 Den Bosch vs ADO Den Haag	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4302023/den-bosch-vs-ado-den-haag.html
 Den Bosch vs ADO Den Haag	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3814565
 
 01:00 [l]UEFA WNL Women[z]	^-
 Sweden vs Spain	`Fhttps://www.fctv33.net/football/uefa-wnl-match-4213193/sweden-women-vs-spain-women.html
+Sweden vs Spain	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3816979
 
 01:00 [y]Copa del Rey[z]	^-
 Ourense CF vs Real Oviedo	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4300935/ourense-cf-vs-real-oviedo.html
+Ourense CF vs Real Oviedo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3814564
 Constancia vs Girona	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301180/constancia-vs-girona-fc.html
+Constancia vs Girona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3794592
 Atletico Tordesillas vs Burgos CF	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301457/atletico-tordesillas-vs-burgos-cf.html
+Atletico Tordesillas vs Burgos CF	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3794588
 
 01:00 [g]Saudi Arabia Kings Cup[z]	^-
 Al Nassr FC vs Al Ittihad Club	`Fhttps://www.fctv33.net/football/saudi-arabia-kings-cup-match-4301986/al-nassr-fc-vs-al-ittihad-club.html
+Al Nassr FC vs Al Ittihad Club	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3814648
 
 01:30 [y]Copa del Rey[z]	^-
 Union Langreo vs Racing de Ferrol	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301092/union-langreo-vs-racing-de-ferrol.html
+Union Langreo vs Racing de Ferrol	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3814581
 UCAM Murcia vs Cadiz	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301492/ucam-murcia-vs-cadiz.html
+UCAM Murcia vs Cadiz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3794591
 SD Logrones vs Racing Santander	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301497/sd-logrones-vs-racing-santander.html
+SD Logrones vs Racing Santander	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3791891
 
 02:00 [l]International Friendly Women[z]	^-
 England vs Australia	`Fhttps://www.fctv33.net/football/international-friendly-match-4300980/england-women-vs-australia-women.html
@@ -100,6 +109,7 @@ Inter de Valdemoro vs Getafe	`Fhttps://www.fctv33.net/football/copa-del-rey-matc
 Maracena vs Valencia	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4302051/maracena-vs-valencia-cf.html
 Rayo Majadahonda vs Talavera Reina	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301481/cf-rayo-majadahonda-vs-cf-talavera-de-la-reina.html
 CD Roda vs Granada CF	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4300921/cd-roda-vs-granada-cf.html
+CD Roda vs Granada CF	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3794593
 UD San Fernando vs Albacete Balompié	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301045/ud-san-fernando-vs-albacete-balompi-sad.html
 CD Guadalajara vs Cacereno	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301143/cd-guadalajara-vs-cacereno.html
 Deportivo Tropezon vs Cultural Leonesa	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301194/club-deportivo-tropezon-vs-cultural-leonesa.html
