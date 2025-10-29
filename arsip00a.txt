@@ -26,25 +26,9 @@
 
 29-10-2005	^-
 
-15:00 [g]AFC Challenge League[z]	^-
-Phnom Penh FC vs Shan United	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4284482/phnom-penh-crown-fc-vs-shan-united.html
-Phnom Penh FC vs Shan United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641414
-
-15:00 [g]Thai FA Cup[z]	^-
-Lopburi City FC vs Ratchaburi FC	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4305105/lopburi-city-fc-vs-ratchaburi-fc.html
-Thonburi Forest vs Nong Bua Lamphu	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4305106/thonburi-forest-vs-nongbua-pitchaya-fc.html
-
-15:00 [g]Thai FA Cup[z]	^-
-Nakhon Sawan FC vs Pattani	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4305107/nakhon-sawan-fc-vs-pattani.html
-Surat Thani City vs Lamphun Warrior	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4305108/surat-thani-city-vs-lamphun-warriors.html
-Samui United vs Sakaeo Bankaeng Utd	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4305109/samui-united-vs-sakaeo-bankaeng-utd.html
-
-16:00 [g]AFC Challenge League[z]	^-
-SP Falcons vs Manila Digger FC	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4268644/sp-falcons-vs-manila-digger-fc.html
-SP Falcons vs Manila Digger FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641406
-
 17:00 [g]Thai FA Cup[z]	^-
 Customs Department vs Nonthaburi Utd	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4305111/toko-customs-united-vs-nonthaburi-united.html
+Customs Department vs Nonthaburi Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830769
 
 18:00 [g]Thai FA Cup[z]	^-
 Chachoengsao vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-fa-cup-match-4305112/chachoengsao-hi-tek-vs-nakhon-ratchasima-mazda-fc.html
