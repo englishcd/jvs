@@ -26,8 +26,208 @@
 
 29-10-2005	^-
 
-09:00 [g]CONCACAF Central American Cup[z]	^-
-CD Motagua vs Cartagines Deportiva	`Fhttps://www.fctv33.net/football/concacaf-central-american-cup-match-4301661/cd-motagua-vs-cs-cartagines.html
+15:00 [g]AFC Challenge League[z]	^-
+Phnom Penh FC vs Shan United	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4284482/phnom-penh-crown-fc-vs-shan-united.html
+
+Thailand: Thai FA Cup
+15:00
+Lopburi City FC vs Ratchaburi FC
+15:00
+Thonburi Forest vs Nong Bua Lamphu
+Thailand: Thai FA Cup
+15:00
+Nakhon Sawan FC vs Pattani
+15:00
+Surat Thani City vs Lamphun Warrior
+15:00
+Samui United vs Sakaeo Bankaeng Utd
+
+16:00 [g]AFC Challenge League[z]	^-
+SP Falcons vs Manila Digger FC	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4268644/sp-falcons-vs-manila-digger-fc.html
+
+Thailand: Thai FA Cup
+17:00
+Customs Department FC vs Nonthaburi United
+Thailand: Thai FA Cup
+18:00
+Kasetsart University FC vs Nakhon Pathom FC
+18:00
+BFB Pattaya City vs Chiangmai FC
+18:00
+Sukhothai vs Yala City FC
+18:00
+Chiangrai United vs Pathumthani Univ
+Thailand: Thai FA Cup
+18:30
+Buriram United vs Warin Chamrap
+Asia: AFC Challenge League
+19:00
+Ezra FC vs Svay Rieng FC
+Malaysia: Malaysian FA Cup
+19:15
+Sabah vs Kelantan United
+Asia: AFC Challenge League
+19:30
+Tainan City Steel vs Dewa United FC
+Malaysia: Malaysian FA Cup
+20:00
+Selangor vs Negeri Sembilan
+International: U17 Women's World Cup
+22:30
+Spain (w) U17 vs France (w) U17
+22:30
+Mexico (w) U17 vs Paraguay (w) U17
+Asia: AFC Champions League 2
+23:00
+Al Khaldiya vs Al-Ahli Doha
+Germany: DFB Pokal
+30/10
+00:00
+SpVgg Greuther Fürth vs 1. FC Kaiserslautern
+30/10
+00:00
+FSV Mainz 05 vs VfB Stuttgart
+30/10
+00:00
+SC Paderborn 07 vs Bayer Leverkusen
+30/10
+00:00
+FV Illertissen vs 1. FC Magdeburg
+Italy: Italian Serie A
+30/10
+00:30
+Como vs Verona
+30/10
+00:30
+AS Roma vs Parma
+30/10
+00:30
+Juventus vs Udinese
+France: French Ligue 1
+30/10
+01:00
+Metz vs Lens
+30/10
+01:00
+Lorient vs Paris Saint Germain (PSG)
+30/10
+01:00
+Le Havre vs Stade Brestois
+30/10
+01:00
+Nice vs Lille
+Spain: Copa del Rey
+30/10
+01:00
+CD Sant Jordi vs Osasuna
+30/10
+01:00
+UD Los Garres vs Elche
+Asia: AFC Champions League 2
+30/10
+01:15
+Al Wehda vs Al-Muharraq
+International: U17 Women's World Cup
+30/10
+02:00
+Canada (w) U17 vs Zambia U17(w)
+30/10
+02:00
+Japan (w) U17 vs Colombia (w) U17
+Spain: Copa del Rey
+30/10
+02:00
+Atlètic Sant Just FC vs Mallorca
+Portugal: Portuguese League Cup
+30/10
+02:15
+Sporting Braga vs Santa Clara
+Italy: Italian Serie A
+30/10
+02:45
+Bologna vs Torino
+30/10
+02:45
+Inter Milan vs Fiorentina
+30/10
+02:45
+Genoa vs Cremonese
+Germany: DFB Pokal
+30/10
+02:45
+FC Koln vs Bayern Munchen
+England: English Football League Cup
+30/10
+02:45
+Liverpool vs Crystal Palace
+Germany: DFB Pokal
+30/10
+02:45
+SV Darmstadt 98 vs Schalke 04
+30/10
+02:45
+Fortuna Dusseldorf vs SC Freiburg
+30/10
+02:45
+Union Berlin vs Arminia Bielefeld
+England: English Football League Cup
+30/10
+02:45
+Arsenal vs Brighton Hove Albion
+30/10
+02:45
+Wolves vs Chelsea
+30/10
+02:45
+Swansea City vs Manchester City
+Spain: Copa del Rey
+30/10
+03:00
+Lucena CF vs Villarreal
+England: English Football League Cup
+30/10
+03:00
+Newcastle United vs Tottenham Hotspur
+Spain: Copa del Rey
+30/10
+03:00
+CD Yuncos vs Rayo Vallecano
+France: French Ligue 1
+30/10
+03:05
+Toulouse vs Rennes
+30/10
+03:05
+Strasbourg vs AJ Auxerre
+30/10
+03:05
+Paris FC vs Lyon
+30/10
+03:05
+Marseille vs Angers
+30/10
+03:05
+Nantes vs Monaco
+Portugal: Portuguese League Cup
+30/10
+03:45
+Benfica vs CD Tondela
+Brazil: Brazilian Serie A
+30/10
+05:00
+Fluminense RJ vs Ceara
+International: International Friendly
+30/10
+07:00
+USA (w) vs New Zealand (w)
+South America: CONMEBOL Copa Libertadores
+30/10
+07:30
+Racing Club vs Flamengo
+USA: United States Major League Soccer
+30/10
+09:30
+Los Angeles FC vs Austin FC
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
