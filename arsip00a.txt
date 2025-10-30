@@ -28,12 +28,15 @@
 
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Lanus vs Universidad de Chile	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4290120/club-atltico-lans-vs-universidad-de-chile-10-2025.html
+Lanus vs Universidad de Chile	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3754412
 
 05:00 [g]CONCACAF Caribbean Cup[z]	^-
 Universidad O&M vs Cibao FC	`Fhttps://www.fctv33.net/football/concacaf-caribbean-cup-match-4301473/universidad-om-vs-cibao-fc-10-2025.html
+Universidad O&M vs Cibao FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3821408
 
 07:30 [g]CONMEBOL Copa Libertadores[z]	^-
 Palmeiras vs Liga Dep Univ Quito	`Fhttps://www.fctv33.net/football/conmebol-copa-libertadores-match-4290117/palmeiras-vs-liga-dep-universitaria-quito-10-2025.html
+Palmeiras vs Liga Dep Univ Quito	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3729474
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
