@@ -26,29 +26,6 @@
 
 31-10-2005	^-
 
-00:30 [y]Italian Serie A[z]	^-
-Cagliari vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194709/cagliari-vs-sassuolo-10-2025.html
-Cagliari vs Sassuolo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3704316
-
-00:45 [y]Netherlands KNVB Cup[z]	^-
-Rijnsburgse Boys vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-knvb-cup-match-4301114/rijnsburgse-boys-vs-nec-nijmegen-10-2025.html
-Rijnsburgse Boys vs NEC Nijmegen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3802558
-
-01:00 [y]Copa del Rey[z]	^-
-Orihuela CF vs Levante	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4301495/orihuela-cf-vs-levante-10-2025.html
-Orihuela CF vs Levante	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3819427
-Puerto Vega vs Real Club Celta Vigo	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4303518/puerto-de-vega-vs-rc-celta-10-2025.html
-
-02:00 [y]Copa del Rey[z]	^-
-CD Getxo vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4299337/cd-getxo-vs-deportivo-alavs-10-2025.html
-
-02:45 [y]Italian Serie A[z]	^-
-Pisa vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194695/pisa-vs-lazio-10-2025.html
-
-03:00 [y]Copa del Rey[z]	^-
-CE Atletic Lleida vs RCD Espanyol	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4300936/ce-atletic-lleida-vs-rcd-espanyol-de-barcelona-10-2025.html
-Atletico Palma Rio vs Real Betis	`Fhttps://www.fctv33.net/football/copa-del-rey-match-4303179/atletico-palma-del-rio-vs-real-betis-10-2025.html
-
 05:00 [g]CONMEBOL Copa Sudamericana[z]	^-
 Lanus vs Universidad de Chile	`Fhttps://www.fctv33.net/football/conmebol-copa-sudamericana-match-4290120/club-atltico-lans-vs-universidad-de-chile-10-2025.html
 
