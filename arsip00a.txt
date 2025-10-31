@@ -64,28 +64,38 @@ Al Hilal SFC vs Al Shabab Riyadh	`Fhttps://www.fctv33.net/football/saudi-profess
 01-11-2005	^-
 
 02:00 [y]Netherlands Eredivisie[z]	^-
-PSV Eindhoven vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199292/psv-eindhoven-vs-fortuna-sittard-11-2025.html
+PSV Eindhoven vs Fortuna Sittard	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199292/psv-eindhoven-vs-fortuna-sittard.html
 
 02:30 [y]Bundesliga[z]	^-
-FC Augsburg vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199711/fc-augsburg-vs-borussia-dortmund-11-2025.html
+FC Augsburg vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199711/fc-augsburg-vs-borussia-dortmund.html
 
 02:30 [y]FA Cup[z]	^-
-Luton Town vs Forest Green Rovers	`Fhttps://www.fctv33.net/football/fa-cup-match-4304513/luton-town-vs-forest-green-rovers-11-2025.html
+Luton Town vs Forest Green Rovers	`Fhttps://www.fctv33.net/football/fa-cup-match-4304513/luton-town-vs-forest-green-rovers.html
 
 02:45 [g]Belgian Pro League[z]	^-
-Standard Liege vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199074/standard-liege-vs-rc-sporting-charleroi-11-2025.html
+Standard Liege vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199074/standard-liege-vs-rc-sporting-charleroi.html
 
 03:00 [y]English Football League[z]	^-
-Wrexham vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203909/wrexham-vs-coventry-city-11-2025.html
+Wrexham vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203909/wrexham-vs-coventry-city.html
 
 03:00 [y]Spanish La Liga[z]	^-
-Getafe vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209797/getafe-vs-girona-fc-11-2025.html
+Getafe vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209797/getafe-vs-girona-fc.html
 
 03:15 [g]Portuguese Primera Liga[z]	^-
-Sporting CP vs Alverca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216103/sporting-cp-vs-alverca-11-2025.html
+Sporting CP vs Alverca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216103/sporting-cp-vs-alverca.html
 
 05:00 [g]Argentine Division 1[z]	^-
-San Lorenzo vs Deportivo Riestra	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107719/san-lorenzo-vs-deportivo-riestra-11-2025.html
+San Lorenzo vs Deportivo Riestra	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107719/san-lorenzo-vs-deportivo-riestra.html
+
+07:15 [g]Argentine Division 1[z]	^-
+Instituto vs Rosario Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107710/instituto-de-crdoba-vs-rosario-central.html
+Newells Old Boys vs Atlético Unión	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107729/club-atltico-newells-old-boys-vs-club-atltico-unin.html
+
+08:00 [g]Mexico Liga MX[z]	^-
+Necaxa vs Santos Laguna	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194321/necaxa-vs-santos-laguna.html
+
+10:05 [g]Mexico Liga MX[z]	^-
+Puebla vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194320/puebla-vs-cruz-azul.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
