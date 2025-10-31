@@ -26,10 +26,6 @@
 
 31-10-2005	^-
 
-21:00 [g]AFC Challenge League[z]	^-
-Al Arabi Kuwait vs Muras United	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4279339/al-arabi-club-kuw-vs-muras-united-fc-10-2025.html
-Al Arabi Kuwait vs Muras United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3641396
-
 21:50 [g]Saudi Professional League[z]	^-
 Al Hilal SFC vs Al Shabab Riyadh	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256189/al-hilal-vs-al-shabab-fc-10-2025.html
 Al Hilal SFC vs Al Shabab Riyadh	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3729586
@@ -122,6 +118,33 @@ Chelmsford City vs Braintree Town	`Fhttps://www.fctv33.net/football/fa-cup-match
 
 19:15 Malaysian Super League	^-
 Kuala Lumpur vs Kelantan United	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221186/kuala-lumpur-city-fc-vs-kelantan-the-real-warriors-11-2025.html
+
+19:30 [g]English Football League[z]	^-
+Norwich City vs Hull City
+West Bromwich(WBA) vs Sheffield Wednesday
+Leicester City vs Blackburn Rovers
+
+19:30 [g]Thai League 1[z]	^-
+Rayong FC vs Sukhothai
+
+19:30 [g]AFC Challenge League[z]	^-
+Dewa United FC vs Shan United
+
+20:00 [y]Spanish La Liga[z]	^-
+Villarreal vs Rayo Vallecano
+
+20:00 Malaysian Super League	^-
+PDRM vs Kuching FA
+
+21:00 [y]Italian Serie A[z]	^-
+Udinese vs Atalanta
+
+21:30 [y]Bundesliga[z]	^-
+FSV Mainz 05 vs Werder Bremen
+1. FC Heidenheim vs Eintracht Frankfurt
+RB Leipzig vs VfB Stuttgart
+Union Berlin vs SC Freiburg
+FC St. Pauli vs Borussia Monchengladbach
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
