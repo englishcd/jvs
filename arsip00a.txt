@@ -33,10 +33,12 @@ Perth Glory vs Melbourne Victory	`3https://embed-10-08-12-51.linkzhe.eu.org/embe
 19:00 Liga 1	^-
 Persija Jakarta vs PSBS Biak Numfor	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229645/persija-jakarta-vs-psbs-biak-numfor-10-2025.html
 Persija Jakarta vs PSBS Biak Numfor	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3712527
+Persija Jakarta vs PSBS Biak Numfor	https://streaming.sportsnews.id/p/ch5.html
 
 19:00 Liga 2	^-
 PSMS Medan vs Garudayaksa FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4286610/psms-medan-vs-garudayaksa-fc-10-2025.html
 PSMS Medan vs Garudayaksa FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3822918
+PSMS Medan vs Garudayaksa FC	https://streaming.sportsnews.id/p/ch4.html
 
 19:00 [g]AFC Challenge League[z]	^-
 Paro FC vs FC Abdysh Ata	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4270230/paro-fc-vs-fc-abdysh-ata-kant-10-2025.html
@@ -88,6 +90,37 @@ Necaxa vs Santos Laguna	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4
 
 10:05 [g]Mexico Liga MX[z]	^-
 Puebla vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194320/puebla-vs-cruz-azul.html
+
+11:00 [g]Australia A-League[z]	^-
+Auckland FC vs Adelaide United	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282098/auckland-fc-vs-adelaide-united-11-2025.html
+
+12:00 [g]Korean K League 1[z]	^-
+Gangwon FC vs Jeonbuk Hyundai Motors	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302863/gangwon-football-club-vs-jeonbuk-hyundai-motors-11-2025.html
+Daejeon Citizen vs FC Seoul	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302865/daejeon-citizen-vs-football-club-seoul-11-2025.html
+
+13:00 [g]Australia A-League[z]	^-
+Newcastle Jets vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4284960/newcastle-jets-vs-sydney-fc-11-2025.html
+
+14:30 [g]Korean K League 1[z]	^-
+FC Anyang vs Ulsan Hyundai FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302772/fc-anyang-vs-ulsan-hd-fc-11-2025.html
+Gimcheon Sangmu vs Pohang Steelers	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302881/gimcheon-sangmu-football-club-vs-pohang-steelers-11-2025.html
+
+15:00 [g]AFC Challenge League[z]	^-
+Tainan City Steel vs Phnom Penh FC	`Fhttps://www.fctv33.net/football/afc-challenge-league-match-4284485/tainan-city-steel-vs-phnom-penh-crown-fc-11-2025.html
+
+15:30 Liga 2	^-
+Adhyaksa FC Banten vs Pekanbaru Utd	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4286607/adhyaksa-fc-banten-vs-pekanbaru-united-11-2025.html
+Persiku Kudus vs Kendal Tornado FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4286608/persiku-kudus-vs-kendal-tornado-fc-11-2025.html
+Persipal Palu vs Deltras Sidoarjo	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4286609/persipal-palu-vs-deltras-sidoarjo-11-2025.html
+
+15:35 [g]Australia A-League[z]	^-
+FC Macarthur vs Western Sydney	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282089/macarthur-fc-vs-western-sydney-11-2025.html
+
+18:00 [g]Thai League 1[z]	^-
+Ratchaburi FC vs Chiangrai United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266191/ratchaburi-fc-vs-chiangrai-united-11-2025.html
+
+18:30 Malaysian Super League	^-
+Sabah vs Selangor	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221055/sabah-fc-vs-selangor-fc-11-2025.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
