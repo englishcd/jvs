@@ -197,6 +197,13 @@ Aldosivi Plata vs Indep Rivadavia	`Fhttps://www.fctv33.net/football/argentine-di
 00:45 [y]Netherlands Eredivisie[z]	^-
 NAC Breda vs Go Ahead Eagles	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199308/nac-breda-vs-go-ahead-eagles.html
 
+01:00 [y]French Ligue 1[z]	^-
+Monaco vs Paris FC	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200296/as-monaco-vs-paris-fc.html
+
+01:00 [g]Portuguese Primera Liga[z]	^-
+Rio Ave vs Estoril	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216072/rio-ave-vs-estoril.html
+Casa Pia AC vs Estrela da Amadora	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216110/casa-pia-ac-vs-cf-estrela-amadora-sad.html
+
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
 ^@[].f[w]👉Settings | Site settings | Pop-ups & redirects: Allow.👈[z]f.	^-
