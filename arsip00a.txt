@@ -32,18 +32,23 @@ PSV Eindhoven vs Fortuna Sittard	`3https://embed-10-08-12-51.linkzhe.eu.org/embe
 
 02:30 [y]Bundesliga[z]	^-
 FC Augsburg vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199711/fc-augsburg-vs-borussia-dortmund.html
+FC Augsburg vs Borussia Dortmund	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3709209
 
 02:30 [y]FA Cup[z]	^-
 Luton Town vs Forest Green Rovers	`Fhttps://www.fctv33.net/football/fa-cup-match-4304513/luton-town-vs-forest-green-rovers.html
+Luton Town vs Forest Green Rovers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3819115
 
 02:45 [g]Belgian Pro League[z]	^-
 Standard Liege vs Charleroi	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199074/standard-liege-vs-rc-sporting-charleroi.html
+Standard Liege vs Charleroi	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3709507
 
 03:00 [g]English Football League[z]	^-
 Wrexham vs Coventry City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203909/wrexham-vs-coventry-city.html
+Wrexham vs Coventry City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3819259
 
 03:00 [y]Spanish La Liga[z]	^-
 Getafe vs Girona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209797/getafe-vs-girona-fc.html
+Getafe vs Girona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3592417
 
 03:15 [g]Portuguese Primera Liga[z]	^-
 Sporting CP vs Alverca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216103/sporting-cp-vs-alverca.html
