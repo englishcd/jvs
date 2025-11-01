@@ -26,13 +26,6 @@
 
 01-11-2005	^-
 
-11:00 [g]Australia A-League[z]	^-
-Auckland FC vs Adelaide United	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282098/auckland-fc-vs-adelaide-united.html
-
-12:00 [g]Korean K League 1[z]	^-
-Gangwon FC vs Jeonbuk Hyundai Motors	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302863/gangwon-football-club-vs-jeonbuk-hyundai-motors.html
-Daejeon Citizen vs FC Seoul	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302865/daejeon-citizen-vs-football-club-seoul.html
-
 13:00 [g]Australia A-League[z]	^-
 Newcastle Jets vs Sydney FC	`Fhttps://www.fctv33.net/football/australia-a-league-match-4284960/newcastle-jets-vs-sydney-fc.html
 
