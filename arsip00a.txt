@@ -85,11 +85,23 @@ Fulham vs Wolves	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matc
 Zulte-Waregem vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199073/zulte-waregem-vs-union-saint-gilloise.html
 
 22:00 [g]English Football League[z]	^-
+Sheffield United vs Derby County	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203905/sheffield-united-vs-derby-county.html
+Sheffield United vs Derby County	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3819255
 Southampton vs Preston North End	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203906/southampton-vs-preston-north-end.html
+Southampton vs Preston North End	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3819251
+Stoke City vs Bristol City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203907/stoke-city-vs-bristol-city.html
+Stoke City vs Bristol City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3819250
 Birmingham City vs Portsmouth	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203908/birmingham-city-vs-portsmouth.html
+Birmingham City vs Portsmouth	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3819256
 Watford vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203910/watford-vs-middlesbrough.html
+Watford vs Middlesbrough	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3819254
 Queens Park Rangers vs Ipswich Town	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203912/queens-park-rangers-vs-ipswich-town.html
+Queens Park Rangers vs Ipswich Town	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3819260
+Charlton Athletic vs Swansea City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203913/charlton-athletic-vs-swansea-city.html
+Charlton Athletic vs Swansea City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3819257
 Oxford United vs Millwall	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203916/oxford-united-vs-millwall.html
+Oxford United vs Millwall	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3819258
+
 
 22:15 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209813/atletico-madrid-vs-sevilla-fc.html
