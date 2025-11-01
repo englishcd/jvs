@@ -59,7 +59,8 @@ Velez Sarsfield vs Talleres Cordoba	`3https://embed-10-08-12-51.linkzhe.eu.org/e
 03:00 [y]English Premier League[z]	^-
 Liverpool vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193997/liverpool-vs-aston-villa.html
 Liverpool vs Aston Villa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3803149
-Liverpool vs Aston Villa	https://live.5890v.com/live/sd-1-4343284.flv?txSecret=fa4563ed5ef45b846b790753df10af0c&txTime=6906AD54
+Liverpool vs Aston Villa	https://live.5890v.com/live/sd-1-4343284.m3u8?txSecret=fa4563ed5ef45b846b790753df10af0c&txTime=6906AD54
+Liverpool vs Aston Villa	https://live.qfngx.com/sport/202_4303001_1.m3u8?txSecret=f42799cd448dd606a422eb06da5848fb&txTime=1762027080
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 SC Telstar vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199294/sc-telstar-vs-excelsior-sbv.html
@@ -68,6 +69,8 @@ SC Telstar vs Excelsior SBV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spo
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209819/real-madrid-vs-valencia-cf.html
 Real Madrid vs Valencia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3592408
+Real Madrid vs Valencia	https://hls.suanzsd6.com/hd-en-6MuSsYdpypTaJD524o.m3u8?txSecret=83924d9fa272d710a1d4b3d0b7baeb60&txTime=6907B955
+Real Madrid vs Valencia	https://bf.njscwh.com/live/sd-1-4358424.m3u8?txSecret=d1207c54b1c5e67b9682dfeebab6d6b7&txTime=690667cb
 
 03:05 [y]French Ligue 1[z]	^-
 AJ Auxerre vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200304/aj-auxerre-vs-marseille.html
