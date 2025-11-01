@@ -24,18 +24,7 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-01-11-2005	^-
-
-23:00 [y]French Ligue 1[z]	^-
-Paris Saint Germain vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200302/paris-saint-germain-vs-ogc-nice.html
-Paris Saint Germain vs Nice	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3770995
-Paris Saint Germain vs Nice	https://live.5890v.com/live/sd-1-4347773.m3u8?txSecret=bb543c9858d7c9952b1a112bbd1bb966&txTime=690674F6
-
 02-11-2005	^-
-
-00:00 [y]Italian Serie A[z]	^-
-Napoli vs Como	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194720/napoli-vs-como.html
-Napoli vs Como	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3797854
 
 00:30 [y]English Premier League[z]	^-
 Tottenham Hotspur vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194018/tottenham-hotspur-vs-chelsea.html
@@ -94,33 +83,43 @@ Santos FC SP vs Fortaleza EC CE	`3https://embed-10-08-12-51.linkzhe.eu.org/embed
 
 02:30 [g]US Major League Soccer[z]	^-
 New York City FC vs Charlotte FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4303687/new-york-city-fc-vs-charlotte-fc.html
+New York City FC vs Charlotte FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810479
 
 02:45 [y]Italian Serie A[z]	^-
 Cremonese vs Juventus	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194717/cremonese-vs-juventus.html
+Cremonese vs Juventus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3797850
 
 02:45 [g]Belgian Pro League[z]	^-
 Anderlecht vs Mechelen	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199068/anderlecht-vs-kv-mechelen.html
+Anderlecht vs Mechelen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3712596
 
 03:00 [g]Argentine Division 1[z]	^-
 Velez Sarsfield vs Talleres Cordoba	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107713/velez-sarsfield-vs-talleres-cordoba.html
+Velez Sarsfield vs Talleres Cordoba	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3222048
 
 03:00 [y]English Premier League[z]	^-
 Liverpool vs Aston Villa	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193997/liverpool-vs-aston-villa.html
+Liverpool vs Aston Villa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3803149
 
 03:00 [y]Netherlands Eredivisie[z]	^-
 SC Telstar vs Excelsior SBV	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199294/sc-telstar-vs-excelsior-sbv.html
+SC Telstar vs Excelsior SBV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3712548
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Madrid vs Valencia	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209819/real-madrid-vs-valencia-cf.html
+Real Madrid vs Valencia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3592408
 
 03:05 [y]French Ligue 1[z]	^-
 AJ Auxerre vs Marseille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200304/aj-auxerre-vs-marseille.html
+AJ Auxerre vs Marseille	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3729954
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 Vitoria Guimaraes vs Benfica	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216029/vitoria-guimaraes-vs-benfica.html
+Vitoria Guimaraes vs Benfica	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3826524
 
 04:00 [g]Brazilian Serie A[z]	^-
 Mirassol vs Botafogo RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141600/mirassol-vs-botafogo-rj.html
+Mirassol vs Botafogo RJ	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3783996
 
 04:30 [g]US Major League Soccer[z]	^-
 Chicago Fire vs Philadelphia Union	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4303686/chicago-fire-vs-philadelphia-union.html
