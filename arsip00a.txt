@@ -48,6 +48,7 @@ Napoli vs Como	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchI
 00:30 [y]English Premier League[z]	^-
 Tottenham Hotspur vs Chelsea	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194018/tottenham-hotspur-vs-chelsea.html
 Tottenham Hotspur vs Chelsea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3803148
+Tottenham Hotspur vs Chelsea	https://live.5890v.com/live/sd-1-4343293.m3u8?txSecret=0db2b61a7c504b4a4127ae93986477b0&txTime=690686BF
 
 00:30 [y]Bundesliga[z]	^-
 Bayern Munchen vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199719/fc-bayern-munich-vs-bayer-04-leverkusen.html
@@ -57,6 +58,7 @@ Bayern Munchen vs Bayer Leverkusen	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 Real Sociedad vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209808/real-sociedad-vs-athletic-club.html
 Real Sociedad vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3592418
 Real Sociedad vs Athletic Bilbao	https://live.5890v.com/live/sd-1-4358425.m3u8?txSecret=3e09944b60d629a20a330c80d17afdf9&txTime=69068A17
+Real Sociedad vs Athletic Bilbao	https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,!!ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 
 00:30 [g]Saudi Professional League[z]	^-
 Al Nassr FC vs Al-Feiha	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4255978/al-nassr-fc-vs-al-fayha.html
