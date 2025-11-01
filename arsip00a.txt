@@ -26,19 +26,6 @@
 
 01-11-2005	^-
 
-05:00 [g]Argentine Division 1[z]	^-
-San Lorenzo vs Deportivo Riestra	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107719/san-lorenzo-vs-deportivo-riestra.html
-
-07:15 [g]Argentine Division 1[z]	^-
-Instituto vs Rosario Central	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107710/instituto-de-crdoba-vs-rosario-central.html
-Newells Old Boys vs Atlético Unión	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107729/club-atltico-newells-old-boys-vs-club-atltico-unin.html
-
-08:00 [g]Mexico Liga MX[z]	^-
-Necaxa vs Santos Laguna	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194321/necaxa-vs-santos-laguna.html
-
-10:05 [g]Mexico Liga MX[z]	^-
-Puebla vs CDSyC Cruz Azul	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194320/puebla-vs-cruz-azul.html
-
 11:00 [g]Australia A-League[z]	^-
 Auckland FC vs Adelaide United	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282098/auckland-fc-vs-adelaide-united.html
 
@@ -224,6 +211,25 @@ Independiente vs Atletico Tucuman	`Fhttps://www.fctv33.net/football/argentine-di
 
 06:00 [g]USL Championship[z]	^-
 Louisville City FC vs Detroit City	`Fhttps://www.fctv33.net/football/usl-championship-match-4305568/louisville-city-fc-vs-detroit-city.html
+
+06:30 [g]US Major League Soccer[z]	^-
+Nashville vs Inter Miami CF	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4303563/nashville-vs-inter-miami-cf.html
+
+06:30 [g]USL Championship[z]	^-
+North Carolina vs Loudoun United	`Fhttps://www.fctv33.net/football/usl-championship-match-4305569/north-carolina-vs-loudoun-united.html
+
+07:00 [g]USL Championship[z]	^-
+Tulsa vs Colorado Springs	`Fhttps://www.fctv33.net/football/usl-championship-match-4305570/fc-tulsa-vs-colorado-springs-switchbacks-fc.html
+
+08:00 [g]USL Championship[z]	^-
+New Mexico Utd vs San Antonio	`Fhttps://www.fctv33.net/football/usl-championship-match-4305571/new-mexico-united-vs-san-antonio.html
+
+08:30 [g]US Major League Soccer[z]	^-
+FC Dallas vs Vancouver Whitecaps	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4303685/fc-dallas-vs-vancouver-whitecaps.html
+Portland Timbers vs San Diego FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4303733/portland-timbers-vs-san-diego-fc.html
+
+08:30 [g]USL Championship[z]	^-
+El Paso Locomotive vs Phoenix Rising	`Fhttps://www.fctv33.net/football/usl-championship-match-4305572/el-paso-locomotive-fc-vs-phoenix-rising-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
