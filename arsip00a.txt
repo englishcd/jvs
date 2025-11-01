@@ -26,11 +26,6 @@
 
 01-11-2005	^-
 
-22:15 [y]Spanish La Liga[z]	^-
-Atletico Madrid vs Sevilla	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209813/atletico-madrid-vs-sevilla-fc.html
-Atletico Madrid vs Sevilla	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3592414
-Atletico Madrid vs Sevilla	https://pullkgq721.qmuiw.com/live/hd-zh-1-4358419.m3u8?auth_key=1762010387-0-0-d3a092c1e501e1860fe7792e542039d5
-
 22:30 [y]Netherlands Eredivisie[z]	^-
 AFC Ajax vs SC Heerenveen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199306/afc-ajax-vs-sc-heerenveen.html
 AFC Ajax vs SC Heerenveen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3712546
@@ -61,6 +56,7 @@ Bayern Munchen vs Bayer Leverkusen	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 00:30 [y]Spanish La Liga[z]	^-
 Real Sociedad vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209808/real-sociedad-vs-athletic-club.html
 Real Sociedad vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3592418
+Real Sociedad vs Athletic Bilbao	https://live.5890v.com/live/sd-1-4358425.m3u8?txSecret=3e09944b60d629a20a330c80d17afdf9&txTime=69068A17
 
 00:30 [g]Saudi Professional League[z]	^-
 Al Nassr FC vs Al-Feiha	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4255978/al-nassr-fc-vs-al-fayha.html
