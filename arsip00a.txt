@@ -1,6 +1,7 @@
 	^-
 	^-
 ^=	^-
+^=mncsp1	https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd!!39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 ^=fctvlive	`0https://www.fctv33.net/football.html
 ^=Live Sports	`0https://www.marza12.shop/football.html
 ^=Watching	`0https://ddkanq.vip/
