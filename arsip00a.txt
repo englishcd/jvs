@@ -24,42 +24,7 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-02-11-2005	^-
-
-22:45 [y]Netherlands Eredivisie[z]	^-
-FC Utrecht vs NEC Nijmegen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199305/fc-utrecht-vs-nec-nijmegen.html
-FC Utrecht vs NEC Nijmegen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716577
-
-23:15 [y]French Ligue 1[z]	^-
-Toulouse vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200297/toulouse-fc-vs-havre-athletic-club.html
-Toulouse vs Le Havre	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3811009
-Toulouse vs Le Havre	https://live.5890v.com/live/sd-1-4347775.m3u8?txSecret=13a218b83e8b62b53b558751bd70d67f&txTime=6907C690
-Lens vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200303/rc-lens-vs-lorient.html
-Lens vs Lorient	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3726937
-Lens vs Lorient	https://live.5890v.com/live/sd-1-4347769.m3u8?txSecret=98b38286a20c56e84ab56efb4f74c554&txTime=6907C67C
-Nantes vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200307/fc-nantes-vs-metz.html
-Nantes vs Metz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716568
-Nantes vs Metz	https://live.5890v.com/live/sd-1-4347772.m3u8?txSecret=6e72d80309762815ccdf58929365d244&txTime=6907C672
-Lille vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200321/losc-lille-vs-angers-sco.html
-Lille vs Angers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3753830
-Lille vs Angers	https://live.5890v.com/live/sd-1-4347770.m3u8?txSecret=ec49be71d1c3235da3473fd2474f8fa9&txTime=6907C687
-
-23:30 [y]English Premier League[z]	^-
-Manchester City vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193994/manchester-city-vs-bournemouth-afc.html
-Manchester City vs Bournemouth AFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3803152
-Manchester City vs Bournemouth AFC	https://live2.bh6taiye.com/live/61300697_f8ca881c9d278c3205868f27e3428d61_h1080p.m3u8
-
-23:30 [y]Bundesliga[z]	^-
-VfL Wolfsburg vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199730/vfl-wolfsburg-vs-tsg-hoffenheim.html
-VfL Wolfsburg vs TSG Hoffenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716316
-VfL Wolfsburg vs TSG Hoffenheim	https://live.qfngx.com/sport/202_4304217_1.m3u8?txSecret=8f4bbf1309383b7e02f95a500266deb9&txTime=1762101002
-
 03-11-2005	^-
-
-00:00 [y]Italian Serie A[z]	^-
-Parma vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194773/parma-vs-bologna.html
-Parma vs Bologna	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3797869
-Parma vs Bologna	https://live.5890v.com/live/sd-1-4339554.m3u8?txSecret=c4867e068ffc1af51fce02ff1cd6a7f9&txTime=6907D484
 
 00:15 [g]FA Cup[z]	^-
 Gainsborough vs Accrington Stanley	`Fhttps://www.fctv33.net/football/fa-cup-match-4304444/gainsborough-trinity-vs-accrington-stanley.html
@@ -89,12 +54,15 @@ Charleston Battery vs Rhode Island	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 
 02:45 [y]Italian Serie A[z]	^-
 AC Milan vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194736/ac-milan-vs-as-roma.html
+AC Milan vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3797883
 
 02:45 [y]French Ligue 1[z]	^-
 Stade Brestois vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200299/stade-brestois-29-vs-lyon.html
+Stade Brestois vs Lyon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716559
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Betis vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209805/real-betis-vs-rcd-mallorca.html
+Real Betis vs Mallorca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3592406
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 FC Porto vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216116/fc-porto-vs-sporting-braga.html
