@@ -26,11 +26,6 @@
 
 02-11-2005	^-
 
-21:15 [g]FA Cup[z]	^-
-Eastleigh vs Walsall	`Fhttps://www.fctv33.net/football/fa-cup-match-4304442/eastleigh-vs-walsall.html
-Eastleigh vs Walsall	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3825751
-Eastleigh vs Walsall	https://live.5890v.com/live/sd-1-4447264.m3u8?txSecret=86166625f729492471bf63ed5bf2af60&txTime=6907B156
-
 21:30 [y]Bundesliga[z]	^-
 FC Koln vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199708/fc-kln-vs-hamburger-sv.html
 FC Koln vs Hamburger SV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716315
@@ -59,28 +54,35 @@ FC Utrecht vs NEC Nijmegen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spor
 
 23:15 [y]French Ligue 1[z]	^-
 Toulouse vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200297/toulouse-fc-vs-havre-athletic-club.html
+Toulouse vs Le Havre	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3811009
 Toulouse vs Le Havre	https://live.5890v.com/live/sd-1-4347775.m3u8?txSecret=13a218b83e8b62b53b558751bd70d67f&txTime=6907C690
 Lens vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200303/rc-lens-vs-lorient.html
+Lens vs Lorient	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3726937
 Lens vs Lorient	https://live.5890v.com/live/sd-1-4347769.m3u8?txSecret=98b38286a20c56e84ab56efb4f74c554&txTime=6907C67C
 Nantes vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200307/fc-nantes-vs-metz.html
 Nantes vs Metz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716568
 Nantes vs Metz	https://live.5890v.com/live/sd-1-4347772.m3u8?txSecret=6e72d80309762815ccdf58929365d244&txTime=6907C672
 Lille vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200321/losc-lille-vs-angers-sco.html
+Lille vs Angers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3753830
 Lille vs Angers	https://live.5890v.com/live/sd-1-4347770.m3u8?txSecret=ec49be71d1c3235da3473fd2474f8fa9&txTime=6907C687
 
 23:30 [y]English Premier League[z]	^-
 Manchester City vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193994/manchester-city-vs-bournemouth-afc.html
+Manchester City vs Bournemouth AFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3803152
 
 23:30 [y]Bundesliga[z]	^-
 VfL Wolfsburg vs TSG Hoffenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199730/vfl-wolfsburg-vs-tsg-hoffenheim.html
+VfL Wolfsburg vs TSG Hoffenheim	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716316
 
 03-11-2005	^-
 
 00:00 [y]Italian Serie A[z]	^-
 Parma vs Bologna	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194773/parma-vs-bologna.html
+Parma vs Bologna	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3797869
 
 00:15 [g]FA Cup[z]	^-
 Gainsborough vs Accrington Stanley	`Fhttps://www.fctv33.net/football/fa-cup-match-4304444/gainsborough-trinity-vs-accrington-stanley.html
+Gainsborough vs Accrington Stanley	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3825757
 
 00:30 [g]Belgian Pro League[z]	^-
 Sint-Truidense vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199076/sint-truidense-vs-royal-antwerp.html
