@@ -26,34 +26,6 @@
 
 02-11-2005	^-
 
-20:30 [y]Netherlands Eredivisie[z]	^-
-Groningen vs FC Twente Enschede	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199295/groningen-vs-fc-twente-enschede.html
-Groningen vs FC Twente Enschede	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716578
-Sparta Rotterdam vs AZ Alkmaar	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199324/sparta-rotterdam-vs-az-alkmaar.html
-Sparta Rotterdam vs AZ Alkmaar	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716576
-
-20:30 Liga 2	^-
-Persiraja Aceh vs Persekat Tegal	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4286602/persiraja-aceh-vs-persekat-tegal.html
-Persiraja Aceh vs Persekat Tegal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3828883
-
-21:00 [y]English Premier League[z]	^-
-West Ham United vs Newcastle United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194016/west-ham-united-vs-newcastle-united.html
-West Ham United vs Newcastle United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3803147
-West Ham United vs Newcastle United	https://live.5890v.com/live/sd-1-4343295.m3u8?txSecret=210f780b9c36470b590376e2a9916ecb&txTime=6907AA72
-
-21:00 [y]Italian Serie A[z]	^-
-Fiorentina vs Lecce	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194761/fiorentina-vs-lecce.html
-Fiorentina vs Lecce	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3797865
-Fiorentina vs Lecce	https://live.5890v.com/live/sd-1-4339551.m3u8?txSecret=8febef1e0e4a99bf81b789ec480f2d95&txTime=6907AA4F
-Torino vs Pisa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194764/torino-vs-pisa.html
-Torino vs Pisa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3813509
-Torino vs Pisa	https://live.5890v.com/live/sd-1-4339556.m3u8?txSecret=226e37ca3b557e5440e85a04269fbd37&txTime=6907AA59
-
-21:00 [y]French Ligue 1[z]	^-
-Rennes vs Strasbourg	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200298/stade-rennais-fc-vs-rc-strasbourg-alsace.html
-Rennes vs Strasbourg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716564
-Rennes vs Strasbourg	https://live.5890v.com/live/sd-1-4347774.m3u8?txSecret=60ced89a47095a51159cd9c12dbb7c92&txTime=6907AA7B
-
 21:15 [g]FA Cup[z]	^-
 Eastleigh vs Walsall	`Fhttps://www.fctv33.net/football/fa-cup-match-4304442/eastleigh-vs-walsall.html
 Eastleigh vs Walsall	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3825751
@@ -75,6 +47,7 @@ Port Vale vs Maldon Tiptree	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spo
 22:15 [y]Spanish La Liga[z]	^-
 Deportivo Alavés vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209801/deportivo-alavs-vs-rcd-espanyol-de-barcelona.html
 Deportivo Alavés vs RCD Espanyol	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3592415
+Deportivo Alavés vs RCD Espanyol	https://live.5890v.com/live/sd-1-4358415.m3u8?txSecret=42612ade06bd8e9a9dcb37236f535a18&txTime=6907B876
 
 22:30 [g]Portuguese Primera Liga[z]	^-
 AVS Futebol SAD vs CD Tondela	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216032/avs-futebol-sad-vs-cd-tondela.html
