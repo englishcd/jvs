@@ -26,26 +26,6 @@
 
 02-11-2005	^-
 
-19:00 Liga 1	^-
-Persebaya Surabaya vs Persis Solo	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229644/persebaya-surabaya-vs-persis-solo-fc.html
-Persebaya Surabaya vs Persis Solo	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3828251
-
-19:00 [g]Thai League 1[z]	^-
-Chonburi Shark FC vs BG Pathum Utd	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266183/chonburi-fc-vs-bg-pathum-united.html
-Chonburi Shark FC vs BG Pathum Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716616
-
-19:00Liga 2	^-
-Barito Putera vs Persiba Balikpapan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4286603/barito-putera-vs-persiba-balikpapan.html
-Barito Putera vs Persiba Balikpapan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3828498
-
-19:00 [g]FA Cup[z]	^-
-South Shields vs Shrewsbury Town	`Fhttps://www.fctv33.net/football/fa-cup-match-4304503/south-shields-vs-shrewsbury-town.html
-South Shields vs Shrewsbury Town	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3825744
-
-19:15 Malaysian Super League	^-
-DPMM FC vs Negeri Sembilan	`Fhttps://www.fctv33.net/football/malaysian-super-league-match-4221053/dpmm-fc-vs-negeri-sembilan.html
-DPMM FC vs Negeri Sembilan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3828400
-
 19:30 [g]Belgian Pro League[z]	^-
 Westerlo vs Racing Genk	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199070/kvc-westerlo-vs-racing-genk.html
 Westerlo vs Racing Genk	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716623
@@ -84,15 +64,19 @@ Rennes vs Strasbourg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&
 
 21:15 [g]FA Cup[z]	^-
 Eastleigh vs Walsall	`Fhttps://www.fctv33.net/football/fa-cup-match-4304442/eastleigh-vs-walsall.html
+Eastleigh vs Walsall	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3825751
 
 21:30 [y]Bundesliga[z]	^-
 FC Koln vs Hamburger SV	`Fhttps://www.fctv33.net/football/bundesliga-match-4199708/fc-kln-vs-hamburger-sv.html
+FC Koln vs Hamburger SV	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716315
 
 22:00 [g]Belgian Pro League[z]	^-
 Oud Heverlee vs KAA Gent	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199075/oud-heverlee-leuven-vs-kaa-gent.html
+Oud Heverlee vs KAA Gent	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716630
 
 22:00 [g]FA Cup[z]	^-
 Port Vale vs Maldon Tiptree	`Fhttps://www.fctv33.net/football/fa-cup-match-4304541/port-vale-vs-maldon---tiptree.html
+Port Vale vs Maldon Tiptree	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3825755
 
 22:15 [y]Spanish La Liga[z]	^-
 Deportivo Alavés vs RCD Espanyol	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209801/deportivo-alavs-vs-rcd-espanyol-de-barcelona.html
