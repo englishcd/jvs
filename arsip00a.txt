@@ -59,10 +59,14 @@ FC Utrecht vs NEC Nijmegen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?spor
 
 23:15 [y]French Ligue 1[z]	^-
 Toulouse vs Le Havre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200297/toulouse-fc-vs-havre-athletic-club.html
+Toulouse vs Le Havre	https://live.5890v.com/live/sd-1-4347775.m3u8?txSecret=13a218b83e8b62b53b558751bd70d67f&txTime=6907C690
 Lens vs Lorient	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200303/rc-lens-vs-lorient.html
+Lens vs Lorient	https://live.5890v.com/live/sd-1-4347769.m3u8?txSecret=98b38286a20c56e84ab56efb4f74c554&txTime=6907C67C
 Nantes vs Metz	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200307/fc-nantes-vs-metz.html
 Nantes vs Metz	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716568
+Nantes vs Metz	https://live.5890v.com/live/sd-1-4347772.m3u8?txSecret=6e72d80309762815ccdf58929365d244&txTime=6907C672
 Lille vs Angers	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200321/losc-lille-vs-angers-sco.html
+Lille vs Angers	https://live.5890v.com/live/sd-1-4347770.m3u8?txSecret=ec49be71d1c3235da3473fd2474f8fa9&txTime=6907C687
 
 23:30 [y]English Premier League[z]	^-
 Manchester City vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193994/manchester-city-vs-bournemouth-afc.html
