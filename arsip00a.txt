@@ -26,66 +26,6 @@
 
 03-11-2005	^-
 
-00:15 [g]FA Cup[z]	^-
-Gainsborough vs Accrington Stanley	`Fhttps://www.fctv33.net/football/fa-cup-match-4304444/gainsborough-trinity-vs-accrington-stanley.html
-Gainsborough vs Accrington Stanley	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3825757
-
-00:30 [g]Belgian Pro League[z]	^-
-Sint-Truidense vs Royal Antwerp	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199076/sint-truidense-vs-royal-antwerp.html
-Sint-Truidense vs Royal Antwerp	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716628
-
-00:30 [y]Spanish La Liga[z]	^-
-FC Barcelona vs Elche	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209798/fc-barcelona-vs-elche.html
-FC Barcelona vs Elche	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3592409
-FC Barcelona vs Elche	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-FC Barcelona vs Elche	https://bf.njscwh.com/live/sd-1-4358420.m3u8?txSecret=65ca6e7eac43d72ed4a5425a45bad13c&txTime=690794d2
-
-01:00 [g]Portuguese Primera Liga[z]	^-
-FC Arouca vs Moreirense	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216114/fc-arouca-vs-moreirense.html
-FC Arouca vs Moreirense	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3829169
-
-02:00 [g]Argentine Division 1[z]	^-
-Estudiantes La Plata vs Boca Juniors	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107716/estudiantes-la-plata-vs-boca-juniors.html
-Estudiantes La Plata vs Boca Juniors	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3085574
-
-02:00 [g]USL Championship[z]	^-
-Charleston Battery vs Rhode Island	`Fhttps://www.fctv33.net/football/usl-championship-match-4305622/charleston-battery-vs-rhode-island.html
-Charleston Battery vs Rhode Island	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3829197
-
-02:45 [y]Italian Serie A[z]	^-
-AC Milan vs AS Roma	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194736/ac-milan-vs-as-roma.html
-AC Milan vs AS Roma	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3797883
-
-02:45 [y]French Ligue 1[z]	^-
-Stade Brestois vs Lyon	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200299/stade-brestois-29-vs-lyon.html
-Stade Brestois vs Lyon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716559
-
-03:00 [y]Spanish La Liga[z]	^-
-Real Betis vs Mallorca	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209805/real-betis-vs-rcd-mallorca.html
-Real Betis vs Mallorca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3592406
-
-03:30 [g]Portuguese Primera Liga[z]	^-
-FC Porto vs Sporting Braga	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216116/fc-porto-vs-sporting-braga.html
-FC Porto vs Sporting Braga	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3829368
-
-04:00 [g]Canadian Premier League[z]	^-
-Forge FC vs Cavalry FC	`Fhttps://www.fctv33.net/football/canadian-premier-league-match-4305623/forge-fc-vs-cavalry-fc.html
-Forge FC vs Cavalry FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3836672
-
-04:30 [g]Argentine Division 1[z]	^-
-Godoy Cruz Antonio vs San Martin Juan	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107720/godoy-cruz-antonio-tomba-vs-san-martin-san-juan.html
-Godoy Cruz Antonio vs San Martin Juan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3222054
-
-04:30 [g]Brazilian Serie A[z]	^-
-Juventude vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141784/juventude-vs-palmeiras.html
-Juventude vs Palmeiras	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3814019
-
-06:30 [g]Argentine Division 1[z]	^-
-River Plate vs Gimnasia La Plata	`Fshttps://www.fctv33.net/football/argentine-division-1-match-4107724/river-plate-vs-gimnasia-la-plata.html
-
-06:30 [g]US Major League Soccer[z]	^-
-Columbus Crew vs FC Cincinnati	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4303684/columbus-crew-vs-fc-cincinnati.html
-
 08:45 [g]US Major League Soccer[z]	^-
 Austin FC vs Los Angeles FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4303683/austin-fc-vs-los-angeles-fc.html
 
