@@ -26,8 +26,75 @@
 
 03-11-2005	^-
 
-08:45 [g]US Major League Soccer[z]	^-
-Austin FC vs Los Angeles FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4303683/austin-fc-vs-los-angeles-fc.html
+15:30 Liga 1	^-
+Persijap Jepara vs Malut United	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229663/persijap-jepara-vs-malut-united.html
+
+19:00 Liga 1	^-
+Semen Padang vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229640/semen-padang-vs-arema-fc.html
+
+19:30 [g]U17 World Cup[z]	^-
+South Africa vs Bolivia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4193339/south-africa-u17-vs-bolivia-u17.html
+Costa Rica vs United Arab Emirates	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197743/costa-rica-u17-vs-united-arab-emirates-u17.html
+
+20:00 [g]U17 World Cup[z]	^-
+Senegal vs Croatia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4276859/senegal-u17-vs-croatia-u17.html
+
+20:30 [g]U17 World Cup[z]	^-
+Japan vs Morocco	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4189375/japan-u17-vs-morocco-u17.html
+
+20:45 [g]AFC Champions League Elite[z]	^-
+Nasaf Qarshi vs Al Wehda UAE	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258443/nasaf-qarshi-vs-al-wahda-fc.html
+
+21:45 [g]U17 World Cup[z]	^-
+Argentina vs Belgium	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188041/argentina-u17-vs-belgium-u17.html
+
+22:15 [g]U17 World Cup[z]	^-
+New Caledonia vs Portugal	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4187928/new-caledonia-u17-vs-portugal-u17.html
+
+22:45 [g]U17 World Cup[z]	^-
+Qatar vs Italy	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4187926/qatar-u17-vs-italy-u17.html
+Tunisia vs Fiji	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4298709/tunisia-u17-vs-fiji-u17.html
+
+23:00 [g]AFC Champions League Elite[z]	^-
+Al Duhail vs Al Ahli UAE	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258435/al-duhail-vs-shabab-al-ahli.html
+Tractor S.C. vs Al Shorta	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258438/tractor-sc-vs-al-shorta.html
+
+04-11-2005	^-
+
+00:30 [y]Italian Serie A[z]	^-
+Sassuolo vs Genoa	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194737/sassuolo-vs-genoa.html
+
+01:15 [g]AFC Champions League Elite[z]	^-
+Al-Garrafa vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283084/al-gharafa-vs-al-hilal.html
+
+02:30 [y]FA Cup[z]	^-
+Tamworth vs Leyton Orient	`Fhttps://www.fctv33.net/football/fa-cup-match-4304449/tamworth-vs-leyton-orient.html
+
+02:45 [g]Argentine Division 1[z]	^-
+Defensa Y Justicia vs CA Huracan	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107722/defensa-y-justicia-vs-ca-huracan.html
+CA Platense vs Sarmiento Junin	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107723/ca-platense-vs-sarmiento-junin.html
+
+02:45 [y]Italian Serie A[z]	^-
+Lazio vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194731/lazio-vs-cagliari.html
+
+03:00 [y]English Premier League[z]	^-
+Sunderland A.F.C vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193991/sunderland-vs-everton.html
+
+03:00 [y]Spanish La Liga[z]	^-
+Real Oviedo vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209800/real-oviedo-vs-ca-osasuna.html
+
+03:45 [g]Portuguese Primera Liga[z]	^-
+Gil Vicente vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216102/gil-vicente-vs-santa-clara.html
+
+05:00 [g]Argentine Division 1[z]	^-
+Central Cordoba SDE vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107726/central-cordoba-sde-vs-racing-club-de-avellaneda.html
+
+07:15 [g]Argentine Division 1[z]	^-
+Belgrano vs Club Atletico Tigre	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107717/belgrano-vs-club-atletico-tigre.html
+Banfield vs Lanus	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107727/banfield-vs-club-atltico-lans.html
+
+10:45 [g]US Major League Soccer[z]	^-
+Seattle Sounders vs Minnesota Utd	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4303682/seattle-sounders-vs-minnesota-united-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
