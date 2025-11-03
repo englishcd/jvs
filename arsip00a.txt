@@ -26,24 +26,11 @@
 
 03-11-2005	^-
 
-20:30 [g]U17 World Cup[z]	^-
-Japan vs Morocco	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4189375/japan-u17-vs-morocco-u17.html
-Japan vs Morocco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3832093
-
-20:45 [g]AFC Champions League Elite[z]	^-
-Nasaf Qarshi vs Al Wehda UAE	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258443/nasaf-qarshi-vs-al-wahda-fc.html
-Nasaf Qarshi vs Al Wehda UAE	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611366
-
-21:45 [g]U17 World Cup[z]	^-
-Argentina vs Belgium	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188041/argentina-u17-vs-belgium-u17.html
-Argentina vs Belgium	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3832146
-
-22:15 [g]U17 World Cup[z]	^-
-New Caledonia vs Portugal	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4187928/new-caledonia-u17-vs-portugal-u17.html
-
 22:45 [g]U17 World Cup[z]	^-
 Qatar vs Italy	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4187926/qatar-u17-vs-italy-u17.html
+Qatar vs Italy	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3832111
 Tunisia vs Fiji	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4298709/tunisia-u17-vs-fiji-u17.html
+Tunisia vs Fiji	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853755
 
 23:00 [g]AFC Champions League Elite[z]	^-
 Al Duhail vs Al Ahli UAE	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258435/al-duhail-vs-shabab-al-ahli.html
@@ -59,28 +46,37 @@ Sassuolo vs Genoa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&mat
 
 01:15 [g]AFC Champions League Elite[z]	^-
 Al-Garrafa vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283084/al-gharafa-vs-al-hilal.html
+Al-Garrafa vs Al Hilal SFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611365
 
 02:30 [y]FA Cup[z]	^-
 Tamworth vs Leyton Orient	`Fhttps://www.fctv33.net/football/fa-cup-match-4304449/tamworth-vs-leyton-orient.html
+Tamworth vs Leyton Orient	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3825749
 
 02:45 [g]Argentine Division 1[z]	^-
 Defensa Y Justicia vs CA Huracan	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107722/defensa-y-justicia-vs-ca-huracan.html
+Defensa Y Justicia vs CA Huracan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3222053
 CA Platense vs Sarmiento Junin	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107723/ca-platense-vs-sarmiento-junin.html
+CA Platense vs Sarmiento Junin	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3222050
 
 02:45 [y]Italian Serie A[z]	^-
 Lazio vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194731/lazio-vs-cagliari.html
+Lazio vs Cagliari	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3797885
 
 03:00 [y]English Premier League[z]	^-
 Sunderland A.F.C vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193991/sunderland-vs-everton.html
+Sunderland A.F.C vs Everton	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3803150
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Oviedo vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209800/real-oviedo-vs-ca-osasuna.html
+Real Oviedo vs Osasuna	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3592413
 
 03:45 [g]Portuguese Primera Liga[z]	^-
 Gil Vicente vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216102/gil-vicente-vs-santa-clara.html
+Gil Vicente vs Santa Clara	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830011
 
 05:00 [g]Argentine Division 1[z]	^-
 Central Cordoba SDE vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107726/central-cordoba-sde-vs-racing-club-de-avellaneda.html
+Central Cordoba SDE vs Racing Club	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3090331
 
 07:15 [g]Argentine Division 1[z]	^-
 Belgrano vs Club Atletico Tigre	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107717/belgrano-vs-club-atletico-tigre.html
