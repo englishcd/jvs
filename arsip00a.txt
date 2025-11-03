@@ -26,16 +26,6 @@
 
 03-11-2005	^-
 
-19:00 Liga 1	^-
-Semen Padang vs Arema FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229640/semen-padang-vs-arema-fc.html
-Semen Padang vs Arema FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3831847
-
-19:30 [g]U17 World Cup[z]	^-
-South Africa vs Bolivia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4193339/south-africa-u17-vs-bolivia-u17.html
-South Africa vs Bolivia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3832108
-Costa Rica vs United Arab Emirates	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197743/costa-rica-u17-vs-united-arab-emirates-u17.html
-Costa Rica vs United Arab Emirates	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3832072
-
 20:00 [g]U17 World Cup[z]	^-
 Senegal vs Croatia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4276859/senegal-u17-vs-croatia-u17.html
 Senegal vs Croatia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3832073
@@ -50,6 +40,7 @@ Nasaf Qarshi vs Al Wehda UAE	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sp
 
 21:45 [g]U17 World Cup[z]	^-
 Argentina vs Belgium	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188041/argentina-u17-vs-belgium-u17.html
+Argentina vs Belgium	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3832146
 
 22:15 [g]U17 World Cup[z]	^-
 New Caledonia vs Portugal	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4187928/new-caledonia-u17-vs-portugal-u17.html
