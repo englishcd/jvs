@@ -28,15 +28,23 @@
 
 03:00 [g]English Football League[z]	^-
 Coventry City vs Sheffield United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203981/coventry-city-vs-sheffield-united.html
+Coventry City vs Sheffield United	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3835025
 
 03:00 [y]UEFA Champions League[z]	^-
 Bodo Glimt vs Monaco	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268446/bodo-glimt-vs-as-monaco.html
+Bodo Glimt vs Monaco	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3673143
 Olympiakos Piraeus vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268455/olympiakos-piraeus-vs-psv-eindhoven.html
+Olympiakos Piraeus vs PSV Eindhoven	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810711
 Atletico Madrid vs Saint Gilloise	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268468/atletico-madrid-vs-union-saint-gilloise.html
+Atletico Madrid vs Saint Gilloise	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810704
 Paris Saint Germain vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283017/paris-saint-germain-vs-fc-bayern-munich.html
+Paris Saint Germain vs Bayern Munchen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810706
 Juventus vs Sporting CP	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283722/juventus-vs-sporting-cp.html
+Juventus vs Sporting CP	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810707
 Liverpool vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283723/liverpool-vs-real-madrid.html
+Liverpool vs Real Madrid	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810708
 Tottenham Hotspur vs FC Copenhagen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283724/tottenham-hotspur-vs-fc-copenhagen.html
+Tottenham Hotspur vs FC Copenhagen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810709
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
