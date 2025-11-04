@@ -29,24 +29,19 @@
 22:45 [l]U17 World Cup[z]	^-
 Indonesia 🇮🇩 vs Zambia 🇿🇲	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4256870/indonesia-u17-vs-zambia-u17.html
 
-17:00 [g]AFC Champions League Elite[z]	^-
-Machida Zelvia vs Melbourne City	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258384/machida-zelvia-vs-melbourne-city.html
-Machida Zelvia vs Melbourne City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611340
-FC Seoul vs Chengdu Better City FC	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283082/football-club-seoul-vs-chengdu-rongcheng-fc.html
-FC Seoul vs Chengdu Better City FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611339
-Hiroshima Sanfrecce vs Gangwon FC	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283083/sanfrecce-hiroshima-vs-gangwon-football-club.html
-Hiroshima Sanfrecce vs Gangwon FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611334
-
 19:15 [g]AFC Champions League Elite[z]	^-
 Buriram United vs Shanghai Port	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258388/buriram-united-vs-shanghai-port-fc.html
 Buriram United vs Shanghai Port	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611341
 
 19:30 [l]U17 World Cup[z]	^-
 Brazil vs Honduras	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197125/brazil-u17-vs-honduras-u17.html
+Brazil vs Honduras	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834855
 Ivory Coast vs Switzerland	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4267725/cote-divoire-u17-vs-switzerland-u17.html
+Ivory Coast vs Switzerland	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853756
 
 20:00 [l]U17 World Cup[z]	^-
 Mexico vs Korea Republic	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197124/mexico-u17-vs-south-korea-u17.html
+Mexico vs Korea Republic	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834859
 
 20:30 [l]U17 World Cup[z]	^-
 Haiti vs Egypt	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4298708/haitiu17-vs-egypt-u17.html
@@ -73,10 +68,13 @@ Al-Sadd vs Al Ahli Jeddah	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sport
 
 00:45 [y]UEFA Champions League[z]	^-
 Napoli vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283024/napoli-vs-eintracht-frankfurt.html
+Napoli vs Eintracht Frankfurt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810705
 Slavia Praha vs Arsenal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283725/slavia-praha-vs-arsenal.html
+Slavia Praha vs Arsenal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810710
 
 01:15 [g]AFC Champions League Elite[z]	^-
 Al Ittihad Club vs Al-Sharjah	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258436/al-ittihad-club-vs-al-sharjah.html
+Al Ittihad Club vs Al-Sharjah	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611363
 
 02:45 [g]English Football League[z]	^-
 Bristol City vs Blackburn Rovers	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203978/bristol-city-vs-blackburn-rovers.html
