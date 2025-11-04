@@ -27,54 +27,82 @@
 04-11-2005	^-
 
 22:45 [g]U17 World Cup[z]	^-
-Indonesia 🇮🇩 vs Zambia 🇿🇲	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4256870/indonesia-u17-vs-zambia-u17-11-2025.html
-
-01:15 [g]AFC Champions League Elite[z]	^-
-Al-Garrafa vs Al Hilal SFC	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283084/al-gharafa-vs-al-hilal.html
-Al-Garrafa vs Al Hilal SFC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611365
-
-02:30 [y]FA Cup[z]	^-
-Tamworth vs Leyton Orient	`Fhttps://www.fctv33.net/football/fa-cup-match-4304449/tamworth-vs-leyton-orient.html
-Tamworth vs Leyton Orient	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3825749
-
-02:45 [g]Argentine Division 1[z]	^-
-Defensa Y Justicia vs CA Huracan	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107722/defensa-y-justicia-vs-ca-huracan.html
-Defensa Y Justicia vs CA Huracan	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3222053
-CA Platense vs Sarmiento Junin	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107723/ca-platense-vs-sarmiento-junin.html
-CA Platense vs Sarmiento Junin	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3222050
-
-02:45 [y]Italian Serie A[z]	^-
-Lazio vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194731/lazio-vs-cagliari.html
-Lazio vs Cagliari	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3797885
-
-03:00 [y]English Premier League[z]	^-
-Sunderland A.F.C vs Everton	`Fhttps://www.fctv33.net/football/english-premier-league-match-4193991/sunderland-vs-everton.html
-Sunderland A.F.C vs Everton	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3803150
-
-03:00 [y]Spanish La Liga[z]	^-
-Real Oviedo vs Osasuna	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209800/real-oviedo-vs-ca-osasuna.html
-Real Oviedo vs Osasuna	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3592413
-
-03:45 [g]Portuguese Primera Liga[z]	^-
-Gil Vicente vs Santa Clara	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216102/gil-vicente-vs-santa-clara.html
-Gil Vicente vs Santa Clara	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830011
-
-05:00 [g]Argentine Division 1[z]	^-
-Central Cordoba SDE vs Racing Club	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107726/central-cordoba-sde-vs-racing-club-de-avellaneda.html
-Central Cordoba SDE vs Racing Club	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3090331
-
-07:15 [g]Argentine Division 1[z]	^-
-Belgrano vs Club Atletico Tigre	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107717/belgrano-vs-club-atletico-tigre.html
-Belgrano vs Club Atletico Tigre	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3798092
-Banfield vs Lanus	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107727/banfield-vs-club-atltico-lans.html
-Banfield vs Lanus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3222049
+Indonesia 🇮🇩 vs Zambia 🇿🇲	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4256870/indonesia-u17-vs-zambia-u17.html
 
 10:45 [g]US Major League Soccer[z]	^-
 Seattle Sounders vs Minnesota Utd	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4303682/seattle-sounders-vs-minnesota-united-fc.html
 Seattle Sounders vs Minnesota Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810492
 
+17:00 [g]AFC Champions League Elite[z]	^-
+Machida Zelvia vs Melbourne City	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258384/machida-zelvia-vs-melbourne-city.html
+FC Seoul vs Chengdu Better City FC	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283082/football-club-seoul-vs-chengdu-rongcheng-fc.html
+Hiroshima Sanfrecce vs Gangwon FC	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283083/sanfrecce-hiroshima-vs-gangwon-football-club.html
+
+19:15 [g]AFC Champions League Elite[z]	^-
+Buriram United vs Shanghai Port	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258388/buriram-united-vs-shanghai-port-fc.html
+
+19:30 [l]U17 World Cup[z]	^-
+Brazil vs Honduras	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197125/brazil-u17-vs-honduras-u17.html
+Ivory Coast vs Switzerland	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4267725/cote-divoire-u17-vs-switzerland-u17.html
+
+20:00 [l]U17 World Cup[z]	^-
+Mexico vs Korea Republic	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197124/mexico-u17-vs-south-korea-u17.html
+
+20:30 [l]U17 World Cup[z]	^-
+Haiti vs Egypt	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4298708/haitiu17-vs-egypt-u17.html
+
+21:45 [l]U17 World Cup[z]	^-
+Germany vs Colombia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197740/germany-u17-vs-colombia-u17.html
+
+22:15 [l]U17 World Cup[z]	^-
+England vs Venezuela	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197135/england-u17-vs-venezuela-u17.html
+
 22:45 [g]U17 World Cup[z]	^-
-Indonesia 🇮🇩 vs Zambia 🇿🇲	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4256870/indonesia-u17-vs-zambia-u17-11-2025.html
+Indonesia 🇮🇩 vs Zambia 🇿🇲	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4256870/indonesia-u17-vs-zambia-u17.html
+
+22:45 [l]U17 World Cup[z]	^-
+Korea DPR vs El Salvador	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4275639/korea-dpr-u17-vs-el-salvador-u17.html
+
+23:00 [g]AFC Champions League 2[z]	^-
+Sepahan vs FC Ahal	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258705/sepahan-vs-ahal-fk.html
+
+23:00 [g]AFC Champions League Elite[z]	^-
+Al-Sadd vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283081/al-sadd-vs-al-ahli-sfc.html
+
+05-11-2005	^-
+
+00:45 [y]UEFA Champions League[z]	^-
+Napoli vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283024/napoli-vs-eintracht-frankfurt.html
+Slavia Praha vs Arsenal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283725/slavia-praha-vs-arsenal.html
+
+01:15 [g]AFC Champions League Elite[z]	^-
+Al Ittihad Club vs Al-Sharjah	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258436/al-ittihad-club-vs-al-sharjah.html
+
+02:45 [g]English Football League[z]	^-
+Bristol City vs Blackburn Rovers	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203978/bristol-city-vs-blackburn-rovers.html
+Ipswich Town vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203980/ipswich-town-vs-watford.html
+Charlton Athletic vs West Bromwich	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203984/charlton-athletic-vs-west-bromwich-albion.html
+Leicester City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203986/leicester-city-vs-middlesbrough.html
+Oxford United vs Stoke City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204003/oxford-united-vs-stoke-city.html
+Derby County vs Hull City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204004/derby-county-vs-hull-city.html
+
+02:45 [g]English National League[z]	^-
+Yeovil Town vs Wealdstone FC	`Fhttps://www.fctv33.net/football/english-national-league-match-4219734/yeovil-town-vs-wealdstone-fc.html
+Rochdale vs Scunthorpe United	`Fhttps://www.fctv33.net/football/english-national-league-match-4219735/rochdale-vs-scunthorpe-united.html
+Hartlepool United vs Morecambe	`Fhttps://www.fctv33.net/football/english-national-league-match-4219745/hartlepool-united-vs-morecambe.html
+Boreham Wood vs Aldershot Town	`Fhttps://www.fctv33.net/football/english-national-league-match-4219748/boreham-wood-vs-aldershot-town.html
+
+03:00 [g]English Football League[z]	^-
+Coventry City vs Sheffield United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203981/coventry-city-vs-sheffield-united.html
+
+03:00 [y]UEFA Champions League[z]	^-
+Bodo Glimt vs Monaco	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268446/bodo-glimt-vs-as-monaco.html
+Olympiakos Piraeus vs PSV Eindhoven	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268455/olympiakos-piraeus-vs-psv-eindhoven.html
+Atletico Madrid vs Saint Gilloise	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268468/atletico-madrid-vs-union-saint-gilloise.html
+Paris Saint Germain vs Bayern Munchen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283017/paris-saint-germain-vs-fc-bayern-munich.html
+Juventus vs Sporting CP	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283722/juventus-vs-sporting-cp.html
+Liverpool vs Real Madrid	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283723/liverpool-vs-real-madrid.html
+Tottenham Hotspur vs FC Copenhagen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283724/tottenham-hotspur-vs-fc-copenhagen.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
