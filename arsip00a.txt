@@ -35,6 +35,7 @@ Haiti vs Egypt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchI
 
 21:45 [l]U17 World Cup[z]	^-
 Germany vs Colombia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197740/germany-u17-vs-colombia-u17.html
+Germany vs Colombia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834888
 
 22:15 [l]U17 World Cup[z]	^-
 England vs Venezuela	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197135/england-u17-vs-venezuela-u17.html
@@ -65,11 +66,16 @@ Al Ittihad Club vs Al-Sharjah	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?s
 
 02:45 [g]English Football League[z]	^-
 Bristol City vs Blackburn Rovers	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203978/bristol-city-vs-blackburn-rovers.html
+Bristol City vs Blackburn Rovers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834995
 Ipswich Town vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203980/ipswich-town-vs-watford.html
+Ipswich Town vs Watford	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834999
 Charlton Athletic vs West Bromwich	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203984/charlton-athletic-vs-west-bromwich-albion.html
+Charlton Athletic vs West Bromwich	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834955
 Leicester City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203986/leicester-city-vs-middlesbrough.html
+Leicester City vs Middlesbrough	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834943
 Oxford United vs Stoke City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204003/oxford-united-vs-stoke-city.html
 Derby County vs Hull City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204004/derby-county-vs-hull-city.html
+Derby County vs Hull City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834971
 
 02:45 [g]English National League[z]	^-
 Yeovil Town vs Wealdstone FC	`Fhttps://www.fctv33.net/football/english-national-league-match-4219734/yeovil-town-vs-wealdstone-fc.html
