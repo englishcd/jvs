@@ -26,7 +26,7 @@
 
 04-11-2005	^-
 
-22:45 [g]U17 World Cup[z]	^-
+22:45 [l]U17 World Cup[z]	^-
 Indonesia 🇮🇩 vs Zambia 🇿🇲	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4256870/indonesia-u17-vs-zambia-u17.html
 
 10:45 [g]US Major League Soccer[z]	^-
@@ -61,10 +61,8 @@ Germany vs Colombia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4
 22:15 [l]U17 World Cup[z]	^-
 England vs Venezuela	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197135/england-u17-vs-venezuela-u17.html
 
-22:45 [g]U17 World Cup[z]	^-
-Indonesia 🇮🇩 vs Zambia 🇿🇲	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4256870/indonesia-u17-vs-zambia-u17.html
-
 22:45 [l]U17 World Cup[z]	^-
+Indonesia 🇮🇩 vs Zambia 🇿🇲	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4256870/indonesia-u17-vs-zambia-u17.html
 Korea DPR vs El Salvador	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4275639/korea-dpr-u17-vs-el-salvador-u17.html
 
 23:00 [g]AFC Champions League 2[z]	^-
