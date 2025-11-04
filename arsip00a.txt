@@ -24,67 +24,7 @@
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-04-11-2005	^-
-
-22:45 [l]U17 World Cup[z]	^-
-Indonesia 🇮🇩 vs Zambia 🇿🇲	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4256870/indonesia-u17-vs-zambia-u17.html
-Indonesia 🇮🇩 vs Zambia 🇿🇲	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3854501
-Indonesia 🇮🇩 vs Zambia 🇿🇲	https://hls.cdnok9.com/live/SACHSIEU1/index.m3u8?expire=1788427256&sign=db0c3e1d3d520e4ddb0a8740f0b6aa29
-
-20:30 [l]U17 World Cup[z]	^-
-Haiti vs Egypt	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4298708/haitiu17-vs-egypt-u17.html
-Haiti vs Egypt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834883
-
-21:45 [l]U17 World Cup[z]	^-
-Germany vs Colombia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197740/germany-u17-vs-colombia-u17.html
-Germany vs Colombia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834888
-
-22:15 [l]U17 World Cup[z]	^-
-England vs Venezuela	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197135/england-u17-vs-venezuela-u17.html
-England vs Venezuela	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834972
-
-22:45 [l]U17 World Cup[z]	^-
-Korea DPR vs El Salvador	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4275639/korea-dpr-u17-vs-el-salvador-u17.html
-Korea DPR vs El Salvador	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834878
-
-23:00 [g]AFC Champions League 2[z]	^-
-Sepahan vs FC Ahal	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258705/sepahan-vs-ahal-fk.html
-Sepahan vs FC Ahal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610651
-
-23:00 [g]AFC Champions League Elite[z]	^-
-Al-Sadd vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283081/al-sadd-vs-al-ahli-sfc.html
-Al-Sadd vs Al Ahli Jeddah	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611361
-
 05-11-2005	^-
-
-00:45 [y]UEFA Champions League[z]	^-
-Napoli vs Eintracht Frankfurt	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283024/napoli-vs-eintracht-frankfurt.html
-Napoli vs Eintracht Frankfurt	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810705
-Slavia Praha vs Arsenal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283725/slavia-praha-vs-arsenal.html
-Slavia Praha vs Arsenal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810710
-
-01:15 [g]AFC Champions League Elite[z]	^-
-Al Ittihad Club vs Al-Sharjah	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4258436/al-ittihad-club-vs-al-sharjah.html
-Al Ittihad Club vs Al-Sharjah	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611363
-
-02:45 [g]English Football League[z]	^-
-Bristol City vs Blackburn Rovers	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203978/bristol-city-vs-blackburn-rovers.html
-Bristol City vs Blackburn Rovers	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834995
-Ipswich Town vs Watford	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203980/ipswich-town-vs-watford.html
-Ipswich Town vs Watford	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834999
-Charlton Athletic vs West Bromwich	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203984/charlton-athletic-vs-west-bromwich-albion.html
-Charlton Athletic vs West Bromwich	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834955
-Leicester City vs Middlesbrough	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203986/leicester-city-vs-middlesbrough.html
-Leicester City vs Middlesbrough	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834943
-Oxford United vs Stoke City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204003/oxford-united-vs-stoke-city.html
-Derby County vs Hull City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204004/derby-county-vs-hull-city.html
-Derby County vs Hull City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834971
-
-02:45 [g]English National League[z]	^-
-Yeovil Town vs Wealdstone FC	`Fhttps://www.fctv33.net/football/english-national-league-match-4219734/yeovil-town-vs-wealdstone-fc.html
-Rochdale vs Scunthorpe United	`Fhttps://www.fctv33.net/football/english-national-league-match-4219735/rochdale-vs-scunthorpe-united.html
-Hartlepool United vs Morecambe	`Fhttps://www.fctv33.net/football/english-national-league-match-4219745/hartlepool-united-vs-morecambe.html
-Boreham Wood vs Aldershot Town	`Fhttps://www.fctv33.net/football/english-national-league-match-4219748/boreham-wood-vs-aldershot-town.html
 
 03:00 [g]English Football League[z]	^-
 Coventry City vs Sheffield United	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4203981/coventry-city-vs-sheffield-united.html
