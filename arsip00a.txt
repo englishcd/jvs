@@ -43,6 +43,7 @@ Al Khaldiya vs FK Andijon	`Fhttps://www.fctv33.net/football/afc-champions-league
 Al Khaldiya vs FK Andijon	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610626
 Al Zawraa vs FC Istiklol Dushanbe	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4281111/al-zawraa-vs-fc-istiklol-dushanbe.html
 Al Zawraa vs FC Istiklol Dushanbe	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610783
+^=Al Zawraa vs FC Istiklol Dushanbe	`0https://embedsports.me/soccer/zawra-stream-1
 
 06-11-2005	^-
 
@@ -60,6 +61,7 @@ Al Nassr FC vs FC Goa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1
 
 03:00 [y]UEFA Champions League[z]	^-
 Manchester City vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283023/manchester-city-vs-borussia-dortmund.html
+Manchester City vs Borussia Dortmund	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3813382
 AFC Ajax vs Galatasaray	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283716/afc-ajax-vs-galatasaray.html
 Benfica vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283717/benfica-vs-bayer-04-leverkusen.html
 Club Brugge vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283718/club-brugge-vs-fc-barcelona.html
