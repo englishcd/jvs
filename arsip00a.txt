@@ -44,19 +44,23 @@ Al Nassr FC vs FC Goa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1
 
 03:00 [y]UEFA Champions League[z]	^-
 Manchester City vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283023/manchester-city-vs-borussia-dortmund.html
-Manchester City vs Borussia Dortmund	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3813382
+Manchester City vs Borussia Dortmund	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810524
 AFC Ajax vs Galatasaray	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283716/afc-ajax-vs-galatasaray.html
 AFC Ajax vs Galatasaray	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810511
 Benfica vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283717/benfica-vs-bayer-04-leverkusen.html
+Benfica vs Bayer Leverkusen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810516
 Club Brugge vs FC Barcelona	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283718/club-brugge-vs-fc-barcelona.html
 Club Brugge vs FC Barcelona	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810510
 Inter Milan vs FC Kairat Almaty	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283719/inter-milan-vs-fc-kairat-almaty.html
+Inter Milan vs FC Kairat Almaty	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810517
 Marseille vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283720/marseille-vs-atalanta.html
 Marseille vs Atalanta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810513
 Newcastle United vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283721/newcastle-united-vs-athletic-club.html
+Newcastle United vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810525
 
 05:00 [g]Brazilian Serie A[z]	^-
 Bragantino vs Corinthians Paulista	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141663/red-bull-bragantino-vs-corinthians-paulista-sp.html
+Bragantino vs Corinthians Paulista	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3791699
 
 07:00 [g]Copa Argentina[z]	^-
 Indep Rivadavia vs Argentinos Jr	`Fhttps://www.fctv33.net/football/copa-argentina-match-4306278/independiente-rivadavia-vs-argentinos-juniors.html
