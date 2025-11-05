@@ -26,41 +26,13 @@
 
 05-11-2005	^-
 
-19:00 Liga 1	^-
-Borneo FC vs Dewa United FC	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229648/borneo-fc-vs-dewa-united-fc.html
-Borneo FC vs Dewa United FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3821842
-
-19:15 [g]AFC Champions League 2[z]	^-
-Eastern AA FC vs Ratchaburi	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4261349/eastern-football-team-vs-ratchaburi-fc.html
-Eastern AA FC vs Ratchaburi	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610674
-Nam Dinh FC vs Gamba Osaka	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4267310/thep-xanh-nam-dinh-fc-vs-gamba-osaka.html
-Nam Dinh FC vs Gamba Osaka	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610669
-
-19:15 [g]AFC Champions League Elite[z]	^-
-Johor Darul Takzim vs Shanghai Shenhua	`Fhttps://www.fctv33.net/football/afc-champions-league-elite-match-4283079/johor-darul-tazim-fc-vs-shanghai-shenhua-fc.html
-Johor Darul Takzim vs Shanghai Shenhua	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3611336
-
-19:30 [l]U17 World Cup[z]	^-
-Tajikistan vs Czech Republic	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188233/tajikistan-u17-vs-czechia-republic-u17.html
-Panama vs Ireland	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4189563/panama-u17-vs-ireland-u17.html
-
-20:00 [l]U17 World Cup[z]	^-
-Paraguay vs Uzbekistan	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188234/paraguay-u17-vs-uzbekistan-u17.html
-
-20:30 [l]U17 World Cup[z]	^-
-Austria vs Saudi Arabia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188674/austria-u17-vs-saudi-arabia-u17.html
-
-20:45 [g]AFC Champions League 2[z]	^-
-Arkadag FK vs Al-Ahli Doha	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259258/arkadag-fk-vs-al-ahli-doha.html
-Arkadag FK vs Al-Ahli Doha	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610631
-Al-Wasl vs Al-Muharraq	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259300/al-wasl-sc-vs-al-muharraq.html
-Al-Wasl vs Al-Muharraq	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610603
-
 21:45 [l]U17 World Cup[z]	^-
 Mali vs New Zealand	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197191/mali-u17-vs-new-zealand-u17.html
+Mali vs New Zealand	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3837977
 
 22:15 [l]U17 World Cup[z]	^-
 USA vs Burkina Faso	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4189570/usa-u17-vs-burkina-faso-u17.html
+USA vs Burkina Faso	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3838010
 
 22:45 [l]U17 World Cup[z]	^-
 France vs Chile	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188040/france-u17-vs-chile-u17.html
@@ -76,11 +48,15 @@ Al Zawraa vs FC Istiklol Dushanbe	`3https://embed-10-08-12-51.linkzhe.eu.org/emb
 
 00:45 [y]UEFA Champions League[z]	^-
 Pafos FC vs Villarreal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268475/pafos-fc-vs-villarreal-cf.html
+Pafos FC vs Villarreal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810508
 Qarabag vs Chelsea	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269419/qarabag-vs-chelsea.html
+Qarabag vs Chelsea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810509
 
 01:15 [g]AFC Champions League 2[z]	^-
 Al Wehda vs Esteghlal Tehran	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259302/al-wehdat-vs-esteghlal-tehran.html
+Al Wehda vs Esteghlal Tehran	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610605
 Al Nassr FC vs FC Goa	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4281114/al-nassr-fc-vs-fc-goa.html
+Al Nassr FC vs FC Goa	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610784
 
 03:00 [y]UEFA Champions League[z]	^-
 Manchester City vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283023/manchester-city-vs-borussia-dortmund.html
