@@ -135,6 +135,7 @@ Sport1 LT	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mp
 TNT Sports 1	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 TNT Sports 2	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 TNT Sports 3	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
+TNT Sports 4	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 TNT Sports 1	https://live2-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd!!dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
 NHL Network	`Shttps://embedstreams.top/embed/alpha/nhl-network/1
 NFL Network	`Shttps://embedsports.top/embed/alpha/nfl-network/1
@@ -534,7 +535,6 @@ TNT Sports 5	i3!16/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd!!
 TV 5 Monde	https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 Unifi Sports	https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 Universo East	https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd!!1b0d41ddf54a37a6b6caa0484bb3df40:0892217616382e2faf84f6de3847cc7d
-Universo East	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd!!a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
 Universo West	https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-west)/master.mpd!!8af41461cac43b0791958320e60d821b:3590b4e7796f9ee6ac82e1a6ddca75b6
 USA Network East	https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)/master.mpd!!043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
 Varzesh	https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
