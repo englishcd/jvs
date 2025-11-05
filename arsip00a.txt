@@ -26,16 +26,6 @@
 
 06-11-2005	^-
 
-00:45 [y]UEFA Champions League[z]	^-
-Pafos FC vs Villarreal	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4268475/pafos-fc-vs-villarreal-cf.html
-Pafos FC vs Villarreal	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810508
-Pafos FC vs Villarreal	https://live.qfngx.com/sport/202_3960711_1.m3u8?txSecret=b79afe246a3285a77e08e04b419833e9&txTime=1762365386
-Pafos FC vs Villarreal	https://hls.suanzsd6.com/hd-en-6MvXMfcpUvW8BndY5D.m3u8?txSecret=47937f180e7643b48d61a3b271d391e5&txTime=690CDE82
-Qarabag vs Chelsea	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4269419/qarabag-vs-chelsea.html
-Qarabag vs Chelsea	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810509
-Qarabag vs Chelsea	https://live1.huiji0888.com/live/63369835_af9fad3bd7700ac8002b5f9704711c67_h1080p.m3u8
-Qarabag vs Chelsea	https://live.qfngx.com/sport/202_3960701_1.m3u8?txSecret=208918724d6aaa9993b9a2c173975513&txTime=1762365306
-
 01:15 [g]AFC Champions League 2[z]	^-
 Al Wehda vs Esteghlal Tehran	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259302/al-wehdat-vs-esteghlal-tehran.html
 Al Wehda vs Esteghlal Tehran	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610605
