@@ -42,12 +42,16 @@ Manchester City vs Borussia Dortmund	`3https://embed-10-08-12-51.linkzhe.eu.org/
 Manchester City vs Borussia Dortmund	https://live.qfngx.com/sport/202_3960737_2.m3u8?txSecret=02899421a33787fe5cf1142b87915ec1&txTime=1762372834
 AFC Ajax vs Galatasaray	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283716/afc-ajax-vs-galatasaray.html
 AFC Ajax vs Galatasaray	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810511
+AFC Ajax vs Galatasaray	https://hls.suanzsd6.com/hd-en-6MvXMfbKLTTS1jAzE3.m3u8?txSecret=b3437e690b12ab2bc1be7198fd4361c1&txTime=690CFAB2
 Benfica vs Bayer Leverkusen	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283717/benfica-vs-bayer-04-leverkusen.html
 Benfica vs Bayer Leverkusen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810516
+Benfica vs Bayer Leverkusen	https://hls.suanzsd6.com/hd-en-6MvXMfc5zxSWdiekjR.m3u8?txSecret=863edaa8b20dc50d391b413e563501e8&txTime=690CFAB2
 Inter Milan vs FC Kairat Almaty	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283719/inter-milan-vs-fc-kairat-almaty.html
 Inter Milan vs FC Kairat Almaty	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810517
+Inter Milan vs FC Kairat Almaty	https://hls.suanzsd6.com/hd-en-6MvXMfc4pUmCvnokZM.m3u8?txSecret=41da287b5d234819d358fc4ea8f5e9ef&txTime=690CFAB2
 Marseille vs Atalanta	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283720/marseille-vs-atalanta.html
 Marseille vs Atalanta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810513
+Marseille vs Atalanta	https://hls.suanzsd6.com/hd-en-6MvXMfc59t7EYRny6P.m3u8?txSecret=7aee03985c561aa754b82e5a913622bc&txTime=690CFAB2
 Newcastle United vs Athletic Bilbao	`Fhttps://www.fctv33.net/football/uefa-champions-league-match-4283721/newcastle-united-vs-athletic-club.html
 Newcastle United vs Athletic Bilbao	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3810525
 
