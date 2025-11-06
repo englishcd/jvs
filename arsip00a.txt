@@ -26,26 +26,13 @@
 
 06-11-2005	^-
 
-19:15 [g]AFC Champions League 2[z]	^-
-BG Pathum United vs Kaya FC	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258870/bg-pathum-united-vs-kaya-fc-iloilo.html
-BG Pathum United vs Kaya FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610695
-BG Pathum United vs Kaya FC	https://hls.suanzsd6.com/hd-en-6MvXc3qAsLfjLnuVTV.m3u8?txSecret=45e1d266ca79f56e5d12fd89ba864e95&txTime=690DDA89
-Selangor vs Persib Bandung	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4258882/selangor-fc-vs-persib-bandung.html
-Selangor vs Persib Bandung	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610688
-Selangor vs Persib Bandung	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd!!5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888
-Beijing Guoan vs Wofoo Tai Po	`Fhttps://www.fctv33.net/football/afc-champions-league-2-match-4259869/beijing-guoan-fc-vs-tai-po.html
-Beijing Guoan vs Wofoo Tai Po	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3610662
-Beijing Guoan vs Wofoo Tai Po	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd!!032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
-
-19:30 [l]U17 World Cup[z]	^-
-Bolivia vs Italy	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4187927/bolivia-u17-vs-italy-u17.html
-Portugal vs Morocco	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4187929/portugal-u17-vs-morocco-u17.html
-
 20:00 [l]U17 World Cup[z]	^-
 Japan vs New Caledonia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4187935/japan-u17-vs-new-caledonia-u17.html
+Japan vs New Caledonia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3841091
 
 20:30 [l]U17 World Cup[z]	^-
 Argentina vs Tunisia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188049/argentina-u17-vs-tunisia-u17.html
+Argentina vs Tunisia	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3853757
 
 21:45 [l]U17 World Cup[z]	^-
 Fiji vs Belgium	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188043/fiji-u17-vs-belgium-u17.html
