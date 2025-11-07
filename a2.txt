@@ -4,7 +4,7 @@
 [g]{s} Ⓧa2 eXtra 🆔[z]	^-
 
 	^-
-[y]Movies/Film with Multi Subtitles[z]	^-
+[y]Movies/Films with Multi Subtitles[z]	^-
 
 2025	^-
 Bugonia	`0https://www.fmovies.gd/movie/701387
@@ -144,8 +144,8 @@ Our Times	`0https://www.fmovies.gd/movie/1426680
 Titan: The OceanGate Submersible Disaster	`0https://www.fmovies.gd/movie/1426306
 Sirāt	`0https://www.fmovies.gd/movie/1151272
 How to Train Your Dragon	`0https://www.fmovies.gd/movie/1087192
-K.O.	`https://www.fmovies.gd/movie/1450599
-STRAW	`https://www.fmovies.gd/movie/1426776
+K.O.	`0https://www.fmovies.gd/movie/1450599
+STRAW	`0https://www.fmovies.gd/movie/1426776
 Predator: Killer of Killers	`0https://www.fmovies.gd/movie/1376434
 Dangerous Animals	`0https://www.fmovies.gd/movie/1285965
 The Life of Chuck	`0https://www.fmovies.gd/movie/842924
@@ -190,6 +190,22 @@ Rust	`0https://www.fmovies.gd/movie/710258
 Karol G: Tomorrow Was Beautiful	`0https://www.fmovies.gd/movie/1469239
 Thunderbolts*	`0https://www.fmovies.gd/movie/986056
 Holy Night: Demon Hunters	`0https://www.fmovies.gd/movie/793387
+Exterritorial	`0https://www.fmovies.gd/movie/1233069
+Neighborhood Watch	`0https://www.fmovies.gd/movie/1208983
+Havoc	`0https://www.fmovies.gd/movie/668489
+825 Forest Road	`0https://www.fmovies.gd/movie/1282980
+Jewel Thief - The Heist Begins	`0https://www.fmovies.gd/movie/1225915
+On Swift Horses	`0https://www.fmovies.gd/movie/1092506
+Bullet Train Explosion	`0https://www.fmovies.gd/movie/1276073
+Until Dawn	`0https://www.fmovies.gd/movie/1232546
+Better Days	`0https://www.fmovies.gd/movie/1178518
+Love Is Overrated	`0https://www.fmovies.gd/movie/1071064
+The Accountant²	`0https://www.fmovies.gd/movie/870028
+iHostage	`0https://www.fmovies.gd/movie/1371202
+The Ritual	`0https://www.fmovies.gd/movie/1278950
+The Legend of Ochi	`0https://www.fmovies.gd/movie/896536
+It Feeds	`0https://www.fmovies.gd/movie/1145221
+Sinners	`0https://www.fmovies.gd/movie/1233413
 
 Abyss	`0https://www.fmovies.gd/movie/1025527
 Martin	`0https://www.fmovies.gd/movie/861451
