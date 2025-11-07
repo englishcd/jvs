@@ -1,7 +1,10 @@
+	^-
+	^-
+	^-
 [g]{s} Ⓧa2 eXtra 🆔[z]	^-
 
 	^-
-[y]Movies with Multi Subtitles[z]	^-
+[y]Movies/Film with Multi Subtitles[z]	^-
 
 2025	^-
 Bugonia	`0https://www.fmovies.gd/movie/701387
@@ -154,11 +157,43 @@ Tornado	`0https://www.fmovies.gd/movie/1126915
 A Widow's Game	`0https://www.fmovies.gd/movie/1397832
 Bring Her Back	`0https://www.fmovies.gd/movie/1151031
 Hot Milk	`0https://www.fmovies.gd/movie/933490
+The Phoenician Scheme	`0https://www.fmovies.gd/movie/1137350
+Fear Street: Prom Queen	`0https://www.fmovies.gd/movie/1001414
+Mountainhead	`0https://www.fmovies.gd/movie/1417059
+The Last Rodeo	`0https://www.fmovies.gd/movie/1380682
+Fuori	`0https://www.fmovies.gd/movie/1310830
+Colours of Time	`0https://www.fmovies.gd/movie/1235304
+Tin Soldier	`0https://www.fmovies.gd/movie/977294
+Fountain of Youth	`0https://www.fmovies.gd/movie/1098006
+Mission: Impossible - The Final Reckoning	`0https://www.fmovies.gd/movie/575265
+Lilo & Stitch	`0https://www.fmovies.gd/movie/552524
+Hunting Grounds	`0https://www.fmovies.gd/movie/1305717
+Guns Up	`0https://www.fmovies.gd/movie/1181540
+Desert Dawn	`0https://www.fmovies.gd/movie/1180906
+Hurry Up Tomorrow	`0https://www.fmovies.gd/movie/1093237
+Final Destination Bloodlines	`0https://www.fmovies.gd/movie/574475
+Leave One Day	`0https://www.fmovies.gd/movie/1277884
+A Deadly American Marriage	`0https://www.fmovies.gd/movie/1466938
+Enemigos	`0https://www.fmovies.gd/movie/1285406
+Sharp Corner	`0https://www.fmovies.gd/movie/1244890
+Friendship	`0https://www.fmovies.gd/movie/1239655
+Wick Is Pain	`0https://www.fmovies.gd/movie/1472668
+Karate Kid: Legends	`0https://www.fmovies.gd/movie/1011477
+Clown in a Comfield	`0https://www.fmovies.gd/movie/713364
+Last Bullet	`0https://www.fmovies.gd/movie/1144430
+Fear Below	`0https://www.fmovies.gd/movie/1232933
+Rosario	`0https://www.fmovies.gd/movie/1297028
+Latin Blood – The Ballad of Ney Matogrosso	`0https://www.fmovies.gd/movie/1212121
+Nonnas	`0https://www.fmovies.gd/movie/1151039
+Shadow Force	`0https://www.fmovies.gd/movie/757725
+Rust	`0https://www.fmovies.gd/movie/710258
+Karol G: Tomorrow Was Beautiful	`0https://www.fmovies.gd/movie/1469239
+Thunderbolts*	`0https://www.fmovies.gd/movie/986056
+Holy Night: Demon Hunters	`0https://www.fmovies.gd/movie/793387
 
 Abyss	`0https://www.fmovies.gd/movie/1025527
 Martin	`0https://www.fmovies.gd/movie/861451
 Captain Hook - The Cursed Tides	`0https://www.fmovies.gd/movie/1511789
-Hunting Grounds	`0https://www.fmovies.gd/movie/1305717
 The Ugly Stepsister	`0https://www.fmovies.gd/movie/1284120
 The Rats: A Witcher Tale	`0https://www.fmovies.gd/movie/1571470
 Coco	`0https://www.fmovies.gd/movie/354912
@@ -172,13 +207,11 @@ The Long Walk	`0https://www.fmovies.gd/movie/604079
 The Book	`0https://www.fmovies.gd/movie/1380998
 The Drop	`0https://www.fmovies.gd/movie/154400
 The Mannequin	`0https://www.fmovies.gd/movie/1169210
-Holy Night: Demon Hunters	`0https://www.fmovies.gd/movie/793387
 Dumb and Dumber To	`0https://www.fmovies.gd/movie/100042
 The Lost Princess	`0https://www.fmovies.gd/movie/1086910
 Hedda	`0https://www.fmovies.gd/movie/997113
 The Lord of the Rings: The Fellowship of the Ring	`0https://www.fmovies.gd/movie/120
 The Devil’s Trap	`0https://www.fmovies.gd/movie/873967
-Mission: Impossible - The Final Reckoning	`0https://www.fmovies.gd/movie/575265
 My Fault	`0https://www.fmovies.gd/movie/1010581
 Captain Avispa	`0https://www.fmovies.gd/movie/1198426
 The People In The Walls	`0https://www.fmovies.gd/movie/1328402
