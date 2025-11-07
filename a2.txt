@@ -7,7 +7,7 @@
 [y]Movies/Films with Multi Subtitles[z]	^-
 
 2025	^-
-Predator: Badlands	`0https://www.fmovies.gd/movie/1242898
+^=Predator: Badlands	`0https://www.fmovies.gd/movie/1242898
 Bugonia	`0https://www.fmovies.gd/movie/701387
 The Elixir	`0https://www.fmovies.gd/movie/1306525
 Springsteen: Deliver Me from Nowher	`0https://www.fmovies.gd/movie/1230368
@@ -278,6 +278,10 @@ Another Simple Favor	`0https://www.fmovies.gd/movie/974573
 The Electric State	`0https://www.fmovies.gd/movie/777443
 Chaos: The Manson Murders	`0https://www.fmovies.gd/movie/1426486
 The Negotiator	`0https://www.fmovies.gd/movie/1192174
+Treasure Hunters: On the Tracks of Khufu	`0https://www.fmovies.gd/movie/1217483
+Picture This	`0https://www.fmovies.gd/movie/1204892
+Nadaaniyan	`0https://www.fmovies.gd/movie/1216780
+Mickey `7	`0https://www.fmovies.gd/movie/696506
 
 
 Abyss	`0https://www.fmovies.gd/movie/1025527
