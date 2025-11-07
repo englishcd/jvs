@@ -33,6 +33,8 @@
 
 22:45 [l]U17 World Cup[z]	^-
 Brazil 🇧🇷 vs Indonesia 🇮🇩	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197126/brazil-u17-vs-indonesia-u17.html
+Brazil 🇧🇷 vs Indonesia 🇮🇩	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd!!5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888
+Brazil 🇧🇷 vs Indonesia 🇮🇩	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd!!8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 
 20:00 [l]U17 World Cup[z]	^-
 Germany vs Korea DPR	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197742/germany-u17-vs-korea-dpr-u17.html
@@ -115,6 +117,7 @@ TNT Sports 2	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/en
 TNT Sports 3	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 TNT Sports 4	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd!!192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 TNT Sports 1	https://live2-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd!!dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
+TSN 5 CA	https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd!!8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 NHL Network	`Shttps://embedstreams.top/embed/alpha/nhl-network/1
 NFL Network	`Shttps://embedsports.top/embed/alpha/nfl-network/1
 WWE Network	`Shttps://embedstreams.top/embed/alpha/wwe-network/1
