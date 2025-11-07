@@ -13,7 +13,7 @@
 
 	^-
 [l]{s} Ⓜa1 🤹Multi Drama 🇨🇳 🇰🇷 Dub 🆔[z]	^^sa1
-[l]{s} Ⓜa2 🤹Movies with Multi Subtitles[z]	^^sa2
+[l]{s} Ⓧa2 Movies with Multi Subtitles[z]	^^sa2
 
 	^-
 	^-
