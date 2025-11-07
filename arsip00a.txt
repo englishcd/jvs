@@ -41,6 +41,7 @@ FC Twente Enschede vs SC Telstar	`3https://embed-10-08-12-51.linkzhe.eu.org/embe
 
 02:30 [y]Bundesliga[z]	^-
 Werder Bremen vs VfL Wolfsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199733/sv-werder-bremen-vs-vfl-wolfsburg.html
+Werder Bremen vs VfL Wolfsburg	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3732374
 
 02:45 [y]Italian Serie A[z]	^-
 Pisa vs Cremonese	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194778/pisa-vs-cremonese.html
