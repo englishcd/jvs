@@ -31,17 +31,20 @@
 
 08-11-2005	^-
 
-03:00 [g]English Football League[z]	^-
-Watford vs Bristol City	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204011/watford-vs-bristol-city.html
-Watford vs Bristol City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3842473
+07:00 [g]Argentine Division 1[z]	^-
+Rosario Central vs San Lorenzo	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107756/rosario-central-vs-san-lorenzo.html
 
-03:00 [y]Spanish La Liga[z]	^-
-Elche vs Real Sociedad	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209838/elche-vs-real-sociedad.html
-Elche vs Real Sociedad	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3612964
+07:00 [g]US Major League Soccer[z]	^-
+Charlotte FC vs New York City FC	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4303681/charlotte-fc-vs-new-york-city-fc.html
 
-03:15 [g]Portuguese Primera Liga[z]	^-
-Estoril vs FC Arouca	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216113/estoril-vs-fc-arouca.html
-Estoril vs FC Arouca	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3842486
+08:00 [g]Mexico Liga MX[z]	^-
+FC Juarez vs Queretaro FC	`Fhttps://www.fctv33.net/football/mexico-liga-mx-match-4194330/fc-juarez-vs-queretaro-fc.html
+
+09:00 [g]New Zealand Football Champ[z]	^-
+Auckland City vs Auckland United	`Fhttps://www.fctv33.net/football/new-zealand-football-championship-match-4287240/auckland-city-vs-auckland-united.html
+
+09:00 [g]Aus Champ[z]	^-
+Sydney Olympic vs Moreton Bay United	`Fhttps://www.fctv33.net/football/aus-champ-match-4296819/sydney-olympic-vs-moreton-city-excelsior-fc.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
