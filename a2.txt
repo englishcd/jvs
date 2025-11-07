@@ -7,6 +7,7 @@
 [y]Movies/Films with Multi Subtitles[z]	^-
 
 2025	^-
+Predator: Badlands	`0https://www.fmovies.gd/movie/1242898
 Bugonia	`0https://www.fmovies.gd/movie/701387
 The Elixir	`0https://www.fmovies.gd/movie/1306525
 Springsteen: Deliver Me from Nowher	`0https://www.fmovies.gd/movie/1230368
@@ -206,6 +207,18 @@ The Ritual	`0https://www.fmovies.gd/movie/1278950
 The Legend of Ochi	`0https://www.fmovies.gd/movie/896536
 It Feeds	`0https://www.fmovies.gd/movie/1145221
 Sinners	`0https://www.fmovies.gd/movie/1233413
+Hallow Road	`0https://www.fmovies.gd/movie/1205656
+Death at a Funeral	`0https://www.fmovies.gd/movie/1358013
+Gunslingers	`0https://www.fmovies.gd/movie/1293286
+Marshmallow	`0https://www.fmovies.gd/movie/1134048
+The Surfer	`0https://www.fmovies.gd/movie/1128655
+Drop	`0https://www.fmovies.gd/movie/1249213
+G20	`0https://www.fmovies.gd/movie/1045938
+Warfare	`0https://www.fmovies.gd/movie/1241436
+The Amateur	`0https://www.fmovies.gd/movie/1087891
+The King of Kings	`0https://www.fmovies.gd/movie/1181107
+The Luckiest Man in America	`0https://www.fmovies.gd/movie/1288070
+Freaky Tales	`0https://www.fmovies.gd/movie/979660
 
 Abyss	`0https://www.fmovies.gd/movie/1025527
 Martin	`0https://www.fmovies.gd/movie/861451
@@ -215,7 +228,6 @@ The Rats: A Witcher Tale	`0https://www.fmovies.gd/movie/1571470
 Coco	`0https://www.fmovies.gd/movie/354912
 xXx -2002	`0https://www.fmovies.gd/movie/7451
 The Jester 2	`0https://www.fmovies.gd/movie/1519168
-Predator: Badlands	`0https://www.fmovies.gd/movie/1242898
 People: A Musical Celebration	`0https://www.fmovies.gd/movie/270655
 Beyond the Curtain	`0https://www.fmovies.gd/movie/196259
 Three Jolly Fellows	`0https://www.fmovies.gd/movie/1007840
