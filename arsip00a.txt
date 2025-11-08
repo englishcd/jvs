@@ -102,10 +102,12 @@ Marseille vs Stade Brestois	https://live.vivo200.com/live/sd-1-4347780.m3u8?txSe
 00:00 [y]Italian Serie A[z]	^-
 Juventus vs Torino	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194791/juventus-vs-torino.html
 Juventus vs Torino	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3838923
+Juventus vs Torino	https://live.qfngx.com/sport/202_4305767_1.m3u8?txSecret=7fc872a19e6b0a9cbbc103a7b3ef670d&txTime=1762621806
 
 00:30 [y]English Premier League[z]	^-
 Sunderland AFC vs Arsenal	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194068/sunderland-vs-arsenal.html
 Sunderland AFC vs Arsenal	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830213
+Sunderland AFC vs Arsenal	https://live.vivo200.com/live/sd-1-4343307.m3u8?txSecret=6d240bae81922ea522c0e4bb4d2559d7&txTime=690FC484
 
 00:30 [y]Bundesliga[z]	^-
 Borussia Monchengladbach vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199756/borussia-monchengladbach-vs-fc-kln.html
