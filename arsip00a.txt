@@ -54,6 +54,8 @@ Czech Republic vs Burkina Faso	`Fhttps://www.fctv33.net/football/fifa-u17-world-
 Tottenham Hotspur vs Manchester Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194024/tottenham-hotspur-vs-manchester-united.html
 Tottenham Hotspur vs Manchester Utd	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjM3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Tottenham Hotspur vs Manchester Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3847857
+Tottenham Hotspur vs Manchester Utd	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+Tottenham Hotspur vs Manchester Utd	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 
 19:30 [g]English Football League[z]	^-
 Hull City vs Portsmouth	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204005/hull-city-vs-portsmouth.html
@@ -68,6 +70,7 @@ Mali vs Austria	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-41886
 20:00 [y]Spanish La Liga[z]	^-
 Girona vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209828/girona-fc-vs-deportivo-alavs.html
 Girona vs Deportivo Alavés	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0NDA5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Girona vs Deportivo Alavés	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
 20:30 [l]U17 World Cup[z]	^-
 France vs Canada	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188042/france-u17-vs-canada-u17.html
@@ -76,6 +79,7 @@ France vs Canada	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD
 20:50 [g]Saudi Professional League[z]	^-
 NEOM Sports Club vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256003/neom-sports-club-vs-al-nassr-fc.html
 NEOM Sports Club vs Al Nassr FC	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODUyMTI2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+NEOM Sports Club vs Al Nassr FC	`0https://streaming.sportsnews.id/p/ch5.html
 
 21:00 [y]Italian Serie A[z]	^-
 Como vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194780/como-vs-cagliari.html
@@ -274,9 +278,11 @@ CBS Sports	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wm
 DAZN 1 DE	https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-580/stream.mpd!!8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 DAZN 2 DE	https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd!!cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 FanCode	https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd!!7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+Fubo Sports	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 HRT 2	https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2e3.smil/1/manifest.mpd!!bc01006c0e4b39eeadf359f4178124ca:b7a197afeb4ad5c1dc4d0ffba402d781
 Sport1 LT	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd!!032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
 Sport2 LT	https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd!!5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888
+TNT LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 TNT Sports 1	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd!!d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 TNT Sports 2	https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd!!9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 TNT Sports 3	https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd!!a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
@@ -418,7 +424,6 @@ FM Hot Kids	`0https://www.telegratishd.com/fm-hot-kids-en-vivo.html
 [w]Live Sport & TV Channels[z]	^-
 
 Sky LaLiga	https://a.00/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-TNT LaLiga	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 MeWatch Live 5 🇸🇬	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 MeWatch Live 6 🇸🇬	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 Arena Sport 1 🇸🇰	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -440,7 +445,6 @@ Arena Sport 1 Premium	`0https://streaming.sportsnews.id/p/arena1p.html
 Arena Sport 2 Premium	`0https://streaming.sportsnews.id/p/arena2p.html
 Arena Sport 1	`0https://zeeplayer2.pages.dev/arena1sp
 Arena Sport RS 1	`0https://streaming.sportsnews.id/p/arena1ser.html
-Fubo Sports	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd!!dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 Fubo TV	https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd!!3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 Nova Sport 1	https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 Nova Sport 2	https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
