@@ -1392,5 +1392,10 @@ Yomiuri TV 🇯🇵	`0i3`03ytv/index.m3u8
 ^=soccer-100.net	`0https://soccer-100.net/
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=asahi1	`1https://anym3u8player.com/tv/video-player.php?url=https://worker-damp-poetry-68b1.1doi3.workers.dev/http://vthanh.utako.moe/TV_Asahi/index.m3u8
+^=Spur vs Man Utd 1	`1https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3847857
+^=Spur vs Man Utd 2	`2https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3847857
+^=Spur vs Man Utd 3	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3847857
+^=Spur vs Man Utd 4	`4https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3847857
+^=Spur vs Man Utd 5	`5https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3847857
 
 	^-
