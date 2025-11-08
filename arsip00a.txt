@@ -26,30 +26,6 @@
 
 08-11-2005	^-
 
-15:30 Liga 1	^-
-Arema FC vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229677/arema-fc-vs-persija-jakarta.html
-Arema FC vs Persija Jakarta	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODI2MjQ5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Arema FC vs Persija Jakarta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3819071
-
-15:30 Liga 2	^-
-Barito Putera vs PSS Sleman	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4286595/barito-putera-vs-pss-sleman.html
-Barito Putera vs PSS Sleman	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk2NDYxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Barito Putera vs PSS Sleman	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3847426
-Pekanbaru United vs Persiraja Aceh	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4286594/pekanbaru-united-vs-persiraja-aceh.html
-Pekanbaru United vs Persiraja Aceh	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk2NDYyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Pekanbaru United vs Persiraja Aceh	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3847419
-
-15:35 [g]Australia A-League[z]	^-
-Melbourne Victory vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282149/melbourne-victory-vs-melbourne-city.html
-Melbourne Victory vs Melbourne City	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODcxNjcxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Melbourne Victory vs Melbourne City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3681885
-Melbourne Victory vs Melbourne City	https://hls.suanzsd6.com/sd-6MvY6kwCVDbVgFj831.m3u8?txSecret=1c720e9a595fdeede8558487b187ba2a&txTime=691029A5
-
-15:45 Malaysia A1 Semi-Pro League	^-
-Armed Forces vs Kelantan Red Warrior	`Fhttps://www.fctv33.net/football/malaysia-a1-semi-pro-league-match-4307397/armed-forces-fc-vs-kelantan-red-warrior.html
-Armed Forces vs Kelantan Red Warrior	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3847473
-Selangor FC II vs UM Damansara Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3847427
-
 18:00 [g]Thai League 1[z]	^-
 Sukhothai vs Singha GB Kanchanaburi	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266182/sukhothai-vs-kanchanaburi-power-fc.html
 Sukhothai vs Singha GB Kanchanaburi	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODU4OTI5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -57,14 +33,17 @@ Sukhothai vs Singha GB Kanchanaburi	`3https://embed-10-08-12-51.linkzhe.eu.org/e
 
 18:30 [g]Thai League 1[z]	^-
 Chiangrai Utd vs Nakhon Ratchasima	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266193/chiangrai-united-vs-nakhon-ratchasima-mazda-fc.html
+Chiangrai Utd vs Nakhon Ratchasima	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3846228
 
 19:00 Liga 1	^-
 Persis Solo FC vs PSIM Yogyakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229688/persis-solo-fc-vs-psim-yogyakarta.html
 Persis Solo FC vs PSIM Yogyakarta	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODI2MjUwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Persis Solo FC vs PSIM Yogyakarta	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3798871
 
 19:00 [g]Thai League 1[z]	^-
 Uthai Thani Forest vs Muang Thong	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266195/uthai-thani-forest-vs-muangthong-united.html
 Uthai Thani Forest vs Muang Thong	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODU4OTMxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Uthai Thani Forest vs Muang Thong	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3847779
 
 19:30 [l]U17 World Cup[z]	^-
 Uganda vs Chile	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188045/uganda-u17-vs-chile-u17.html
@@ -74,6 +53,7 @@ Czech Republic vs Burkina Faso	`Fhttps://www.fctv33.net/football/fifa-u17-world-
 19:30 [y]English Premier League[z]	^-
 Tottenham Hotspur vs Manchester Utd	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194024/tottenham-hotspur-vs-manchester-united.html
 Tottenham Hotspur vs Manchester Utd	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjM3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Tottenham Hotspur vs Manchester Utd	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3847857
 
 19:30 [g]English Football League[z]	^-
 Hull City vs Portsmouth	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204005/hull-city-vs-portsmouth.html
