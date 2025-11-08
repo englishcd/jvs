@@ -26,16 +26,6 @@
 
 08-11-2005	^-
 
-14:00 [g]Japanese J1 League[z]	^-
-Kashiwa Reysol vs Nagoya Grampus	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105605/kashiwa-reysol-vs-nagoya-grampus.html
-Kashiwa Reysol vs Nagoya Grampus	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3053497
-
-14:30 [g]Korean K League 1[z]	^-
-Jeonbuk Hyundai vs Daejeon Citizen	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302864/jeonbuk-hyundai-motors-vs-daejeon-citizen.html
-Jeonbuk Hyundai vs Daejeon Citizen	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3834090
-Gimcheon Sangmu FC vs Gangwon FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302867/gimcheon-sangmu-football-club-vs-gangwon-football-club.html
-Gimcheon Sangmu FC vs Gangwon FC	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3821848
-
 15:30 Liga 1	^-
 Arema FC vs Persija Jakarta	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229677/arema-fc-vs-persija-jakarta.html
 Arema FC vs Persija Jakarta	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODI2MjQ5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -52,6 +42,7 @@ Pekanbaru United vs Persiraja Aceh	`3https://embed-10-08-12-51.linkzhe.eu.org/em
 15:35 [g]Australia A-League[z]	^-
 Melbourne Victory vs Melbourne City	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282149/melbourne-victory-vs-melbourne-city.html
 Melbourne Victory vs Melbourne City	`3https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3681885
+Melbourne Victory vs Melbourne City	https://hls.suanzsd6.com/sd-6MvY6kwCVDbVgFj831.m3u8?txSecret=1c720e9a595fdeede8558487b187ba2a&txTime=691029A5
 
 15:45 Malaysia A1 Semi-Pro League	^-
 Armed Forces vs Kelantan Red Warrior	`Fhttps://www.fctv33.net/football/malaysia-a1-semi-pro-league-match-4307397/armed-forces-fc-vs-kelantan-red-warrior.html
