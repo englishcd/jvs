@@ -52,6 +52,7 @@ NEOM Sports Club vs Al Nassr FC	`0https://streaming.sportsnews.id/p/ch5.html
 Como vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194780/como-vs-cagliari.html
 Como vs Cagliari	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NTg0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Como vs Cagliari	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3838924
+Como vs Cagliari	https://live.qfngx.com/sport/202_4305188_1.m3u8?txSecret=98ab2ef177f4e8e78ac336e1a0ade5c6&txTime=1762611974
 Lecce vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194781/lecce-vs-hellas-verona.html
 Lecce vs Verona	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NTg4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Lecce vs Verona	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3838927
@@ -60,12 +61,16 @@ Lecce vs Verona	https://live.5890v.com/live/sd-1-4339566.m3u8?txSecret=1de8d20f5
 21:30 [y]Bundesliga[z]	^-
 Hamburger SV vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199729/hamburger-sv-vs-borussia-dortmund.html
 Hamburger SV vs Borussia Dortmund	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3827840
+Hamburger SV vs Borussia Dortmund	https://live.5890v.com/live/sd-1-4347441.m3u8?txSecret=20782368fc1fa2844e43d1ac3e084d24&txTime=690F9A7E
 Bayer Leverkusen vs 1. FC Heidenheim	`Fhttps://www.fctv33.net/football/bundesliga-match-4199742/bayer-04-leverkusen-vs-1-fc-heidenheim-1846.html
 Bayer Leverkusen vs 1. FC Heidenheim	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3827837
+Bayer Leverkusen vs 1. FC Heidenheim	https://live.5890v.com/live/sd-1-4347437.m3u8?txSecret=e578e313f8a26452d52b4d85ee09dbbd&txTime=690F9A74
 TSG Hoffenheim vs RB Leipzig	`Fhttps://www.fctv33.net/football/bundesliga-match-4199743/tsg-hoffenheim-vs-rb-leipzig.html
 TSG Hoffenheim vs RB Leipzig	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3806244
+TSG Hoffenheim vs RB Leipzig	https://live.5890v.com/live/sd-1-4347442.m3u8?txSecret=5328b2715c42ae7285b75588fdd14d9e&txTime=690F9A87
 Union Berlin vs Bayern Munchen	`Fhttps://www.fctv33.net/football/bundesliga-match-4199748/1-fc-union-berlin-vs-fc-bayern-munich.html
 Union Berlin vs Bayern Munchen	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3737141
+Union Berlin vs Bayern Munchen	https://live.5890v.com/live/sd-1-4347444.m3u8?txSecret=b5960fe140b87a0cd659ff856c831cef&txTime=690F9A91
 
 21:45 [l]U17 World Cup[z]	^-
 USA vs Tajikistan	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188235/usa-u17-vs-tajikistan-u17.html
@@ -75,9 +80,11 @@ USA vs Tajikistan	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZ
 West Ham United vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194027/west-ham-united-vs-burnley.html
 West Ham United vs Burnley	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjM4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 West Ham United vs Burnley	`*Fhttps://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830212
+West Ham United vs Burnley	https://live.5890v.com/live/sd-1-4343312.m3u8?txSecret=a3641b032f01f69e91878b69a4bf2894&txTime=690FA1C4
 Everton vs Fulham	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194035/everton-vs-fulham.html
 Everton vs Fulham	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjMzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Everton vs Fulham	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830211
+Everton vs Fulham	https://live.5890v.com/live/sd-1-4343303.m3u8?txSecret=81b62a56fce2e7e06b17b5ba1cd5ae0b&txTime=690FA1AC
 
 22:00 [g]English Football League[z]	^-
 Sheffield Utd vs Queens Park Rangers	`Fhttps://www.fctv33.net/football/english-football-league-championship-match-4204007/sheffield-united-vs-queens-park-rangers.html
