@@ -70,6 +70,7 @@ Millwall vs Preston North End	https://live.5890v.com/live/sd-1-4351205.m3u8?txSe
 
 20:00 [l]U17 World Cup[z]	^-
 Mali vs Austria	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188677/mali-u17-vs-austria-u17.html
+Mali vs Austria	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3847883
 
 20:00 [y]Spanish La Liga[z]	^-
 Girona vs Deportivo Alavés	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209828/girona-fc-vs-deportivo-alavs.html
@@ -81,17 +82,21 @@ Girona vs Deportivo Alavés	https://live.5890v.com/live/sd-1-4358439.m3u8?txSecr
 20:30 [l]U17 World Cup[z]	^-
 France vs Canada	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188042/france-u17-vs-canada-u17.html
 France vs Canada	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzgwNTYzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+France vs Canada	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3848080
 
 20:50 [g]Saudi Professional League[z]	^-
 NEOM Sports Club vs Al Nassr FC	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256003/neom-sports-club-vs-al-nassr-fc.html
 NEOM Sports Club vs Al Nassr FC	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODUyMTI2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+NEOM Sports Club vs Al Nassr FC	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3729591
 NEOM Sports Club vs Al Nassr FC	`0https://streaming.sportsnews.id/p/ch5.html
 
 21:00 [y]Italian Serie A[z]	^-
 Como vs Cagliari	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194780/como-vs-cagliari.html
 Como vs Cagliari	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NTg0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Como vs Cagliari	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3838924
 Lecce vs Verona	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194781/lecce-vs-hellas-verona.html
 Lecce vs Verona	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NTg4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Lecce vs Verona	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3838927
 
 21:30 [y]Bundesliga[z]	^-
 Hamburger SV vs Borussia Dortmund	`Fhttps://www.fctv33.net/football/bundesliga-match-4199729/hamburger-sv-vs-borussia-dortmund.html
