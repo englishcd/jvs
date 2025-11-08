@@ -26,10 +26,6 @@
 
 08-11-2005	^-
 
-21:45 [l]U17 World Cup[z]	^-
-USA vs Tajikistan	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188235/usa-u17-vs-tajikistan-u17.html
-USA vs Tajikistan	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzgwNTUxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-
 22:00 [y]English Premier League[z]	^-
 West Ham United vs Burnley	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194027/west-ham-united-vs-burnley.html
 West Ham United vs Burnley	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjM4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -99,6 +95,7 @@ Saudi Arabia vs New Zealand	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa
 Marseille vs Stade Brestois	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200327/marseille-vs-stade-brestois-29.html
 Marseille vs Stade Brestois	`Fhttps://ppdd09.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMTIyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Marseille vs Stade Brestois	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3737311
+Marseille vs Stade Brestois	https://live.vivo200.com/live/sd-1-4347780.m3u8?txSecret=f49b90add620f450f8c5d795c6517f10&txTime=690FAF69
 
 09-11-2005	^-
 
@@ -112,15 +109,19 @@ Sunderland AFC vs Arsenal	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sport
 
 00:30 [y]Bundesliga[z]	^-
 Borussia Monchengladbach vs FC Koln	`Fhttps://www.fctv33.net/football/bundesliga-match-4199756/borussia-monchengladbach-vs-fc-kln.html
+Borussia Monchengladbach vs FC Koln	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3737142
 
 00:30 [y]Spanish La Liga[z]	^-
 Atletico Madrid vs Levante	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209826/atletico-madrid-vs-levante.html
+Atletico Madrid vs Levante	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3612974
 
 00:30 [g]English National League[z]	^-
 Southend United vs Carlisle United	`Fhttps://www.fctv33.net/football/english-national-league-match-4219752/southend-united-vs-carlisle-united.html
+Southend United vs Carlisle United	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3846840
 
 00:30 [g]Saudi Professional League[z]	^-
 Al Ittihad Club vs Al Ahli Jeddah	`Fhttps://www.fctv33.net/football/saudi-professional-league-match-4256185/al-ittihad-club-vs-al-ahli-sfc.html
+Al Ittihad Club vs Al Ahli Jeddah	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3729594
 
 00:45 [y]Netherlands Eredivisie[z]	^-
 Volendam vs NAC Breda	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199300/volendam-vs-nac-breda.html
