@@ -91,6 +91,8 @@ Sint-Truidense vs Standard Liege	`*https://embed-10-08-12-51.linkzhe.eu.org/embe
 Rayo Vallecano vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209830/rayo-vallecano-vs-real-madrid.html
 Rayo Vallecano vs Real Madrid	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0NDExJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Rayo Vallecano vs Real Madrid	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3612976
+Rayo Vallecano vs Real Madrid	https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd!!620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+Rayo Vallecano vs Real Madrid	https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/manifest.mpd!!99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
 Rayo Vallecano vs Real Madrid	https://play7ba.peodlc.com/sport/202_4305549_1.m3u8
 
 22:30 [g]Portuguese Primera Liga[z]	^-
@@ -381,7 +383,8 @@ FM Hot Kids	`0https://www.telegratishd.com/fm-hot-kids-en-vivo.html
 	^-
 [w]Live Sport & TV Channels[z]	^-
 
-Sky LaLiga	https://a.00/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+Sky LaLiga	https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/manifest.mpd!!99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
+^=Sky LaLiga	https://a.00/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 MeWatch Live 5 🇸🇬	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 MeWatch Live 6 🇸🇬	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 Arena Sport 1 🇸🇰	https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd!!11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
