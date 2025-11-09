@@ -26,33 +26,6 @@
 
 09-11-2005	^-
 
-18:00  [g]Thai League 1[z]	^-
-BG Pathum United vs Rayong FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266188/bg-pathum-united-vs-rayong-fc.html
-BG Pathum United vs Rayong FC	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODU4OTMyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-BG Pathum United vs Rayong FC	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3741206
-
-18:15 [y]Netherlands Eredivisie[z]	^-
-FC Utrecht vs AFC Ajax	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199336/fc-utrecht-vs-afc-ajax.html
-FC Utrecht vs AFC Ajax	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkwODA4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-FC Utrecht vs AFC Ajax	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3741113
-FC Utrecht vs AFC Ajax	https://play7ba.peodlc.com/live/202_4305987_2.m3u8?txSecret=b747529f277edcce9f60d5e0a7d77f19&amp;txTime=6910b157
-
-18:30 [y]Italian Serie A[z]	^-
-Atalanta vs Sassuolo	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194797/atalanta-vs-sassuolo.html
-Atalanta vs Sassuolo	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NTgyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Atalanta vs Sassuolo	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3838925
-Atalanta vs Sassuolo	https://live.vivo200.com/live/sd-1-4339560.m3u8?txSecret=03306200967290a1740eee5eed3352c1&txTime=6910C198
-
-18:30 [g]Thai League 1[z]	^-
-Ayutthaya United vs Ratchaburi FC	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266186/ayutthaya-united-vs-ratchaburi-fc.html
-Ayutthaya United vs Ratchaburi FC	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODU4OTMzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Ayutthaya United vs Ratchaburi FC	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3777565
-Ayutthaya United vs Ratchaburi FC	https://play7ba.peodlc.com/live/202_4305990_1.m3u8?txSecret=1c30d98abe3313f830a826a105b52328&amp;txTime=6910b862
-Chonburi Shark FC vs Buriram United	`Fhttps://www.fctv33.net/football/thai-league-1-match-4266187/chonburi-fc-vs-buriram-united.html
-Chonburi Shark FC vs Buriram United	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODU4OTM0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Chonburi Shark FC vs Buriram United	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3741205
-Chonburi Shark FC vs Buriram United	https://play7ba.peodlc.com/live/202_4305988_1.m3u8?txSecret=a8df885b54badcde42aa256f60f50529&amp;txTime=6910b83a
-
 19:00 Liga 1	^-
 Madura United vs Persijap Jepara	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229678/madura-united-vs-persijap-jepara.html
 Madura United vs Persijap Jepara	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODI2MjUzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -80,10 +53,12 @@ Fiji vs Argentina	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZ
 19:30 [g]Belgian Pro League[z]	^-
 Anderlecht vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199082/anderlecht-vs-club-brugge.html
 Anderlecht vs Club Brugge	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkxODI4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Anderlecht vs Club Brugge	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3741242
 
 20:00 [y]Spanish La Liga[z]	^-
 Athletic Bilbao vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209827/athletic-club-vs-real-oviedo.html
 Athletic Bilbao vs Real Oviedo	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0NDA0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Athletic Bilbao vs Real Oviedo	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3612960
 
 20:30 [l]U17 World Cup[z]	^-
 Portugal vs Japan	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4187933/portugal-u17-vs-japan-u17.html
@@ -94,26 +69,34 @@ Morocco vs New Caledonia	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bW
 20:30 [y]Netherlands Eredivisie[z]	^-
 NEC Nijmegen vs Groningen	`Fhttps://www.fctv33.net/football/netherlands-eredivisie-match-4199298/nec-nijmegen-vs-groningen.html
 NEC Nijmegen vs Groningen	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkwODEwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+NEC Nijmegen vs Groningen	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3741112
 
 21:00 [y]English Premier League[z]	^-
 Crystal Palace vs Brighton H Albion	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194023/crystal-palace-vs-brighton-hove-albion.html
 Crystal Palace vs Brighton H Albion	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjMyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Crystal Palace vs Brighton H Albion	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830234
 Nottingham Forest vs Leeds United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194037/nottingham-forest-vs-leeds-united.html
 Nottingham Forest vs Leeds United	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjM1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Nottingham Forest vs Leeds United	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830235
 Aston Villa vs Bournemouth AFC	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194047/aston-villa-vs-bournemouth-afc.html
 Aston Villa vs Bournemouth AFC	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjI5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Aston Villa vs Bournemouth AFC	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830222
 Brentford vs Newcastle United	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194051/brentford-vs-newcastle-united.html
 Brentford vs Newcastle United	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjMwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Brentford vs Newcastle United	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830226
 
 21:00 [y]Italian Serie A[z]	^-
 Bologna vs Napoli	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194790/bologna-vs-napoli.html
 Bologna vs Napoli	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NTgzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Bologna vs Napoli	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3838932
 Genoa vs Fiorentina	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194792/genoa-vs-fiorentina.html
 Genoa vs Fiorentina	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NTg1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Genoa vs Fiorentina	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3838920
 
 21:00 [y]French Ligue 1[z]	^-
 Lorient vs Toulouse	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200313/lorient-vs-toulouse-fc.html
 Lorient vs Toulouse	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMTIwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Lorient vs Toulouse	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3716913
 
 21:30 [y]Bundesliga[z]	^-
 SC Freiburg vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199749/sc-freiburg-vs-fc-st-pauli.html
