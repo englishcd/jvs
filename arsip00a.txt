@@ -69,17 +69,21 @@ AZ Alkmaar vs PSV Eindhoven	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?spo
 Strasbourg vs Lille	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200310/rc-strasbourg-alsace-vs-losc-lille.html
 Strasbourg vs Lille	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMTI2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Strasbourg vs Lille	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3741091
+Strasbourg vs Lille	https://play7ba.peodlc.com/live/202_4306352_1.m3u8?txSecret=f5c2cc125ee3a6ed01daff54b330da12&txTime=6910f6fc
 Angers vs AJ Auxerre	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200311/angers-sco-vs-aj-auxerre.html
 Angers vs AJ Auxerre	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMTE4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Angers vs AJ Auxerre	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3741092
+Angers vs AJ Auxerre	https://play7ba.peodlc.com/live/202_4306353_1.m3u8?txSecret=fc702b6f4e1830afba95d46cf8de53b9&txTime=6910f6e7
 Metz vs Nice	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200315/metz-vs-ogc-nice.html
 Metz vs Nice	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMTIzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Metz vs Nice	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3811008
+Metz vs Nice	https://play7ba.peodlc.com/live/202_4306355_1.m3u8?txSecret=fc61259be4711030a793124f9572d852&txTime=6910f6cd
 
 23:30 [y]English Premier League[z]	^-
 Manchester City vs Liverpool	`Fhttps://www.fctv33.net/football/english-premier-league-match-4194072/manchester-city-vs-liverpool.html
 Manchester City vs Liverpool	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg5MjM0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Manchester City vs Liverpool	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3830237
+Manchester City vs Liverpool	https://live2.huiji0888.com/live/61300717_42c4c1cd59100c1ffca719ad9f120f7d_h1080p.m3u8
 
 23:30 [y]Bundesliga[z]	^-
 VfB Stuttgart vs FC Augsburg	`Fhttps://www.fctv33.net/football/bundesliga-match-4199740/vfb-stuttgart-vs-fc-augsburg.html
