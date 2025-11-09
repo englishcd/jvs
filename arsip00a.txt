@@ -29,21 +29,6 @@
 19:30 [l]U17 World Cup[z]	^-
 Honduras 🇭🇳 vs Indonesia 🇮🇩	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197129/honduras-u17-vs-indonesia-u17.html
 
-01:00 [g]Portuguese Primera Liga[z]	^-
-FC Famalicao vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216104/fc-famalicao-vs-fc-porto.html
-FC Famalicao vs FC Porto	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODE0ODE5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-FC Famalicao vs FC Porto	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3852508
-
-01:15 [g]Belgian Pro League[z]	^-
-Mechelen vs Saint Gilloise	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199089/kv-mechelen-vs-union-saint-gilloise.html
-Mechelen vs Saint Gilloise	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkxODI1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Mechelen vs Saint Gilloise	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3741243
-
-01:30 [y]Bundesliga[z]	^-
-Eintracht Frankfurt vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199741/eintracht-frankfurt-vs-1-fsv-mainz-05.html
-Eintracht Frankfurt vs FSV Mainz 05	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3740863
-Eintracht Frankfurt vs FSV Mainz 05	https://live.qfngx.com/sport/202_4306555_1.m3u8?txSecret=73e1374275ff6f9bc11ed3afd7d8aabb&txTime=1762713606
-
 02:00 [g]Brazilian Serie A[z]	^-
 Cruzeiro Esporte vs Fluminense RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141737/cruzeiro-esporte-clube-vs-fluminense-rj.html
 Cruzeiro Esporte vs Fluminense RJ	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3791774
@@ -77,6 +62,7 @@ Real Celta Vigo vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-lig
 Real Celta Vigo vs FC Barcelona	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0NDA2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Real Celta Vigo vs FC Barcelona	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3612978
 Real Celta Vigo vs FC Barcelona	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+Real Celta Vigo vs FC Barcelona	https://play7ba.peodlc.com/live/202_4305546_1.m3u8?txSecret=8edbc874c4a40c0fc49b8c99aa50f57d&txTime=69112c19
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 Benfica vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216031/benfica-vs-casa-pia-ac.html
@@ -108,11 +94,14 @@ Santos Laguna vs Pachuca	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportI
 
 06:30 [g]Brazilian Serie A[z]	^-
 Fortaleza vs Gremio RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141664/fortaleza-vs-gremio-rs.html
+Fortaleza vs Gremio RS	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3809864
 Mirassol vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141680/mirassol-vs-palmeiras.html
+Mirassol vs Palmeiras	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3809866
 
 07:30 [g]Argentine Division 1[z]	^-
 Atletico Tigre vs Estudiantes Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107759/club-atletico-tigre-vs-estudiantes-la-plata.html
 Atletico Tigre vs Estudiantes Plata	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzc2Mjg2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Atletico Tigre vs Estudiantes Plata	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3222061
 Atletico Tucuman vs Godoy C Antonio	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107760/atletico-tucuman-vs-godoy-cruz-antonio-tomba.html
 Atletico Tucuman vs Godoy C Antonio	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzc2Mjc0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
