@@ -26,16 +26,6 @@
 
 09-11-2005	^-
 
-13:00 [g]Japanese J1 League[z]	^-
-Shimizu S-Pulse vs Cerezo Osaka	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105597/shimizu-s-pulse-vs-cerezo-osaka.html
-Gamba Osaka vs Vissel Kobe	`Fhttps://www.fctv33.net/football/japanese-j1-league-match-4105598/gamba-osaka-vs-vissel-kobe.html
-
-13:00 [g]Australia A-League[z]	^-
-Brisbane Roar vs Newcastle Jets	`Fhttps://www.fctv33.net/football/australia-a-league-match-4282150/brisbane-roar-vs-newcastle-jets.html
-
-14:30 [g]Korean K League 1[z]	^-
-Ulsan Hyundai FC vs Suwon FC	`Fhttps://www.fctv33.net/football/korean-k-league-1-match-4302774/ulsan-hd-fc-vs-suwon-football-club.html
-
 15:30 Liga 1	^-
 Dewa United FC vs PSM Makassar	`Fhttps://www.fctv33.net/football/indonesian-liga-1-match-4229689/dewa-united-fc-vs-psm-makassar.html
 
@@ -1332,11 +1322,5 @@ https://dlhd.dad/watch.php?id=51
 ^=soccer-100.net	`0https://soccer-100.net/
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 ^=asahi1	`1https://anym3u8player.com/tv/video-player.php?url=https://worker-damp-poetry-68b1.1doi3.workers.dev/http://vthanh.utako.moe/TV_Asahi/index.m3u8
-
-^=Sky Sports Main Event	`0https://donelfantastic.github.io/webiptv/embed/v4/?live&url=http://mains.services/live/67564813/6Z@74..W/58c0e1ee-ae2e-4694-bb66-3e3eb6c57634.ts
-^=Sky Sports Main Event	i3`06http://mains.services/live/67564813/6Z@74..W/58c0e1ee-ae2e-4694-bb66-3e3eb6c57634.ts
-
-^=gate	^+https://effectivegatecpm.com
-^=rate	^+https://effectiveratecpm.com
 
 	^-
