@@ -35,9 +35,11 @@ KAA Gent vs Racing Genk	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId
 Mallorca vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209825/rcd-mallorca-vs-getafe.html
 Mallorca vs Getafe	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0NDEwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Mallorca vs Getafe	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3612968
+Mallorca vs Getafe	https://bf.njscwh.com/live/sd-1-4358443.m3u8?txSecret=78b469a18a97b23532d281e45c7d5226&txTime=6910d06e
 Valencia vs Real Betis	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209831/valencia-cf-vs-real-betis.html
 Valencia vs Real Betis	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0NDEzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Valencia vs Real Betis	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3612977
+Valencia vs Real Betis	https://bf.njscwh.com/live/sd-1-4358442.m3u8?txSecret=b282712d5a5f30e430ce49cd2f175e7d&txTime=6910d05b
 
 01:00 [g]Portuguese Primera Liga[z]	^-
 FC Famalicao vs FC Porto	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216104/fc-famalicao-vs-fc-porto.html
@@ -52,6 +54,7 @@ Mechelen vs Saint Gilloise	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?spor
 01:30 [y]Bundesliga[z]	^-
 Eintracht Frankfurt vs FSV Mainz 05	`Fhttps://www.fctv33.net/football/bundesliga-match-4199741/eintracht-frankfurt-vs-1-fsv-mainz-05.html
 Eintracht Frankfurt vs FSV Mainz 05	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3740863
+Eintracht Frankfurt vs FSV Mainz 05	https://live.qfngx.com/sport/202_4306555_1.m3u8?txSecret=73e1374275ff6f9bc11ed3afd7d8aabb&txTime=1762713606
 
 02:00 [g]Brazilian Serie A[z]	^-
 Cruzeiro Esporte vs Fluminense RJ	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141737/cruzeiro-esporte-clube-vs-fluminense-rj.html
