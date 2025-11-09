@@ -27,7 +27,7 @@
 10-11-2005	^-
 
 19:30 [l]U17 World Cup[z]	^-
-Honduras vs Indonesia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197129/honduras-u17-vs-indonesia-u17.html
+Honduras 🇭🇳 vs Indonesia 🇮🇩	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197129/honduras-u17-vs-indonesia-u17.html
 
 00:30 [y]Spanish La Liga[z]	^-
 Mallorca vs Getafe	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209825/rcd-mallorca-vs-getafe.html
@@ -72,16 +72,19 @@ Boca Juniors vs River Plate	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?spo
 Inter Milan vs Lazio	`Fhttps://www.fctv33.net/football/italian-serie-a-match-4194779/inter-milan-vs-lazio.html
 Inter Milan vs Lazio	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg0NTg2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Inter Milan vs Lazio	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3838921
+Inter Milan vs Lazio	https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd!!d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
 02:45 [y]French Ligue 1[z]	^-
 Lyon vs Paris Saint Germain	`Fhttps://www.fctv33.net/football/french-ligue-1-match-4200316/lyon-vs-paris-saint-germain.html
 Lyon vs Paris Saint Germain	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODAwMTIxJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Lyon vs Paris Saint Germain	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3741089
+Lyon vs Paris Saint Germain	https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 
 03:00 [y]Spanish La Liga[z]	^-
 Real Celta Vigo vs FC Barcelona	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209829/rc-celta-vs-fc-barcelona.html
 Real Celta Vigo vs FC Barcelona	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0NDA2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Real Celta Vigo vs FC Barcelona	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3612978
+Real Celta Vigo vs FC Barcelona	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 03:30 [g]Portuguese Primera Liga[z]	^-
 Benfica vs Casa Pia AC	`Fhttps://www.fctv33.net/football/portuguese-primera-liga-match-4216031/benfica-vs-casa-pia-ac.html
@@ -183,6 +186,7 @@ NBA TV	`Shttps://embedsports.top/embed/alpha/nba-tv/1
 MLB Network	`Shttps://embedstreams.top/embed/alpha/mlb-network/1
 Tennis Network	`Shttps://embedstreams.top/embed/alpha/tennis-channel/1
 Sky Sports F1	`Shttps://embedstreams.top/embed/alpha/sky-sports-f1-sky-f1/1
+Varzhes	https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 
 Racing TV	https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3u8
 Tennis TV	https://dddd.dracwoundshop.eu.org/tennis1.m3u8
@@ -310,7 +314,7 @@ FM Hot Kids	`0https://www.telegratishd.com/fm-hot-kids-en-vivo.html
 	^-
 [w]Live Sport & TV Channels[z]	^-
 
-Sky LaLiga	https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/manifest.mpd!!99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
+Sky LaLiga	https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 ^=Sky LaLiga	https://a.00/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd!!c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 MeWatch Live 5 🇸🇬	https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd!!91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 MeWatch Live 6 🇸🇬	https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd!!d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
