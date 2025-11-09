@@ -79,6 +79,7 @@ Lorient vs Toulouse	https://live.vivo200.com/live/sd-1-4347778.m3u8?txSecret=554
 21:30 [y]Bundesliga[z]	^-
 SC Freiburg vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199749/sc-freiburg-vs-fc-st-pauli.html
 SC Freiburg vs FC St. Pauli	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3801682
+SC Freiburg vs FC St. Pauli	https://live.qfngx.com/sport/202_4306179_1.m3u8?txSecret=37babcdd7be99cd17aeef45d34f27db1&txTime=1762699209
 
 21:45 [l]U17 World Cup[z]	^-
 Croatia vs Costa Rica	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197746/croatia-u17-vs-costa-rica-u17.html
