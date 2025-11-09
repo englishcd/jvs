@@ -26,17 +26,6 @@
 
 09-11-2005	^-
 
-19:30 [l]U17 World Cup[z]	^-
-Belgium vs Tunisia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188047/belgium-u17-vs-tunisia-u17.html
-Belgium vs Tunisia	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzgwNTI0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Fiji vs Argentina	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188048/fiji-u17-vs-argentina-u17.html
-Fiji vs Argentina	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzgwNTIzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-
-19:30 [g]Belgian Pro League[z]	^-
-Anderlecht vs Club Brugge	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199082/anderlecht-vs-club-brugge.html
-Anderlecht vs Club Brugge	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkxODI4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Anderlecht vs Club Brugge	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3741242
-
 20:00 [y]Spanish La Liga[z]	^-
 Athletic Bilbao vs Real Oviedo	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209827/athletic-club-vs-real-oviedo.html
 Athletic Bilbao vs Real Oviedo	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODA0NDA0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -89,6 +78,7 @@ Lorient vs Toulouse	https://live.vivo200.com/live/sd-1-4347778.m3u8?txSecret=554
 
 21:30 [y]Bundesliga[z]	^-
 SC Freiburg vs FC St. Pauli	`Fhttps://www.fctv33.net/football/bundesliga-match-4199749/sc-freiburg-vs-fc-st-pauli.html
+SC Freiburg vs FC St. Pauli	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3801682
 
 21:45 [l]U17 World Cup[z]	^-
 Croatia vs Costa Rica	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197746/croatia-u17-vs-costa-rica-u17.html
@@ -99,6 +89,7 @@ United Arab Emirates vs Senegal	`Fhttps://ppdd10.playerktidfintkd.shop/live.html
 22:00 [g]Belgian Pro League[z]	^-
 Sint-Truidense vs Standard Liege	`Fhttps://www.fctv33.net/football/belgian-pro-league-match-4199087/sint-truidense-vs-standard-liege.html
 Sint-Truidense vs Standard Liege	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzkxODI5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Sint-Truidense vs Standard Liege	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3741251
 
 22:15 [y]Spanish La Liga[z]	^-
 Rayo Vallecano vs Real Madrid	`Fhttps://www.fctv33.net/football/spanish-la-liga-match-4209830/rayo-vallecano-vs-real-madrid.html
