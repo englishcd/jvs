@@ -120,6 +120,17 @@ Tennis TV	https://dddd.dracwoundshop.eu.org/tennis1.m3u8
 Game TV	https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 Fubo Sports 1	https://livetv-fa.tubi.video/fubo/5.m3u8
 Golf TV	https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
+Shoq	https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd!!a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
+
+Sky Sports NZ 1	https://lchdvideo.live/sky1nz.m3u8
+Sky Sports NZ 2	https://lchdvideo.live/sky2nz.m3u8
+Sky Sports NZ 3	https://lchdvideo.live/sky3nz.m3u8
+Sky Sports NZ 4	https://lchdvideo.live/sky4nz.m3u8
+Sky Sports NZ 5	https://lchdvideo.live/sky5nz.m3u8
+Sky Sports NZ 6	https://lchdvideo.live/sky6nz.m3u8
+Sky Sports NZ 7	https://lchdvideo.live/sky7nz.m3u8
+Sky Sports NZ 8	https://lchdvideo.live/sky8nz.m3u8
+Sky Sports NZ 9	https://lchdvideo.live/sky9nz.m3u8
 
 Astro Football	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=918983&extension=ts
 Astro Grandstand	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=918984&extension=ts
