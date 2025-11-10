@@ -7,8 +7,10 @@
 [y]Movies/Films with Multi Subtitles[z]	^-
 
 2025	^-
-^=Predator: Badlands	`0https://www.fmovies.gd/movie/1242898
+Predator: Badlands	`0https://www.fmovies.gd/movie/1242898
+The Rats: A Witcher Tale	`0https://www.fmovies.gd/movie/1571470
 Bugonia	`0https://www.fmovies.gd/movie/701387
+Regretting You	`0https://www.fmovies.gd/movie/1327862
 The Elixir	`0https://www.fmovies.gd/movie/1306525
 Springsteen: Deliver Me from Nowher	`0https://www.fmovies.gd/movie/1230368
 Frankenstein	`0https://www.fmovies.gd/movie/1062722
@@ -307,7 +309,6 @@ My Fault: London	`0https://www.fmovies.gd/movie/1294203
 Abyss	`0https://www.fmovies.gd/movie/1025527
 Martin	`0https://www.fmovies.gd/movie/861451
 Captain Hook - The Cursed Tides	`0https://www.fmovies.gd/movie/1511789
-The Rats: A Witcher Tale	`0https://www.fmovies.gd/movie/1571470
 Coco	`0https://www.fmovies.gd/movie/354912
 xXx -2002	`0https://www.fmovies.gd/movie/7451
 The Jester 2	`0https://www.fmovies.gd/movie/1519168
@@ -326,7 +327,6 @@ The Devil’s Trap	`0https://www.fmovies.gd/movie/873967
 My Fault	`0https://www.fmovies.gd/movie/1010581
 Captain Avispa	`0https://www.fmovies.gd/movie/1198426
 The People In The Walls	`0https://www.fmovies.gd/movie/1328402
-Regretting You	`0https://www.fmovies.gd/movie/1327862
 Forrest Gump	`0https://www.fmovies.gd/movie/13
 Pets on a Train	`0https://www.fmovies.gd/movie/1107216
 Nympho	`0https://www.fmovies.gd/movie/1549512
@@ -338,3 +338,4 @@ Chernobyl: Abyss	`0https://www.fmovies.gd/movie/589761
 Crouching Tiger, Hidden Dragon	`0https://www.fmovies.gd/movie/146
 Design Revolution	`0https://www.fmovies.gd/movie/272490
 
+	^-
