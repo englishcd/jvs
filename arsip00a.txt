@@ -29,20 +29,6 @@
 19:30 [l]U17 World Cup[z]	^-
 Honduras 🇭🇳 vs Indonesia 🇮🇩	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4197129/honduras-u17-vs-indonesia-u17.html
 
-06:30 [g]Brazilian Serie A[z]	^-
-Fortaleza vs Gremio RS	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141664/fortaleza-vs-gremio-rs.html
-Fortaleza vs Gremio RS	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3809864
-Mirassol vs Palmeiras	`Fhttps://www.fctv33.net/football/brazilian-serie-a-match-4141680/mirassol-vs-palmeiras.html
-Mirassol vs Palmeiras	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3809866
-
-07:30 [g]Argentine Division 1[z]	^-
-Atletico Tigre vs Estudiantes Plata	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107759/club-atletico-tigre-vs-estudiantes-la-plata.html
-Atletico Tigre vs Estudiantes Plata	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzc2Mjg2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Atletico Tigre vs Estudiantes Plata	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3222061
-Atletico Tucuman vs Godoy C Antonio	`Fhttps://www.fctv33.net/football/argentine-division-1-match-4107760/atletico-tucuman-vs-godoy-cruz-antonio-tomba.html
-Atletico Tucuman vs Godoy C Antonio	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzc2Mjc0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Atletico Tucuman vs Godoy C Antonio	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3222066
-
 09:00 [g]US Major League Soccer[z]	^-
 San Diego FC vs Portland Timbers	`Fhttps://www.fctv33.net/football/united-states-major-league-soccer-match-4303732/san-diego-fc-vs-portland-timbers.html
 San Diego FC vs Portland Timbers	`Fhttps://ppdd10.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk2NTg4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -134,6 +120,47 @@ Tennis TV	https://dddd.dracwoundshop.eu.org/tennis1.m3u8
 Game TV	https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 Fubo Sports 1	https://livetv-fa.tubi.video/fubo/5.m3u8
 Golf TV	https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
+
+Astro Football	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=918983&extension=ts
+Astro Grandstand	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=918984&extension=ts
+Astro Premier League 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=918986&extension=ts
+Astro Premier League 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=918985&extension=ts
+Hub Premier 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1032529&extension=ts
+Hub Premier 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1032528&extension=ts
+Hub Premier 3	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1032527&extension=ts
+Hub Premier 4	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1032526&extension=ts
+Nowsports 1	i3`06http://mains.services/live/67564813/6Z@74..W/82910fbe-545f-46aa-9087-4fb36c3faf17.ts
+Nowsports 2	i3`06http://mains.services/live/67564813/6Z@74..W/8408dc5b-6b47-420d-aea8-3663518fd9d5.ts
+Nowsports 3	i3`06http://mains.services/live/67564813/6Z@74..W/e59bdd37-d1c4-45f9-b307-50f91968fa1a.ts
+Nowsports 4	i3`06http://mains.services/live/67564813/6Z@74..W/322241c0-e471-4ec9-82d1-2fb889181131.ts
+Nowsports 5	i3`06http://mains.services/live/67564813/6Z@74..W/c116e69d-aa7a-4256-8fdc-5f76c305556e.ts
+Nowsports 6	i3`06http://mains.services/live/67564813/6Z@74..W/68883709-7baf-47c8-9e3f-7f9977e63893.ts
+Nowsports 7	i3`06http://mains.services/live/67564813/6Z@74..W/f36f7b89-f034-4923-b9b8-77d3764169f8.ts
+Nowsports Premier League 1	i3`06http://mains.services/live/67564813/6Z@74..W/e9301034-7ab8-4915-86f2-9e092bb06134.ts
+Nowsports Premier League 2	i3`06http://mains.services/live/67564813/6Z@74..W/41176be7-518a-4f04-a721-7d89161cf8fc.ts
+Nowsports Premier League 3	i3`06http://mains.services/live/67564813/6Z@74..W/cbceee38-4772-4b22-b2bb-797ce06177ed.ts
+Nowsports Premier League 4	i3`06http://mains.services/live/67564813/6Z@74..W/7367b8b8-f459-4be2-aee2-5e3f5e8d1f7e.ts
+Nowsports Premier League 5	i3`06http://mains.services/live/67564813/6Z@74..W/5655f0f0-79f8-404d-a44c-128ef2e3c74d.ts
+Nowsports Premier League 6	i3`06http://mains.services/live/67564813/6Z@74..W/93aa194a-e771-4070-9ee3-055230acc379.ts
+Sky Sports 1	i3`06http://mains.services/live/67564813/6Z@74..W/3a3f7ae8-8967-4580-b030-4a66fea7167b.ts
+Sky Sports 2	i3`06http://mains.services/live/67564813/6Z@74..W/6048d24e-681a-41ce-b7f6-0ed78c7d5f55.ts
+Sky Sports 3	i3`06http://mains.services/live/67564813/6Z@74..W/6439eff4-b6a6-4d9b-abd0-9b4ea844439b.ts
+Sky Sports 4	i3`06http://mains.services/live/67564813/6Z@74..W/03e6b7c2-32ff-4d7d-90a1-798a35905074.ts
+Sky Sports 5	i3`06http://mains.services/live/67564813/6Z@74..W/f625580c-d706-491f-907b-2baad2c4117e.ts
+Sky Sports 6	i3`06http://mains.services/live/67564813/6Z@74..W/9f04c0ed-39d9-446a-bc2a-c24d953adcab.ts
+Sky Sports 7	i3`06http://mains.services/live/67564813/6Z@74..W/3e68d3de-5e71-41e0-9781-0cf763002a8c.ts
+Sky Sports 9	i3`06http://mains.services/live/67564813/6Z@74..W/45531087-726e-49cc-a815-9ccbdd8cb59d.ts
+Sky Sports Calcio	i3`06http://mains.services/live/67564813/6Z@74..W/d41ab134-6dd8-4026-b0ef-27e8391fc46e.ts
+Sky Sports Football	i3`06http://mains.services/live/67564813/6Z@74..W/607a00ed-5cf2-45f6-9e37-1e352fe4ef20.ts
+Sky Sports Main Event	i3`06http://mains.services/live/67564813/6Z@74..W/58c0e1ee-ae2e-4694-bb66-3e3eb6c57634.ts
+Sky Sports Premier League	i3`06http://mains.services/live/67564813/6Z@74..W/c303e484-7208-4695-a34e-c962db644a86.ts
+Sky Sports Select	i3`06http://mains.services/live/67564813/6Z@74..W/703b63c9-b5fd-446e-a221-5f87f5ab48ec.ts
+Sky Sports Uno	i3`06http://mains.services/live/67564813/6Z@74..W/ec6efe14-0b62-48d1-afa7-eca4f9770c16.ts
+TNT Sports 1	i3`06http://mains.services/live/67564813/6Z@74..W/6c5b4010-afa9-4e64-921b-263217b936da.ts
+TNT Sports 2	i3`06http://mains.services/live/67564813/6Z@74..W/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.ts
+TNT Sports 3	i3`06http://mains.services/live/67564813/6Z@74..W/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts
+TNT Sports 4	i3`06http://mains.services/live/67564813/6Z@74..W/26a00017-1496-468f-8693-93df9e1b846f.ts
+USA Network East	i3`06http://mains.services/live/67564813/6Z@74..W/3c446837-2d88-4a34-bcb9-7a2d026848a4.ts
 
 	^-
 👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
@@ -1188,56 +1215,16 @@ Tap Movies	https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1
 	^-
 ^=donelfantastic	`0https://donelfantastic.github.io/webiptv/
 
-Astro Football	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=918983&extension=ts
-Astro Grandstand	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=918984&extension=ts
-Astro Premier League 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=918986&extension=ts
-Astro Premier League 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=918985&extension=ts
-Hub Premier 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1032529&extension=ts
-Hub Premier 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1032528&extension=ts
-Hub Premier 3	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1032527&extension=ts
-Hub Premier 4	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1032526&extension=ts
+USA Network West	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=191882&extension=ts
 Hub Sports 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1110667&extension=ts
 Hub Sports 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1110666&extension=ts
 Hub Sports 3	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1110665&extension=ts
-Nowsports 1	i3`06http://mains.services/live/67564813/6Z@74..W/82910fbe-545f-46aa-9087-4fb36c3faf17.ts
-Nowsports 2	i3`06http://mains.services/live/67564813/6Z@74..W/8408dc5b-6b47-420d-aea8-3663518fd9d5.ts
-Nowsports 3	i3`06http://mains.services/live/67564813/6Z@74..W/e59bdd37-d1c4-45f9-b307-50f91968fa1a.ts
-Nowsports 4	i3`06http://mains.services/live/67564813/6Z@74..W/322241c0-e471-4ec9-82d1-2fb889181131.ts
-Nowsports 5	i3`06http://mains.services/live/67564813/6Z@74..W/c116e69d-aa7a-4256-8fdc-5f76c305556e.ts
-Nowsports 6	i3`06http://mains.services/live/67564813/6Z@74..W/68883709-7baf-47c8-9e3f-7f9977e63893.ts
-Nowsports 7	i3`06http://mains.services/live/67564813/6Z@74..W/f36f7b89-f034-4923-b9b8-77d3764169f8.ts
-Nowsports Premier League 1	i3`06http://mains.services/live/67564813/6Z@74..W/e9301034-7ab8-4915-86f2-9e092bb06134.ts
-Nowsports Premier League 2	i3`06http://mains.services/live/67564813/6Z@74..W/41176be7-518a-4f04-a721-7d89161cf8fc.ts
-Nowsports Premier League 3	i3`06http://mains.services/live/67564813/6Z@74..W/cbceee38-4772-4b22-b2bb-797ce06177ed.ts
-Nowsports Premier League 4	i3`06http://mains.services/live/67564813/6Z@74..W/7367b8b8-f459-4be2-aee2-5e3f5e8d1f7e.ts
-Nowsports Premier League 5	i3`06http://mains.services/live/67564813/6Z@74..W/5655f0f0-79f8-404d-a44c-128ef2e3c74d.ts
-Nowsports Premier League 6	i3`06http://mains.services/live/67564813/6Z@74..W/93aa194a-e771-4070-9ee3-055230acc379.ts
-Nowsports Premier League Tv	i3`06http://mains.services/live/67564813/6Z@74..W/5153cfce-c89d-4937-901f-98bb480d35e5.ts
-Sky Sports 1	i3`06http://mains.services/live/67564813/6Z@74..W/3a3f7ae8-8967-4580-b030-4a66fea7167b.ts
-Sky Sports 2	i3`06http://mains.services/live/67564813/6Z@74..W/6048d24e-681a-41ce-b7f6-0ed78c7d5f55.ts
-Sky Sports 3	i3`06http://mains.services/live/67564813/6Z@74..W/6439eff4-b6a6-4d9b-abd0-9b4ea844439b.ts
-Sky Sports 4	i3`06http://mains.services/live/67564813/6Z@74..W/03e6b7c2-32ff-4d7d-90a1-798a35905074.ts
-Sky Sports 5	i3`06http://mains.services/live/67564813/6Z@74..W/f625580c-d706-491f-907b-2baad2c4117e.ts
-Sky Sports 6	i3`06http://mains.services/live/67564813/6Z@74..W/9f04c0ed-39d9-446a-bc2a-c24d953adcab.ts
-Sky Sports 7	i3`06http://mains.services/live/67564813/6Z@74..W/3e68d3de-5e71-41e0-9781-0cf763002a8c.ts
-Sky Sports 9	i3`06http://mains.services/live/67564813/6Z@74..W/45531087-726e-49cc-a815-9ccbdd8cb59d.ts
-Sky Sports Calcio	i3`06http://mains.services/live/67564813/6Z@74..W/d41ab134-6dd8-4026-b0ef-27e8391fc46e.ts
-Sky Sports Football	i3`06http://mains.services/live/67564813/6Z@74..W/607a00ed-5cf2-45f6-9e37-1e352fe4ef20.ts
-Sky Sports Main Event	i3`06http://mains.services/live/67564813/6Z@74..W/58c0e1ee-ae2e-4694-bb66-3e3eb6c57634.ts
+Nowsports Premier League TV	i3`06http://mains.services/live/67564813/6Z@74..W/5153cfce-c89d-4937-901f-98bb480d35e5.ts
 Sky Sports Premier League	i3`06http://mains.services/live/67564813/6Z@74..W/7e851290-f8c3-4259-8ace-e45b71ed26ab.ts
-Sky Sports Premier League	i3`06http://mains.services/live/67564813/6Z@74..W/c303e484-7208-4695-a34e-c962db644a86.ts
-Sky Sports Select	i3`06http://mains.services/live/67564813/6Z@74..W/703b63c9-b5fd-446e-a221-5f87f5ab48ec.ts
-Sky Sports Uno	i3`06http://mains.services/live/67564813/6Z@74..W/ec6efe14-0b62-48d1-afa7-eca4f9770c16.ts
 Starsports 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1104673&extension=ts
 Starsports 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1104674&extension=ts
 Starsports 3	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1104675&extension=ts
 Starsports Select 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1114583&extension=ts
 Starsports Select 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1114584&extension=ts
-TNT Sports 1	i3`06http://mains.services/live/67564813/6Z@74..W/6c5b4010-afa9-4e64-921b-263217b936da.ts
-TNT Sports 2	i3`06http://mains.services/live/67564813/6Z@74..W/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.ts
-TNT Sports 3	i3`06http://mains.services/live/67564813/6Z@74..W/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts
-TNT Sports 4	i3`06http://mains.services/live/67564813/6Z@74..W/26a00017-1496-468f-8693-93df9e1b846f.ts
-USA Network East	i3`06http://mains.services/live/67564813/6Z@74..W/3c446837-2d88-4a34-bcb9-7a2d026848a4.ts
-USA Network West	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=191882&extension=ts
 
 	^-
