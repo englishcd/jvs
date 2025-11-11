@@ -26,14 +26,6 @@
 
 11-11-2005	^-
 
-19:00 Liga 2	^-
-Deltras Sidoarjo vs Persela Lamongan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4309593/deltras-sidoarjo-vs-persela-lamongan.html
-Deltras Sidoarjo vs Persela Lamongan	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk3NjA1Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Deltras Sidoarjo vs Persela Lamongan	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3859323
-Garudayaksa FC vs Sriwijaya FC	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4309594/garudayaksa-fc-vs-sriwijaya-fc.html
-Garudayaksa FC vs Sriwijaya FC	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk3NjA2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Garudayaksa FC vs Sriwijaya FC	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3859193
-
 19:30 [l]U17 World Cup[z]	^-
 Chile vs Canada	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4188044/chile-u17-vs-canada-u17.html
 Chile vs Canada	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzgwNTY2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -162,6 +154,16 @@ Nowsports Premier League 3	i3`06http://mains.services/live/67564813/6Z@74..W/cbc
 Nowsports Premier League 4	i3`06http://mains.services/live/67564813/6Z@74..W/7367b8b8-f459-4be2-aee2-5e3f5e8d1f7e.ts
 Nowsports Premier League 5	i3`06http://mains.services/live/67564813/6Z@74..W/5655f0f0-79f8-404d-a44c-128ef2e3c74d.ts
 Nowsports Premier League 6	i3`06http://mains.services/live/67564813/6Z@74..W/93aa194a-e771-4070-9ee3-055230acc379.ts
+Sky Sports Football	i3`06http://mains.services/live/67564813/6Z@74..W/607a00ed-5cf2-45f6-9e37-1e352fe4ef20.ts
+Sky Sports Main Event	i3`06http://mains.services/live/67564813/6Z@74..W/58c0e1ee-ae2e-4694-bb66-3e3eb6c57634.ts
+Sky Sports Premier League	i3`06http://mains.services/live/67564813/6Z@74..W/7e851290-f8c3-4259-8ace-e45b71ed26ab.ts
+Sky Sports Select	i3`06http://mains.services/live/67564813/6Z@74..W/703b63c9-b5fd-446e-a221-5f87f5ab48ec.ts
+Sky Sports Uno	i3`06http://mains.services/live/67564813/6Z@74..W/ec6efe14-0b62-48d1-afa7-eca4f9770c16.ts
+TNT Sports 1	i3`06http://mains.services/live/67564813/6Z@74..W/6c5b4010-afa9-4e64-921b-263217b936da.ts
+TNT Sports 2	i3`06http://mains.services/live/67564813/6Z@74..W/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.ts
+TNT Sports 3	i3`06http://mains.services/live/67564813/6Z@74..W/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts
+TNT Sports 4	i3`06http://mains.services/live/67564813/6Z@74..W/26a00017-1496-468f-8693-93df9e1b846f.ts
+USA Network East	i3`06http://mains.services/live/67564813/6Z@74..W/3c446837-2d88-4a34-bcb9-7a2d026848a4.ts
 Sky Sports 1	i3`06http://mains.services/live/67564813/6Z@74..W/3a3f7ae8-8967-4580-b030-4a66fea7167b.ts
 Sky Sports 2	i3`06http://mains.services/live/67564813/6Z@74..W/6048d24e-681a-41ce-b7f6-0ed78c7d5f55.ts
 Sky Sports 3	i3`06http://mains.services/live/67564813/6Z@74..W/6439eff4-b6a6-4d9b-abd0-9b4ea844439b.ts
@@ -170,17 +172,6 @@ Sky Sports 5	i3`06http://mains.services/live/67564813/6Z@74..W/f625580c-d706-491
 Sky Sports 6	i3`06http://mains.services/live/67564813/6Z@74..W/9f04c0ed-39d9-446a-bc2a-c24d953adcab.ts
 Sky Sports 7	i3`06http://mains.services/live/67564813/6Z@74..W/3e68d3de-5e71-41e0-9781-0cf763002a8c.ts
 Sky Sports 9	i3`06http://mains.services/live/67564813/6Z@74..W/45531087-726e-49cc-a815-9ccbdd8cb59d.ts
-Sky Sports Calcio	i3`06http://mains.services/live/67564813/6Z@74..W/d41ab134-6dd8-4026-b0ef-27e8391fc46e.ts
-Sky Sports Football	i3`06http://mains.services/live/67564813/6Z@74..W/607a00ed-5cf2-45f6-9e37-1e352fe4ef20.ts
-Sky Sports Main Event	i3`06http://mains.services/live/67564813/6Z@74..W/58c0e1ee-ae2e-4694-bb66-3e3eb6c57634.ts
-Sky Sports Premier League	i3`06http://mains.services/live/67564813/6Z@74..W/c303e484-7208-4695-a34e-c962db644a86.ts
-Sky Sports Select	i3`06http://mains.services/live/67564813/6Z@74..W/703b63c9-b5fd-446e-a221-5f87f5ab48ec.ts
-Sky Sports Uno	i3`06http://mains.services/live/67564813/6Z@74..W/ec6efe14-0b62-48d1-afa7-eca4f9770c16.ts
-TNT Sports 1	i3`06http://mains.services/live/67564813/6Z@74..W/6c5b4010-afa9-4e64-921b-263217b936da.ts
-TNT Sports 2	i3`06http://mains.services/live/67564813/6Z@74..W/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.ts
-TNT Sports 3	i3`06http://mains.services/live/67564813/6Z@74..W/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts
-TNT Sports 4	i3`06http://mains.services/live/67564813/6Z@74..W/26a00017-1496-468f-8693-93df9e1b846f.ts
-USA Network East	i3`06http://mains.services/live/67564813/6Z@74..W/3c446837-2d88-4a34-bcb9-7a2d026848a4.ts
 
 	^-
 👉[l]{h} Ⓦb3[z] Wow [y]Sports & TV[z]👈	^^hb3
@@ -1240,11 +1231,12 @@ Hub Sports 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&st
 Hub Sports 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1110666&extension=ts
 Hub Sports 3	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1110665&extension=ts
 Nowsports Premier League TV	i3`06http://mains.services/live/67564813/6Z@74..W/5153cfce-c89d-4937-901f-98bb480d35e5.ts
-Sky Sports Premier League	i3`06http://mains.services/live/67564813/6Z@74..W/7e851290-f8c3-4259-8ace-e45b71ed26ab.ts
 Starsports 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1104673&extension=ts
 Starsports 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1104674&extension=ts
 Starsports 3	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1104675&extension=ts
 Starsports Select 1	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1114583&extension=ts
 Starsports Select 2	i3`06http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:AD:B9:16&stream=1114584&extension=ts
+Sky Sports Calcio	i3`06http://mains.services/live/67564813/6Z@74..W/d41ab134-6dd8-4026-b0ef-27e8391fc46e.ts
+Sky Sports Premier League	i3`06http://mains.services/live/67564813/6Z@74..W/c303e484-7208-4695-a34e-c962db644a86.ts
 
 	^-
