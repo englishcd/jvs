@@ -1,7 +1,7 @@
 	^-
 	^-
 	^-
-^=Movies	`0https://www.fmovies.gd/movies
+^=Movies	`0https://www.fmovies.gd/movie/146
 ^=Blank	
 ^=	^-
 
