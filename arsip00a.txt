@@ -26,10 +26,6 @@
 
 13-11-2005	^-
 
-10:00 [g]Mexico Ascenso MX[z]	^-
-Mineros Zacatecas vs Dep Irapuato	`Fhttps://www.fctv33.net/football/mexico-ascenso-mx-match-4309773/mineros-de-zacatecas-vs-club-deportivo-irapuato.html
-Mineros Zacatecas vs Dep Irapuato	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3881696
-
 15:30 Liga 2	^-
 Persekat Tegal vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4310235/persekat-tegal-vs-psms-medan.html
 Persekat Tegal vs PSMS Medan	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3859649
@@ -95,6 +91,11 @@ Trinidad Tobago vs Jamaica	`Fhttps://www.fctv33.net/football/fifa-world-cup-qual
 
 07:30 [l]International Friendly[z]	^-
 Canada vs Ecuador	`Fhttps://www.fctv33.net/football/international-friendly-match-4305540/canada-vs-ecuador.html
+
+09:00 [l]World Cup qualifiers CONCACAF[z]	^-
+Haiti vs Costa Rica	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193184/haiti-vs-costa-rica.html
+Nicaragua vs Honduras	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193187/nicaragua-vs-honduras.html
+Guatemala vs Panama	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193229/guatemala-vs-panama.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
