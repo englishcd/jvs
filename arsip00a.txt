@@ -32,43 +32,60 @@ Mineros Zacatecas vs Dep Irapuato	`*https://embed-10-08-12-51.linkzhe.eu.org/emb
 
 15:30 Liga 2	^-
 Persekat Tegal vs PSMS Medan	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4310235/persekat-tegal-vs-psms-medan.html
+Persekat Tegal vs PSMS Medan	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3859649
 
 19:00 Liga 2	^-
 PSPS Riau vs FC Bekasi City	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4310236/psps-riau-vs-fc-bekasi-city.html
+PSPS Riau vs FC Bekasi City	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3860089
 Sumsel United vs Persikad Depok	`Fhttps://www.fctv33.net/football/indonesian-liga-2-match-4310267/sumsel-united-vs-persikad-depok.html
+Sumsel United vs Persikad Depok	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3859957
 
 19:30 [l]International Friendly[z]	^-
 Thailand vs Singapore	`Fhttps://www.fctv33.net/football/international-friendly-match-4308842/thailand-vs-singapore.html
+Thailand vs Singapore	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3854085
 
 23:00 [l]World Cup qualifiers AFC[z]	^-
 United Arab Emirates vs Iraq	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-afc-match-4309463/united-arab-emirates-vs-iraq.html
+United Arab Emirates vs Iraq	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3852981
 
 23:00 [l]World Cup qualifiers CAF[z]	^-
 Nigeria vs Gabon	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-4309464/nigeria-vs-gabon.html
+Nigeria vs Gabon	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3852984
 
 23:30 [l]International Friendly[z]	^-
 Algeria vs Zimbabwe	`Fhttps://www.fctv33.net/football/international-friendly-match-4309089/algeria-vs-zimbabwe.html
+Algeria vs Zimbabwe	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3860038
 
 14-11-2005	^-
 
 00:00 [l]World Cup qualifiers UEFA[z]	^-
 Azerbaijan vs Iceland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155512/azerbaijan-vs-iceland.html
+Azerbaijan vs Iceland	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2880260
 Armenia vs Hungary	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155566/armenia-vs-hungary.html
+Armenia vs Hungary	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2880239
 Norway vs Estonia	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4156477/norway-vs-estonia.html
+Norway vs Estonia	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2880271
 
 00:00 [l]International Friendly[z]	^-
 North Macedonia vs Latvia	`Fhttps://www.fctv33.net/football/international-friendly-match-4309085/north-macedonia-vs-latvia.html
+North Macedonia vs Latvia	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3831264
 Czech vs San Marino	`Fhttps://www.fctv33.net/football/international-friendly-match-4309088/czechia-vs-san-marino.html
+Czech vs San Marino	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3831261
 
 02:00 [l]World Cup qualifiers CAF[z]	^-
 Cameroon vs Democratic Rep Congo	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-caf-match-4309465/cameroon-vs-democratic-republic-of-the-congo.html
+Cameroon vs Democratic Rep Congo	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3852987
 
 02:45 [l]World Cup qualifiers UEFA[z]	^-
 France vs Ukraine	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155538/france-vs-ukraine.html
+France vs Ukraine	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3816208
 Ireland vs Portugal	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155567/ireland-vs-portugal.html
+Ireland vs Portugal	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3816210
 England vs Serbia	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155578/england-vs-serbia.html
+England vs Serbia	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2880232
 Andorra vs Albania	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155579/andorra-vs-albania.html
 Moldova vs Italy	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4156476/moldova-vs-italy.html
+Moldova vs Italy	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3216689
 
 05:00 [l]World Cup qualifiers CONCACAF[z]	^-
 Suriname vs El Salvador	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193231/suriname-vs-el-salvador.html
