@@ -49,6 +49,9 @@ USA vs Morocco	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0y
 Brazil vs Paraguay	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310305/brazil-u17-vs-paraguay-u17.html
 Brazil vs Paraguay	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk5MTUzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
+22:00 [l]UEFA European U21 Champ qualifiers[z]	^-
+Poland vs Italy	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188635/poland-u21-vs-italy-u21.html
+
 23:00 [l]International Friendly[z]	^-
 Uzbekistan vs Egypt	`Fhttps://www.fctv33.net/football/international-friendly-match-4309075/uzbekistan-vs-egypt.html
 Uzbekistan vs Egypt	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3868810
@@ -69,10 +72,22 @@ Finland vs Malta	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-
 Finland vs Malta	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzAwNDQzJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 00:00 [l]UEFA European U21 Champ qualifiers[z]	^-
+Cyprus vs Kosovo	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188606/cyprus-u21-vs-kosovo-u21.html
 Germany vs Malta	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189318/germany-u21-vs-malta-u21.html
+Austria vs Belgium	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189823/austria-u21-vs-belgium-u21.html
+
+00:00 [l]International Friendly U21[z]	^-
+Czech Republic vs Serbia	`Fhttps://www.fctv33.net/football/international-friendly-match-4310257/czechia-republic-u21-vs-serbia-u21.html
+Denmark vs USA	`Fhttps://www.fctv33.net/football/international-friendly-match-4310258/denmark-u21-vs-usa-u21.html
 
 00:30 [l]UEFA European U21 Champ qualifiers[z]	^-
 Netherlands vs Slovenia	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190017/netherlands-u21-vs-slovenia-u21.html
+
+00:30 [l]Elite League U20[z]	^-
+Italy vs Portugal	`Fhttps://www.fctv33.net/football/elite-league-u20-match-4309475/italy-u20-vs-portugal-u20.html
+
+01:30 [l]UEFA European U21 Champ qualifiers[z]	^-
+Switzerland vs France	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190370/switzerland-u21-vs-france-u21.html
 
 02:00 [l]International Friendly[z]	^-
 Morocco vs Mozambique	`Fhttps://www.fctv33.net/football/international-friendly-match-4309072/morocco-vs-mozambique.html
@@ -95,6 +110,32 @@ Spain vs San Marino	`Fhttps://www.fctv33.net/football/uefa-european-u21-champion
 09:00 [l]International Friendly[z]	^-
 Venezuela vs Australia	`Fhttps://www.fctv33.net/football/international-friendly-match-4309069/venezuela-vs-australia.html
 Venezuela vs Australia	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk5MDg3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+
+18:35 [l]Panda Cup U22[z]	^-
+China vs South Korea	`Fhttps://www.fctv33.net/football/panda-cup-match-4309662/china-u22-vs-south-korea-u22.html
+
+19:30 [l]U17 World Cup[z]	^-
+Korea Republic vs England	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310330/south-korea-u17-vs-england-u17.html
+Senegal vs Uganda	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310331/senegal-u17-vs-uganda-u17.html
+
+20:00 [l]U17 World Cup[z]	^-
+Italy vs Czech Republic	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310306/italy-u17-vs-czechia-republic-u17.html
+
+20:30 [l]U17 World Cup[z]	^-
+Japan vs South Africa	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310332/japan-u17-vs-south-africa-u17.html
+
+21:00 [l]World Cup qualifiers UEFA[z]	^-
+Kazakhstan vs Belgium	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4135672/kazakhstan-vs-belgium.html
+
+21:45 [l]U17 World Cup[z]	^-
+Germany vs Burkina Faso	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310333/germany-u17-vs-burkina-faso-u17.html
+
+22:15 [l]U17 World Cup[z]	^-
+Venezuela vs Korea DPR	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310334/venezuela-u17-vs-korea-dpr-u17.html
+
+22:45 [l]U17 World Cup[z]	^-
+Austria vs Tunisia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310335/austria-u17-vs-tunisia-u17.html
+Croatia vs Uzbekistan	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310336/croatia-u17-vs-uzbekistan-u17.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
