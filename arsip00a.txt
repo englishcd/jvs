@@ -62,8 +62,10 @@ Poland vs Italy	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship
 23:00 [l]International Friendly[z]	^-
 Uzbekistan vs Egypt	`Fhttps://www.fctv33.net/football/international-friendly-match-4309075/uzbekistan-vs-egypt.html
 Uzbekistan vs Egypt	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3868810
+Uzbekistan vs Egypt	https://live.vivo200.com/live/sd-1-4451083.m3u8?txSecret=9d7a8a83a89feda6fcff8d111d800c5e&txTime=69179862
 Angola vs Argentina	`Fhttps://www.fctv33.net/football/international-friendly-match-4309078/angola-vs-argentina.html
 Angola vs Argentina	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3860040
+Angola vs Argentina	https://live.vivo200.com/live/sd-1-4451086.m3u8?txSecret=4b3c1fd075fcf4c4533e1390fa56821e&txTime=6917986C
 Comoros vs Namibia	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890900
 
 23:30 [l]International Friendly[z]	^-
