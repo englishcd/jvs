@@ -26,14 +26,6 @@
 
 14-11-2005	^-
 
-07:00 [l]World Cup qualifiers CONCACAF[z]	^-
-Bermuda vs Curacao	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193445/bermuda-vs-curacao.html
-Bermuda vs Curacao	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg3MjE5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Bermuda vs Curacao	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3826396
-Trinidad Tobago vs Jamaica	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193446/trinidad-tobago-vs-jamaica.html
-Trinidad Tobago vs Jamaica	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg3MjE4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Trinidad Tobago vs Jamaica	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3826416
-
 07:30 [l]International Friendly[z]	^-
 Canada vs Ecuador	`Fhttps://www.fctv33.net/football/international-friendly-match-4305540/canada-vs-ecuador.html
 Canada vs Ecuador	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk3OTczJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -49,6 +41,47 @@ Nicaragua vs Honduras	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1
 Guatemala vs Panama	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-concacaf-match-4193229/guatemala-vs-panama.html
 Guatemala vs Panama	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yNzg3MjE2Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Guatemala vs Panama	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3826545
+
+17:20 [l]Japanese Challenge Cup[z]	^-
+Japan vs Ghana	`Fhttps://www.fctv33.net/football/japanese-challenge-cup-match-4300483/japan-vs-ghana.html
+
+18:00 [l]International Friendly[z]	^-
+South Korea vs Bolivia	`Fhttps://www.fctv33.net/football/international-friendly-match-4305209/south-korea-vs-bolivia.html
+
+19:30 [l]U17 World Cup[z]	^-
+Portugal vs Belgium	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310280/portugal-u17-vs-belgium-u17.html
+Zambia vs Mali	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310299/zambia-u17-vs-mali-u17.html
+
+20:00 [l]U17 World Cup[z]	^-
+Switzerland vs Egypt	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310300/switzerland-u17-vs-egypt-u17.html
+
+20:30 [l]U17 World Cup[z]	^-
+France vs Colombia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310301/france-u17-vs-colombia-u17.html
+
+21:45 [l]U17 World Cup[z]	^-
+Argentina vs Mexico	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310302/argentina-u17-vs-mexico-u17.html
+
+22:15 [l]U17 World Cup[z]	^-
+Ireland vs Canada	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310303/ireland-u17-vs-canada-u17.html
+
+22:45 [l]U17 World Cup[z]	^-
+USA vs Morocco	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310304/usa-u17-vs-morocco-u17.html
+Brazil vs Paraguay	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310305/brazil-u17-vs-paraguay-u17.html
+
+15-11-2005	^-
+
+00:00 [l]World Cup qualifiers UEFA[z]	^-
+Finland vs Malta	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155885/finland-vs-malta.html
+
+02:45 [l]World Cup qualifiers UEFA[z]	^-
+Slovakia vs Northern Ireland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155577/slovakia-vs-northern-ireland.html
+Luxembourg vs Germany	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155581/luxembourg-vs-germany.html
+Poland vs Netherlands	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155960/poland-vs-netherlands.html
+Gibraltar vs Montenegro	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155974/gibraltar-vs-montenegro.html
+Croatia vs Faroe Islands	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155976/croatia-vs-faroe-islands.html
+
+09:00 [l]International Friendly[z]	^-
+Venezuela vs Australia	`Fhttps://www.fctv33.net/football/international-friendly-match-4309069/venezuela-vs-australia.html
 
 	^-
 ^@[].f Two Pop-Ups: Ads and The Live Streaming. f.	^-
