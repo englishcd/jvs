@@ -40,6 +40,9 @@ Guatemala vs Panama	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&m
 17:20 [l]Japanese Challenge Cup[z]	^-
 Japan vs Ghana	`Fhttps://www.fctv33.net/football/japanese-challenge-cup-match-4300483/japan-vs-ghana.html
 
+18:00 [l]UEFA European U21 Champ qualifiers[z]	^-
+Armenia U21 vs Montenegro	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188632/armenia-u21-vs-montenegro-u21.html
+
 18:00 [l]International Friendly[z]	^-
 South Korea vs Bolivia	`Fhttps://www.fctv33.net/football/international-friendly-match-4305209/south-korea-vs-bolivia.html
 
@@ -56,6 +59,9 @@ France vs Colombia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-43
 21:45 [l]U17 World Cup[z]	^-
 Argentina vs Mexico	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310302/argentina-u17-vs-mexico-u17.html
 
+22:00 [l]UEFA European U21 Champ qualifiers[z]	^-
+Poland vs Italy	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188635/poland-u21-vs-italy-u21.html
+
 22:15 [l]U17 World Cup[z]	^-
 Ireland vs Canada	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310303/ireland-u17-vs-canada-u17.html
 
@@ -68,12 +74,21 @@ Brazil vs Paraguay	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-43
 00:00 [l]World Cup qualifiers UEFA[z]	^-
 Finland vs Malta	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155885/finland-vs-malta.html
 
+00:00 [l]UEFA European U21 Champ qualifiers[z]	^-
+Germany vs Malta	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4189318/germany-u21-vs-malta-u21.html
+
+00:30 [l]UEFA European U21 Champ qualifiers[z]	^-
+Netherlands vs Slovenia	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4190017/netherlands-u21-vs-slovenia-u21.html
+
 02:45 [l]World Cup qualifiers UEFA[z]	^-
 Slovakia vs Northern Ireland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155577/slovakia-vs-northern-ireland.html
 Luxembourg vs Germany	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155581/luxembourg-vs-germany.html
 Poland vs Netherlands	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155960/poland-vs-netherlands.html
 Gibraltar vs Montenegro	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155974/gibraltar-vs-montenegro.html
 Croatia vs Faroe Islands	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155976/croatia-vs-faroe-islands.html
+
+02:45 [l]UEFA European U21 Champ qualifiers[z]	^-
+Spain vs San Marino	`Fhttps://www.fctv33.net/football/uefa-european-u21-championship-qualification-match-4188605/spain-u21-vs-san-marino-u21.html
 
 09:00 [l]International Friendly[z]	^-
 Venezuela vs Australia	`Fhttps://www.fctv33.net/football/international-friendly-match-4309069/venezuela-vs-australia.html
