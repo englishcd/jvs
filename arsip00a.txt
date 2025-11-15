@@ -30,7 +30,7 @@
 Lesotho vs Malawi	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3894264
 
 21:30 [l]International Friendly U19[z]	^-
-Wales vs USA	`Fhttps://www.fctv33.net/football/international-friendly-match-4310444/wales-u19-vs-usa-u19-11-2025.html
+Wales vs USA	`Fhttps://www.fctv33.net/football/international-friendly-match-4310444/wales-u19-vs-usa-u19.html
 Wales vs USA	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3893726
 
 21:45 [l]U17 World Cup[z]	^-
@@ -42,10 +42,11 @@ Germany vs Burkina Faso	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId
 Italy vs Bosnia & Herzegovina	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3860827
 
 22:00 [l]UEFA European U19 Champ[z]	^-
+Netherlands U19 vs Kazakhstan	`Fhttps://www.fctv33.net/football/uefa-european-u19-football-championship-match-4297751/netherlands-u19-vs-kazakhstan-u19.html
 Netherlands U19 vs Kazakhstan	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3860430
 
 22:00 [l]International Friendly[z]	^-
-Russia vs Chile	`Fhttps://www.fctv33.net/football/international-friendly-match-4309067/russia-vs-chile-11-2025.html
+Russia vs Chile	`Fhttps://www.fctv33.net/football/international-friendly-match-4309067/russia-vs-chile.html
 Russia vs Chile	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3764115
 
 22:15 [l]U17 World Cup[z]	^-
@@ -64,7 +65,7 @@ Brazil vs Senegal	`Fhttps://www.fctv33.net/football/international-friendly-match
 Brazil vs Senegal	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk4OTk3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 Brazil vs Senegal	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3861691
 Brazil vs Senegal	https://live.uuzb1.live/rrty/hd-en-1-4448107_lgzm.m3u8?txSecret=1d0c8604370030143428a86f1b029588&txTime=6918F8E7
-Kuwait vs Tanzania	`Fhttps://www.fctv33.net/football/international-friendly-match-4309073/kuwait-vs-tanzania-11-2025.html
+Kuwait vs Tanzania	`Fhttps://www.fctv33.net/football/international-friendly-match-4309073/kuwait-vs-tanzania.html
 Kuwait vs Tanzania	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890902
 
 23:00 [l]UEFA European U19 Champ[z]	^-
@@ -94,7 +95,7 @@ Cyprus vs Austria	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZ
 Cyprus vs Austria	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=2880237
 
 02:00 [l]International Friendly U19[z]	^-
-Germany vs Japan	`Fhttps://www.fctv33.net/football/international-friendly-match-4310441/germany-u19-vs-japan-u19-11-2025.html
+Germany vs Japan	`Fhttps://www.fctv33.net/football/international-friendly-match-4310441/germany-u19-vs-japan-u19.html
 
 02:45 [l]World Cup qualifiers UEFA[z]	^-
 Greece vs Scotland	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4155548/greece-vs-scotland.html
@@ -117,6 +118,7 @@ Colombia vs New Zealand	`Fhttps://www.fctv33.net/football/international-friendly
 Colombia vs New Zealand	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk5NDI0Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 08:00 [l]International Friendly[z]	^-
+Mexico vs Uruguay	`Fhttps://www.fctv33.net/football/international-friendly-match-4305536/mexico-vs-uruguay.html
 Mexico vs Uruguay	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk5MTYyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
 
 	^-
