@@ -39,9 +39,13 @@ Romania U19 vs Finland	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=
 21:30 [l]International Friendly[z]	^-
 Lesotho vs Malawi	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3894264
 
+21:30 [l]International Friendly U19[z]	^-
+Wales vs USA	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3893726
+
 21:45 [l]U17 World Cup[z]	^-
 Germany vs Burkina Faso	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310333/germany-u17-vs-burkina-faso-u17.html
 Germany vs Burkina Faso	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk5MTYwJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Germany vs Burkina Faso	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3885293
 
 21:50 [l]UEFA European U19 Champ[z]	^-
 Italy vs Bosnia & Herzegovina	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3860827
@@ -56,6 +60,7 @@ Russia vs Chile	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&match
 22:15 [l]U17 World Cup[z]	^-
 Venezuela vs Korea DPR	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310334/venezuela-u17-vs-korea-dpr-u17.html
 Venezuela vs Korea DPR	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk5MTU4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Venezuela vs Korea DPR	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3885290
 
 22:45 [l]U17 World Cup[z]	^-
 Austria vs Tunisia	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310335/austria-u17-vs-tunisia-u17.html
@@ -66,9 +71,21 @@ Croatia vs Uzbekistan	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y
 23:00 [l]International Friendly[z]	^-
 Brazil vs Senegal	`Fhttps://www.fctv33.net/football/international-friendly-match-4305539/brazil-vs-senegal.html
 Brazil vs Senegal	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk4OTk3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
+Brazil vs Senegal	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3861691
 Kuwait vs Tanzania	`Fhttps://www.fctv33.net/football/international-friendly-match-4309073/kuwait-vs-tanzania-11-2025.html
+Kuwait vs Tanzania	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3890902
+
+23:00 [l]UEFA European U19 Champ[z]	^-
+Scotland U19 vs Lithuania	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3861422
+
+23:00 [l]International Friendly U20[z]	^-
+Costa Rica vs USA	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3885133
 
 16-11-2005	^-
+
+00:00 [l]UEFA European U19 Champ[z]	^-
+Hungary vs Faroe Islands	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3861662
+Portugal vs North Macedonia	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3861664
 
 00:00 [l]World Cup qualifiers UEFA[z]	^-
 Liechtenstein vs Wales	`Fhttps://www.fctv33.net/football/fifa-world-cup-qualification-uefa-match-4135670/liechtenstein-vs-wales.html
