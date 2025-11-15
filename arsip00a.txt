@@ -26,11 +26,6 @@
 
 15-11-2005	^-
 
-09:00 [l]International Friendly[z]	^-
-Venezuela vs Australia	`Fhttps://www.fctv33.net/football/international-friendly-match-4309069/venezuela-vs-australia.html
-Venezuela vs Australia	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk5MDg3Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
-Venezuela vs Australia	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3861256
-
 14:30 [l]Panda Cup U22[z]	^-
 Uzbekistan vs Vietnam	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3889220
 
@@ -43,14 +38,14 @@ Czech Republic vs Malta	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId
 England vs Latvia	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3860850
 Greece vs Liechtenstein	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3861210
 
+18:35 [l]Panda Cup U22[z]	^-
+China vs South Korea	`Fhttps://www.fctv33.net/football/panda-cup-match-4309662/china-u22-vs-south-korea-u22.html
+
 19:00 [l]International Friendly U23[z]	^-
 Thailand vs India	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3885068
 
 19:00 [l]International Friendly[z]	^-
 Bahrain U23 vs Russia U21	`*https://embed-10-08-12-51.linkzhe.eu.org/embed?sportId=1&matchId=3894172
-
-18:35 [l]Panda Cup U22[z]	^-
-China vs South Korea	`Fhttps://www.fctv33.net/football/panda-cup-match-4309662/china-u22-vs-south-korea-u22.html
 
 19:00 [l]International Friendly[z]	^-
 Indonesia 🇮🇩 vs Mali 🇲🇱	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODk5MjkyJm10VGV4dD1mb290YmFsbCZzaXRlS2V5PWdyZ2Umc2twdE51bT0ybmQ%3D&_pb=1
@@ -62,6 +57,9 @@ Senegal vs Uganda	`Fhttps://ppdd11.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZ
 
 20:00 [l]U17 World Cup[z]	^-
 Italy vs Czech Republic	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310306/italy-u17-vs-czechia-republic-u17.html
+
+20:00 [l]International Friendly[z]	^-
+South Africa vs Zambia	`Fhttps://www.fctv33.net/football/international-friendly-match-4309065/south-africa-vs-zambia.html
 
 20:30 [l]U17 World Cup[z]	^-
 Japan vs South Africa	`Fhttps://www.fctv33.net/football/fifa-u17-world-cup-match-4310332/japan-u17-vs-south-africa-u17.html
